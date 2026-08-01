@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2010915501099323816",
+    "created_at": "2026-01-13T04:12:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T05:12:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010927828691558450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2008746947243642880",
+          "start": 0,
+          "username": "HJTPUbxHfj50761"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010927828691558450",
+    "in_reply_to_user_id": "2008746947243642880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010918516929806342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HJTPUbxHfj50761 我不割手"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2010915501099323816",
+        "created_at": "2026-01-13T04:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T05:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010927828691558450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2008746947243642880",
+              "start": 0,
+              "username": "HJTPUbxHfj50761"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010927828691558450",
+        "in_reply_to_user_id": "2008746947243642880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010918516929806342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HJTPUbxHfj50761 我不割手"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008746947243642880",
+        "conversation_id": "2010915501099323816",
+        "created_at": "2026-01-13T03:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T04:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010918516929806342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010918516929806342",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010915501099323816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 你还割过腕吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "🚪66纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨我听点udg 可以和我一起听歌…",
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010215499150585985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 86,
+          "like_count": 853,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 301
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T03:46:18.000Z",
+        "description": "骗子勿扰，",
+        "id": "2008746947243642880",
+        "name": "黄桃爱吃罐头",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009230397700481024/xykJ_Hxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 60,
+          "like_count": 1203,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 219
+        },
+        "username": "HJTPUbxHfj50761",
+        "verified": false
+      }
+    ]
+  }
+}

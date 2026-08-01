@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026533770581753856"
+      ],
+      "media_source_tweet_id": [
+        "2026533780274688201"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2027266274376687754",
+    "created_at": "2026-02-27T06:15:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T07:15:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027266274376687754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2014309453097754624",
+          "start": 3,
+          "username": "TxTloveni"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SPye5Fhdhb",
+          "end": 56,
+          "expanded_url": "https://x.com/TxTloveni/status/2026533780274688201/photo/1",
+          "media_key": "3_2026533770581753856",
+          "start": 33,
+          "url": "https://t.co/SPye5Fhdhb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027266274376687754",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 107
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026533780274688201",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TxTloveni: 此男热衷于雄竞，哪怕对面是他自己… https://t.co/SPye5Fhdhb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1205,
+        "media_key": "3_2026533770581753856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB-xujDbwAA9wMd.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026533770581753856"
+          ],
+          "media_source_tweet_id": [
+            "2026533780274688201"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2027266274376687754",
+        "created_at": "2026-02-27T06:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T07:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027266274376687754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2014309453097754624",
+              "start": 3,
+              "username": "TxTloveni"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SPye5Fhdhb",
+              "end": 56,
+              "expanded_url": "https://x.com/TxTloveni/status/2026533780274688201/photo/1",
+              "media_key": "3_2026533770581753856",
+              "start": 33,
+              "url": "https://t.co/SPye5Fhdhb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027266274376687754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 107
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026533780274688201",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TxTloveni: 此男热衷于雄竞，哪怕对面是他自己… https://t.co/SPye5Fhdhb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026533770581753856"
+          ]
+        },
+        "author_id": "2014309453097754624",
+        "conversation_id": "2026533780274688201",
+        "created_at": "2026-02-25T05:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T06:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026533780274688201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SPye5Fhdhb",
+              "end": 41,
+              "expanded_url": "https://x.com/TxTloveni/status/2026533780274688201/photo/1",
+              "media_key": "3_2026533770581753856",
+              "start": 18,
+              "url": "https://t.co/SPye5Fhdhb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026533780274688201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 497,
+          "impression_count": 165676,
+          "like_count": 5074,
+          "quote_count": 13,
+          "reply_count": 31,
+          "retweet_count": 107
+        },
+        "reply_settings": "everyone",
+        "text": "此男热衷于雄竞，哪怕对面是他自己… https://t.co/SPye5Fhdhb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5065,
+          "following_count": 230,
+          "like_count": 3939,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 1821
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-22T12:09:45.000Z",
+        "description": "",
+        "id": "2014309453097754624",
+        "name": "泥中骨",
+        "pinned_tweet_id": "2024705404769620005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014315637766828034/oW10b0e9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9291,
+          "following_count": 5,
+          "like_count": 10,
+          "listed_count": 7,
+          "media_count": 25,
+          "tweet_count": 401
+        },
+        "username": "TxTloveni",
+        "verified": false
+      }
+    ]
+  }
+}

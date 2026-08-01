@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2009881391274831902",
+    "created_at": "2026-01-10T06:59:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T07:59:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009882813714313294"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2009882813714313294",
+    "in_reply_to_user_id": "1997985969958699008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009881391274831902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦哦我打错字了吗哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2009881391274831902",
+        "created_at": "2026-01-10T06:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T07:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009882813714313294"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009882813714313294",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009881391274831902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦哦我打错字了吗哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2009881391274831902",
+        "created_at": "2026-01-10T06:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T07:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009881391274831902"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009881391274831902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要亲嘴 早伸舌头亲 要掐脖子亲 要抱着亲 要抱起来亲 要绑住双手亲 要亲！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "🚪128/188 骂我的人是gay 我是萌脸骚",
+        "id": "1997985969958699008",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2009195553230606621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 64,
+          "like_count": 502,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 80
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

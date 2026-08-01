@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2038964482584817730",
+    "created_at": "2026-04-01T12:32:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T13:32:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039320008963318005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1814655164655280131",
+          "start": 0,
+          "username": "DontCryInDream"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039320008963318005",
+    "in_reply_to_user_id": "1814655164655280131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039319908039963055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DontCryInDream 分开死全家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2038964482584817730",
+        "created_at": "2026-04-01T12:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T13:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039320008963318005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1814655164655280131",
+              "start": 0,
+              "username": "DontCryInDream"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039320008963318005",
+        "in_reply_to_user_id": "1814655164655280131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039319908039963055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DontCryInDream 分开死全家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814655164655280131",
+        "conversation_id": "2038964482584817730",
+        "created_at": "2026-04-01T12:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T13:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039319908039963055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039319908039963055",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038964482584817730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 哥哥走了我砍死你妈你爸你全家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨08丨od丨中抑中焦丨互fo免🚪丨我听点udg sasi很多很多丨两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 45,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6117,
+          "following_count": 298,
+          "like_count": 5797,
+          "listed_count": 3,
+          "media_count": 65,
+          "tweet_count": 2462
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T13:34:54.000Z",
+        "description": "🚪50 只回复支付宝口令",
+        "id": "1814655164655280131",
+        "name": "萌宅猫语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027671013463654400/tRaUEBCf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "DontCryInDream",
+        "verified": false
+      }
+    ]
+  }
+}

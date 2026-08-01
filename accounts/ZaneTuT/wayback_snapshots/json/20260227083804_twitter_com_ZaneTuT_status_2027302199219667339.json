@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2026612044758397376",
+    "created_at": "2026-02-27T08:38:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T09:38:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027302199219667339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1922213296998141952",
+          "start": 0,
+          "username": "fishbone_022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027302199219667339",
+    "in_reply_to_user_id": "1922213296998141952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026621590138724552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fishbone_022 完全正确"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2026612044758397376",
+        "created_at": "2026-02-27T08:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T09:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027302199219667339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1922213296998141952",
+              "start": 0,
+              "username": "fishbone_022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027302199219667339",
+        "in_reply_to_user_id": "1922213296998141952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026621590138724552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fishbone_022 完全正确"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922213296998141952",
+        "conversation_id": "2026612044758397376",
+        "created_at": "2026-02-25T11:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T12:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026621590138724552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026621590138724552",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026612044758397376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 溃疡喜欢我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5064,
+          "following_count": 232,
+          "like_count": 3970,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 1829
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-13T08:52:26.000Z",
+        "description": "为了没有眼泪的明天🔗https://t.co/Yz5AehNpft",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyunuonuo42",
+                "end": 33,
+                "expanded_url": "https://ngl.link/xiaoyunuonuo42",
+                "start": 10,
+                "url": "https://t.co/Yz5AehNpft"
+              }
+            ]
+          }
+        },
+        "id": "1922213296998141952",
+        "name": "无刺渔骨",
+        "pinned_tweet_id": "2013289349882720444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024509784829898752/S96X33yH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 104,
+          "like_count": 1109,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 1346
+        },
+        "username": "fishbone_022",
+        "verified": false
+      }
+    ]
+  }
+}

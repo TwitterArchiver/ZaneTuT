@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2020742173243867136"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2020742253099282862",
+    "created_at": "2026-02-09T06:11:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T07:11:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020742253099282862"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9wQUannoei",
+          "end": 32,
+          "expanded_url": "https://x.com/ZaneTuT/status/2020742253099282862/video/1",
+          "media_key": "13_2020742173243867136",
+          "start": 9,
+          "url": "https://t.co/9wQUannoei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020742253099282862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啥逆天假胯宽。。 https://t.co/9wQUannoei"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8933,
+        "height": 1280,
+        "media_key": "13_2020742173243867136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020742173243867136/img/7CC-p51SH1zt-LF4.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020742173243867136/vid/avc1/320x568/VDqFNKRGbFuGtZr1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020742173243867136/vid/avc1/480x852/BbS2gy8F1unMl-8g.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020742173243867136/vid/avc1/720x1280/GU4xgng-UNpYGOAM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020742173243867136/pl/2gbx471e2JfMF3w_.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020742173243867136"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2020742253099282862",
+        "created_at": "2026-02-09T06:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T07:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020742253099282862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9wQUannoei",
+              "end": 32,
+              "expanded_url": "https://x.com/ZaneTuT/status/2020742253099282862/video/1",
+              "media_key": "13_2020742173243867136",
+              "start": 9,
+              "url": "https://t.co/9wQUannoei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020742253099282862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啥逆天假胯宽。。 https://t.co/9wQUannoei"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3522,
+          "following_count": 202,
+          "like_count": 3496,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 1581
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

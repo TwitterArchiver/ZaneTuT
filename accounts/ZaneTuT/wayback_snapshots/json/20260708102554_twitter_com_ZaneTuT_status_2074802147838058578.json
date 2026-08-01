@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2074784838243275139",
+    "created_at": "2026-07-08T10:25:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T11:25:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074802147838058578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1601582914948726786",
+          "start": 0,
+          "username": "clodbrewtea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074802147838058578",
+    "in_reply_to_user_id": "1601582914948726786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074796711365751001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@clodbrewtea 真讨厌呀…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2074784838243275139",
+        "created_at": "2026-07-08T10:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074802147838058578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1601582914948726786",
+              "start": 0,
+              "username": "clodbrewtea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074802147838058578",
+        "in_reply_to_user_id": "1601582914948726786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074796711365751001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clodbrewtea 真讨厌呀…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601582914948726786",
+        "conversation_id": "2074784838243275139",
+        "created_at": "2026-07-08T10:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074796711365751001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074796711365751001",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074784838243275139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 我不要脸程度："
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨互fo免🚪丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 37,
+                "start": 27,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2044362275218489629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7738,
+          "following_count": 272,
+          "like_count": 5847,
+          "listed_count": 4,
+          "media_count": 45,
+          "tweet_count": 2570
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-10T14:22:04.000Z",
+        "description": "看我主页的人我喜欢你❤️\nhttps://t.co/1I0gBSxnTJ 提问箱📦\n@meiweiid 提问箱回复账号📥\n两人认识和熟悉的经过https://t.co/slWmdIhTG5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 42,
+                "username": "meiweiid"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/clodbrewtea",
+                "end": 36,
+                "expanded_url": "https://ngl.link/clodbrewtea",
+                "start": 13,
+                "url": "https://t.co/1I0gBSxnTJ"
+              },
+              {
+                "display_url": "x.com/meiweiid/statu…",
+                "end": 94,
+                "expanded_url": "https://x.com/meiweiid/status/2074523749140123696?s=46",
+                "start": 71,
+                "url": "https://t.co/slWmdIhTG5"
+              }
+            ]
+          }
+        },
+        "id": "1601582914948726786",
+        "name": "冷萃",
+        "pinned_tweet_id": "2073475423099666892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068375095178117120/J_crv5VT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1149,
+          "following_count": 753,
+          "like_count": 1085,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 2016
+        },
+        "url": "",
+        "username": "clodbrewtea",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012869565017964544"
+      ],
+      "media_source_tweet_id": [
+        "2012869576191807962"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2013132039730647165",
+    "created_at": "2026-01-19T06:10:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T07:10:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013132039730647165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1863041923604180992",
+          "start": 3,
+          "username": "leow_0508"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/b3mI6nV6CA",
+          "end": 47,
+          "expanded_url": "https://x.com/leow_0508/status/2012869576191807962/photo/1",
+          "media_key": "3_2012869565017964544",
+          "start": 24,
+          "url": "https://t.co/b3mI6nV6CA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013132039730647165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012869576191807962",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @leow_0508: 计划有了老婆呢😭 https://t.co/b3mI6nV6CA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1636,
+        "media_key": "3_2012869565017964544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-8mNGoXQAA1BAZ.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012869565017964544"
+          ],
+          "media_source_tweet_id": [
+            "2012869576191807962"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2013132039730647165",
+        "created_at": "2026-01-19T06:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T07:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013132039730647165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1863041923604180992",
+              "start": 3,
+              "username": "leow_0508"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b3mI6nV6CA",
+              "end": 47,
+              "expanded_url": "https://x.com/leow_0508/status/2012869576191807962/photo/1",
+              "media_key": "3_2012869565017964544",
+              "start": 24,
+              "url": "https://t.co/b3mI6nV6CA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013132039730647165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012869576191807962",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @leow_0508: 计划有了老婆呢😭 https://t.co/b3mI6nV6CA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012869565017964544"
+          ]
+        },
+        "author_id": "1863041923604180992",
+        "conversation_id": "2012869576191807962",
+        "created_at": "2026-01-18T12:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T13:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012869576191807962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b3mI6nV6CA",
+              "end": 32,
+              "expanded_url": "https://x.com/leow_0508/status/2012869576191807962/photo/1",
+              "media_key": "3_2012869565017964544",
+              "start": 9,
+              "url": "https://t.co/b3mI6nV6CA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012869576191807962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 132657,
+          "like_count": 1045,
+          "quote_count": 10,
+          "reply_count": 42,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "计划有了老婆呢😭 https://t.co/b3mI6nV6CA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪128 纯绿丨有的文案不是原创别攻击我TuT丨08丨od丨私信看心情回丨高频率发帖我好无聊丨互fo可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2011423750164725893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1245,
+          "following_count": 138,
+          "like_count": 1887,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 857
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T02:06:44.000Z",
+        "description": "准高中老师，性别男，爱好女，直男。小号@kikikiw0320  希望我的帖子能给大家带来快乐，祝大家天天开心😸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "kikikiw0320"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=ghdd8He6",
+                "start": 0,
+                "url": "https://t.co/Xw6PlaQkvI"
+              }
+            ]
+          }
+        },
+        "id": "1863041923604180992",
+        "location": "宁波",
+        "name": "Leo",
+        "pinned_tweet_id": "2000249230217400738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008588539517452288/G6hNRWsH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2909,
+          "following_count": 4635,
+          "like_count": 38274,
+          "listed_count": 5,
+          "media_count": 373,
+          "tweet_count": 6509
+        },
+        "url": "https://t.co/Xw6PlaQkvI",
+        "username": "leow_0508",
+        "verified": false
+      }
+    ]
+  }
+}

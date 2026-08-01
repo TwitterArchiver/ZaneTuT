@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2014510113134981121"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2014510224955039776",
+    "created_at": "2026-01-23T01:27:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T02:27:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014510224955039776"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uG1Jgi7cTd",
+          "end": 68,
+          "expanded_url": "https://x.com/ZaneTuT/status/2014510224955039776/video/1",
+          "media_key": "13_2014510113134981121",
+          "start": 45,
+          "url": "https://t.co/uG1Jgi7cTd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014510224955039776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我都不敢想发出来得糊成啥样 这视频还是前任给拍的 毫无拍摄技术 跳完一看我直接原地昏迷了 https://t.co/uG1Jgi7cTd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10516,
+        "height": 1280,
+        "media_key": "13_2014510113134981121",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2014510113134981121/img/e3JFfpf6oaH_9clS.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014510113134981121/vid/avc1/320x696/CDL-EDw0GrQQ2Da6.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014510113134981121/vid/avc1/480x1044/S7Vd3Xa4gMi588wK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014510113134981121/vid/avc1/588x1280/bBKGlLy4JAQJlybS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2014510113134981121/pl/702Hn3gsjit1YzQG.m3u8"
+          }
+        ],
+        "width": 588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2014510113134981121"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2014510224955039776",
+        "created_at": "2026-01-23T01:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T02:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014510224955039776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uG1Jgi7cTd",
+              "end": 68,
+              "expanded_url": "https://x.com/ZaneTuT/status/2014510224955039776/video/1",
+              "media_key": "13_2014510113134981121",
+              "start": 45,
+              "url": "https://t.co/uG1Jgi7cTd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014510224955039776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我都不敢想发出来得糊成啥样 这视频还是前任给拍的 毫无拍摄技术 跳完一看我直接原地昏迷了 https://t.co/uG1Jgi7cTd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心丨08丨od丨私信看心情回丨高频率发帖丨互fo可以直接➕V丨我听点udg sasi很多很多丨我皮下非常没有素质别惹我了行吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2332,
+          "following_count": 161,
+          "like_count": 2484,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 1156
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

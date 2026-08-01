@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2013043013879050411",
+    "created_at": "2026-01-19T03:04:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T04:04:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013085071335403806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2009606388918681600",
+          "start": 0,
+          "username": "cloud999315687"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013085071335403806",
+    "in_reply_to_user_id": "2009606388918681600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013044570888802543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cloud999315687 嘿嘿…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2013043013879050411",
+        "created_at": "2026-01-19T03:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T04:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013085071335403806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2009606388918681600",
+              "start": 0,
+              "username": "cloud999315687"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013085071335403806",
+        "in_reply_to_user_id": "2009606388918681600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013044570888802543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cloud999315687 嘿嘿…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009606388918681600",
+        "conversation_id": "2013043013879050411",
+        "created_at": "2026-01-19T00:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T01:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013044570888802543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013044570888802543",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013043013879050411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 刚关注然后就主页全是你了 话密了嗷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪128 纯绿丨有的文案不是原创别攻击我TuT丨08丨od丨私信看心情回丨高频率发帖我好无聊丨互fo可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2011423750164725893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1205,
+          "following_count": 134,
+          "like_count": 1846,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 838
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T12:41:24.000Z",
+        "description": "",
+        "id": "2009606388918681600",
+        "name": "cloud999",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 34,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "username": "cloud999315687",
+        "verified": false
+      }
+    ]
+  }
+}

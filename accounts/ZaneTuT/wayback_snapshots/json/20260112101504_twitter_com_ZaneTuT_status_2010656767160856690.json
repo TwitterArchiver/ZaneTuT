@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2010449635849150888",
+    "created_at": "2026-01-12T10:15:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T11:15:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010656767160856690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1911618608083439617",
+          "start": 0,
+          "username": "WangJohn123434"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010656767160856690",
+    "in_reply_to_user_id": "1911618608083439617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010449635849150888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WangJohn123434 放个蛤蜊在这是啥意思了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2010449624830795776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-aNSC7bYAA71RY.jpg",
+        "width": 1315
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2010449635849150888",
+        "created_at": "2026-01-12T10:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T11:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010656767160856690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1911618608083439617",
+              "start": 0,
+              "username": "WangJohn123434"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010656767160856690",
+        "in_reply_to_user_id": "1911618608083439617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010449635849150888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WangJohn123434 放个蛤蜊在这是啥意思了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010449624830795776"
+          ]
+        },
+        "author_id": "1911618608083439617",
+        "conversation_id": "2010449635849150888",
+        "created_at": "2026-01-11T20:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T21:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010449635849150888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tzEXgxff8c",
+              "end": 65,
+              "expanded_url": "https://x.com/WangJohn123434/status/2010449635849150888/photo/1",
+              "media_key": "3_2010449624830795776",
+              "start": 42,
+              "url": "https://t.co/tzEXgxff8c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010449635849150888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我明晚真的要早睡了 我难道真的不能早睡吗 为什么我一直在熬大夜\n到底谁在诱惑我 ？ https://t.co/tzEXgxff8c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "🚪66纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨我听点udg 可以和我一起听歌…",
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010215499150585985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 64,
+          "like_count": 798,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 250
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T03:12:58.000Z",
+        "description": "你抱着我掉眼泪说这世界太复杂 ？",
+        "id": "1911618608083439617",
+        "location": "成都",
+        "name": "Wang John",
+        "pinned_tweet_id": "2010565062218715530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010422130815696896/Klr7azG5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 14,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 21
+        },
+        "username": "WangJohn123434",
+        "verified": false
+      }
+    ]
+  }
+}

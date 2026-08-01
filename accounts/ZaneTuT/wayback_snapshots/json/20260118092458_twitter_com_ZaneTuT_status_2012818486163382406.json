@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2012818002727538816",
+    "created_at": "2026-01-18T09:24:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T10:24:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012818486163382406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1682778677912965121",
+          "start": 0,
+          "username": "may7lucky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012818486163382406",
+    "in_reply_to_user_id": "1682778677912965121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012818002727538816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@may7lucky 我经常这样 幸好这东西能撤回…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2012818002727538816",
+        "created_at": "2026-01-18T09:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T10:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012818486163382406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1682778677912965121",
+              "start": 0,
+              "username": "may7lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012818486163382406",
+        "in_reply_to_user_id": "1682778677912965121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012818002727538816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@may7lucky 我经常这样 幸好这东西能撤回…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682778677912965121",
+        "conversation_id": "2012818002727538816",
+        "created_at": "2026-01-18T09:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T10:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012818002727538816"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012818002727538816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很害怕想在聊天框点进别人朋友圈进行一番视奸的时候点头像第一次没点到点第二次之后莫名其妙就拍了一下对方"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪88/128 纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨回fo眼熟的 可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010591438627897389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 130,
+          "like_count": 1710,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 761
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T15:44:45.000Z",
+        "description": "infp/双子\n我想发什么就发什么呀\n不闲聊 聊天超过三句给钱\n这是我的恶毒人格@jeoqong527只过互关\n小号没了伤心欲绝淡推中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "jeoqong527"
+              }
+            ]
+          }
+        },
+        "id": "1682778677912965121",
+        "location": "给我发吊的会被我用最恶毒的语言辱骂",
+        "name": "萌混过关",
+        "pinned_tweet_id": "2011779601626996828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007906123614154753/7CBJWXuT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 94,
+          "like_count": 13750,
+          "listed_count": 2,
+          "media_count": 163,
+          "tweet_count": 3703
+        },
+        "username": "may7lucky",
+        "verified": false
+      }
+    ]
+  }
+}

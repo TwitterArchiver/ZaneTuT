@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2019326028976648681",
+    "created_at": "2026-02-05T15:12:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T16:12:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019428914796560526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1747146335323844609",
+          "start": 0,
+          "username": "aozn24428"
+        },
+        {
+          "end": 20,
+          "id": "1879073913176752128",
+          "start": 11,
+          "username": "tufei299"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019428914796560526",
+    "in_reply_to_user_id": "1747146335323844609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019428315665428774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aozn24428 @tufei299 啊啊啊啊啊我笑的喘不过气了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2019326028976648681",
+        "created_at": "2026-02-05T15:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T16:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019428914796560526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747146335323844609",
+              "start": 0,
+              "username": "aozn24428"
+            },
+            {
+              "end": 20,
+              "id": "1879073913176752128",
+              "start": 11,
+              "username": "tufei299"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019428914796560526",
+        "in_reply_to_user_id": "1747146335323844609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019428315665428774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aozn24428 @tufei299 啊啊啊啊啊我笑的喘不过气了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747146335323844609",
+        "conversation_id": "2019326028976648681",
+        "created_at": "2026-02-05T15:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T16:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019428315665428774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1879073913176752128",
+              "start": 0,
+              "username": "tufei299"
+            },
+            {
+              "end": 18,
+              "id": "1997985969958699008",
+              "start": 10,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019428315665428774",
+        "in_reply_to_user_id": "1879073913176752128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019428090242572707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tufei299 @ZaneTuT 不要许那么大的愿望啊喂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨神秘账号@Rotte2t00丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "Rotte2t00"
+              },
+              {
+                "end": 80,
+                "start": 65,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 95,
+                "start": 87,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3229,
+          "following_count": 204,
+          "like_count": 3224,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 1447
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T06:38:51.000Z",
+        "description": "骚扰私信一律拉黑不管哦｜当朋友圈发 我有很多很多的负面情绪｜转帖40%碎碎念59%cosplay1%组成｜特别好用的🪜（自用！让我赚佣金吧！）蜂鸟VPN ：https://t.co/vm8dSucUSp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 101,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=FraeJTaB",
+                "start": 78,
+                "url": "https://t.co/vm8dSucUSp"
+              }
+            ]
+          }
+        },
+        "id": "1747146335323844609",
+        "location": "你心里❤️",
+        "name": "妹子幸运一点吧",
+        "pinned_tweet_id": "1986528628772151377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879835045579624448/jO2JXuKG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2491,
+          "following_count": 361,
+          "like_count": 28845,
+          "listed_count": 9,
+          "media_count": 1422,
+          "tweet_count": 20859
+        },
+        "username": "aozn24428",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-14T07:51:56.000Z",
+        "description": "昨日看花花灼灼",
+        "id": "1879073913176752128",
+        "location": "阎罗殿",
+        "name": "灼灼明天中1000w彩票",
+        "pinned_tweet_id": "1919034846015602791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000889028980379648/iYBCC5ds_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 117,
+          "like_count": 3215,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 2029
+        },
+        "username": "tufei299",
+        "verified": false
+      }
+    ]
+  }
+}

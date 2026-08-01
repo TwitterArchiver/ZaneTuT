@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2079036048861245480",
+    "created_at": "2026-07-21T11:08:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T12:08:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079523879186522595"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "导航👉1.如遇点不开，点击右下角三个小圆点在浏览器中打开私信我哦！2.复制链接到电报✈️搜索私信我！！",
+          "display_url": "t.me/SyL2015",
+          "end": 58,
+          "expanded_url": "http://t.me/SyL2015",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/2078485732633501696/YUFUqSc2?format=jpg&name=orig",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2078485732633501696/YUFUqSc2?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 35,
+          "status": 200,
+          "title": "SyL",
+          "unwound_url": "https://t.me/SyL2015",
+          "url": "https://t.co/K1SVLGhaZl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079523879186522595",
+    "in_reply_to_user_id": "1997985969958699008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079036048861245480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真诚交友｜限时免费送完整版精彩视频\n文明自取，粉丝欢迎私信\n唯一通道：https://t.co/K1SVLGhaZl\n暗语：x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2079036048861245480",
+        "created_at": "2026-07-21T11:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079523879186522595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "导航👉1.如遇点不开，点击右下角三个小圆点在浏览器中打开私信我哦！2.复制链接到电报✈️搜索私信我！！",
+              "display_url": "t.me/SyL2015",
+              "end": 58,
+              "expanded_url": "http://t.me/SyL2015",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2078485732633501696/YUFUqSc2?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2078485732633501696/YUFUqSc2?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 35,
+              "status": 200,
+              "title": "SyL",
+              "unwound_url": "https://t.me/SyL2015",
+              "url": "https://t.co/K1SVLGhaZl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079523879186522595",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079036048861245480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真诚交友｜限时免费送完整版精彩视频\n文明自取，粉丝欢迎私信\n唯一通道：https://t.co/K1SVLGhaZl\n暗语：x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2079036048861245480",
+        "created_at": "2026-07-20T02:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T03:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079036048861245480"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079036048861245480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 203,
+          "impression_count": 380981,
+          "like_count": 4005,
+          "quote_count": 15,
+          "reply_count": 602,
+          "retweet_count": 162
+        },
+        "reply_settings": "everyone",
+        "text": "一个忠告，如果对方有鸡鸡，他的话听七分就好了，如果对方的鸡鸡是硬的，听三分就好了，如果对方鸡鸡正在你的身体里，不管他说什么，你都不能信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "互fo免🚪丨💗算卦找@kill_this_hate 不准你打我丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。❗️陌生链接不要点❗️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 57,
+                "start": 47,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2079103710270292225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8129,
+          "following_count": 273,
+          "like_count": 6120,
+          "listed_count": 5,
+          "media_count": 37,
+          "tweet_count": 2643
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": true
+      }
+    ]
+  }
+}

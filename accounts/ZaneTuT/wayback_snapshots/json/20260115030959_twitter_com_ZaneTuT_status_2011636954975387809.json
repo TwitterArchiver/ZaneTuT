@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2011636954975387809",
+    "created_at": "2026-01-15T03:09:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T04:09:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2011636954975387809"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/martini33303/s…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/martini33303/status/2011636176579613046",
+          "start": 15,
+          "url": "https://t.co/FT09W2nRas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011636954975387809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011636176579613046",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真有用？赶紧喂我一口星期四。 https://t.co/FT09W2nRas"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2011636954975387809",
+        "created_at": "2026-01-15T03:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T04:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011636954975387809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/martini33303/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/martini33303/status/2011636176579613046",
+              "start": 15,
+              "url": "https://t.co/FT09W2nRas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011636954975387809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011636176579613046",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真有用？赶紧喂我一口星期四。 https://t.co/FT09W2nRas"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977376387460935680",
+        "conversation_id": "2011636176579613046",
+        "created_at": "2026-01-15T03:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T04:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011636176579613046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Martini33303/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Martini33303/status/2011630584574198174",
+              "start": 13,
+              "url": "https://t.co/nPclskBN56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011636176579613046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011630584574198174",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "让我许愿到了，谢谢🥰🥰🥰 https://t.co/nPclskBN56"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪88/128 纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨互关可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010591438627897389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 135,
+          "like_count": 1273,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 546
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T14:10:50.000Z",
+        "description": "05 数学专业 enfj  1i 直男 swtich偏s/dom... 养成系擦边男 还会更新一些碎碎念 调酒照片 学习日常 健身日常 私信只会回关注我的  不礼貌回关，喜欢的会回关\n我不发牛！别问我要这个！喜欢萌妹 放个qq：3431763318 只过互关@Andyxu112",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 129,
+                "username": "Andyxu112"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gooda26296",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gooda26296",
+                "start": 0,
+                "url": "https://t.co/m0tw8LYBAG"
+              }
+            ]
+          }
+        },
+        "id": "1977376387460935680",
+        "location": "🚪52/88/188 纯绿没什么区别",
+        "name": "Martini",
+        "pinned_tweet_id": "1984563659994251475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004743951178518528/YatYuuZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 509,
+          "like_count": 9199,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 3255
+        },
+        "url": "https://t.co/m0tw8LYBAG",
+        "username": "Martini33303",
+        "verified": false
+      }
+    ]
+  }
+}

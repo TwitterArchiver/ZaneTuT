@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2015328559041323008"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2015328631225274401",
+    "created_at": "2026-01-25T07:39:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T08:39:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015328631225274401"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hemtvD58rZ",
+          "end": 25,
+          "expanded_url": "https://x.com/ZaneTuT/status/2015328631225274401/video/1",
+          "media_key": "13_2015328559041323008",
+          "start": 2,
+          "url": "https://t.co/hemtvD58rZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015328631225274401",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "？ https://t.co/hemtvD58rZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8333,
+        "height": 1280,
+        "media_key": "13_2015328559041323008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2015328559041323008/img/K8wMFGXN-Wk7rpA-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015328559041323008/vid/avc1/320x568/tGvuSUKvgjBjWuAB.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015328559041323008/vid/avc1/480x852/tO77f48xESugpI2s.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015328559041323008/vid/avc1/720x1280/e8D8kaP7dmkGotCP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2015328559041323008/pl/WyZCg14NJv3N7Qkp.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2015328559041323008"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2015328631225274401",
+        "created_at": "2026-01-25T07:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T08:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015328631225274401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hemtvD58rZ",
+              "end": 25,
+              "expanded_url": "https://x.com/ZaneTuT/status/2015328631225274401/video/1",
+              "media_key": "13_2015328559041323008",
+              "start": 2,
+              "url": "https://t.co/hemtvD58rZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015328631225274401",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/hemtvD58rZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心丨08丨od丨私信看心情回丨高频率发帖丨互fo可以直接➕V丨我听点udg sasi很多很多丨我皮下非常没有素质别惹我了行吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2440,
+          "following_count": 168,
+          "like_count": 2616,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 1219
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

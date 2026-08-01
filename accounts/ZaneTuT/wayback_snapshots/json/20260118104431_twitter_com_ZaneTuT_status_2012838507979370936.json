@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2012837136181973202",
+    "created_at": "2026-01-18T10:44:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T11:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012838507979370936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1750534304336384000",
+          "start": 0,
+          "username": "Xiaoxin000007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012838507979370936",
+    "in_reply_to_user_id": "1750534304336384000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012838406527807809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaoxin000007 宝贝呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2012837136181973202",
+        "created_at": "2026-01-18T10:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T11:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012838507979370936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1750534304336384000",
+              "start": 0,
+              "username": "Xiaoxin000007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012838507979370936",
+        "in_reply_to_user_id": "1750534304336384000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012838406527807809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoxin000007 宝贝呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750534304336384000",
+        "conversation_id": "2012837136181973202",
+        "created_at": "2026-01-18T10:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T11:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012838406527807809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012838406527807809",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012837136181973202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 咋这么萌!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪88/128 纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨回fo眼熟的 可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2011423750164725893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 130,
+          "like_count": 1724,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 767
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-25T15:01:25.000Z",
+        "description": "",
+        "id": "1750534304336384000",
+        "location": "1",
+        "name": "小昕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925940827911598080/Bsz8yad4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 35,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "Xiaoxin000007",
+        "verified": false
+      }
+    ]
+  }
+}

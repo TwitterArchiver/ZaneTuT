@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2010576816755327157",
+    "created_at": "2026-01-15T09:00:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T10:00:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011725148471325075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1622226629136367674",
+          "start": 0,
+          "username": "kexuejiazhuang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011725148471325075",
+    "in_reply_to_user_id": "1622226629136367674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011725067852661047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kexuejiazhuang 我爱你…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2010576816755327157",
+        "created_at": "2026-01-15T09:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T10:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011725148471325075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1622226629136367674",
+              "start": 0,
+              "username": "kexuejiazhuang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011725148471325075",
+        "in_reply_to_user_id": "1622226629136367674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011725067852661047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kexuejiazhuang 我爱你…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622226629136367674",
+        "conversation_id": "2010576816755327157",
+        "created_at": "2026-01-15T09:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T10:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011725067852661047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011725067852661047",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010576816755327157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 天下竟有如此美萌的女孩我被萌哭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪88/128 纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨回fo眼熟的 可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010591438627897389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 138,
+          "like_count": 1351,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 597
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T13:32:39.000Z",
+        "description": "此号起到一个墓碑的作用，不安会双取，匿名提问： https://t.co/qXcDn5CuS4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kexuejiazhuang",
+                "end": 47,
+                "expanded_url": "https://ngl.link/kexuejiazhuang",
+                "start": 24,
+                "url": "https://t.co/qXcDn5CuS4"
+              }
+            ]
+          }
+        },
+        "id": "1622226629136367674",
+        "location": "🚪5.2",
+        "name": "给我寿司吧🍣",
+        "pinned_tweet_id": "2007050446779859050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004605957251461120/N8tiWvTf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 155,
+          "like_count": 27719,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 3038
+        },
+        "username": "kexuejiazhuang",
+        "verified": false
+      }
+    ]
+  }
+}

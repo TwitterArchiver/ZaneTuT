@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2017766183752372449",
+    "created_at": "2026-02-01T08:25:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T09:25:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017876870432436620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2003197126537334788",
+          "start": 0,
+          "username": "Sakikoxo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017876870432436620",
+    "in_reply_to_user_id": "2003197126537334788",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017827182970618207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sakikoxo 宝宝…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2017766183752372449",
+        "created_at": "2026-02-01T08:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T09:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017876870432436620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2003197126537334788",
+              "start": 0,
+              "username": "Sakikoxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017876870432436620",
+        "in_reply_to_user_id": "2003197126537334788",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017827182970618207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakikoxo 宝宝…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003197126537334788",
+        "conversation_id": "2017766183752372449",
+        "created_at": "2026-02-01T05:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T06:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017827182970618207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017827182970618207",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017766183752372449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 女神…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心丨08丨od丨私信只回口令丨互fo可以直接➕V丨我听点udg sasi很多很多丨我皮下非常没有素质别惹我了行吗丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 115,
+                "start": 107,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2928,
+          "following_count": 187,
+          "like_count": 2998,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 1365
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-22T20:16:04.000Z",
+        "description": "=荼荼（tú）｜只是为了吐黑泥和碎碎念｜女孩们可以和我玩｜不要给我发奇怪的私信",
+        "id": "2003197126537334788",
+        "location": "🚪188纯绿",
+        "name": "溺亡於自我的藍",
+        "pinned_tweet_id": "2005552422182428794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005549480184107008/2pFN5Nmq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 31,
+          "like_count": 760,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 558
+        },
+        "username": "Sakikoxo",
+        "verified": false
+      }
+    ]
+  }
+}

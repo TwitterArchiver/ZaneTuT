@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2028411388381782509",
+    "created_at": "2026-03-02T10:08:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T11:08:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028412012003496422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1906360034725961728",
+          "start": 0,
+          "username": "Xiaoyou_329"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028412012003496422",
+    "in_reply_to_user_id": "1906360034725961728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028411388381782509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaoyou_329 宝宝你萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2028411339975360512",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HCZdXeGbAAAwEUg.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HCZdXeGbAAAwEUg.mp4"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2028411388381782509",
+        "created_at": "2026-03-02T10:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T11:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028412012003496422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028412012003496422",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028411388381782509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 宝宝你萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2028411339975360512"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2028411388381782509",
+        "created_at": "2026-03-02T10:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T11:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028411388381782509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jPYYh2NyEP",
+              "end": 132,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2028411388381782509/photo/1",
+              "media_key": "16_2028411339975360512",
+              "start": 109,
+              "url": "https://t.co/jPYYh2NyEP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028411388381782509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想变漂亮。这条实况我p了一个多小时你们知道吗。我p完觉得很萌呀很萌呀。但是刷朋友圈一看到那些长得很漂亮的人的脸我就好羡慕。真的好羡慕。好羡慕。我好羡慕那些长得很漂亮的人。然后我就很崩溃。哭了好久好久。我好想去整容。 https://t.co/jPYYh2NyEP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5144,
+          "following_count": 248,
+          "like_count": 4165,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 1877
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12770,
+          "following_count": 164,
+          "like_count": 6812,
+          "listed_count": 19,
+          "media_count": 711,
+          "tweet_count": 5679
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2026695433746264084",
+    "created_at": "2026-02-26T00:10:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T01:10:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026812110064464197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1625662182284468224",
+          "start": 0,
+          "username": "qaz24510269"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026812110064464197",
+    "in_reply_to_user_id": "1625662182284468224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026695433746264084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qaz24510269 qq你萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026695418973978624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCBEvuPbAAAEfPE.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1720,
+        "media_key": "3_2026695418965536780",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCBEvuNaMAwUEk5.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2026695433746264084",
+        "created_at": "2026-02-26T00:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T01:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026812110064464197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1625662182284468224",
+              "start": 0,
+              "username": "qaz24510269"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026812110064464197",
+        "in_reply_to_user_id": "1625662182284468224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026695433746264084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qaz24510269 qq你萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026695418973978624",
+            "3_2026695418965536780"
+          ]
+        },
+        "author_id": "1625662182284468224",
+        "conversation_id": "2026695433746264084",
+        "created_at": "2026-02-25T16:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T17:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026695433746264084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zEi1ULjLAP",
+              "end": 33,
+              "expanded_url": "https://x.com/qaz24510269/status/2026695433746264084/photo/1",
+              "media_key": "3_2026695418973978624",
+              "start": 10,
+              "url": "https://t.co/zEi1ULjLAP"
+            },
+            {
+              "display_url": "pic.x.com/zEi1ULjLAP",
+              "end": 33,
+              "expanded_url": "https://x.com/qaz24510269/status/2026695433746264084/photo/1",
+              "media_key": "3_2026695418965536780",
+              "start": 10,
+              "url": "https://t.co/zEi1ULjLAP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026695433746264084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4741,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "给钢丝球顺毛教程： https://t.co/zEi1ULjLAP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5044,
+          "following_count": 231,
+          "like_count": 3903,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 1796
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-15T01:04:14.000Z",
+        "description": "^ ^",
+        "id": "1625662182284468224",
+        "location": "straight",
+        "name": "qaz",
+        "pinned_tweet_id": "2016442927023812970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1627572124515975168/Q_RKePfn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 255,
+          "like_count": 4318,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 401
+        },
+        "username": "qaz24510269",
+        "verified": false
+      }
+    ]
+  }
+}

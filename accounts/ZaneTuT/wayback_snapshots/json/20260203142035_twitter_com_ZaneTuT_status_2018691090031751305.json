@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2018673903338434753",
+    "created_at": "2026-02-03T14:20:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T15:20:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018691090031751305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2002029652404260864",
+          "start": 0,
+          "username": "AipTrwlKNV49861"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018691090031751305",
+    "in_reply_to_user_id": "2002029652404260864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018686573030588670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AipTrwlKNV49861 好耶！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2018673903338434753",
+        "created_at": "2026-02-03T14:20:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T15:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018691090031751305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2002029652404260864",
+              "start": 0,
+              "username": "AipTrwlKNV49861"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018691090031751305",
+        "in_reply_to_user_id": "2002029652404260864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018686573030588670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AipTrwlKNV49861 好耶！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002029652404260864",
+        "conversation_id": "2018673903338434753",
+        "created_at": "2026-02-03T14:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T15:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018686573030588670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018686573030588670",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018673903338434753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 萌得没边了！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨神秘账号@Rotte2t00丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "Rotte2t00"
+              },
+              {
+                "end": 80,
+                "start": 65,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 95,
+                "start": 87,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3115,
+          "following_count": 197,
+          "like_count": 3102,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 1393
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-19T14:54:18.000Z",
+        "description": "wx：Xxx_0113_52\n加我带原因，备注小桉1.13\n扩列的宝宝带备注哦^^",
+        "id": "2002029652404260864",
+        "location": "一个人的伤心邦。。。",
+        "name": "Cynnie.",
+        "pinned_tweet_id": "2018688240677540016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009822166293086208/ZAa0Isnf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 38,
+          "like_count": 2254,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 103
+        },
+        "username": "AipTrwlKNV49861",
+        "verified": false
+      }
+    ]
+  }
+}

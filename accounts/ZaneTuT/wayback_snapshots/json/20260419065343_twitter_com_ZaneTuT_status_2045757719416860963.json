@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045757704770293760"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2045757719416860963",
+    "created_at": "2026-04-19T06:53:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T07:53:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045757719416860963"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4bgRU8Wven",
+          "end": 27,
+          "expanded_url": "https://x.com/ZaneTuT/status/2045757719416860963/photo/1",
+          "media_key": "3_2045757704770293760",
+          "start": 4,
+          "url": "https://t.co/4bgRU8Wven"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045757719416860963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "坏菜了 https://t.co/4bgRU8Wven"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 338,
+        "media_key": "3_2045757704770293760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGP9yylaEAAhuYx.jpg",
+        "width": 406
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045757704770293760"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2045757719416860963",
+        "created_at": "2026-04-19T06:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T07:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045757719416860963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4bgRU8Wven",
+              "end": 27,
+              "expanded_url": "https://x.com/ZaneTuT/status/2045757719416860963/photo/1",
+              "media_key": "3_2045757704770293760",
+              "start": 4,
+              "url": "https://t.co/4bgRU8Wven"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045757719416860963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坏菜了 https://t.co/4bgRU8Wven"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨互fo免🚪丨我听点udg sasi很多很多丨算挂找@kill_this_hate💗不准你打我丨两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 31,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 67,
+                "start": 59,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6625,
+          "following_count": 296,
+          "like_count": 6339,
+          "listed_count": 3,
+          "media_count": 63,
+          "tweet_count": 2577
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

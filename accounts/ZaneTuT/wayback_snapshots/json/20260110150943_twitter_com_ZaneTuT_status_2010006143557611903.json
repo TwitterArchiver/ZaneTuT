@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2010006143557611903",
+    "created_at": "2026-01-10T15:09:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T16:09:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010006143557611903"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 56,
+          "start": 54,
+          "tag": "m"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1936364865792454656",
+          "start": 3,
+          "username": "CUTE_PUPPY666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010006143557611903",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009685314198258068",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CUTE_PUPPY666: 啊啊啊我真的好喜欢被抚摸脸然后时不时来一巴掌的感觉...好喜欢被摸摸 #m"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2010006143557611903",
+        "created_at": "2026-01-10T15:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T16:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010006143557611903"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 54,
+              "tag": "m"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1936364865792454656",
+              "start": 3,
+              "username": "CUTE_PUPPY666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010006143557611903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009685314198258068",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CUTE_PUPPY666: 啊啊啊我真的好喜欢被抚摸脸然后时不时来一巴掌的感觉...好喜欢被摸摸 #m"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936364865792454656",
+        "conversation_id": "2009685314198258068",
+        "created_at": "2026-01-09T17:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T18:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009685314198258068"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 35,
+              "tag": "m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009685314198258068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8358,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊啊我真的好喜欢被抚摸脸然后时不时来一巴掌的感觉...好喜欢被摸摸 #m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "骂我的人是gay 我是萌脸骚",
+        "id": "1997985969958699008",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2009195553230606621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 68,
+          "like_count": 524,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 99
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-21T10:05:45.000Z",
+        "description": "cute puppy",
+        "id": "1936364865792454656",
+        "name": "呆呆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936376782501883904/QmlDpCvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 10,
+          "like_count": 5,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 45
+        },
+        "username": "CUTE_PUPPY666",
+        "verified": false
+      }
+    ]
+  }
+}

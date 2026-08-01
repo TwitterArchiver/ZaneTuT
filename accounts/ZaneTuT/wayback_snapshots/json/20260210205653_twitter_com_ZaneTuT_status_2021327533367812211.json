@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021327518578728960"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2021327533367812211",
+    "created_at": "2026-02-10T20:56:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T21:56:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021327533367812211"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JGh3EGfChJ",
+          "end": 127,
+          "expanded_url": "https://x.com/ZaneTuT/status/2021327533367812211/photo/1",
+          "media_key": "3_2021327518578728960",
+          "start": 104,
+          "url": "https://t.co/JGh3EGfChJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021327533367812211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实回到家看见这样的长篇大论超级想哭 我药物依赖很严重 吃不吃药都会和朋友说我没吃 我怕大家讨厌我 我提问箱都会回呀～只有问我“吃的什么药”这种问题我不会回 我也希望你开心平安幸福 你是很好的人 喜欢你～！ https://t.co/JGh3EGfChJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021327518578728960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA0yqy-bYAAlIuR.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021327518578728960"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2021327533367812211",
+        "created_at": "2026-02-10T20:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T21:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021327533367812211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JGh3EGfChJ",
+              "end": 127,
+              "expanded_url": "https://x.com/ZaneTuT/status/2021327533367812211/photo/1",
+              "media_key": "3_2021327518578728960",
+              "start": 104,
+              "url": "https://t.co/JGh3EGfChJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021327533367812211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实回到家看见这样的长篇大论超级想哭 我药物依赖很严重 吃不吃药都会和朋友说我没吃 我怕大家讨厌我 我提问箱都会回呀～只有问我“吃的什么药”这种问题我不会回 我也希望你开心平安幸福 你是很好的人 喜欢你～！ https://t.co/JGh3EGfChJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3655,
+          "following_count": 207,
+          "like_count": 3546,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1617
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2010278196084896007",
+    "created_at": "2026-01-12T09:14:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T10:14:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010641596954632391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1995222810159882240",
+          "start": 0,
+          "username": "Ameowxiaaa"
+        },
+        {
+          "end": 24,
+          "id": "1598129227034857473",
+          "start": 12,
+          "username": "Hi558575331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010641596954632391",
+    "in_reply_to_user_id": "1995222810159882240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010641505413918910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ameowxiaaa @Hi558575331 我碰见帅的真这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2010278196084896007",
+        "created_at": "2026-01-12T09:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T10:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010641596954632391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1995222810159882240",
+              "start": 0,
+              "username": "Ameowxiaaa"
+            },
+            {
+              "end": 24,
+              "id": "1598129227034857473",
+              "start": 12,
+              "username": "Hi558575331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010641596954632391",
+        "in_reply_to_user_id": "1995222810159882240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010641505413918910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ameowxiaaa @Hi558575331 我碰见帅的真这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995222810159882240",
+        "conversation_id": "2010278196084896007",
+        "created_at": "2026-01-12T09:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T10:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010641505413918910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            },
+            {
+              "end": 21,
+              "id": "1598129227034857473",
+              "start": 9,
+              "username": "Hi558575331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010641505413918910",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010409358031790301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT @Hi558575331 聊了那么多人就你上钩了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "🚪66纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨我听点udg 可以和我一起听歌…",
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010215499150585985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 105,
+          "like_count": 791,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 244
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T20:06:53.000Z",
+        "description": "一个被性压抑折磨的无聊的人…",
+        "id": "1995222810159882240",
+        "name": "小苗苗。",
+        "pinned_tweet_id": "1998886513174778241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996686649359507457/DZvq120y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 121,
+          "like_count": 461,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 215
+        },
+        "username": "Ameowxiaaa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-01T01:38:08.000Z",
+        "description": "梦境护卫/友好但不交友",
+        "id": "1598129227034857473",
+        "location": "Earth ",
+        "name": "你不要胡说",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968992182192525312/tMOZvbCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10973,
+          "following_count": 106,
+          "like_count": 47664,
+          "listed_count": 56,
+          "media_count": 2798,
+          "tweet_count": 35020
+        },
+        "username": "Hi558575331",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2040609390001287402",
+    "created_at": "2026-04-05T06:52:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T07:52:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040683914176454991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1712639858995294208",
+          "start": 0,
+          "username": "xsj1721416"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040683914176454991",
+    "in_reply_to_user_id": "1712639858995294208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040609390001287402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xsj1721416 这是正确的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 952,
+        "media_key": "3_2040609297848209408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFGzWEOaEAAQCLG.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2040609390001287402",
+        "created_at": "2026-04-05T06:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T07:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040683914176454991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1712639858995294208",
+              "start": 0,
+              "username": "xsj1721416"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040683914176454991",
+        "in_reply_to_user_id": "1712639858995294208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040609390001287402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xsj1721416 这是正确的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040609297848209408"
+          ]
+        },
+        "author_id": "1712639858995294208",
+        "conversation_id": "2040609390001287402",
+        "created_at": "2026-04-05T01:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T02:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040609390001287402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nJSwlbdvNa",
+              "end": 32,
+              "expanded_url": "https://x.com/xsj1721416/status/2040609390001287402/photo/1",
+              "media_key": "3_2040609297848209408",
+              "start": 9,
+              "url": "https://t.co/nJSwlbdvNa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040609390001287402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2613,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一看到我的互关们 https://t.co/nJSwlbdvNa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨08丨od丨中抑中焦丨互fo免🚪丨我听点udg sasi很多很多丨两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 45,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6198,
+          "following_count": 292,
+          "like_count": 6096,
+          "listed_count": 3,
+          "media_count": 97,
+          "tweet_count": 2569
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-13T01:22:28.000Z",
+        "description": "这里是杰杰的分享小屋 \n04   esfj   1i   switch\n一天不🦌积阳德 \n两天不🦌积积阳阳德\nhttps://t.co/xP13fLtZC0快来和我玩吧",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1721416xsj",
+                "end": 78,
+                "expanded_url": "https://ngl.link/1721416xsj",
+                "start": 55,
+                "url": "https://t.co/xP13fLtZC0"
+              }
+            ]
+          }
+        },
+        "id": "1712639858995294208",
+        "location": "布吉岛",
+        "name": "杰杰",
+        "pinned_tweet_id": "2038575928822104136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485929021616128/uwnw1QCs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2760,
+          "following_count": 549,
+          "like_count": 32540,
+          "listed_count": 3,
+          "media_count": 121,
+          "tweet_count": 7433
+        },
+        "username": "xsj1721416",
+        "verified": false
+      }
+    ]
+  }
+}

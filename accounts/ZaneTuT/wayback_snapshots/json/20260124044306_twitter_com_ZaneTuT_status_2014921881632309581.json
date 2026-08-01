@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2014884407807725786",
+    "created_at": "2026-01-24T04:43:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T05:43:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014921881632309581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1473365832155955200",
+          "start": 0,
+          "username": "Kinoko43795929"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014921881632309581",
+    "in_reply_to_user_id": "1473365832155955200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014884407807725786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kinoko43795929 如此之萌…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2014884400325132291",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_ZOr9DbAAMr4fb.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2014884407807725786",
+        "created_at": "2026-01-24T04:43:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T05:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014921881632309581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1473365832155955200",
+              "start": 0,
+              "username": "Kinoko43795929"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014921881632309581",
+        "in_reply_to_user_id": "1473365832155955200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014884407807725786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kinoko43795929 如此之萌…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014884400325132291"
+          ]
+        },
+        "author_id": "1473365832155955200",
+        "conversation_id": "2014884407807725786",
+        "created_at": "2026-01-24T02:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T03:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014884407807725786"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 2,
+              "tag": "卷毛"
+            },
+            {
+              "end": 10,
+              "start": 6,
+              "tag": "恋爱脑"
+            },
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "小狗日记"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vS4tAaifHX",
+              "end": 40,
+              "expanded_url": "https://x.com/Kinoko43795929/status/2014884407807725786/photo/1",
+              "media_key": "3_2014884400325132291",
+              "start": 17,
+              "url": "https://t.co/vS4tAaifHX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014884407807725786",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2190,
+          "like_count": 131,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "困。#卷毛 #恋爱脑 #小狗日记 https://t.co/vS4tAaifHX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心丨08丨od丨私信看心情回丨高频率发帖丨互fo可以直接➕V丨我听点udg sasi很多很多丨我皮下非常没有素质别惹我了行吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2380,
+          "following_count": 165,
+          "like_count": 2565,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 1194
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-21T18:52:52.000Z",
+        "description": "只是想被爱/男同不要私信我。。我恐同",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kinoko12903",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kinoko12903",
+                "start": 0,
+                "url": "https://t.co/vb89FjIl3g"
+              }
+            ]
+          }
+        },
+        "id": "1473365832155955200",
+        "location": "天津",
+        "name": "Kinoko",
+        "pinned_tweet_id": "1907281356390035837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938134819969368064/vtuvINeE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1722,
+          "following_count": 415,
+          "like_count": 4130,
+          "listed_count": 8,
+          "media_count": 172,
+          "tweet_count": 724
+        },
+        "url": "https://t.co/vb89FjIl3g",
+        "username": "Kinoko43795929",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2028100322783367403",
+    "created_at": "2026-03-02T12:14:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T13:14:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028443712674726028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1640625056882774016",
+          "start": 0,
+          "username": "blueBDN1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028443712674726028",
+    "in_reply_to_user_id": "1640625056882774016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028100322783367403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blueBDN1 别吓我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2028100322783367403",
+        "created_at": "2026-03-02T12:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T13:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028443712674726028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1640625056882774016",
+              "start": 0,
+              "username": "blueBDN1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028443712674726028",
+        "in_reply_to_user_id": "1640625056882774016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028100322783367403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blueBDN1 别吓我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1640625056882774016",
+        "conversation_id": "2028100322783367403",
+        "created_at": "2026-03-01T13:29:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T14:29:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028100322783367403"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028100322783367403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13018,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我一直没敢跟你们说，好多互关们关注的那个人是皮下男"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5145,
+          "following_count": 248,
+          "like_count": 4160,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1889
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-28T08:01:40.000Z",
+        "description": "没有🚪因为自恋所以发照片，不搞暧昧，不聊骚，不yp，不网调，把推当朋友圈发，不加任何联系方式\n\n嘿嘿可以来提问我https://t.co/zDSp1wNLFk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/11197722",
+                "end": 79,
+                "expanded_url": "https://ngl.link/11197722",
+                "start": 56,
+                "url": "https://t.co/zDSp1wNLFk"
+              }
+            ]
+          }
+        },
+        "id": "1640625056882774016",
+        "name": "kkk z",
+        "pinned_tweet_id": "2024878707996004568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970849782026665984/cJzME_DS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 59,
+          "like_count": 395,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 621
+        },
+        "username": "blueBDN1",
+        "verified": false
+      }
+    ]
+  }
+}

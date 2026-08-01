@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2029752929113280589",
+    "created_at": "2026-03-06T10:15:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T11:15:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029863357755625514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "737291029452337152",
+          "start": 0,
+          "username": "Deemo172"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029863357755625514",
+    "in_reply_to_user_id": "737291029452337152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029863058701738332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Deemo172 是要表情包的意思吗 是的话我加你…！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2029752929113280589",
+        "created_at": "2026-03-06T10:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T11:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029863357755625514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "737291029452337152",
+              "start": 0,
+              "username": "Deemo172"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029863357755625514",
+        "in_reply_to_user_id": "737291029452337152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029863058701738332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Deemo172 是要表情包的意思吗 是的话我加你…！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "737291029452337152",
+        "conversation_id": "2029752929113280589",
+        "created_at": "2026-03-06T10:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T11:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029863058701738332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029863058701738332",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029752929113280589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 这个表情包可以单发吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5168,
+          "following_count": 253,
+          "like_count": 4213,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 1899
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-30T14:34:14.000Z",
+        "description": "好累",
+        "id": "737291029452337152",
+        "location": "距离你0.1km",
+        "name": "SterbenXL",
+        "pinned_tweet_id": "1944383606182281579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1266843169204903937/BSmDRznL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 96,
+          "like_count": 366,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 679
+        },
+        "username": "Deemo172",
+        "verified": false
+      }
+    ]
+  }
+}

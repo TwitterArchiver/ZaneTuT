@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2041166605133222232",
+    "created_at": "2026-04-07T03:43:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T04:43:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041361180501926181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1722890300757291008",
+          "start": 0,
+          "username": "baisechenyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041361180501926181",
+    "in_reply_to_user_id": "1722890300757291008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041166605133222232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baisechenyi 吓尿了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 262,
+        "media_key": "3_2041166596081881088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOuNF7akAASV6J.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2041166605133222232",
+        "created_at": "2026-04-07T03:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T04:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041361180501926181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1722890300757291008",
+              "start": 0,
+              "username": "baisechenyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041361180501926181",
+        "in_reply_to_user_id": "1722890300757291008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041166605133222232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baisechenyi 吓尿了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041166596081881088"
+          ]
+        },
+        "author_id": "1722890300757291008",
+        "conversation_id": "2041166605133222232",
+        "created_at": "2026-04-06T14:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T15:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041166605133222232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1L1dV8KnEh",
+              "end": 25,
+              "expanded_url": "https://x.com/baisechenyi/status/2041166605133222232/photo/1",
+              "media_key": "3_2041166596081881088",
+              "start": 2,
+              "url": "https://t.co/1L1dV8KnEh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041166605133222232",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2515,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/1L1dV8KnEh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨我真的不爱回消息 太累丨互fo免🚪丨我听点udg sasi很多很多丨两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 66,
+                "start": 55,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6186,
+          "following_count": 297,
+          "like_count": 6148,
+          "listed_count": 3,
+          "media_count": 72,
+          "tweet_count": 2553
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T08:14:01.000Z",
+        "description": "清水| 06 |177 | enfp | 喜欢发碎碎念和自拍| 私信只回礼貌的和好看的胸肌照 | 🚪188 | 不礼貌回关 只关注喜欢的",
+        "id": "1722890300757291008",
+        "location": "颜控身材控不和丑的聊 不是4i/s",
+        "name": "Nn",
+        "pinned_tweet_id": "1985721628446375960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031785130021568514/V64qdzyh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12689,
+          "following_count": 514,
+          "like_count": 25327,
+          "listed_count": 16,
+          "media_count": 221,
+          "tweet_count": 7633
+        },
+        "username": "baisechenyi",
+        "verified": false
+      }
+    ]
+  }
+}

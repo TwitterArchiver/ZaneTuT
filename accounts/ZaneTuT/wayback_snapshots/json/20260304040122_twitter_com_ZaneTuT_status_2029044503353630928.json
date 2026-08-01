@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2029044503353630928",
+    "created_at": "2026-03-04T04:01:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T05:01:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029044503353630928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 44,
+          "id": "2022362040069951489",
+          "start": 34,
+          "username": "xlll_1022"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/qwqoverlxrd/st…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/qwqoverlxrd/status/2029044112381661205",
+          "start": 45,
+          "url": "https://t.co/hCG8IgHA8W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029044503353630928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029044112381661205",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的文笔太差 写出来实在没什么杀伤力 或许只够她一个人哭的 那也行吧@xlll_1022 https://t.co/hCG8IgHA8W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2029044060418428928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCic0pbbUAACB4T.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2029044060431040512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCic0pebwAAGnY1.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2029044060422586371",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCic0pcawAMseno.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2029044060447817728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCic0pibwAAViu0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2029044503353630928",
+        "created_at": "2026-03-04T04:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T05:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029044503353630928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 44,
+              "id": "2022362040069951489",
+              "start": 34,
+              "username": "xlll_1022"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/qwqoverlxrd/st…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/qwqoverlxrd/status/2029044112381661205",
+              "start": 45,
+              "url": "https://t.co/hCG8IgHA8W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029044503353630928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029044112381661205",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的文笔太差 写出来实在没什么杀伤力 或许只够她一个人哭的 那也行吧@xlll_1022 https://t.co/hCG8IgHA8W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029044060418428928",
+            "3_2029044060431040512",
+            "3_2029044060422586371",
+            "3_2029044060447817728"
+          ]
+        },
+        "author_id": "2019688220787896326",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2029044112381661205",
+        "created_at": "2026-03-04T03:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T04:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029044112381661205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mnf4dqg4U6",
+              "end": 32,
+              "expanded_url": "https://x.com/QwQoverlxrd/status/2029044112381661205/photo/1",
+              "media_key": "3_2029044060418428928",
+              "start": 9,
+              "url": "https://t.co/mnf4dqg4U6"
+            },
+            {
+              "display_url": "pic.x.com/mnf4dqg4U6",
+              "end": 32,
+              "expanded_url": "https://x.com/QwQoverlxrd/status/2029044112381661205/photo/1",
+              "media_key": "3_2029044060431040512",
+              "start": 9,
+              "url": "https://t.co/mnf4dqg4U6"
+            },
+            {
+              "display_url": "pic.x.com/mnf4dqg4U6",
+              "end": 32,
+              "expanded_url": "https://x.com/QwQoverlxrd/status/2029044112381661205/photo/1",
+              "media_key": "3_2029044060422586371",
+              "start": 9,
+              "url": "https://t.co/mnf4dqg4U6"
+            },
+            {
+              "display_url": "pic.x.com/mnf4dqg4U6",
+              "end": 32,
+              "expanded_url": "https://x.com/QwQoverlxrd/status/2029044112381661205/photo/1",
+              "media_key": "3_2029044060447817728",
+              "start": 9,
+              "url": "https://t.co/mnf4dqg4U6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029044112381661205",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好吧 我又在哭了 https://t.co/mnf4dqg4U6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5154,
+          "following_count": 249,
+          "like_count": 4162,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 1891
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T17:27:55.000Z",
+        "description": "我是一个莱茵河。我在想万一以后更新我和我宝宝的左爱日常呢…",
+        "id": "2022362040069951489",
+        "name": "xlllai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022363646098288640/yx5gR4Da_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 19,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 17
+        },
+        "username": "xlll_1022",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-06T08:22:58.000Z",
+        "description": "有爱真好 有你真好",
+        "id": "2019688220787896326",
+        "name": "爱？唉！",
+        "pinned_tweet_id": "2019688953054646597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019688341831311360/FQ4MGzR__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 2,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 12
+        },
+        "username": "QwQoverlxrd",
+        "verified": false
+      }
+    ]
+  }
+}

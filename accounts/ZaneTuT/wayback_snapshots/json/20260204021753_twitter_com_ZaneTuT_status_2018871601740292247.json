@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2018871601740292247",
+    "created_at": "2026-02-04T02:17:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T03:17:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018871601740292247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1535816117226074113",
+          "start": 3,
+          "username": "PianistXH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018871601740292247",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018135897636851842",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PianistXH: 梵克雅宝什么时候能起诉那群黄谣男，什么黑色线下红色视频的给一群买不起的脑瘫自我高潮爽了，觉得终于可以诋毁自己高攀不上的大美女们了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2018871601740292247",
+        "created_at": "2026-02-04T02:17:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T03:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018871601740292247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1535816117226074113",
+              "start": 3,
+              "username": "PianistXH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018871601740292247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018135897636851842",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PianistXH: 梵克雅宝什么时候能起诉那群黄谣男，什么黑色线下红色视频的给一群买不起的脑瘫自我高潮爽了，觉得终于可以诋毁自己高攀不上的大美女们了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1535816117226074113",
+        "conversation_id": "2018135897636851842",
+        "created_at": "2026-02-02T01:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T02:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018135897636851842"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018135897636851842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 148065,
+          "like_count": 2085,
+          "quote_count": 2,
+          "reply_count": 60,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "梵克雅宝什么时候能起诉那群黄谣男，什么黑色线下红色视频的给一群买不起的脑瘫自我高潮爽了，觉得终于可以诋毁自己高攀不上的大美女们了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨神秘账号@Rotte2t00丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "Rotte2t00"
+              },
+              {
+                "end": 80,
+                "start": 65,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 95,
+                "start": 87,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3164,
+          "following_count": 197,
+          "like_count": 3127,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 1405
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-12T02:48:05.000Z",
+        "description": "@pianisthanh 不是互关不要申请",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "pianisthanh"
+              }
+            ]
+          }
+        },
+        "id": "1535816117226074113",
+        "name": "涵",
+        "pinned_tweet_id": "2016878317585285236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974476197200560129/L8efNCVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55518,
+          "following_count": 277,
+          "like_count": 4610,
+          "listed_count": 120,
+          "media_count": 90,
+          "tweet_count": 2512
+        },
+        "username": "PianistXH",
+        "verified": true
+      }
+    ]
+  }
+}

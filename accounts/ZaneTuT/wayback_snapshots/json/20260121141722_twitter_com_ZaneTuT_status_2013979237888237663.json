@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2013979237888237663",
+    "created_at": "2026-01-21T14:17:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T15:17:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013979237888237663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1724047408500441088",
+          "start": 3,
+          "username": "koeebot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013979237888237663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007842077749706760",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @koeebot: 唉 我们这种不聊骚的人手机真安静"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2013979237888237663",
+        "created_at": "2026-01-21T14:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T15:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013979237888237663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1724047408500441088",
+              "start": 3,
+              "username": "koeebot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013979237888237663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007842077749706760",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @koeebot: 唉 我们这种不聊骚的人手机真安静"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724047408500441088",
+        "conversation_id": "2007842077749706760",
+        "created_at": "2026-01-04T15:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T16:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007842077749706760"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007842077749706760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 12440,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "唉 我们这种不聊骚的人手机真安静"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪128 纯绿丨有的文案不是原创别攻击我TuT丨08丨od丨私信看心情回丨高频率发帖我好无聊丨互fo可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "一说话就扯溃疡",
+        "pinned_tweet_id": "2013559742573224427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1973,
+          "following_count": 138,
+          "like_count": 2293,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 1049
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-13T12:52:15.000Z",
+        "description": "",
+        "id": "1724047408500441088",
+        "location": "＋°♡ ｜🚪158/ 388/520/1314｜♡°＋",
+        "name": "koeebot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995857660940615683/iHU5yhGM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12295,
+          "following_count": 0,
+          "like_count": 35,
+          "listed_count": 55,
+          "media_count": 26,
+          "tweet_count": 29
+        },
+        "username": "koeebot",
+        "verified": false
+      }
+    ]
+  }
+}

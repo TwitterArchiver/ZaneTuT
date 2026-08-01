@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2037828515589202156",
+    "created_at": "2026-03-28T11:33:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T12:33:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037855481453215824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1558346182316896256",
+          "start": 0,
+          "username": "hoxer15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037855481453215824",
+    "in_reply_to_user_id": "1558346182316896256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037828515589202156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoxer15 我超级喜欢看他 亲一口来来来"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18343,
+        "height": 1280,
+        "media_key": "7_2037828375151288320",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2037828375151288320/pu/img/S9RSYXv9BfhqnSKg.jpg",
+        "public_metrics": {
+          "view_count": 71
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037828375151288320/pu/vid/avc1/320x710/oNSyiWNFQMUX648B.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037828375151288320/pu/vid/avc1/480x1066/UB6CpkRgttf6n1fr.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037828375151288320/pu/vid/avc1/576x1280/HfWSbUSr8GI2UluP.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2037828375151288320/pu/pl/mVaf3DzkHDIPYe2V.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2037828515589202156",
+        "created_at": "2026-03-28T11:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T12:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037855481453215824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1558346182316896256",
+              "start": 0,
+              "username": "hoxer15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037855481453215824",
+        "in_reply_to_user_id": "1558346182316896256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037828515589202156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoxer15 我超级喜欢看他 亲一口来来来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2037828375151288320"
+          ]
+        },
+        "author_id": "1558346182316896256",
+        "conversation_id": "2037828515589202156",
+        "created_at": "2026-03-28T09:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T10:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037828515589202156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YT3Xa39oKP",
+              "end": 44,
+              "expanded_url": "https://x.com/hoxer15/status/2037828515589202156/video/1",
+              "media_key": "7_2037828375151288320",
+              "start": 21,
+              "url": "https://t.co/YT3Xa39oKP"
+            },
+            {
+              "display_url": "x.com/hoxer15/status…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/hoxer15/status/2037509004730236978",
+              "start": 45,
+              "url": "https://t.co/IsFkJOJ1Tx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037828515589202156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 301,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037509004730236978",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们有看过这个人吗。。我现在非常痴迷他。 https://t.co/YT3Xa39oKP https://t.co/IsFkJOJ1Tx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5920,
+          "following_count": 285,
+          "like_count": 5465,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 2273
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T06:54:23.000Z",
+        "description": "可以叫我小物/4i /ENTP/摩羯/头像是本人/没门",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hoxer",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hoxer",
+                "start": 0,
+                "url": "https://t.co/DmoM7w0LFv"
+              }
+            ]
+          }
+        },
+        "id": "1558346182316896256",
+        "location": "就那个哪呗",
+        "name": "人类是我的兼职",
+        "pinned_tweet_id": "2023236867341103534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035701620970037248/F4J5qIFq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1540,
+          "following_count": 204,
+          "like_count": 21256,
+          "listed_count": 1,
+          "media_count": 426,
+          "tweet_count": 11225
+        },
+        "url": "https://t.co/DmoM7w0LFv",
+        "username": "hoxer15",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2020734971506458783",
+    "created_at": "2026-02-09T05:49:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T06:49:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020736814764679512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1645154173707755520",
+          "start": 0,
+          "username": "lx101067"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020736814764679512",
+    "in_reply_to_user_id": "1645154173707755520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020734971506458783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lx101067 我们这美甲好像月薪才7000"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1154,
+        "media_key": "3_2020734964132933632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAsXvlpa8AAQUCt.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2020734971506458783",
+        "created_at": "2026-02-09T05:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T06:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020736814764679512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1645154173707755520",
+              "start": 0,
+              "username": "lx101067"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020736814764679512",
+        "in_reply_to_user_id": "1645154173707755520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020734971506458783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lx101067 我们这美甲好像月薪才7000"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020734964132933632"
+          ]
+        },
+        "author_id": "1645154173707755520",
+        "conversation_id": "2020734971506458783",
+        "created_at": "2026-02-09T05:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T06:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020734971506458783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6GstQVHdae",
+              "end": 56,
+              "expanded_url": "https://x.com/lx101067/status/2020734971506458783/photo/1",
+              "media_key": "3_2020734964132933632",
+              "start": 33,
+              "url": "https://t.co/6GstQVHdae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020734971506458783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽  做美甲真的有这么赚吗  我印象里只有比较red的才会这样 https://t.co/6GstQVHdae"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3523,
+          "following_count": 204,
+          "like_count": 3488,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1576
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-09T19:58:23.000Z",
+        "description": "此地只是本人的阅读即焚垃圾桶谢谢你的路过/提问箱https://t.co/9FGZvvZfVg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/night74980",
+                "end": 47,
+                "expanded_url": "https://ngl.link/night74980",
+                "start": 24,
+                "url": "https://t.co/9FGZvvZfVg"
+              }
+            ]
+          }
+        },
+        "id": "1645154173707755520",
+        "location": "我的坟墓在此地",
+        "name": "Night",
+        "pinned_tweet_id": "1865760014247555294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015686881741291520/AbBxgcMu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2746,
+          "following_count": 656,
+          "like_count": 12627,
+          "listed_count": 4,
+          "media_count": 1295,
+          "tweet_count": 10451
+        },
+        "username": "lx101067",
+        "verified": false
+      }
+    ]
+  }
+}

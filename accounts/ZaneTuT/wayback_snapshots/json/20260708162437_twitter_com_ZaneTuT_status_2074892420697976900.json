@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2074784838243275139",
+    "created_at": "2026-07-08T16:24:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T17:24:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074892420697976900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1588436268400140290",
+          "start": 0,
+          "username": "Lee_jn423"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074892420697976900",
+    "in_reply_to_user_id": "1588436268400140290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074891052029444344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lee_jn423 我也是说！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2074784838243275139",
+        "created_at": "2026-07-08T16:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T17:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074892420697976900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1588436268400140290",
+              "start": 0,
+              "username": "Lee_jn423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074892420697976900",
+        "in_reply_to_user_id": "1588436268400140290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074891052029444344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lee_jn423 我也是说！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1588436268400140290",
+        "conversation_id": "2074784838243275139",
+        "created_at": "2026-07-08T16:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T17:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074891052029444344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074891052029444344",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074784838243275139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 好讨厌不打码就被发到其他平台！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨互fo免🚪丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 37,
+                "start": 27,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2044362275218489629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7761,
+          "following_count": 273,
+          "like_count": 5887,
+          "listed_count": 4,
+          "media_count": 51,
+          "tweet_count": 2588
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-04T07:41:42.000Z",
+        "description": "我的废话📓 属性杂杂的 永远喜欢真诚的人",
+        "id": "1588436268400140290",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "J_🐶",
+        "pinned_tweet_id": "2029940131264876596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959597265112506368/Kjiwt79N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 96,
+          "like_count": 2772,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1342
+        },
+        "url": "",
+        "username": "Lee_jn423",
+        "verified": false
+      }
+    ]
+  }
+}

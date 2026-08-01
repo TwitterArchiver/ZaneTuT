@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2020143074874118273",
+    "created_at": "2026-02-07T14:30:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T15:30:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020143074874118273"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/acclzd_clz/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/acclzd_clz/status/2020097846629003740",
+          "start": 3,
+          "url": "https://t.co/CQqnGkS99A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020143074874118273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020097846629003740",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我操 https://t.co/CQqnGkS99A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1480,
+        "media_key": "3_2020097824793456643",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAjURMpacAMSuO7.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2020143074874118273",
+        "created_at": "2026-02-07T14:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T15:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020143074874118273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/acclzd_clz/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/acclzd_clz/status/2020097846629003740",
+              "start": 3,
+              "url": "https://t.co/CQqnGkS99A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020143074874118273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020097846629003740",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操 https://t.co/CQqnGkS99A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020097824793456643"
+          ]
+        },
+        "author_id": "1590695308463288321",
+        "conversation_id": "2020097846629003740",
+        "created_at": "2026-02-07T11:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T12:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020097846629003740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WrbU3gZbgp",
+              "end": 65,
+              "expanded_url": "https://x.com/acclzd_clz/status/2020097846629003740/photo/1",
+              "media_key": "3_2020097824793456643",
+              "start": 42,
+              "url": "https://t.co/WrbU3gZbgp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020097846629003740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 11323,
+          "like_count": 386,
+          "quote_count": 4,
+          "reply_count": 22,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "哥哥是不是教过你不许说谎\n\nԅ(¯﹃¯ԅ)msk我要变成恶鬼吃了你 \n为什么限流！ https://t.co/WrbU3gZbgp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3416,
+          "following_count": 200,
+          "like_count": 3363,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 1510
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-10T13:18:17.000Z",
+        "description": "求宝宝定制ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ｜无排单随时可找哈！",
+        "id": "1590695308463288321",
+        "location": "黄文厨子",
+        "name": "荞麦厘子",
+        "pinned_tweet_id": "1977923915717742802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000918094051733504/efPaT4ou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113077,
+          "following_count": 96,
+          "like_count": 10347,
+          "listed_count": 111,
+          "media_count": 428,
+          "tweet_count": 1915
+        },
+        "username": "acclzd_clz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2011089920203636939",
+    "created_at": "2026-01-13T15:34:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T16:34:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011099416741232943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999504877337395200",
+          "start": 0,
+          "username": "chuan_0123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011099416741232943",
+    "in_reply_to_user_id": "1999504877337395200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011089920203636939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuan_0123 薯条教主我给你吹吹！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2039,
+        "media_key": "3_2011089906941247488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-jTnXqbQAAUy7_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2011089920203636939",
+        "created_at": "2026-01-13T15:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T16:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011099416741232943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999504877337395200",
+              "start": 0,
+              "username": "chuan_0123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011099416741232943",
+        "in_reply_to_user_id": "1999504877337395200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011089920203636939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuan_0123 薯条教主我给你吹吹！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011089906941247488"
+          ]
+        },
+        "author_id": "1999504877337395200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2011089920203636939",
+        "created_at": "2026-01-13T14:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T15:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011089920203636939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iCCCMYtQyb",
+              "end": 47,
+              "expanded_url": "https://x.com/chuan_0123/status/2011089920203636939/photo/1",
+              "media_key": "3_2011089906941247488",
+              "start": 24,
+              "url": "https://t.co/iCCCMYtQyb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011089920203636939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的皮有这么薄吗为什么轻轻一刀就又看到脂肪层了 https://t.co/iCCCMYtQyb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪66纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010591438627897389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 106,
+          "like_count": 1017,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 410
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T15:41:53.000Z",
+        "description": "我是川川/20↑/病み垢/无言follow抱歉/直fo＝喜欢你/欢迎互fo我想和你们玩/脑子不好啥都发 有自伤&od内容 图片一般不会直接发/接受不了的可以随意拉黑我😸",
+        "id": "1999504877337395200",
+        "location": "佛在渡你",
+        "name": "虚空薯条教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009954663387541506/RIm7gJMg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 32,
+          "like_count": 547,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 253
+        },
+        "username": "chuan_0123",
+        "verified": false
+      }
+    ]
+  }
+}

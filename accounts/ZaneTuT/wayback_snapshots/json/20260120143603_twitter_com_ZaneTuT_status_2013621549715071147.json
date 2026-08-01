@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2013291626014146670",
+    "created_at": "2026-01-20T14:36:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T15:36:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013621549715071147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1968225364163141632",
+          "start": 0,
+          "username": "Deborah90330371"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013621549715071147",
+    "in_reply_to_user_id": "1968225364163141632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013291626014146670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Deborah90330371 小若你闭嘴我一直哭。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2013291626014146670",
+        "created_at": "2026-01-20T14:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T15:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013621549715071147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1968225364163141632",
+              "start": 0,
+              "username": "Deborah90330371"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013621549715071147",
+        "in_reply_to_user_id": "1968225364163141632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013291626014146670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Deborah90330371 小若你闭嘴我一直哭。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968225364163141632",
+        "conversation_id": "2013291626014146670",
+        "created_at": "2026-01-19T16:45:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T17:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013291626014146670"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013291626014146670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我知道喜欢是有代价的呀，对不起，我没有以前那么可爱了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪128 纯绿丨有的文案不是原创别攻击我TuT丨08丨od丨私信看心情回丨高频率发帖我好无聊丨互fo可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "一说话就扯溃疡",
+        "pinned_tweet_id": "2013559742573224427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1643,
+          "following_count": 146,
+          "like_count": 2102,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 957
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T08:07:54.000Z",
+        "description": "我素绑带结or小若 双/不完全健全/女宝全认可/善良邪恶人格乱切/友好私信欢迎！（私信有些收不到/互fo看成分。聊天找小号！大号私信吞信息@dai7831",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 69,
+                "username": "dai7831"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A528546",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A528546",
+                "start": 0,
+                "url": "https://t.co/RuKjS3c4S8"
+              }
+            ]
+          }
+        },
+        "id": "1968225364163141632",
+        "location": "无🚪的意思是 想认识我门都没有。只和喜欢的人玩",
+        "name": "感觉自己很呆萌",
+        "pinned_tweet_id": "2006253707105828937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002613646657216514/c_8H58pg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 161,
+          "like_count": 3082,
+          "listed_count": 0,
+          "media_count": 246,
+          "tweet_count": 1817
+        },
+        "url": "https://t.co/RuKjS3c4S8",
+        "username": "Deborah90330371",
+        "verified": false
+      }
+    ]
+  }
+}

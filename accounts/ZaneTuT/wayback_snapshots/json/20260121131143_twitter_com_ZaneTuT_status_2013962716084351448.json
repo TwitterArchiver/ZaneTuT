@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2013514541355893065",
+    "created_at": "2026-01-21T13:11:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T14:11:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013962716084351448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1975078886557069312",
+          "start": 0,
+          "username": "cuzicovet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013962716084351448",
+    "in_reply_to_user_id": "1975078886557069312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013959543349276675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cuzicovet 对！🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2013514541355893065",
+        "created_at": "2026-01-21T13:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T14:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013962716084351448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1975078886557069312",
+              "start": 0,
+              "username": "cuzicovet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013962716084351448",
+        "in_reply_to_user_id": "1975078886557069312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013959543349276675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuzicovet 对！🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975078886557069312",
+        "conversation_id": "2013514541355893065",
+        "created_at": "2026-01-21T12:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T13:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013959543349276675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013959543349276675",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013514541355893065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT airdrop現在10分鐘就自己關了😔不好玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪128 纯绿丨有的文案不是原创别攻击我TuT丨08丨od丨私信看心情回丨高频率发帖我好无聊丨互fo可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "一说话就扯溃疡",
+        "pinned_tweet_id": "2013559742573224427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1937,
+          "following_count": 138,
+          "like_count": 2290,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 1042
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T06:01:56.000Z",
+        "description": "唯一本人，頭髮被剪成龜頭的只有一個，請幫偶檢舉｜其實是勞贖🐭 本體是一顆味島飯糰🍙｜SW｜女｜心碎收容中心｜不要轉發我照片👊🏻｜脾氣很差😡｜𖤐不會回跟，大家關注自己有興趣的事物即可 𖤐｜｜推特音訊台地縛靈，私訊不會回可以來禮貌聊天｜不約ㄆ，你打27價也不關我的事，但恭喜你身體健康｜凡所見皆所擇｜",
+        "id": "1975078886557069312",
+        "name": "超雄飯糰🍙",
+        "pinned_tweet_id": "1999756776682795289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008574768761700352/QSFBsmAg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1512,
+          "following_count": 162,
+          "like_count": 13227,
+          "listed_count": 2,
+          "media_count": 128,
+          "tweet_count": 765
+        },
+        "username": "cuzicovet",
+        "verified": false
+      }
+    ]
+  }
+}

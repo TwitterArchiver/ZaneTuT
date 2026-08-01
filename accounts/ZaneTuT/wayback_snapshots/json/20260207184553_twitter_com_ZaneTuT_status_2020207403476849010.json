@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020206911912833026"
+      ],
+      "media_source_tweet_id": [
+        "2020206918569193538"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2020207403476849010",
+    "created_at": "2026-02-07T18:45:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T19:45:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020207403476849010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2019688220787896326",
+          "start": 3,
+          "username": "QwQoverlxrd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZMn8pv8S6E",
+          "end": 77,
+          "expanded_url": "https://x.com/QwQoverlxrd/status/2020206918569193538/photo/1",
+          "media_key": "3_2020206911912833026",
+          "start": 54,
+          "url": "https://t.co/ZMn8pv8S6E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020207403476849010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020206918569193538",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QwQoverlxrd: 我有时候真的在想 没有朋友的话 我该怎么办 我太依赖好朋友了 真的 真的 https://t.co/ZMn8pv8S6E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 548,
+        "media_key": "3_2020206911912833026",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAk3e51acAIUPEM.jpg",
+        "width": 1039
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020206911912833026"
+          ],
+          "media_source_tweet_id": [
+            "2020206918569193538"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020207403476849010",
+        "created_at": "2026-02-07T18:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T19:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020207403476849010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2019688220787896326",
+              "start": 3,
+              "username": "QwQoverlxrd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZMn8pv8S6E",
+              "end": 77,
+              "expanded_url": "https://x.com/QwQoverlxrd/status/2020206918569193538/photo/1",
+              "media_key": "3_2020206911912833026",
+              "start": 54,
+              "url": "https://t.co/ZMn8pv8S6E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020207403476849010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020206918569193538",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QwQoverlxrd: 我有时候真的在想 没有朋友的话 我该怎么办 我太依赖好朋友了 真的 真的 https://t.co/ZMn8pv8S6E"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020206911912833026"
+          ]
+        },
+        "author_id": "2019688220787896326",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020206918569193538",
+        "created_at": "2026-02-07T18:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T19:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020206918569193538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZMn8pv8S6E",
+              "end": 60,
+              "expanded_url": "https://x.com/QwQoverlxrd/status/2020206918569193538/photo/1",
+              "media_key": "3_2020206911912833026",
+              "start": 37,
+              "url": "https://t.co/ZMn8pv8S6E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020206918569193538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我有时候真的在想 没有朋友的话 我该怎么办 我太依赖好朋友了 真的 真的 https://t.co/ZMn8pv8S6E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3429,
+          "following_count": 200,
+          "like_count": 3389,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 1528
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-06T08:22:58.000Z",
+        "description": "有爱真好 有你真好",
+        "id": "2019688220787896326",
+        "name": "爱？唉！",
+        "pinned_tweet_id": "2019688953054646597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019688341831311360/FQ4MGzR__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 2,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 7
+        },
+        "username": "QwQoverlxrd",
+        "verified": false
+      }
+    ]
+  }
+}

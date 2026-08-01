@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2010524394687201595",
+    "created_at": "2026-01-12T01:29:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T02:29:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010524394687201595"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/joey99191/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/joey99191/status/2010334588204425685",
+          "start": 5,
+          "url": "https://t.co/HC0nSTZ22Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010524394687201595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010334588204425685",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本来就是 https://t.co/HC0nSTZ22Z"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2010524394687201595",
+        "created_at": "2026-01-12T01:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T02:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010524394687201595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/joey99191/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/joey99191/status/2010334588204425685",
+              "start": 5,
+              "url": "https://t.co/HC0nSTZ22Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010524394687201595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010334588204425685",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本来就是 https://t.co/HC0nSTZ22Z"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977209572596264960",
+        "conversation_id": "2010334588204425685",
+        "created_at": "2026-01-11T12:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T13:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010334588204425685"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010334588204425685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 18678,
+          "like_count": 119,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我真的觉得男朋友性欲强是一件很幸福的事…吵架了直接爆炒一顿能解决80%的事（我不知道我瞎说的我是这么觉得的）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨我听点udg 可以和我一起听歌…",
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010215499150585985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 90,
+          "like_count": 703,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 193
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T03:10:16.000Z",
+        "description": "🇲🇾小号 @joey85z",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "joey85z"
+              }
+            ]
+          }
+        },
+        "id": "1977209572596264960",
+        "name": "zi qing🇲🇾",
+        "pinned_tweet_id": "2005957211256696948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995405723422097408/IUG2G9tH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12492,
+          "following_count": 181,
+          "like_count": 711,
+          "listed_count": 11,
+          "media_count": 36,
+          "tweet_count": 193
+        },
+        "username": "Joey99191",
+        "verified": false
+      }
+    ]
+  }
+}

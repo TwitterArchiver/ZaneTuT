@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013616070452457472",
+        "3_2013616070448308224",
+        "3_2013616070469230592"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2013616082557231302",
+    "created_at": "2026-01-20T14:14:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T15:14:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013616082557231302"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ppxQedUdKe",
+          "end": 165,
+          "expanded_url": "https://x.com/ZaneTuT/status/2013616082557231302/photo/1",
+          "media_key": "3_2013616070452457472",
+          "start": 142,
+          "url": "https://t.co/ppxQedUdKe"
+        },
+        {
+          "display_url": "pic.x.com/ppxQedUdKe",
+          "end": 165,
+          "expanded_url": "https://x.com/ZaneTuT/status/2013616082557231302/photo/1",
+          "media_key": "3_2013616070448308224",
+          "start": 142,
+          "url": "https://t.co/ppxQedUdKe"
+        },
+        {
+          "display_url": "pic.x.com/ppxQedUdKe",
+          "end": 165,
+          "expanded_url": "https://x.com/ZaneTuT/status/2013616082557231302/photo/1",
+          "media_key": "3_2013616070469230592",
+          "start": 142,
+          "url": "https://t.co/ppxQedUdKe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013616082557231302",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1️⃣www我一直哭 谢谢你呀 你也会幸福的！我们都会！！\n2️⃣哎呦…我当时吓得一直手抖 快急哭了！我是一个脆弱的小溃疡…🥺谢谢你 你真好！\n3️⃣心选哥？？嗯我第一反应是自卑呀…我是一个很容易恋爱脑的人 哪怕没恋上也会给人家花很多钱买礼物 我真的不知道怎么追人…有了再说吧嘿嘿！ https://t.co/ppxQedUdKe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 866,
+        "media_key": "3_2013616070452457472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_HNJcFWMAARNa2.jpg",
+        "width": 1206
+      },
+      {
+        "height": 917,
+        "media_key": "3_2013616070448308224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_HNJcEW4AA_brj.jpg",
+        "width": 1206
+      },
+      {
+        "height": 801,
+        "media_key": "3_2013616070469230592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_HNJcJWIAAHgu7.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013616070452457472",
+            "3_2013616070448308224",
+            "3_2013616070469230592"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2013616082557231302",
+        "created_at": "2026-01-20T14:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T15:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013616082557231302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ppxQedUdKe",
+              "end": 165,
+              "expanded_url": "https://x.com/ZaneTuT/status/2013616082557231302/photo/1",
+              "media_key": "3_2013616070452457472",
+              "start": 142,
+              "url": "https://t.co/ppxQedUdKe"
+            },
+            {
+              "display_url": "pic.x.com/ppxQedUdKe",
+              "end": 165,
+              "expanded_url": "https://x.com/ZaneTuT/status/2013616082557231302/photo/1",
+              "media_key": "3_2013616070448308224",
+              "start": 142,
+              "url": "https://t.co/ppxQedUdKe"
+            },
+            {
+              "display_url": "pic.x.com/ppxQedUdKe",
+              "end": 165,
+              "expanded_url": "https://x.com/ZaneTuT/status/2013616082557231302/photo/1",
+              "media_key": "3_2013616070469230592",
+              "start": 142,
+              "url": "https://t.co/ppxQedUdKe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013616082557231302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1️⃣www我一直哭 谢谢你呀 你也会幸福的！我们都会！！\n2️⃣哎呦…我当时吓得一直手抖 快急哭了！我是一个脆弱的小溃疡…🥺谢谢你 你真好！\n3️⃣心选哥？？嗯我第一反应是自卑呀…我是一个很容易恋爱脑的人 哪怕没恋上也会给人家花很多钱买礼物 我真的不知道怎么追人…有了再说吧嘿嘿！ https://t.co/ppxQedUdKe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪128 纯绿丨有的文案不是原创别攻击我TuT丨08丨od丨私信看心情回丨高频率发帖我好无聊丨互fo可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "一说话就扯溃疡",
+        "pinned_tweet_id": "2013559742573224427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1631,
+          "following_count": 146,
+          "like_count": 2097,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 954
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

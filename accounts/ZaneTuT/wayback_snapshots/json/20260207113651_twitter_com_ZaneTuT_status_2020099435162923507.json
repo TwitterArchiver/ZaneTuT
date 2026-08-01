@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020099425746751488"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2020099435162923507",
+    "created_at": "2026-02-07T11:36:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T12:36:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020099435162923507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2016391481276137472",
+          "start": 8,
+          "username": "Ri0trix"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wAsgJ6qQtx",
+          "end": 40,
+          "expanded_url": "https://x.com/ZaneTuT/status/2020099435162923507/photo/1",
+          "media_key": "3_2020099425746751488",
+          "start": 17,
+          "url": "https://t.co/wAsgJ6qQtx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020099435162923507",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我和小r又见面了@Ri0trix https://t.co/wAsgJ6qQtx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020099425746751488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAjVuYqbEAAtXLj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020099425746751488"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2020099435162923507",
+        "created_at": "2026-02-07T11:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T12:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020099435162923507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2016391481276137472",
+              "start": 8,
+              "username": "Ri0trix"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wAsgJ6qQtx",
+              "end": 40,
+              "expanded_url": "https://x.com/ZaneTuT/status/2020099435162923507/photo/1",
+              "media_key": "3_2020099425746751488",
+              "start": 17,
+              "url": "https://t.co/wAsgJ6qQtx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020099435162923507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我和小r又见面了@Ri0trix https://t.co/wAsgJ6qQtx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3404,
+          "following_count": 199,
+          "like_count": 3353,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 1505
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-28T06:04:01.000Z",
+        "description": "叫我小r就好｜玻璃心一点就炸｜07｜od｜私信都会看哦｜经常发疯｜患有精神分裂｜互fo可以来➕好友｜我听说唱udg浓度高🤍 一个恶魔女孩@ZaneTuT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 68,
+                "username": "ZaneTuT"
+              }
+            ]
+          }
+        },
+        "id": "2016391481276137472",
+        "location": "🚪88 偶尔有照片",
+        "name": "Riotrix",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016391909606830081/c3kUa5b4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 3,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 46
+        },
+        "username": "Ri0trix",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2025394668520054914",
+    "created_at": "2026-02-22T02:18:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T03:18:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025394668520054914"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/04177_realname…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/04177_realname/status/2025013957669650736",
+          "start": 16,
+          "url": "https://t.co/DjLenh3l9f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025394668520054914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025013957669650736",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我笑的豆腐脑呛到鼻子里rnmb https://t.co/DjLenh3l9f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 840,
+        "media_key": "3_2025013927562936320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBpLcCmbgAA6Z0D.jpg",
+        "width": 724
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2025394668520054914",
+        "created_at": "2026-02-22T02:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T03:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025394668520054914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/04177_realname…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/04177_realname/status/2025013957669650736",
+              "start": 16,
+              "url": "https://t.co/DjLenh3l9f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025394668520054914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025013957669650736",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我笑的豆腐脑呛到鼻子里rnmb https://t.co/DjLenh3l9f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025013927562936320"
+          ]
+        },
+        "author_id": "1680508885394927616",
+        "conversation_id": "2025013957669650736",
+        "created_at": "2026-02-21T01:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T02:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025013957669650736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yTF3hOmRCA",
+              "end": 34,
+              "expanded_url": "https://x.com/04177_realname/status/2025013957669650736/photo/1",
+              "media_key": "3_2025013927562936320",
+              "start": 11,
+              "url": "https://t.co/yTF3hOmRCA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025013957669650736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 208731,
+          "like_count": 4751,
+          "quote_count": 11,
+          "reply_count": 65,
+          "retweet_count": 145
+        },
+        "reply_settings": "everyone",
+        "text": "到底在把持不住些什么 https://t.co/yTF3hOmRCA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4569,
+          "following_count": 220,
+          "like_count": 3807,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 1731
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T09:25:35.000Z",
+        "description": "ftm/注射剂hrt初始日期 2025.10.8 每月一针ing\n🦋：@04177realname.bsky.social（互fo）\n推特大号：@04177realname（同类和顾客互fo）\n推特小号：@04177_truth（互fo）\n提问箱：有问题私信问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 35,
+                "username": "04177realname"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "04177realname"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "04177_truth"
+              }
+            ]
+          }
+        },
+        "id": "1680508885394927616",
+        "location": "🚪68",
+        "name": "🍥真名🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988315939272851456/-MD8Lh9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10525,
+          "following_count": 5851,
+          "like_count": 64383,
+          "listed_count": 30,
+          "media_count": 2834,
+          "tweet_count": 20225
+        },
+        "username": "04177_realname",
+        "verified": false
+      }
+    ]
+  }
+}

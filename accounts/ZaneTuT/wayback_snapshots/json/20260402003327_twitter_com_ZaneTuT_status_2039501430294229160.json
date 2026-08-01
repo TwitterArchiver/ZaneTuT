@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2039334973652828648",
+    "created_at": "2026-04-02T00:33:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T01:33:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039501430294229160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1820594914339799040",
+          "start": 0,
+          "username": "2CROW19"
+        },
+        {
+          "end": 18,
+          "id": "1885021581153320961",
+          "start": 9,
+          "username": "xu121718"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039501430294229160",
+    "in_reply_to_user_id": "1820594914339799040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039482637170164195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2CROW19 @xu121718 谢谢你。好心的坚果。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2039334973652828648",
+        "created_at": "2026-04-02T00:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T01:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039501430294229160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1820594914339799040",
+              "start": 0,
+              "username": "2CROW19"
+            },
+            {
+              "end": 18,
+              "id": "1885021581153320961",
+              "start": 9,
+              "username": "xu121718"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039501430294229160",
+        "in_reply_to_user_id": "1820594914339799040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039482637170164195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2CROW19 @xu121718 谢谢你。好心的坚果。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820594914339799040",
+        "conversation_id": "2039334973652828648",
+        "created_at": "2026-04-01T23:18:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T00:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039482637170164195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            },
+            {
+              "end": 18,
+              "id": "1885021581153320961",
+              "start": 9,
+              "username": "xu121718"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039482637170164195",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039473951089557862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT @xu121718 吃菠萝好像体液变甜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨08丨od丨中抑中焦丨互fo免🚪丨我听点udg sasi很多很多丨两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 45,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6154,
+          "following_count": 290,
+          "like_count": 5819,
+          "listed_count": 3,
+          "media_count": 66,
+          "tweet_count": 2481
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T22:57:16.000Z",
+        "description": "想谴责想骂我的人可以滚了，我只想和无论我变成什么样都会跟我一起玩的人玩",
+        "id": "1820594914339799040",
+        "location": "🚪50 仅限每周四 平时免费",
+        "name": "永恆",
+        "pinned_tweet_id": "2039234554259812540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034274699413438465/-Vx8v5kZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 174,
+          "like_count": 2219,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 1549
+        },
+        "username": "2CROW19",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T17:45:50.000Z",
+        "description": "05 ENFJ sw 巨蟹 直男 杭州 黄暴人格@xiaoyuxxx127  介意勿关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "xiaoyuxxx127"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%B1%BC%E5%8D%B7",
+                "start": 0,
+                "url": "https://t.co/dqVtBKW5LS"
+              }
+            ]
+          }
+        },
+        "id": "1885021581153320961",
+        "name": "小鱼卷",
+        "pinned_tweet_id": "1970055773242966481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035293166786805760/5ke1eK8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1743,
+          "following_count": 291,
+          "like_count": 34362,
+          "listed_count": 3,
+          "media_count": 524,
+          "tweet_count": 5876
+        },
+        "url": "https://t.co/dqVtBKW5LS",
+        "username": "xu121718",
+        "verified": false
+      }
+    ]
+  }
+}

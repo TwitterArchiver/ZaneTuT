@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2032001065454092794",
+    "created_at": "2026-03-12T09:14:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T10:14:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032022295167082839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1675225794375987201",
+          "start": 0,
+          "username": "Trotter55569805"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032022295167082839",
+    "in_reply_to_user_id": "1675225794375987201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032015154511225115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Trotter55569805 老铁没毛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2032001065454092794",
+        "created_at": "2026-03-12T09:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T10:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032022295167082839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1675225794375987201",
+              "start": 0,
+              "username": "Trotter55569805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032022295167082839",
+        "in_reply_to_user_id": "1675225794375987201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032015154511225115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Trotter55569805 老铁没毛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675225794375987201",
+        "conversation_id": "2032001065454092794",
+        "created_at": "2026-03-12T08:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T09:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032015154511225115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032015154511225115",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032001065454092794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 草没毛病老铁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5432,
+          "following_count": 277,
+          "like_count": 4597,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 1998
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-01T19:32:40.000Z",
+        "description": "可是太阳照常升…",
+        "id": "1675225794375987201",
+        "location": "南極共和國",
+        "name": "丹柯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031931888219406339/HUY7tFjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 950,
+          "like_count": 7386,
+          "listed_count": 2,
+          "media_count": 318,
+          "tweet_count": 3736
+        },
+        "username": "Trotter55569805",
+        "verified": false
+      }
+    ]
+  }
+}

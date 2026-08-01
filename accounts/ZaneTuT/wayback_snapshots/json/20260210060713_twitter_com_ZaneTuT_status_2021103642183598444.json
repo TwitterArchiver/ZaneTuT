@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2021090153943662961",
+    "created_at": "2026-02-10T06:07:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T07:07:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021103642183598444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1619220580976267264",
+          "start": 0,
+          "username": "shadow_244H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021103642183598444",
+    "in_reply_to_user_id": "1619220580976267264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021090153943662961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shadow_244H 他的辱骂有点略疼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1451,
+        "media_key": "3_2021090146477801472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAxax6_aAAAqnGE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2021090153943662961",
+        "created_at": "2026-02-10T06:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T07:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021103642183598444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1619220580976267264",
+              "start": 0,
+              "username": "shadow_244H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021103642183598444",
+        "in_reply_to_user_id": "1619220580976267264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021090153943662961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shadow_244H 他的辱骂有点略疼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021090146477801472"
+          ]
+        },
+        "author_id": "1619220580976267264",
+        "conversation_id": "2021090153943662961",
+        "created_at": "2026-02-10T05:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T06:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021090153943662961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oh2nGHuzve",
+              "end": 28,
+              "expanded_url": "https://x.com/shadow_244H/status/2021090153943662961/photo/1",
+              "media_key": "3_2021090146477801472",
+              "start": 5,
+              "url": "https://t.co/oh2nGHuzve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021090153943662961",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "街头智慧 https://t.co/oh2nGHuzve"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3619,
+          "following_count": 206,
+          "like_count": 3513,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 1595
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-28T06:27:30.000Z",
+        "description": "活在困惑里",
+        "id": "1619220580976267264",
+        "location": "有🚪",
+        "name": "做恨止住我的泪",
+        "pinned_tweet_id": "2018301891483259214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020882852808945664/IZNc5Uda_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1811,
+          "following_count": 54,
+          "like_count": 219,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 106
+        },
+        "username": "shadow_244H",
+        "verified": false
+      }
+    ]
+  }
+}

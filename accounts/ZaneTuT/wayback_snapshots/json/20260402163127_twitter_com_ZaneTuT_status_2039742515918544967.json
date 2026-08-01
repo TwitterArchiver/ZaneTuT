@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039742497874948096",
+        "3_2039742497723731968"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2039742515918544967",
+    "created_at": "2026-04-02T16:31:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T17:31:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039742515918544967"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EGXbaoQR5w",
+          "end": 49,
+          "expanded_url": "https://x.com/ZaneTuT/status/2039742515918544967/photo/1",
+          "media_key": "3_2039742497874948096",
+          "start": 26,
+          "url": "https://t.co/EGXbaoQR5w"
+        },
+        {
+          "display_url": "pic.x.com/EGXbaoQR5w",
+          "end": 49,
+          "expanded_url": "https://x.com/ZaneTuT/status/2039742515918544967/photo/1",
+          "media_key": "3_2039742497723731968",
+          "start": 26,
+          "url": "https://t.co/EGXbaoQR5w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039742515918544967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我前任跳楼了 我马上承受不住这些信息量了真他妈吓人 https://t.co/EGXbaoQR5w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2039742497874948096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE6e_qsasAAatKy.jpg",
+        "width": 580
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2039742497723731968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE6e_qIXUAAWCzY.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039742497874948096",
+            "3_2039742497723731968"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2039742515918544967",
+        "created_at": "2026-04-02T16:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T17:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039742515918544967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EGXbaoQR5w",
+              "end": 49,
+              "expanded_url": "https://x.com/ZaneTuT/status/2039742515918544967/photo/1",
+              "media_key": "3_2039742497874948096",
+              "start": 26,
+              "url": "https://t.co/EGXbaoQR5w"
+            },
+            {
+              "display_url": "pic.x.com/EGXbaoQR5w",
+              "end": 49,
+              "expanded_url": "https://x.com/ZaneTuT/status/2039742515918544967/photo/1",
+              "media_key": "3_2039742497723731968",
+              "start": 26,
+              "url": "https://t.co/EGXbaoQR5w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039742515918544967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我前任跳楼了 我马上承受不住这些信息量了真他妈吓人 https://t.co/EGXbaoQR5w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨08丨od丨中抑中焦丨互fo免🚪丨我听点udg sasi很多很多丨两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 45,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6215,
+          "following_count": 292,
+          "like_count": 6037,
+          "listed_count": 3,
+          "media_count": 97,
+          "tweet_count": 2551
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

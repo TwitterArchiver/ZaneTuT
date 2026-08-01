@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2020390954210136115",
+    "created_at": "2026-02-08T06:59:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T07:59:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020392031114407973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1625662182284468224",
+          "start": 0,
+          "username": "qaz24510269"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020392031114407973",
+    "in_reply_to_user_id": "1625662182284468224",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020390954210136115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qaz24510269 🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2020390954210136115",
+        "created_at": "2026-02-08T06:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T07:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020392031114407973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1625662182284468224",
+              "start": 0,
+              "username": "qaz24510269"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020392031114407973",
+        "in_reply_to_user_id": "1625662182284468224",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020390954210136115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qaz24510269 🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1625662182284468224",
+        "conversation_id": "2020390954210136115",
+        "created_at": "2026-02-08T06:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T07:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020390954210136115"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020390954210136115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天队里去比赛，我还有伤也没去看。虽然有点失落，但躺在床上听见他们一切顺利就很开心。虽然我不在，学长们依旧很厉害。他们马上要毕业了，我终于有最稳定的上场时间了。但我能做到跟你们一样好吗。我不知道。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3449,
+          "following_count": 200,
+          "like_count": 3399,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 1520
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-15T01:04:14.000Z",
+        "description": "^ ^",
+        "id": "1625662182284468224",
+        "location": "straight",
+        "name": "qaz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1627572124515975168/Q_RKePfn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 245,
+          "like_count": 4084,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 369
+        },
+        "username": "qaz24510269",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2077082192849596461",
+    "created_at": "2026-07-15T00:24:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T01:24:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077187591330578487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1926589725189476352",
+          "start": 0,
+          "username": "sandyyyy0922"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077187591330578487",
+    "in_reply_to_user_id": "1926589725189476352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077082192849596461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sandyyyy0922 溺爱🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2077082192849596461",
+        "created_at": "2026-07-15T00:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T01:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077187591330578487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1926589725189476352",
+              "start": 0,
+              "username": "sandyyyy0922"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077187591330578487",
+        "in_reply_to_user_id": "1926589725189476352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077082192849596461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sandyyyy0922 溺爱🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926589725189476352",
+        "conversation_id": "2077082192849596461",
+        "created_at": "2026-07-14T17:25:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T18:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077082192849596461"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077082192849596461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2054,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果有一天我被网暴了 我这2165个fo有多少个会站出来守护我呢🚬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨互fo免🚪丨💗算卦找@kill_this_hate 不准你打我丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 52,
+                "start": 44,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2075472000680911094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8025,
+          "following_count": 275,
+          "like_count": 6087,
+          "listed_count": 4,
+          "media_count": 39,
+          "tweet_count": 2621
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-25T10:42:55.000Z",
+        "description": "碎碎念+照片随机掉落+恋爱碎片｜07天秤｜叫我M豆或者豆就好｜Bisexual｜infj｜有老公/男友/哥哥/宝宝（同一个人）｜另一个豆@woxihuandaMdou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "woxihuandaMdou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "brothergo.com//lcel46/web?t=…",
+                "end": 23,
+                "expanded_url": "https://www.brothergo.com//lcel46/web?t=1780027673",
+                "start": 0,
+                "url": "https://t.co/9CCewqfogR"
+              }
+            ]
+          }
+        },
+        "id": "1926589725189476352",
+        "location": "M豆星",
+        "name": "黄色大M🫘",
+        "pinned_tweet_id": "2058565041256063190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926595280301875202/aWTzMjuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2169,
+          "following_count": 383,
+          "like_count": 3836,
+          "listed_count": 2,
+          "media_count": 373,
+          "tweet_count": 3588
+        },
+        "url": "https://t.co/9CCewqfogR",
+        "username": "sandyyyy0922",
+        "verified": true
+      }
+    ]
+  }
+}

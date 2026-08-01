@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2037576976412836344",
+    "created_at": "2026-03-28T03:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T04:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037737657867149592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1979627040157667328",
+          "start": 0,
+          "username": "Not0wned_zhao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037737657867149592",
+    "in_reply_to_user_id": "1979627040157667328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037576976412836344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Not0wned_zhao 我的帖子火不火都有人机捧场 好崩溃呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2796,
+        "media_key": "3_2037576962840162304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEbtc8CbcAAzwpT.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2037576976412836344",
+        "created_at": "2026-03-28T03:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T04:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037737657867149592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1979627040157667328",
+              "start": 0,
+              "username": "Not0wned_zhao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037737657867149592",
+        "in_reply_to_user_id": "1979627040157667328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037576976412836344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Not0wned_zhao 我的帖子火不火都有人机捧场 好崩溃呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037576962840162304"
+          ]
+        },
+        "author_id": "1979627040157667328",
+        "conversation_id": "2037576976412836344",
+        "created_at": "2026-03-27T17:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T18:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037576976412836344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yJECZLxzeu",
+              "end": 38,
+              "expanded_url": "https://x.com/Not0wned_zhao/status/2037576976412836344/photo/1",
+              "media_key": "3_2037576962840162304",
+              "start": 15,
+              "url": "https://t.co/yJECZLxzeu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037576976412836344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21419,
+          "like_count": 285,
+          "quote_count": 0,
+          "reply_count": 60,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "当你发的帖子在中文推内火了： https://t.co/yJECZLxzeu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5914,
+          "following_count": 285,
+          "like_count": 5456,
+          "listed_count": 3,
+          "media_count": 62,
+          "tweet_count": 2264
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-18T19:14:52.000Z",
+        "description": "我叫昭昭｜♒️05/173/50 ｜发自己爱看的(o^^o) ｜只看高壮帅男｜不聊骚不线下不约无门不加v｜不闲聊没有义务回答别骚扰🙏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pilot.damoplane.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://pilot.damoplane.com/#/register?code=xiadQvfC",
+                "start": 0,
+                "url": "https://t.co/SlnWdFFnZT"
+              }
+            ]
+          }
+        },
+        "id": "1979627040157667328",
+        "name": "魅魔村村长",
+        "pinned_tweet_id": "2023800898447904980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018701608016830464/R7efrGA-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1254,
+          "following_count": 13,
+          "like_count": 198,
+          "listed_count": 5,
+          "media_count": 208,
+          "tweet_count": 1783
+        },
+        "url": "https://t.co/SlnWdFFnZT",
+        "username": "Not0wned_zhao",
+        "verified": false
+      }
+    ]
+  }
+}

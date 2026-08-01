@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2019531816072540208",
+    "created_at": "2026-02-06T03:12:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T04:12:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019610160256413735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1764232461439897600",
+          "start": 0,
+          "username": "baobao_7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019610160256413735",
+    "in_reply_to_user_id": "1764232461439897600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019531816072540208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baobao_7777 天啊真的 我每次看到那些小男孩都好喜欢 一看是四爱我就好伤心。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2019531816072540208",
+        "created_at": "2026-02-06T03:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T04:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019610160256413735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1764232461439897600",
+              "start": 0,
+              "username": "baobao_7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019610160256413735",
+        "in_reply_to_user_id": "1764232461439897600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019531816072540208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baobao_7777 天啊真的 我每次看到那些小男孩都好喜欢 一看是四爱我就好伤心。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764232461439897600",
+        "conversation_id": "2019531816072540208",
+        "created_at": "2026-02-05T22:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T23:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019531816072540208"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019531816072540208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2905,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为啥不能屏蔽社群。我看那个四爱社群里男的都好馋。卧槽为什么要给女人捅屁眼子。（没有诋毁四爱的意思没有攻击任何人）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨神秘账号@Rotte2t00丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "Rotte2t00"
+              },
+              {
+                "end": 80,
+                "start": 65,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 95,
+                "start": 87,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3277,
+          "following_count": 202,
+          "like_count": 3238,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 1444
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T10:13:08.000Z",
+        "description": "你好我是堡 当朋友圈发｜性别男取向男｜爱分享爱骂街爱发骚 身体里有一个表子人格偶尔会出来和呆萌主人格争夺身体控制权｜不互fo 想和好看or有趣的人玩｜链接是提问箱欢迎发消息",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/burger7777",
+                "end": 23,
+                "expanded_url": "https://ngl.link/burger7777",
+                "start": 0,
+                "url": "https://t.co/GIQCODGHiA"
+              }
+            ]
+          }
+        },
+        "id": "1764232461439897600",
+        "location": "^ω^",
+        "name": "幻想天降180正装帅男自愿让小堡法",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016383384122228736/BvC1QVbF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 91,
+          "like_count": 13558,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 2959
+        },
+        "url": "https://t.co/GIQCODGHiA",
+        "username": "baobao_7777",
+        "verified": false
+      }
+    ]
+  }
+}

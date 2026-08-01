@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2015761180414091632",
+    "created_at": "2026-01-26T12:18:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T13:18:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015761180414091632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2014160022645952512",
+          "start": 3,
+          "username": "Rotte2t00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015761180414091632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015760970199773557",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rotte2t00: 每过一阵子就想找个帅哥陪我用情头 我难受啊大哥姐们"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2015761180414091632",
+        "created_at": "2026-01-26T12:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T13:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015761180414091632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2014160022645952512",
+              "start": 3,
+              "username": "Rotte2t00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015761180414091632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015760970199773557",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rotte2t00: 每过一阵子就想找个帅哥陪我用情头 我难受啊大哥姐们"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014160022645952512",
+        "conversation_id": "2015760970199773557",
+        "created_at": "2026-01-26T12:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T13:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015760970199773557"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015760970199773557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "每过一阵子就想找个帅哥陪我用情头 我难受啊大哥姐们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心丨08丨od丨私信看心情回丨高频率发帖丨互fo可以直接➕V丨我听点udg sasi很多很多丨我皮下非常没有素质别惹我了行吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2604,
+          "following_count": 164,
+          "like_count": 2736,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 1267
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-22T02:15:55.000Z",
+        "description": "真别惹我了行吗 大号@ZaneTuT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 10,
+                "username": "ZaneTuT"
+              }
+            ]
+          }
+        },
+        "id": "2014160022645952512",
+        "name": "那应该还挺难受的",
+        "pinned_tweet_id": "2014161343000035602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014160875561857025/umGgxC1S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 12,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 30
+        },
+        "username": "Rotte2t00",
+        "verified": false
+      }
+    ]
+  }
+}

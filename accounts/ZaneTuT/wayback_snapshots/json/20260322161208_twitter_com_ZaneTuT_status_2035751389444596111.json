@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2035729332568719458",
+    "created_at": "2026-03-22T16:12:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T17:12:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035751389444596111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1995449608823328768",
+          "start": 0,
+          "username": "cheee5283"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035751389444596111",
+    "in_reply_to_user_id": "1995449608823328768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035744014843183317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cheee5283 我胡说的。我也只会通过推特认识心选。，TuT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2035729332568719458",
+        "created_at": "2026-03-22T16:12:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T17:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035751389444596111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995449608823328768",
+              "start": 0,
+              "username": "cheee5283"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035751389444596111",
+        "in_reply_to_user_id": "1995449608823328768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035744014843183317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cheee5283 我胡说的。我也只会通过推特认识心选。，TuT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995449608823328768",
+        "conversation_id": "2035729332568719458",
+        "created_at": "2026-03-22T15:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T16:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035744014843183317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035744014843183317",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035729332568719458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 🥹那像我們這種社交廢柴還怎麼認識心選 潰瘍老師"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5649,
+          "following_count": 296,
+          "like_count": 5163,
+          "listed_count": 3,
+          "media_count": 59,
+          "tweet_count": 2101
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-01T11:07:54.000Z",
+        "description": "NON-BINARY/DON’T DO RELATIONSHIP/INFP",
+        "id": "1995449608823328768",
+        "name": "她不想死也想去巴黎",
+        "pinned_tweet_id": "2034536295087972651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024817870782496768/z43me0uh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 30,
+          "like_count": 136,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 144
+        },
+        "username": "cheee5283",
+        "verified": false
+      }
+    ]
+  }
+}

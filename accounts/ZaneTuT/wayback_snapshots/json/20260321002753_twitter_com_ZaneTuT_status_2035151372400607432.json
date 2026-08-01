@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2034977870066422183",
+    "created_at": "2026-03-21T00:27:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T01:27:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035151372400607432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2016391481276137472",
+          "start": 0,
+          "username": "Ri0trix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035151372400607432",
+    "in_reply_to_user_id": "2016391481276137472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035047366034956503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ri0trix 你见到我就知道了 狡猾的精神小妹罢了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2034977870066422183",
+        "created_at": "2026-03-21T00:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T01:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035151372400607432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2016391481276137472",
+              "start": 0,
+              "username": "Ri0trix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035151372400607432",
+        "in_reply_to_user_id": "2016391481276137472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035047366034956503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ri0trix 你见到我就知道了 狡猾的精神小妹罢了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016391481276137472",
+        "conversation_id": "2034977870066422183",
+        "created_at": "2026-03-20T17:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T18:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035047366034956503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035047366034956503",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034977870066422183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 特别适合你…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5495,
+          "following_count": 288,
+          "like_count": 5113,
+          "listed_count": 3,
+          "media_count": 64,
+          "tweet_count": 2104
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-28T06:04:01.000Z",
+        "description": "一个恶魔女孩@ZaneTuT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 6,
+                "username": "ZaneTuT"
+              }
+            ]
+          }
+        },
+        "id": "2016391481276137472",
+        "name": "我最愛你了你不知道嗎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034767364403982336/lCMogM8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 9,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 103
+        },
+        "username": "Ri0trix",
+        "verified": false
+      }
+    ]
+  }
+}

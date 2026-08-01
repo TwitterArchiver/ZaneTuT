@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2036195498462421475",
+    "created_at": "2026-03-23T21:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T22:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036195498462421475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1979627040157667328",
+          "start": 3,
+          "username": "Not0wned_zhao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036195498462421475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 88
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035956892082606321",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Not0wned_zhao: 我们不要在试探彼此了好吗 你告诉我你也很想我就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2036195498462421475",
+        "created_at": "2026-03-23T21:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T22:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036195498462421475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1979627040157667328",
+              "start": 3,
+              "username": "Not0wned_zhao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036195498462421475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 88
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035956892082606321",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Not0wned_zhao: 我们不要在试探彼此了好吗 你告诉我你也很想我就好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979627040157667328",
+        "conversation_id": "2035956892082606321",
+        "created_at": "2026-03-23T05:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T06:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035956892082606321"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035956892082606321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 14636,
+          "like_count": 591,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "我们不要在试探彼此了好吗 你告诉我你也很想我就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5834,
+          "following_count": 306,
+          "like_count": 5216,
+          "listed_count": 3,
+          "media_count": 62,
+          "tweet_count": 2120
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-18T19:14:52.000Z",
+        "description": "我叫昭昭｜♒️05/173/50 ｜发自己爱看的(o^^o) ｜爱看高壮帅嫩男｜丑瘦矮勿扰｜不聊骚不线下不约无门不加v｜不闲聊没有义务回答",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pilot.damoplane.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://pilot.damoplane.com/#/register?code=xiadQvfC",
+                "start": 0,
+                "url": "https://t.co/SlnWdFFnZT"
+              }
+            ]
+          }
+        },
+        "id": "1979627040157667328",
+        "name": "魅魔村村长",
+        "pinned_tweet_id": "2023800898447904980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018701608016830464/R7efrGA-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 18,
+          "like_count": 174,
+          "listed_count": 5,
+          "media_count": 175,
+          "tweet_count": 834
+        },
+        "url": "https://t.co/SlnWdFFnZT",
+        "username": "Not0wned_zhao",
+        "verified": false
+      }
+    ]
+  }
+}

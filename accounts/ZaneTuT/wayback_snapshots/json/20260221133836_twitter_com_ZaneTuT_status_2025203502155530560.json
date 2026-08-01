@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2025190579685200170",
+    "created_at": "2026-02-21T13:38:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T14:38:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025203502155530560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1764232461439897600",
+          "start": 0,
+          "username": "baobao_7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025203502155530560",
+    "in_reply_to_user_id": "1764232461439897600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025190579685200170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baobao_7777 好好抽呀…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2025190571246321666",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBrsGDmbgAI3dZx.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2025190579685200170",
+        "created_at": "2026-02-21T13:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T14:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025203502155530560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1764232461439897600",
+              "start": 0,
+              "username": "baobao_7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025203502155530560",
+        "in_reply_to_user_id": "1764232461439897600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025190579685200170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baobao_7777 好好抽呀…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025190571246321666"
+          ]
+        },
+        "author_id": "1764232461439897600",
+        "conversation_id": "2025190579685200170",
+        "created_at": "2026-02-21T12:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T13:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025190579685200170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GtSxBmVV04",
+              "end": 35,
+              "expanded_url": "https://x.com/baobao_7777/status/2025190579685200170/photo/1",
+              "media_key": "3_2025190571246321666",
+              "start": 12,
+              "url": "https://t.co/GtSxBmVV04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025190579685200170",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被爱喜香芋砸醒好舒服呀 https://t.co/GtSxBmVV04"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4527,
+          "following_count": 220,
+          "like_count": 3777,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 1717
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T10:13:08.000Z",
+        "description": "一个苦命忧郁更年期男人的碎碎念",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/burger7777",
+                "end": 23,
+                "expanded_url": "https://ngl.link/burger7777",
+                "start": 0,
+                "url": "https://t.co/GIQCODGHiA"
+              }
+            ]
+          }
+        },
+        "id": "1764232461439897600",
+        "location": "站街中",
+        "name": "雌香家母",
+        "pinned_tweet_id": "2024007260406694129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023813471343894528/dAUgYmRa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1316,
+          "following_count": 113,
+          "like_count": 20353,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 7143
+        },
+        "url": "https://t.co/GIQCODGHiA",
+        "username": "baobao_7777",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2030660205894423033",
+    "created_at": "2026-03-09T00:02:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T01:02:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030796296513360060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1992316340015955968",
+          "start": 0,
+          "username": "gioia53465"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030796296513360060",
+    "in_reply_to_user_id": "1992316340015955968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030699733170127342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gioia53465 我操我是山东人！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2030660205894423033",
+        "created_at": "2026-03-09T00:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T01:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030796296513360060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1992316340015955968",
+              "start": 0,
+              "username": "gioia53465"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030796296513360060",
+        "in_reply_to_user_id": "1992316340015955968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030699733170127342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gioia53465 我操我是山东人！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992316340015955968",
+        "conversation_id": "2030660205894423033",
+        "created_at": "2026-03-08T17:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T18:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030699733170127342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030699733170127342",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030660205894423033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 纹身考不了公！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5286,
+          "following_count": 262,
+          "like_count": 4317,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 1944
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-22T19:37:20.000Z",
+        "description": "=ᗜωᗜ=",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%BF%811",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%BF%811",
+                "start": 0,
+                "url": "https://t.co/CRTBnMnb1l"
+              }
+            ]
+          }
+        },
+        "id": "1992316340015955968",
+        "location": "床",
+        "name": "迁",
+        "pinned_tweet_id": "2030569500618211603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013353421823262720/SjfYRQv7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 11,
+          "like_count": 287,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 203
+        },
+        "url": "https://t.co/CRTBnMnb1l",
+        "username": "gioia53465",
+        "verified": false
+      }
+    ]
+  }
+}

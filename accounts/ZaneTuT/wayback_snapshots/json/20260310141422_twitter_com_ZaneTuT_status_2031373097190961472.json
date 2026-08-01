@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "1913083149409829296",
+    "created_at": "2026-03-10T14:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T15:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031373097190961472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1395031782014205953",
+          "start": 0,
+          "username": "komacyan_zZ"
+        },
+        {
+          "end": 26,
+          "id": "1997495772066324480",
+          "start": 13,
+          "username": "kuma02150128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031373097190961472",
+    "in_reply_to_user_id": "1395031782014205953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913083149409829296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@komacyan_zZ @kuma02150128 唉"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 94390,
+        "height": 1274,
+        "media_key": "13_1913083071521529856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1913083071521529856/img/dKjUkpp1UUQfMJnd.jpg",
+        "public_metrics": {
+          "view_count": 4805
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1913083071521529856/vid/avc1/320x566/kJRXXflhqhj5Xfoq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1913083071521529856/vid/avc1/480x848/mzxktC3GEEBW7tov.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1913083071521529856/vid/avc1/720x1274/pXelaE6jCks8famQ.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1913083071521529856/pl/FAJOC2xip_eOkJEG.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "1913083149409829296",
+        "created_at": "2026-03-10T14:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T15:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031373097190961472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1395031782014205953",
+              "start": 0,
+              "username": "komacyan_zZ"
+            },
+            {
+              "end": 26,
+              "id": "1997495772066324480",
+              "start": 13,
+              "username": "kuma02150128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031373097190961472",
+        "in_reply_to_user_id": "1395031782014205953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913083149409829296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@komacyan_zZ @kuma02150128 唉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1913083071521529856"
+          ]
+        },
+        "author_id": "1395031782014205953",
+        "conversation_id": "1913083149409829296",
+        "created_at": "2025-04-18T04:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T05:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913083149409829296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mrWz7NYhD9",
+              "end": 142,
+              "expanded_url": "https://x.com/komacyan_zZ/status/1913083149409829296/video/1",
+              "media_key": "13_1913083071521529856",
+              "start": 119,
+              "url": "https://t.co/mrWz7NYhD9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913083149409829296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 10873,
+          "like_count": 54,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "日本地雷女主播被男友背叛后直接跳了，，以下是我的简单翻译\n\n“想要更多地在一起”\n“想让他把我放在第一重要的位置”\n“想让我在他身上最重要”\n“我已经忍受不了了”\n“啊…受不了了…” \n*没听清* \n“…对不起”\n“好害怕啊”\n“再见” https://t.co/mrWz7NYhD9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5330,
+          "following_count": 272,
+          "like_count": 4455,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1972
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-19T15:01:25.000Z",
+        "description": "躁うつ病 / JLPT-N2 / 日常垢 / 絵垢 / フォロバをご希望の方はDMお願いします ❤️@MoeQike",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "MoeQike"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "komacyan.moe",
+                "end": 23,
+                "expanded_url": "https://komacyan.moe",
+                "start": 0,
+                "url": "https://t.co/xocU8WkTN7"
+              }
+            ]
+          }
+        },
+        "id": "1395031782014205953",
+        "location": "キミのとなり",
+        "name": "小鞠",
+        "pinned_tweet_id": "2025887215470227733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999378139898875904/xoF2Xocr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3034,
+          "following_count": 799,
+          "like_count": 14262,
+          "listed_count": 10,
+          "media_count": 1536,
+          "tweet_count": 7060
+        },
+        "url": "https://t.co/xocU8WkTN7",
+        "username": "komacyan_zZ",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-07T02:38:15.000Z",
+        "description": "我是kuma！很高兴认识你们！！欢迎找我互fo 🥺/精神状态up/自残/我在努力生活！！！",
+        "id": "1997495772066324480",
+        "location": "熊窝",
+        "name": "ぼくわくま",
+        "pinned_tweet_id": "1997557765410349108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022950546630647808/n-FiQBx2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 128,
+          "like_count": 2254,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 610
+        },
+        "username": "kuma02150128",
+        "verified": false
+      }
+    ]
+  }
+}

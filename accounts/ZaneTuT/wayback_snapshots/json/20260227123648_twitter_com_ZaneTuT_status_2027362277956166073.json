@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2027362277956166073",
+    "created_at": "2026-02-27T12:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T13:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027362277956166073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1937013213754990592",
+          "start": 3,
+          "username": "pngzi214201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027362277956166073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026654916736069859",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pngzi214201: 我已经淫荡到看见朋友圈和对象一起出去约会的就会联想到俩人晚上要砰砰砰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2027362277956166073",
+        "created_at": "2026-02-27T12:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T13:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027362277956166073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1937013213754990592",
+              "start": 3,
+              "username": "pngzi214201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027362277956166073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026654916736069859",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pngzi214201: 我已经淫荡到看见朋友圈和对象一起出去约会的就会联想到俩人晚上要砰砰砰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937013213754990592",
+        "conversation_id": "2026654916736069859",
+        "created_at": "2026-02-25T13:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T14:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026654916736069859"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026654916736069859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 364589,
+          "like_count": 2717,
+          "quote_count": 8,
+          "reply_count": 80,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "我已经淫荡到看见朋友圈和对象一起出去约会的就会联想到俩人晚上要砰砰砰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5071,
+          "following_count": 233,
+          "like_count": 4003,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 1846
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T05:02:02.000Z",
+        "description": "一个爱看薄肌大牛子的美丽坏女人 （想让我看私信给我打钱谢谢",
+        "id": "1937013213754990592",
+        "location": "0.8km",
+        "name": "瓶子",
+        "pinned_tweet_id": "2022724253226013065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026883492425216001/GlI3DTgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1937,
+          "following_count": 209,
+          "like_count": 1660,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 1818
+        },
+        "username": "pngzi214201",
+        "verified": false
+      }
+    ]
+  }
+}

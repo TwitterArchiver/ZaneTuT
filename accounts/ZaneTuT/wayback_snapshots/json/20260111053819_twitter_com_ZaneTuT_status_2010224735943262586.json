@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010224726082498560"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2010160242177519960",
+    "created_at": "2026-01-11T05:38:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T06:38:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010224735943262586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1905566526595629060",
+          "start": 0,
+          "username": "Apipleeeee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4ygXCmalkH",
+          "end": 43,
+          "expanded_url": "https://x.com/ZaneTuT/status/2010224735943262586/photo/1",
+          "media_key": "3_2010224726082498560",
+          "start": 20,
+          "url": "https://t.co/4ygXCmalkH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010224735943262586",
+    "in_reply_to_user_id": "1905566526595629060",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 56,
+      "like_count": 3,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010160242177519960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Apipleeeee 威海的雪好大哟 https://t.co/4ygXCmalkH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1926,
+        "media_key": "3_2010224726082498560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-XAvNzasAAUa15.jpg",
+        "width": 1444
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2010160236045463552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-WGFZsa8AAsg4J.jpg",
+        "width": 772
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010224726082498560"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2010160242177519960",
+        "created_at": "2026-01-11T05:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T06:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010224735943262586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1905566526595629060",
+              "start": 0,
+              "username": "Apipleeeee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4ygXCmalkH",
+              "end": 43,
+              "expanded_url": "https://x.com/ZaneTuT/status/2010224735943262586/photo/1",
+              "media_key": "3_2010224726082498560",
+              "start": 20,
+              "url": "https://t.co/4ygXCmalkH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010224735943262586",
+        "in_reply_to_user_id": "1905566526595629060",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010160242177519960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Apipleeeee 威海的雪好大哟 https://t.co/4ygXCmalkH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010160236045463552"
+          ]
+        },
+        "author_id": "1905566526595629060",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2010160242177519960",
+        "created_at": "2026-01-11T01:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T02:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010160242177519960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LuCuIqcj6k",
+              "end": 30,
+              "expanded_url": "https://x.com/Apipleeeee/status/2010160242177519960/photo/1",
+              "media_key": "3_2010160236045463552",
+              "start": 7,
+              "url": "https://t.co/LuCuIqcj6k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010160242177519960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6826,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉你..！🥹 https://t.co/LuCuIqcj6k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "08丨萌脸骚丨od丨私信看心情回 请礼貌丨166 98不要私信问我了丨高频率发帖我好无聊丨我听点udg 可以和我一起听歌…",
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010215499150585985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 76,
+          "like_count": 617,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 146
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T10:24:09.000Z",
+        "description": "虚室生白",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fengniaocloud.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fengniaocloud.top/#/register?code=Fs8KeJ0x",
+                "start": 0,
+                "url": "https://t.co/TMmfJOdrNV"
+              }
+            ]
+          }
+        },
+        "id": "1905566526595629060",
+        "location": "🚪 821",
+        "name": "苹果",
+        "pinned_tweet_id": "1945862273358336217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007783323607896064/tHD2doYh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8419,
+          "following_count": 7,
+          "like_count": 1314,
+          "listed_count": 31,
+          "media_count": 569,
+          "tweet_count": 2205
+        },
+        "url": "https://t.co/TMmfJOdrNV",
+        "username": "Apipleeeee",
+        "verified": false
+      }
+    ]
+  }
+}

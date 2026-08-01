@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2015410477871075725",
+    "created_at": "2026-01-25T13:04:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T14:04:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015410477871075725"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/unitedg7433543…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/unitedg74335438/status/2014951380751155470",
+          "start": 26,
+          "url": "https://t.co/BqRR3K9mjY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015410477871075725",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014951380751155470",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他说的对但是为啥要搭配这雷霆死妈表情 我他妈笑吐了 https://t.co/BqRR3K9mjY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15023,
+        "height": 1280,
+        "media_key": "13_2014951213461331968",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2014951213461331968/img/aGbNnkMplXEVqKs8.jpg",
+        "public_metrics": {
+          "view_count": 1079728
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014951213461331968/vid/avc1/320x568/8bfgM-XTEhjKePct.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014951213461331968/vid/avc1/480x852/K-OdyxdHfA77rcLO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014951213461331968/vid/avc1/720x1280/g9Tq8H_6SMstA8oN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2014951213461331968/pl/ldkLgtk7sN0fsAZ9.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2015410477871075725",
+        "created_at": "2026-01-25T13:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T14:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015410477871075725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/unitedg7433543…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/unitedg74335438/status/2014951380751155470",
+              "start": 26,
+              "url": "https://t.co/BqRR3K9mjY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015410477871075725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014951380751155470",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他说的对但是为啥要搭配这雷霆死妈表情 我他妈笑吐了 https://t.co/BqRR3K9mjY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2014951213461331968"
+          ]
+        },
+        "author_id": "1177677558739017728",
+        "conversation_id": "2014951380751155470",
+        "created_at": "2026-01-24T06:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T07:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014951380751155470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RdUsnqhFAX",
+              "end": 42,
+              "expanded_url": "https://x.com/UnitedG74335438/status/2014951380751155470/video/1",
+              "media_key": "13_2014951213461331968",
+              "start": 19,
+              "url": "https://t.co/RdUsnqhFAX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014951380751155470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3425,
+          "impression_count": 1986674,
+          "like_count": 7615,
+          "quote_count": 20,
+          "reply_count": 261,
+          "retweet_count": 584
+        },
+        "reply_settings": "everyone",
+        "text": "男士们 记得了，这才是我们女生的喜好 https://t.co/RdUsnqhFAX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心丨08丨od丨私信看心情回丨高频率发帖丨互fo可以直接➕V丨我听点udg sasi很多很多丨我皮下非常没有素质别惹我了行吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2474,
+          "following_count": 167,
+          "like_count": 2648,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1248
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-27T20:13:08.000Z",
+        "description": "#未婚未孕  33岁没有按照父母的意愿去结婚，创着没有结果的业，玩推分享日常，安放33岁的焦虑和坦然，和同频的友友彼此照亮，同频的人像礼物欢迎交流",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "未婚未孕"
+              }
+            ]
+          }
+        },
+        "id": "1177677558739017728",
+        "location": "26km",
+        "name": "人类妮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999934477909540864/soXaWt7O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1511,
+          "following_count": 66,
+          "like_count": 47,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 139
+        },
+        "username": "UnitedG74335438",
+        "verified": true
+      }
+    ]
+  }
+}

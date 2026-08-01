@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2065163001926230174",
+    "created_at": "2026-06-12T03:14:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T04:14:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065271598404555230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1986054801864744960",
+          "start": 0,
+          "username": "LZ_NAZ397"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065271598404555230",
+    "in_reply_to_user_id": "1986054801864744960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065163001926230174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LZ_NAZ397 帅惨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065162987346817024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKjuy5gXcAA48qw.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065162987329949696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKjuy5cWEAAiEU6.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065162987338412032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKjuy5eXMAApHVR.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2065163001926230174",
+        "created_at": "2026-06-12T03:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T04:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065271598404555230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1986054801864744960",
+              "start": 0,
+              "username": "LZ_NAZ397"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065271598404555230",
+        "in_reply_to_user_id": "1986054801864744960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065163001926230174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LZ_NAZ397 帅惨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065162987346817024",
+            "3_2065162987329949696",
+            "3_2065162987338412032"
+          ]
+        },
+        "author_id": "1986054801864744960",
+        "conversation_id": "2065163001926230174",
+        "created_at": "2026-06-11T20:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T21:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065163001926230174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pGxyFKcjDB",
+              "end": 23,
+              "expanded_url": "https://x.com/LZ_NAZ397/status/2065163001926230174/photo/1",
+              "media_key": "3_2065162987346817024",
+              "start": 0,
+              "url": "https://t.co/pGxyFKcjDB"
+            },
+            {
+              "display_url": "pic.x.com/pGxyFKcjDB",
+              "end": 23,
+              "expanded_url": "https://x.com/LZ_NAZ397/status/2065163001926230174/photo/1",
+              "media_key": "3_2065162987329949696",
+              "start": 0,
+              "url": "https://t.co/pGxyFKcjDB"
+            },
+            {
+              "display_url": "pic.x.com/pGxyFKcjDB",
+              "end": 23,
+              "expanded_url": "https://x.com/LZ_NAZ397/status/2065163001926230174/photo/1",
+              "media_key": "3_2065162987338412032",
+              "start": 0,
+              "url": "https://t.co/pGxyFKcjDB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065163001926230174",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pGxyFKcjDB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨互fo免🚪丨算挂找@kill_this_hate💗不准你打我丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2044362275218489629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7597,
+          "following_count": 273,
+          "like_count": 5860,
+          "listed_count": 4,
+          "media_count": 42,
+          "tweet_count": 2546
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-05T12:56:05.000Z",
+        "description": "IP成都（我他妈真的是直的）南通再骚扰我真的要骂你了",
+        "id": "1986054801864744960",
+        "location": "点歌｜好事坏事.？",
+        "name": "纳兹叔叔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042459725585903616/YFcrhwCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 20,
+          "like_count": 2968,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 815
+        },
+        "username": "LZ_NAZ397",
+        "verified": false
+      }
+    ]
+  }
+}

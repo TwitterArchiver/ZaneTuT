@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026986552933711872"
+      ],
+      "media_source_tweet_id": [
+        "2026986562425409868"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2027267135756734718",
+    "created_at": "2026-02-27T06:18:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T07:18:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027267135756734718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1827416305038987264",
+          "start": 3,
+          "username": "candf0131"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dyOx9qJO19",
+          "end": 38,
+          "expanded_url": "https://x.com/candf0131/status/2026986562425409868/photo/1",
+          "media_key": "3_2026986552933711872",
+          "start": 15,
+          "url": "https://t.co/dyOx9qJO19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027267135756734718",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026986562425409868",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @candf0131: https://t.co/dyOx9qJO19"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1917,
+        "media_key": "3_2026986552933711872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCFNh8wbgAA6JKR.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026986552933711872"
+          ],
+          "media_source_tweet_id": [
+            "2026986562425409868"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2027267135756734718",
+        "created_at": "2026-02-27T06:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T07:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027267135756734718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1827416305038987264",
+              "start": 3,
+              "username": "candf0131"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dyOx9qJO19",
+              "end": 38,
+              "expanded_url": "https://x.com/candf0131/status/2026986562425409868/photo/1",
+              "media_key": "3_2026986552933711872",
+              "start": 15,
+              "url": "https://t.co/dyOx9qJO19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027267135756734718",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026986562425409868",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @candf0131: https://t.co/dyOx9qJO19"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026986552933711872"
+          ]
+        },
+        "author_id": "1827416305038987264",
+        "conversation_id": "2026986562425409868",
+        "created_at": "2026-02-26T11:43:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T12:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026986562425409868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dyOx9qJO19",
+              "end": 23,
+              "expanded_url": "https://x.com/candf0131/status/2026986562425409868/photo/1",
+              "media_key": "3_2026986552933711872",
+              "start": 0,
+              "url": "https://t.co/dyOx9qJO19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026986562425409868",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 28999,
+          "like_count": 336,
+          "quote_count": 18,
+          "reply_count": 16,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dyOx9qJO19"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5065,
+          "following_count": 231,
+          "like_count": 3943,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 1824
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T18:43:02.000Z",
+        "description": "我只是一个很伤心的小女生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/haochi2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/haochi2",
+                "start": 0,
+                "url": "https://t.co/AwAYrB3LiA"
+              }
+            ]
+          }
+        },
+        "id": "1827416305038987264",
+        "location": "🚪52000",
+        "name": "土豆泥世界第一",
+        "pinned_tweet_id": "1986440714117652638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003034217345896449/dGaEPoNV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9474,
+          "following_count": 112,
+          "like_count": 5262,
+          "listed_count": 12,
+          "media_count": 894,
+          "tweet_count": 10691
+        },
+        "url": "https://t.co/AwAYrB3LiA",
+        "username": "candf0131",
+        "verified": false
+      }
+    ]
+  }
+}

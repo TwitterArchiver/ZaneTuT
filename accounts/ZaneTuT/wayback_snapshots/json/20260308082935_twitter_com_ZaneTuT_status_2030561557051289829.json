@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2030304974874533914",
+    "created_at": "2026-03-08T08:29:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T09:29:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030561557051289829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2029088109481345028",
+          "start": 0,
+          "username": "Nmpf1203"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030561557051289829",
+    "in_reply_to_user_id": "2029088109481345028",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030304974874533914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nmpf1203 我要看片啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2030304974874533914",
+        "created_at": "2026-03-08T08:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T09:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030561557051289829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2029088109481345028",
+              "start": 0,
+              "username": "Nmpf1203"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030561557051289829",
+        "in_reply_to_user_id": "2029088109481345028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030304974874533914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nmpf1203 我要看片啊。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029088109481345028",
+        "conversation_id": "2030304974874533914",
+        "created_at": "2026-03-07T15:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T16:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030304974874533914"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030304974874533914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 34025,
+          "like_count": 156,
+          "quote_count": 8,
+          "reply_count": 298,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "很好奇大家上推特的初衷是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5288,
+          "following_count": 260,
+          "like_count": 4274,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1928
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-04T06:54:51.000Z",
+        "description": "https://t.co/rSEjVcKgGe\n本号用于碎碎念和回复匿名\n私信很少看，找我聊天可以私信@wfsnyqz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "wfsnyqz"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ppum1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppum1",
+                "start": 0,
+                "url": "https://t.co/rSEjVcKgGe"
+              }
+            ]
+          }
+        },
+        "id": "2029088109481345028",
+        "name": "AAA男模批发曦总",
+        "pinned_tweet_id": "2029479382776197345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029092044967428105/v-7bc6V6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 21,
+          "like_count": 417,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 66
+        },
+        "username": "Nmpf1203",
+        "verified": false
+      }
+    ]
+  }
+}

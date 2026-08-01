@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019691353098395648"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2019691363785416885",
+    "created_at": "2026-02-06T08:35:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T09:35:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019691363785416885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 75,
+          "id": "2014160022645952512",
+          "start": 65,
+          "username": "Rotte2t00"
+        },
+        {
+          "end": 89,
+          "id": "2019688220787896326",
+          "start": 77,
+          "username": "QwQoverlxrd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SrlfBrLNUP",
+          "end": 194,
+          "expanded_url": "https://x.com/ZaneTuT/status/2019691363785416885/photo/1",
+          "media_key": "3_2019691353098395648",
+          "start": 171,
+          "url": "https://t.co/SrlfBrLNUP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019691363785416885",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小溃疡来辣 每天都在许愿小蛋糕^o^\n码不好用就口令吧！\n本号号主就是一个很萌很萌的妹宝呀\n我每天都在想哥哥呀…！\n神秘账号两枚\n@Rotte2t00  @QwQoverlxrd \n可以一直喜欢我吗 不然我会难过的\n互fo看眼缘 可爱的妹宝可以私信我呀\n搬运到其他软件记得打厚码🥺\n溃疡爱你萌(ˆ⸝⸝&gt;ꇴ&lt;ˆ)ε&lt;⸝⸝ˆ) https://t.co/SrlfBrLNUP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1187,
+        "media_key": "3_2019691353098395648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAdilblboAAAj8_.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019691353098395648"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2019691363785416885",
+        "created_at": "2026-02-06T08:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T09:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019691363785416885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 75,
+              "id": "2014160022645952512",
+              "start": 65,
+              "username": "Rotte2t00"
+            },
+            {
+              "end": 89,
+              "id": "2019688220787896326",
+              "start": 77,
+              "username": "QwQoverlxrd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SrlfBrLNUP",
+              "end": 194,
+              "expanded_url": "https://x.com/ZaneTuT/status/2019691363785416885/photo/1",
+              "media_key": "3_2019691353098395648",
+              "start": 171,
+              "url": "https://t.co/SrlfBrLNUP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019691363785416885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小溃疡来辣 每天都在许愿小蛋糕^o^\n码不好用就口令吧！\n本号号主就是一个很萌很萌的妹宝呀\n我每天都在想哥哥呀…！\n神秘账号两枚\n@Rotte2t00  @QwQoverlxrd \n可以一直喜欢我吗 不然我会难过的\n互fo看眼缘 可爱的妹宝可以私信我呀\n搬运到其他软件记得打厚码🥺\n溃疡爱你萌(ˆ⸝⸝&gt;ꇴ&lt;ˆ)ε&lt;⸝⸝ˆ) https://t.co/SrlfBrLNUP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨神秘账号@Rotte2t00丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "Rotte2t00"
+              },
+              {
+                "end": 80,
+                "start": 65,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 95,
+                "start": 87,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3298,
+          "following_count": 190,
+          "like_count": 3259,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 1455
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-22T02:15:55.000Z",
+        "description": "真别惹我了行吗 大号@ZaneTuT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 10,
+                "username": "ZaneTuT"
+              }
+            ]
+          }
+        },
+        "id": "2014160022645952512",
+        "name": "那应该还挺难受的",
+        "pinned_tweet_id": "2014161343000035602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014160875561857025/umGgxC1S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 14,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 46
+        },
+        "username": "Rotte2t00",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-06T08:22:58.000Z",
+        "description": "有爱真好 有你真好",
+        "id": "2019688220787896326",
+        "name": "爱？唉！",
+        "pinned_tweet_id": "2019688953054646597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019688341831311360/FQ4MGzR__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 2,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "QwQoverlxrd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014216395224227840"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2014213466962182164",
+    "created_at": "2026-01-22T05:59:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T06:59:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014216406989201546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1832308955852500995",
+          "start": 0,
+          "username": "ming_akira0423"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qwAILm37go",
+          "end": 41,
+          "expanded_url": "https://x.com/ZaneTuT/status/2014216406989201546/photo/1",
+          "media_key": "3_2014216395224227840",
+          "start": 18,
+          "url": "https://t.co/qwAILm37go"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014216406989201546",
+    "in_reply_to_user_id": "1832308955852500995",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014213466962182164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ming_akira0423 喂 https://t.co/qwAILm37go"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 361,
+        "media_key": "3_2014216395224227840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_PvI8IboAAtjrP.jpg",
+        "width": 487
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014216395224227840"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2014213466962182164",
+        "created_at": "2026-01-22T05:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T06:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014216406989201546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1832308955852500995",
+              "start": 0,
+              "username": "ming_akira0423"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qwAILm37go",
+              "end": 41,
+              "expanded_url": "https://x.com/ZaneTuT/status/2014216406989201546/photo/1",
+              "media_key": "3_2014216395224227840",
+              "start": 18,
+              "url": "https://t.co/qwAILm37go"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014216406989201546",
+        "in_reply_to_user_id": "1832308955852500995",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014213466962182164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ming_akira0423 喂 https://t.co/qwAILm37go"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832308955852500995",
+        "conversation_id": "2014213466962182164",
+        "created_at": "2026-01-22T05:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T06:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014213466962182164"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014213466962182164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回北京我将获得撸管自由😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心丨08丨od丨私信看心情回丨高频率发帖丨互fo可以直接➕V丨我听点udg sasi很多很多丨我皮下非常没有素质别惹我了行吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014210788588990765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2153,
+          "following_count": 157,
+          "like_count": 2394,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 1113
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-07T06:44:41.000Z",
+        "description": "北京 男 之后可能很少出cos了…如果想入我门直接私信我就好了 想和我聊天也可以私信和我聊 私信都会回的 我话真的特别多 谢谢你们！ 这个是我的提问箱https://t.co/WWRcHh4ytv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akira19923",
+                "end": 98,
+                "expanded_url": "https://ngl.link/akira19923",
+                "start": 75,
+                "url": "https://t.co/WWRcHh4ytv"
+              }
+            ]
+          }
+        },
+        "id": "1832308955852500995",
+        "name": "明",
+        "pinned_tweet_id": "2006753409937060028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009957760268648448/PFnjP22P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 135,
+          "like_count": 1481,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 873
+        },
+        "username": "ming_akira0423",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2033552393556701606",
+    "created_at": "2026-03-17T07:50:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T08:50:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033813188794282401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1911793046725033984",
+          "start": 0,
+          "username": "zhanbuduan40"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033813188794282401",
+    "in_reply_to_user_id": "1911793046725033984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033784562212552973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhanbuduan40 欧耶斯！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2033552393556701606",
+        "created_at": "2026-03-17T07:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T08:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033813188794282401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1911793046725033984",
+              "start": 0,
+              "username": "zhanbuduan40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033813188794282401",
+        "in_reply_to_user_id": "1911793046725033984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033784562212552973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhanbuduan40 欧耶斯！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911793046725033984",
+        "conversation_id": "2033552393556701606",
+        "created_at": "2026-03-17T05:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T06:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033784562212552973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033784562212552973",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033552393556701606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 好米"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5471,
+          "following_count": 278,
+          "like_count": 4890,
+          "listed_count": 3,
+          "media_count": 62,
+          "tweet_count": 2057
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T14:46:11.000Z",
+        "description": "07｜switch｜可以私信点歌｜infp\n碎碎念版 抽象版 评论版 点赞版\n互关私信直接加v😋\n牛牛在小号谨慎关注！https://t.co/IdGeeRkgJQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/zhanbuduan30?t…",
+                "end": 82,
+                "expanded_url": "https://x.com/zhanbuduan30?t=f3oSd_XO6Nv8FRXrGkbKLg&s=09",
+                "start": 59,
+                "url": "https://t.co/IdGeeRkgJQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/4016062",
+                "end": 23,
+                "expanded_url": "https://ngl.link/4016062",
+                "start": 0,
+                "url": "https://t.co/qsUtwJ3G1T"
+              }
+            ]
+          }
+        },
+        "id": "1911793046725033984",
+        "location": "🚪18（一包利群）52/180（一条利群）520你是我主人",
+        "name": "斩不断情欲4.0",
+        "pinned_tweet_id": "1929927277187608926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938935594891255808/k8KoUQB0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 705,
+          "like_count": 31511,
+          "listed_count": 2,
+          "media_count": 221,
+          "tweet_count": 6984
+        },
+        "url": "https://t.co/qsUtwJ3G1T",
+        "username": "zhanbuduan40",
+        "verified": false
+      }
+    ]
+  }
+}

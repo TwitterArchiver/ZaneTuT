@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074832740726497280"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2074831911835607338",
+    "created_at": "2026-07-08T12:27:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T13:27:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074832748603412500"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/en1xXX2QnW",
+          "end": 46,
+          "expanded_url": "https://x.com/ZaneTuT/status/2074832748603412500/photo/1",
+          "media_key": "3_2074832740726497280",
+          "start": 23,
+          "url": "https://t.co/en1xXX2QnW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074832748603412500",
+    "in_reply_to_user_id": "1997985969958699008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074831911835607338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很无聊的躺了一整天 刚刚看完甄嬛传\nYeah https://t.co/en1xXX2QnW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 940,
+        "media_key": "3_2074832740726497280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtJYn9aYAAVmBc.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074832740726497280"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2074831911835607338",
+        "created_at": "2026-07-08T12:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074832748603412500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/en1xXX2QnW",
+              "end": 46,
+              "expanded_url": "https://x.com/ZaneTuT/status/2074832748603412500/photo/1",
+              "media_key": "3_2074832740726497280",
+              "start": 23,
+              "url": "https://t.co/en1xXX2QnW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074832748603412500",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074831911835607338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很无聊的躺了一整天 刚刚看完甄嬛传\nYeah https://t.co/en1xXX2QnW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2074831911835607338",
+        "created_at": "2026-07-08T12:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074831911835607338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/zane66050",
+              "end": 23,
+              "expanded_url": "https://ngl.link/zane66050",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2074831977975631872/c_b0ao2A?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2074831977975631872/c_b0ao2A?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "@zane: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/zane66050",
+              "url": "https://t.co/07baRgU8H5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074831911835607338",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/07baRgU8H5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨互fo免🚪丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 37,
+                "start": 27,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2044362275218489629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7759,
+          "following_count": 272,
+          "like_count": 5871,
+          "listed_count": 4,
+          "media_count": 46,
+          "tweet_count": 2576
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": true
+      }
+    ]
+  }
+}

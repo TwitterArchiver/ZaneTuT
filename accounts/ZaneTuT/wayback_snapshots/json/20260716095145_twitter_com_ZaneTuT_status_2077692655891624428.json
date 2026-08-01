@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2077543499206115654",
+    "created_at": "2026-07-16T09:51:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T10:51:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077692655891624428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1940006342833700864",
+          "start": 0,
+          "username": "Y177854593566"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077692655891624428",
+    "in_reply_to_user_id": "1940006342833700864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077641795790684601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y177854593566 我喜欢你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2077543499206115654",
+        "created_at": "2026-07-16T09:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T10:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077692655891624428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1940006342833700864",
+              "start": 0,
+              "username": "Y177854593566"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077692655891624428",
+        "in_reply_to_user_id": "1940006342833700864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077641795790684601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y177854593566 我喜欢你。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940006342833700864",
+        "conversation_id": "2077543499206115654",
+        "created_at": "2026-07-16T06:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T07:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077641795790684601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077641795790684601",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 254,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077543499206115654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 我喜歡你！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨互fo免🚪丨💗算卦找@kill_this_hate 不准你打我丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 52,
+                "start": 44,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2075472000680911094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8045,
+          "following_count": 275,
+          "like_count": 6122,
+          "listed_count": 4,
+          "media_count": 37,
+          "tweet_count": 2630
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-01T11:15:38.000Z",
+        "description": "這裏小音ovo！07的176cm小女孩˃ 𖥦 ˂ 戀哥癖 分享日常 啥都發 當朋友圈發 純分享生活 發自己覺得好看的^ω^ 喜歡我可以給我打錢😋最近養身體中只發碎碎念",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%9F%B3%E9%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%9F%B3%E9%9B%A8%E5%A4%A9",
+                "start": 0,
+                "url": "https://t.co/6rWut8SbCS"
+              }
+            ]
+          }
+        },
+        "id": "1940006342833700864",
+        "location": "距离你5.2km",
+        "name": "小音雨天",
+        "pinned_tweet_id": "2065693085242454495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001981596262686720/qIhFj5ge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5054,
+          "following_count": 46,
+          "like_count": 1179,
+          "listed_count": 29,
+          "media_count": 157,
+          "tweet_count": 606
+        },
+        "url": "https://t.co/6rWut8SbCS",
+        "username": "Y177854593566",
+        "verified": false
+      }
+    ]
+  }
+}

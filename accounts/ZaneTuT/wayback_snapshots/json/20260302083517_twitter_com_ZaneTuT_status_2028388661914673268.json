@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2028295430485033091",
+    "created_at": "2026-03-02T08:35:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T09:35:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028388661914673268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1905490201507758081",
+          "start": 0,
+          "username": "ueua248"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028388661914673268",
+    "in_reply_to_user_id": "1905490201507758081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028295430485033091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ueua248 真的 我无法想象我的朋友自慰时候的样子。好难受。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2028295430485033091",
+        "created_at": "2026-03-02T08:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T09:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028388661914673268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1905490201507758081",
+              "start": 0,
+              "username": "ueua248"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028388661914673268",
+        "in_reply_to_user_id": "1905490201507758081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028295430485033091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ueua248 真的 我无法想象我的朋友自慰时候的样子。好难受。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905490201507758081",
+        "conversation_id": "2028295430485033091",
+        "created_at": "2026-03-02T02:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T03:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028295430485033091"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028295430485033091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3779,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很难想象有一些人会自慰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5139,
+          "following_count": 248,
+          "like_count": 4150,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 1867
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T05:20:50.000Z",
+        "description": "🐱？/upside down\n\n❔https://t.co/GqGy6qNhxC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iri93579",
+                "end": 40,
+                "expanded_url": "https://ngl.link/iri93579",
+                "start": 17,
+                "url": "https://t.co/GqGy6qNhxC"
+              }
+            ]
+          }
+        },
+        "id": "1905490201507758081",
+        "name": "Siri-21号",
+        "pinned_tweet_id": "1941425816971419817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009843781542260740/jA0zm_gT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 297,
+          "like_count": 6133,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 826
+        },
+        "username": "ueua248",
+        "verified": false
+      }
+    ]
+  }
+}

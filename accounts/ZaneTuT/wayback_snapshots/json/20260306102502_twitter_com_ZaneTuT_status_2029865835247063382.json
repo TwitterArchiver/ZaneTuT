@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2028411968022036830",
+    "created_at": "2026-03-06T10:25:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T11:25:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029865835247063382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2016391481276137472",
+          "start": 0,
+          "username": "Ri0trix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029865835247063382",
+    "in_reply_to_user_id": "2016391481276137472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029865761955795001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ri0trix 对 我想你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2028411968022036830",
+        "created_at": "2026-03-06T10:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T11:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029865835247063382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2016391481276137472",
+              "start": 0,
+              "username": "Ri0trix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029865835247063382",
+        "in_reply_to_user_id": "2016391481276137472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029865761955795001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ri0trix 对 我想你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016391481276137472",
+        "conversation_id": "2028411968022036830",
+        "created_at": "2026-03-06T10:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T11:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029865761955795001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029865761955795001",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028411968022036830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 盗图"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5169,
+          "following_count": 254,
+          "like_count": 4214,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 1900
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-28T06:04:01.000Z",
+        "description": "叫我小r就好｜玻璃心一点就炸｜07｜od｜私信都会看哦｜经常发疯｜患有精神分裂｜互fo可以来➕好友｜我听说唱udg浓度高🤍 一个恶魔女孩@ZaneTuT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 68,
+                "username": "ZaneTuT"
+              }
+            ]
+          }
+        },
+        "id": "2016391481276137472",
+        "location": "🚪88 偶尔有照片",
+        "name": "Riotrix",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016391909606830081/c3kUa5b4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 3,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 44
+        },
+        "username": "Ri0trix",
+        "verified": false
+      }
+    ]
+  }
+}

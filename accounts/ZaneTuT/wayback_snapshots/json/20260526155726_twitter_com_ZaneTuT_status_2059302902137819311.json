@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "1560633286623256576",
+    "created_at": "2026-05-26T15:57:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T16:57:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059302902137819311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1511732042874036226",
+          "start": 0,
+          "username": "Archerilu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059302902137819311",
+    "in_reply_to_user_id": "1511732042874036226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1560633286623256576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Archerilu 我红温了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 42565,
+        "height": 720,
+        "media_key": "7_1560633216288976896",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1560633216288976896/pu/img/v7EmITlkAU5231Zl.jpg",
+        "public_metrics": {
+          "view_count": 1181
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1560633216288976896/pu/vid/480x270/QWDKU9uBB_8JhWp6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1560633216288976896/pu/vid/640x360/i7LoAtkDIxwDOrwD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1560633216288976896/pu/vid/1280x720/y37bSj2W3LbHcTNK.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1560633216288976896/pu/pl/G3Dmwa0-Tw9BjOTZ.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "1560633286623256576",
+        "created_at": "2026-05-26T15:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059302902137819311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1511732042874036226",
+              "start": 0,
+              "username": "Archerilu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059302902137819311",
+        "in_reply_to_user_id": "1511732042874036226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1560633286623256576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Archerilu 我红温了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1560633216288976896"
+          ]
+        },
+        "author_id": "1511732042874036226",
+        "conversation_id": "1560633286623256576",
+        "created_at": "2022-08-19T14:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2022-08-19T14:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1560633286623256576"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "男喘"
+            },
+            {
+              "end": 17,
+              "start": 12,
+              "tag": "手冲实录"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "女喘"
+            },
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "磕炮"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kh2WO4MD8O",
+              "end": 49,
+              "expanded_url": "https://x.com/Archerilu/status/1560633286623256576/video/1",
+              "media_key": "7_1560633216288976896",
+              "start": 26,
+              "url": "https://t.co/kh2WO4MD8O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1560633286623256576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感冒了 炒冷饭\n#男喘 #手冲实录 #女喘 #磕炮 https://t.co/kh2WO4MD8O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨互fo免🚪丨算挂找@kill_this_hate💗不准你打我丨两个天使女孩@Ri0trix @Zoeeef2l1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7520,
+          "following_count": 271,
+          "like_count": 5897,
+          "listed_count": 4,
+          "media_count": 42,
+          "tweet_count": 2558
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-06T15:46:28.000Z",
+        "description": "以爱之名",
+        "id": "1511732042874036226",
+        "name": "以",
+        "pinned_tweet_id": "1590178649294385152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1511941425490890753/ruOyEwz2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 29,
+          "like_count": 228,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 110
+        },
+        "username": "Archerilu",
+        "verified": false
+      }
+    ]
+  }
+}

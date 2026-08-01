@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2031372081817071806",
+    "created_at": "2026-03-10T14:10:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T15:10:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031372081817071806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1593963565521698816",
+          "start": 3,
+          "username": "chuge857"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031372081817071806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031354395355656611",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chuge857: Doi哼哼唧唧的男人才是好男人，一声不吭的男的要被剥夺doi权"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2031372081817071806",
+        "created_at": "2026-03-10T14:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T15:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031372081817071806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1593963565521698816",
+              "start": 3,
+              "username": "chuge857"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031372081817071806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031354395355656611",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chuge857: Doi哼哼唧唧的男人才是好男人，一声不吭的男的要被剥夺doi权"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593963565521698816",
+        "conversation_id": "2031354395355656611",
+        "created_at": "2026-03-10T13:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T14:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031354395355656611"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031354395355656611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5476,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Doi哼哼唧唧的男人才是好男人，一声不吭的男的要被剥夺doi权"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5329,
+          "following_count": 272,
+          "like_count": 4454,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1971
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T13:45:05.000Z",
+        "description": "“你看起来不像处”小号\n发一些往日的精华内容和分享一些平日里的生活",
+        "id": "1593963565521698816",
+        "name": "处哥在干嘛",
+        "pinned_tweet_id": "2000563101201203614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991402721451335680/JIS89s1o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32349,
+          "following_count": 128,
+          "like_count": 4422,
+          "listed_count": 52,
+          "media_count": 57,
+          "tweet_count": 3487
+        },
+        "username": "chuge857",
+        "verified": false
+      }
+    ]
+  }
+}

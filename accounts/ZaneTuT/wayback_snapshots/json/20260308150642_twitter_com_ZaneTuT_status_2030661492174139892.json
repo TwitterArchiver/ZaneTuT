@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2030619661776392409",
+    "created_at": "2026-03-08T15:06:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T16:06:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030661492174139892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1953812757910106113",
+          "start": 0,
+          "username": "hugonrainynight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030661492174139892",
+    "in_reply_to_user_id": "1953812757910106113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030639588981748181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hugonrainynight 我也是说 好朋友而已他居然跳脚成这样……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2030619661776392409",
+        "created_at": "2026-03-08T15:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T16:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030661492174139892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1953812757910106113",
+              "start": 0,
+              "username": "hugonrainynight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030661492174139892",
+        "in_reply_to_user_id": "1953812757910106113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030639588981748181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hugonrainynight 我也是说 好朋友而已他居然跳脚成这样……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953812757910106113",
+        "conversation_id": "2030619661776392409",
+        "created_at": "2026-03-08T13:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T14:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030639588981748181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030639588981748181",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030619661776392409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 这人没朋友吗…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5290,
+          "following_count": 262,
+          "like_count": 4321,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 1942
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T13:37:52.000Z",
+        "description": "日常碎碎念 只过互关@tciimynarcoq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "tciimynarcoq"
+              }
+            ]
+          }
+        },
+        "id": "1953812757910106113",
+        "location": "🚪",
+        "name": "纯白飘香裹尸布",
+        "pinned_tweet_id": "2017316823897935982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021649240460795904/CrLtDoSP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 84,
+          "like_count": 1555,
+          "listed_count": 14,
+          "media_count": 143,
+          "tweet_count": 1484
+        },
+        "username": "hugonrainynight",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2038567464049443062",
+    "created_at": "2026-03-30T11:19:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T12:19:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038576728428400990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1995222810159882240",
+          "start": 0,
+          "username": "Ameowxiaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038576728428400990",
+    "in_reply_to_user_id": "1995222810159882240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038567464049443062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ameowxiaaa 这个忧郁的劲"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15166,
+        "height": 1280,
+        "media_key": "13_2038567378175303680",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2038567378175303680/img/KSDsOHACBwuPcw-F.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038567378175303680/vid/avc1/320x568/GoTh4_GoGQFvP8Zf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038567378175303680/vid/avc1/480x852/QWAKQaz_to4R5gTx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038567378175303680/vid/avc1/720x1280/iIcZVKFBkHrmmd0A.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2038567378175303680/pl/SrbE3DCtHti0dc47.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2038567464049443062",
+        "created_at": "2026-03-30T11:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T12:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038576728428400990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1995222810159882240",
+              "start": 0,
+              "username": "Ameowxiaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038576728428400990",
+        "in_reply_to_user_id": "1995222810159882240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038567464049443062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ameowxiaaa 这个忧郁的劲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038567378175303680"
+          ]
+        },
+        "author_id": "1995222810159882240",
+        "conversation_id": "2038567464049443062",
+        "created_at": "2026-03-30T10:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T11:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038567464049443062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Y5xbxP3xO",
+              "end": 23,
+              "expanded_url": "https://x.com/Ameowxiaaa/status/2038567464049443062/video/1",
+              "media_key": "13_2038567378175303680",
+              "start": 0,
+              "url": "https://t.co/7Y5xbxP3xO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038567464049443062",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7Y5xbxP3xO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5954,
+          "following_count": 292,
+          "like_count": 5542,
+          "listed_count": 3,
+          "media_count": 65,
+          "tweet_count": 2324
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T20:06:53.000Z",
+        "description": "一个被性压抑折磨的无聊的人…老公@Keepreal_小宝宝@ZaneTuT 可以提问！ https://t.co/PqJRR0UQif",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "Keepreal_"
+              },
+              {
+                "end": 37,
+                "start": 29,
+                "username": "ZaneTuT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/amow_xiaaaa",
+                "end": 67,
+                "expanded_url": "https://ngl.link/amow_xiaaaa",
+                "start": 44,
+                "url": "https://t.co/PqJRR0UQif"
+              }
+            ]
+          }
+        },
+        "id": "1995222810159882240",
+        "name": "小苗苗。",
+        "pinned_tweet_id": "2024562349311451635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027245374038065152/gfgQQIa1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 156,
+          "like_count": 1204,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 744
+        },
+        "username": "Ameowxiaaa",
+        "verified": false
+      }
+    ]
+  }
+}

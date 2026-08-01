@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2038935057533108566",
+    "created_at": "2026-03-31T11:02:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T12:02:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038935057533108566"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/antifemini1949…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/antifemini1949/status/2038932547284181090",
+          "start": 18,
+          "url": "https://t.co/LsdEKBdu7P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038935057533108566",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038932547284181090",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你他妈疯了？你野狗啊乱鸡巴咬人？？ https://t.co/LsdEKBdu7P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038932535485554688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEu-VpqaYAA778R.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2038935057533108566",
+        "created_at": "2026-03-31T11:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T12:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038935057533108566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/antifemini1949…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/antifemini1949/status/2038932547284181090",
+              "start": 18,
+              "url": "https://t.co/LsdEKBdu7P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038935057533108566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038932547284181090",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你他妈疯了？你野狗啊乱鸡巴咬人？？ https://t.co/LsdEKBdu7P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038932535485554688"
+          ]
+        },
+        "author_id": "1804892213836763136",
+        "conversation_id": "2038932547284181090",
+        "created_at": "2026-03-31T10:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T11:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038932547284181090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ffYlTSxx12",
+              "end": 79,
+              "expanded_url": "https://x.com/Antifemini1949/status/2038932547284181090/photo/1",
+              "media_key": "3_2038932535485554688",
+              "start": 56,
+              "url": "https://t.co/ffYlTSxx12"
+            },
+            {
+              "display_url": "x.com/zanetut/status…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/zanetut/status/2038765722122498314",
+              "start": 80,
+              "url": "https://t.co/492TlvNDSp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038932547284181090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038765722122498314",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这句话不是母狗最爱说吗  \n说完还要栽赃给男的\n真是无耻啊\n门槛姐是女权真是符合现实\n只有没工作闲的才会打女权 https://t.co/ffYlTSxx12 https://t.co/492TlvNDSp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5996,
+          "following_count": 290,
+          "like_count": 5716,
+          "listed_count": 3,
+          "media_count": 66,
+          "tweet_count": 2412
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T15:00:23.000Z",
+        "description": "全世界的反女权主义者联合起来！全世界の反フェミニストが団結しましょう！ Anti-feminists around the world unite！Les anti-féministes du monde entier s'unissent！",
+        "id": "1804892213836763136",
+        "location": "Saint-Usage, France",
+        "name": "feminism🇵🇸🇮🇷🇸🇦🇦🇫🇮🇳🇵🇰🇶🇦🇦🇪",
+        "pinned_tweet_id": "2038833907001679910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849047307309993984/61AbqWPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 44,
+          "like_count": 2633,
+          "listed_count": 3,
+          "media_count": 165,
+          "tweet_count": 1546
+        },
+        "username": "Antifemini1949",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2054047162800144800",
+    "created_at": "2026-05-13T09:32:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T10:32:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054495054367199495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1350047481820708865",
+          "start": 0,
+          "username": "77imwg"
+        },
+        {
+          "end": 19,
+          "id": "1983831935958052865",
+          "start": 8,
+          "username": "xiaobei226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054495054367199495",
+    "in_reply_to_user_id": "1350047481820708865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054047162800144800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@77imwg @xiaobei226 拍对方胳膊三下！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2054047162800144800",
+        "created_at": "2026-05-13T09:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T10:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054495054367199495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1350047481820708865",
+              "start": 0,
+              "username": "77imwg"
+            },
+            {
+              "end": 19,
+              "id": "1983831935958052865",
+              "start": 8,
+              "username": "xiaobei226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054495054367199495",
+        "in_reply_to_user_id": "1350047481820708865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054047162800144800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@77imwg @xiaobei226 拍对方胳膊三下！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1350047481820708865",
+        "conversation_id": "2054047162800144800",
+        "created_at": "2026-05-12T03:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T04:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054047162800144800"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054047162800144800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 403531,
+          "like_count": 797,
+          "quote_count": 7,
+          "reply_count": 701,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "你们玩窒息的是怎么知道对方有没有到临界点的\n玩死了怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨互fo免🚪丨我听点udg sasi很多很多丨算挂找@kill_this_hate💗不准你打我丨两个天使女孩@Ri0trix @Zoeeef2l1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 31,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 67,
+                "start": 59,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 78,
+                "start": 68,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7230,
+          "following_count": 279,
+          "like_count": 6020,
+          "listed_count": 4,
+          "media_count": 45,
+          "tweet_count": 2560
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-15T11:49:46.000Z",
+        "description": "礼貌的消息都会回复\n请不要骂我 我真要哭了 你妹的 去你的\n没有🚪/  叫我77就好/不找线下/不找网调",
+        "id": "1350047481820708865",
+        "name": "77uuii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053970446631247872/-CIoWM6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1260,
+          "following_count": 13,
+          "like_count": 92,
+          "listed_count": 4,
+          "media_count": 15,
+          "tweet_count": 256
+        },
+        "username": "77imwg",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-30T09:42:54.000Z",
+        "description": "不要对wo冷冰冰⋆⁺₊❅.❄️\n 05♓️｜不约不线下不聊骚不搞黄｜当朋友圈发\n俺滴提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/d%E2%80%86d723…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/d%E2%80%86d72380/",
+                "start": 0,
+                "url": "https://t.co/m8MewfZEX7"
+              }
+            ]
+          }
+        },
+        "id": "1983831935958052865",
+        "location": "🍀sub",
+        "name": "点点",
+        "pinned_tweet_id": "2050556673899765788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030257714610507776/GjhfSMsn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1161,
+          "following_count": 69,
+          "like_count": 12248,
+          "listed_count": 3,
+          "media_count": 160,
+          "tweet_count": 4394
+        },
+        "url": "https://t.co/m8MewfZEX7",
+        "username": "xiaobei226",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012906407905918976",
+        "3_2012906407952064513",
+        "3_2012906407910125568",
+        "3_2012906407931068416"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2012906431125569628",
+    "created_at": "2026-01-18T15:14:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T16:14:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012906431125569628"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8tLnkYaIqA",
+          "end": 116,
+          "expanded_url": "https://x.com/ZaneTuT/status/2012906431125569628/photo/1",
+          "media_key": "3_2012906407905918976",
+          "start": 93,
+          "url": "https://t.co/8tLnkYaIqA"
+        },
+        {
+          "display_url": "pic.x.com/8tLnkYaIqA",
+          "end": 116,
+          "expanded_url": "https://x.com/ZaneTuT/status/2012906431125569628/photo/1",
+          "media_key": "3_2012906407952064513",
+          "start": 93,
+          "url": "https://t.co/8tLnkYaIqA"
+        },
+        {
+          "display_url": "pic.x.com/8tLnkYaIqA",
+          "end": 116,
+          "expanded_url": "https://x.com/ZaneTuT/status/2012906431125569628/photo/1",
+          "media_key": "3_2012906407910125568",
+          "start": 93,
+          "url": "https://t.co/8tLnkYaIqA"
+        },
+        {
+          "display_url": "pic.x.com/8tLnkYaIqA",
+          "end": 116,
+          "expanded_url": "https://x.com/ZaneTuT/status/2012906431125569628/photo/1",
+          "media_key": "3_2012906407931068416",
+          "start": 93,
+          "url": "https://t.co/8tLnkYaIqA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012906431125569628",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1️⃣不累呀 靴靴泥！你也要开心呀\n2️⃣你求求我我就考虑考虑\n3️⃣漏什么 怎么漏。不是我推特被太多熟人刷到了我吓都吓死了 我把露脸照全删掉了…\n4️⃣啊啊啊宝宝 可以呀！喜欢你！！ https://t.co/8tLnkYaIqA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 892,
+        "media_key": "3_2012906407905918976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-9HtpFXAAA6_Hm.jpg",
+        "width": 1206
+      },
+      {
+        "height": 786,
+        "media_key": "3_2012906407952064513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-9HtpQXIAEUarN.jpg",
+        "width": 1206
+      },
+      {
+        "height": 775,
+        "media_key": "3_2012906407910125568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-9HtpGXMAABJYH.jpg",
+        "width": 1206
+      },
+      {
+        "height": 899,
+        "media_key": "3_2012906407931068416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-9HtpLWwAAgDli.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012906407905918976",
+            "3_2012906407952064513",
+            "3_2012906407910125568",
+            "3_2012906407931068416"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2012906431125569628",
+        "created_at": "2026-01-18T15:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T16:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012906431125569628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8tLnkYaIqA",
+              "end": 116,
+              "expanded_url": "https://x.com/ZaneTuT/status/2012906431125569628/photo/1",
+              "media_key": "3_2012906407905918976",
+              "start": 93,
+              "url": "https://t.co/8tLnkYaIqA"
+            },
+            {
+              "display_url": "pic.x.com/8tLnkYaIqA",
+              "end": 116,
+              "expanded_url": "https://x.com/ZaneTuT/status/2012906431125569628/photo/1",
+              "media_key": "3_2012906407952064513",
+              "start": 93,
+              "url": "https://t.co/8tLnkYaIqA"
+            },
+            {
+              "display_url": "pic.x.com/8tLnkYaIqA",
+              "end": 116,
+              "expanded_url": "https://x.com/ZaneTuT/status/2012906431125569628/photo/1",
+              "media_key": "3_2012906407910125568",
+              "start": 93,
+              "url": "https://t.co/8tLnkYaIqA"
+            },
+            {
+              "display_url": "pic.x.com/8tLnkYaIqA",
+              "end": 116,
+              "expanded_url": "https://x.com/ZaneTuT/status/2012906431125569628/photo/1",
+              "media_key": "3_2012906407931068416",
+              "start": 93,
+              "url": "https://t.co/8tLnkYaIqA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012906431125569628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1️⃣不累呀 靴靴泥！你也要开心呀\n2️⃣你求求我我就考虑考虑\n3️⃣漏什么 怎么漏。不是我推特被太多熟人刷到了我吓都吓死了 我把露脸照全删掉了…\n4️⃣啊啊啊宝宝 可以呀！喜欢你！！ https://t.co/8tLnkYaIqA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪128 纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨回fo眼熟的 可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2011423750164725893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1090,
+          "following_count": 131,
+          "like_count": 1762,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 795
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

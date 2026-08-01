@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2039684629628625022",
+    "created_at": "2026-04-02T13:09:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T14:09:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039691690756247564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1984629468410101764",
+          "start": 0,
+          "username": "twntyfour7svn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039691690756247564",
+    "in_reply_to_user_id": "1984629468410101764",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039691495519949044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@twntyfour7svn 嚎！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2039684629628625022",
+        "created_at": "2026-04-02T13:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T14:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039691690756247564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1984629468410101764",
+              "start": 0,
+              "username": "twntyfour7svn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039691690756247564",
+        "in_reply_to_user_id": "1984629468410101764",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039691495519949044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twntyfour7svn 嚎！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984629468410101764",
+        "conversation_id": "2039684629628625022",
+        "created_at": "2026-04-02T13:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T14:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039691495519949044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039691495519949044",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039684629628625022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 等我躺床上了再仔细收看！别删太快好吗小溃疡！期待你的粉发！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨08丨od丨中抑中焦丨互fo免🚪丨我听点udg sasi很多很多丨两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 45,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6216,
+          "following_count": 291,
+          "like_count": 6003,
+          "listed_count": 4,
+          "media_count": 94,
+          "tweet_count": 2535
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-01T14:32:12.000Z",
+        "description": "我提前说一下 我是文盲 和我家小狗共用一个账号 如果这个账号发了不好的言论 那都是小狗发的对不起 我家小狗没上过学 刚学会上网三个月 请大家谅解 骂人的都是小狗 狗四个爪子比我打字快🫶🏻https://t.co/JU6RJmtpJ1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%81%E5%B…",
+                "end": 116,
+                "expanded_url": "https://ngl.link/%E5%B1%81%E5%B1%8144687",
+                "start": 93,
+                "url": "https://t.co/JU6RJmtpJ1"
+              }
+            ]
+          }
+        },
+        "id": "1984629468410101764",
+        "name": "屁屁",
+        "pinned_tweet_id": "2010053247202169223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010030643103838209/nLSjDjZP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1133,
+          "following_count": 58,
+          "like_count": 2183,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1147
+        },
+        "username": "twntyfour7svn",
+        "verified": false
+      }
+    ]
+  }
+}

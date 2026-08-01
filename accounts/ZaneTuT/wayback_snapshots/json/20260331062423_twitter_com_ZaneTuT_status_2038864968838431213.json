@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2038853046156075193",
+    "created_at": "2026-03-31T06:24:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T07:24:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038864968838431213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2018742198356131840",
+          "start": 0,
+          "username": "lilidihv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038864968838431213",
+    "in_reply_to_user_id": "2018742198356131840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038853046156075193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lilidihv 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2038853046156075193",
+        "created_at": "2026-03-31T06:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T07:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038864968838431213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2018742198356131840",
+              "start": 0,
+              "username": "lilidihv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038864968838431213",
+        "in_reply_to_user_id": "2018742198356131840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038853046156075193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lilidihv 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018742198356131840",
+        "conversation_id": "2038853046156075193",
+        "created_at": "2026-03-31T05:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T06:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038853046156075193"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038853046156075193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互关踩雷我溺爱 互关骂人我追随 互关恋爱我99 互关双我我认罪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5988,
+          "following_count": 288,
+          "like_count": 5677,
+          "listed_count": 3,
+          "media_count": 65,
+          "tweet_count": 2401
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-03T17:45:43.000Z",
+        "description": "tearsvow | 09 高中生 宁性恋\n\n天才桐生战兔@Aloneovo_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 29,
+                "username": "Aloneovo_"
+              }
+            ]
+          }
+        },
+        "id": "2018742198356131840",
+        "location": "Amore",
+        "name": "萌狗仆",
+        "pinned_tweet_id": "2033818973553496238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038205242094002176/4VC0s18Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 116,
+          "like_count": 1268,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 2509
+        },
+        "username": "lilidihv",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2010958522461417884",
+    "created_at": "2026-01-13T06:14:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T07:14:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010958693106663675"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2010958693106663675",
+    "in_reply_to_user_id": "1997985969958699008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010958522461417884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对不起这个雷霆音乐呃我一直静音看这视频来着哈哈哈…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12000,
+        "height": 736,
+        "media_key": "13_2010958458464714753",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2010958458464714753/img/9YkotPj0iTzQ3ykP.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010958458464714753/vid/avc1/320x326/0YUgxrNanwHz5zT5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010958458464714753/vid/avc1/480x490/TsxQDd3k7K_kTFRq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010958458464714753/vid/avc1/720x736/6p-_SK9eBjAQLrOO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2010958458464714753/pl/bg-qoiKOpK3L7uLw.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2010958522461417884",
+        "created_at": "2026-01-13T06:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T07:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010958693106663675"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010958693106663675",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010958522461417884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对不起这个雷霆音乐呃我一直静音看这视频来着哈哈哈…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2010958458464714753"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2010958522461417884",
+        "created_at": "2026-01-13T06:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T07:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010958522461417884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wGgPCa1FkF",
+              "end": 23,
+              "expanded_url": "https://x.com/ZaneTuT/status/2010958522461417884/video/1",
+              "media_key": "13_2010958458464714753",
+              "start": 0,
+              "url": "https://t.co/wGgPCa1FkF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010958522461417884",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wGgPCa1FkF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "🚪66纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨我听点udg 可以和我一起听歌…",
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010215499150585985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 81,
+          "like_count": 897,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 322
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

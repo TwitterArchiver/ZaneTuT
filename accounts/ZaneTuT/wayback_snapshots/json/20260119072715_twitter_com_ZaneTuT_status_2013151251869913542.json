@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2013151251869913542",
+    "created_at": "2026-01-19T07:27:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T08:27:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013151251869913542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1777373512904454145",
+          "start": 3,
+          "username": "zhaominizhao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013151251869913542",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013109464602440055",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhaominizhao: 老天爷我本来计划是长到170+冷酷高瘦冷脸萌类型的。现在这样啥意思。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2013151251869913542",
+        "created_at": "2026-01-19T07:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T08:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013151251869913542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1777373512904454145",
+              "start": 3,
+              "username": "zhaominizhao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013151251869913542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013109464602440055",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhaominizhao: 老天爷我本来计划是长到170+冷酷高瘦冷脸萌类型的。现在这样啥意思。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777373512904454145",
+        "conversation_id": "2013109464602440055",
+        "created_at": "2026-01-19T04:41:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T05:41:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013109464602440055"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013109464602440055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 271,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "老天爷我本来计划是长到170+冷酷高瘦冷脸萌类型的。现在这样啥意思。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪128 纯绿丨有的文案不是原创别攻击我TuT丨08丨od丨私信看心情回丨高频率发帖我好无聊丨互fo可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2011423750164725893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1260,
+          "following_count": 138,
+          "like_count": 1898,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 848
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T16:31:35.000Z",
+        "description": "喜欢碎碎念的小女子(^⁃⩊⁃^)੭｜宝宝@Cattqwqww",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "Cattqwqww"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mini%E6%98%AD2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mini%E6%98%AD2",
+                "start": 0,
+                "url": "https://t.co/A7i77FwcRk"
+              }
+            ]
+          }
+        },
+        "id": "1777373512904454145",
+        "location": "匿名箱👉🏻",
+        "name": "mini昭",
+        "pinned_tweet_id": "2012571994899075492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000100943015313408/eIpMsaI9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2773,
+          "following_count": 98,
+          "like_count": 6922,
+          "listed_count": 8,
+          "media_count": 374,
+          "tweet_count": 4345
+        },
+        "url": "https://t.co/A7i77FwcRk",
+        "username": "zhaominizhao",
+        "verified": false
+      }
+    ]
+  }
+}

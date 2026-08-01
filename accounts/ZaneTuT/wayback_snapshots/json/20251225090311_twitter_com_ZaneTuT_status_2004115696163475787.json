@@ -1,0 +1,100 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2004115639544197120"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2004115696163475787",
+    "created_at": "2025-12-25T09:03:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T10:03:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004115696163475787"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mb6Jb0B8jK",
+          "end": 23,
+          "expanded_url": "https://x.com/ZaneTuT/status/2004115696163475787/photo/1",
+          "media_key": "16_2004115639544197120",
+          "start": 0,
+          "url": "https://t.co/Mb6Jb0B8jK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004115696163475787",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/Mb6Jb0B8jK"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2004115696163475787].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2004115696163475787",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2004115696163475787"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2004115639544197120",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G9AMjk_WMAAmSz_.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G9AMjk_WMAAmSz_.mp4"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "",
+        "id": "1997985969958699008",
+        "name": "骨骨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997986096517722112/FfRQXH48_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 18,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 10
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

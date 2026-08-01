@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2012819631648719314",
+    "created_at": "2026-01-18T09:30:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T10:30:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012819892383220182"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2012819892383220182",
+    "in_reply_to_user_id": "1997985969958699008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012819631648719314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我名字就是这样来的呀大家…！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2012819631648719314",
+        "created_at": "2026-01-18T09:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T10:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012819892383220182"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012819892383220182",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012819631648719314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我名字就是这样来的呀大家…！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2012819631648719314",
+        "created_at": "2026-01-18T09:29:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T10:29:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012819631648719314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《牙床》，由 兔男 演唱，收录于《兔牙》专辑中，《牙床》下载，《牙床》在线试听，更多牙床相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/ZR8jLVW",
+              "end": 34,
+              "expanded_url": "https://163cn.tv/ZR8jLVW",
+              "start": 11,
+              "status": 200,
+              "title": "牙床 - 兔男 - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=c&id=2669718003&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&userid=3323813847&playerUIModeId=76001&app_version=9.4.50&dlt=0846",
+              "url": "https://t.co/QwqaqRiMtC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012819631648719314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享兔男的单曲《牙床》https://t.co/QwqaqRiMtC (@网易云音乐)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪88/128 纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨回fo眼熟的 可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2012819631648719314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 130,
+          "like_count": 1716,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 763
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

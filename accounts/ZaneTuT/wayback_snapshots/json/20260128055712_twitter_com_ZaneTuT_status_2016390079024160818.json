@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2016377508564996149",
+    "created_at": "2026-01-28T05:57:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T06:57:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016390079024160818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1995222810159882240",
+          "start": 0,
+          "username": "Ameowxiaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016390079024160818",
+    "in_reply_to_user_id": "1995222810159882240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016377508564996149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ameowxiaaa 不准…再……做了……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016377481394356225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_ucotebgAEzrgM.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016377481394315264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_ucotea4AAnhWa.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2016377508564996149",
+        "created_at": "2026-01-28T05:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T06:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016390079024160818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1995222810159882240",
+              "start": 0,
+              "username": "Ameowxiaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016390079024160818",
+        "in_reply_to_user_id": "1995222810159882240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016377508564996149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ameowxiaaa 不准…再……做了……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016377481394356225",
+            "3_2016377481394315264"
+          ]
+        },
+        "author_id": "1995222810159882240",
+        "conversation_id": "2016377508564996149",
+        "created_at": "2026-01-28T05:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T06:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016377508564996149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wVSO5GD4BS",
+              "end": 58,
+              "expanded_url": "https://x.com/Ameowxiaaa/status/2016377508564996149/photo/1",
+              "media_key": "3_2016377481394356225",
+              "start": 35,
+              "url": "https://t.co/wVSO5GD4BS"
+            },
+            {
+              "display_url": "pic.x.com/wVSO5GD4BS",
+              "end": 58,
+              "expanded_url": "https://x.com/Ameowxiaaa/status/2016377508564996149/photo/1",
+              "media_key": "3_2016377481394315264",
+              "start": 35,
+              "url": "https://t.co/wVSO5GD4BS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016377508564996149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "穿这一身的时候我老公后入爽死我了嘻嘻，脖子上的红印草莓怎么去不掉了！ https://t.co/wVSO5GD4BS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心丨08丨od丨私信看心情回丨高频率发帖丨互fo可以直接➕V丨我听点udg sasi很多很多丨我皮下非常没有素质别惹我了行吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2757,
+          "following_count": 172,
+          "like_count": 2811,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 1282
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T20:06:53.000Z",
+        "description": "一个被性压抑折磨的无聊的人…",
+        "id": "1995222810159882240",
+        "name": "小苗苗。",
+        "pinned_tweet_id": "1998886513174778241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996686649359507457/DZvq120y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 125,
+          "like_count": 640,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 363
+        },
+        "username": "Ameowxiaaa",
+        "verified": false
+      }
+    ]
+  }
+}

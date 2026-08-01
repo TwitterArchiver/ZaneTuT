@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2013638900745375826",
+    "created_at": "2026-01-20T15:45:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T16:45:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013638900745375826"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jie091999xx/st…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/jie091999xx/status/1885581333696831518",
+          "start": 14,
+          "url": "https://t.co/SpbqaUbUp3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013638900745375826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885581333696831518",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就要这样我才觉得对方喜欢我 https://t.co/SpbqaUbUp3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2013638900745375826",
+        "created_at": "2026-01-20T15:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T16:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013638900745375826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jie091999xx/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/jie091999xx/status/1885581333696831518",
+              "start": 14,
+              "url": "https://t.co/SpbqaUbUp3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013638900745375826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885581333696831518",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就要这样我才觉得对方喜欢我 https://t.co/SpbqaUbUp3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1485707858180075520",
+        "conversation_id": "1885581333696831518",
+        "created_at": "2025-02-01T06:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T07:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885581333696831518"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1885581333696831518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 611,
+          "impression_count": 1227640,
+          "like_count": 5086,
+          "quote_count": 176,
+          "reply_count": 147,
+          "retweet_count": 242
+        },
+        "reply_settings": "everyone",
+        "text": "知道吗 第一次见你的时候鸡吧就硬了 我他妈多想操你你知道吗 你发那骚气朋友圈 我天天对着导 我想要你想要的不得了 我想直接坐进你的身体 一下一下找到你敏感点 我他妈都快疯了 宝宝让我好好调教调教你吧 我真的爱死你了 想把你的第一次拿走我不想在对着你照片自慰了 我要死了 宝宝 我好爱你 好想要你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪128 纯绿丨有的文案不是原创别攻击我TuT丨08丨od丨私信看心情回丨高频率发帖我好无聊丨互fo可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "一说话就扯溃疡",
+        "pinned_tweet_id": "2013559742573224427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1667,
+          "following_count": 144,
+          "like_count": 2152,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 968
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-24T20:15:47.000Z",
+        "description": "点单私信",
+        "id": "1485707858180075520",
+        "location": "圣诞岛",
+        "name": "雾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997750362741395456/lBnNUVhM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2939,
+          "following_count": 133,
+          "like_count": 57,
+          "listed_count": 4,
+          "media_count": 12,
+          "tweet_count": 30
+        },
+        "username": "Jie091999xx",
+        "verified": false
+      }
+    ]
+  }
+}

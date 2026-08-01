@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2014736687142994030",
+    "created_at": "2026-01-25T08:01:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T09:01:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015334202657620242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1599804489149865984",
+          "start": 0,
+          "username": "Metropolis_X_T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015334202657620242",
+    "in_reply_to_user_id": "1599804489149865984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014736687142994030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Metropolis_X_T 此男就这样展示"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2014736667232595968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_XIUwZacAAem-X.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2014736687142994030",
+        "created_at": "2026-01-25T08:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T09:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015334202657620242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599804489149865984",
+              "start": 0,
+              "username": "Metropolis_X_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015334202657620242",
+        "in_reply_to_user_id": "1599804489149865984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014736687142994030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Metropolis_X_T 此男就这样展示"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014736667232595968"
+          ]
+        },
+        "author_id": "1599804489149865984",
+        "conversation_id": "2014736687142994030",
+        "created_at": "2026-01-23T16:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T17:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014736687142994030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MyIOO85fUl",
+              "end": 36,
+              "expanded_url": "https://x.com/Metropolis_X_T/status/2014736687142994030/photo/1",
+              "media_key": "3_2014736667232595968",
+              "start": 13,
+              "url": "https://t.co/MyIOO85fUl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014736687142994030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 302,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "30岁终于学会对镜拍照了 https://t.co/MyIOO85fUl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心丨08丨od丨私信看心情回丨高频率发帖丨互fo可以直接➕V丨我听点udg sasi很多很多丨我皮下非常没有素质别惹我了行吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2441,
+          "following_count": 168,
+          "like_count": 2620,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 1225
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-05T16:35:01.000Z",
+        "description": "",
+        "id": "1599804489149865984",
+        "name": "X_T",
+        "pinned_tweet_id": "2014736687142994030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015067764549931010/G162byP2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 74,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 35
+        },
+        "username": "Metropolis_X_T",
+        "verified": false
+      }
+    ]
+  }
+}

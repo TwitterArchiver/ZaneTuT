@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2010073723932696994",
+    "created_at": "2026-01-11T05:22:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T06:22:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010220693406011713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1985390646627352579",
+          "start": 0,
+          "username": "Forgot_0923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010220693406011713",
+    "in_reply_to_user_id": "1985390646627352579",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010216854388912595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Forgot_0923 这是好事啊！哈哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2010073723932696994",
+        "created_at": "2026-01-11T05:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T06:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010220693406011713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1985390646627352579",
+              "start": 0,
+              "username": "Forgot_0923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010220693406011713",
+        "in_reply_to_user_id": "1985390646627352579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010216854388912595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Forgot_0923 这是好事啊！哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985390646627352579",
+        "conversation_id": "2010073723932696994",
+        "created_at": "2026-01-11T05:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T06:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010216854388912595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010216854388912595",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010073723932696994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 你知道对一个妹控来说这段话的杀伤力吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "08丨萌脸骚丨od丨私信看心情回 请礼貌丨166 98不要私信问我了丨我听点udg 可以和我一起听歌…",
+        "id": "1997985969958699008",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010215499150585985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 75,
+          "like_count": 597,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 140
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-03T16:56:39.000Z",
+        "description": "艺术专业大二在读/♂/186/礼貌私信都会回/s",
+        "id": "1985390646627352579",
+        "location": "Kawasaki-shi Nakahara-ku",
+        "name": "我老婆的脚上怎么有你的牛子味",
+        "pinned_tweet_id": "1992468655465242880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985391635006701572/KbIEiM6t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 5,
+          "like_count": 877,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 56
+        },
+        "username": "Forgot_0923",
+        "verified": false
+      }
+    ]
+  }
+}

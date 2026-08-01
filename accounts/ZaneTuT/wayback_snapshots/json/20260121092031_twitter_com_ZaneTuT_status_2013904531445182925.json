@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2013841526074347868",
+    "created_at": "2026-01-21T09:20:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T10:20:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013904531445182925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1547836199586242562",
+          "start": 0,
+          "username": "a66210312"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013904531445182925",
+    "in_reply_to_user_id": "1547836199586242562",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013904464214716784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a66210312 我知豆了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2013841526074347868",
+        "created_at": "2026-01-21T09:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T10:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013904531445182925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1547836199586242562",
+              "start": 0,
+              "username": "a66210312"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013904531445182925",
+        "in_reply_to_user_id": "1547836199586242562",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013904464214716784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a66210312 我知豆了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547836199586242562",
+        "conversation_id": "2013841526074347868",
+        "created_at": "2026-01-21T09:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T10:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013904464214716784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013904464214716784",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013841526074347868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 老公别这样 真的别这样行吗 照顾好自己😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪128 纯绿丨有的文案不是原创别攻击我TuT丨08丨od丨私信看心情回丨高频率发帖我好无聊丨互fo可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "一说话就扯溃疡",
+        "pinned_tweet_id": "2013559742573224427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1882,
+          "following_count": 146,
+          "like_count": 2251,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 1025
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-15T06:51:35.000Z",
+        "description": "🫶",
+        "id": "1547836199586242562",
+        "name": "小hao",
+        "pinned_tweet_id": "1778904531989901450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1599323260969181185/033qafnO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3450,
+          "following_count": 34,
+          "like_count": 855,
+          "listed_count": 8,
+          "media_count": 42,
+          "tweet_count": 241
+        },
+        "username": "a66210312",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2034989386622767338",
+    "created_at": "2026-03-20T13:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T14:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034989386622767338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2359548108",
+          "start": 3,
+          "username": "gray_8877"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034989386622767338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034824648727421225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gray_8877: 我再说一下，私密账号回复的评论只有你自己能看到，别人是看不到的，只能看见回复图标上多了个1，搞不懂开着私密跟别人互动是什么心理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2034989386622767338",
+        "created_at": "2026-03-20T13:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T14:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034989386622767338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2359548108",
+              "start": 3,
+              "username": "gray_8877"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034989386622767338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034824648727421225",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gray_8877: 我再说一下，私密账号回复的评论只有你自己能看到，别人是看不到的，只能看见回复图标上多了个1，搞不懂开着私密跟别人互动是什么心理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2359548108",
+        "conversation_id": "2034824648727421225",
+        "created_at": "2026-03-20T02:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T03:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034824648727421225"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034824648727421225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 35614,
+          "like_count": 180,
+          "quote_count": 7,
+          "reply_count": 17,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我再说一下，私密账号回复的评论只有你自己能看到，别人是看不到的，只能看见回复图标上多了个1，搞不懂开着私密跟别人互动是什么心理"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5491,
+          "following_count": 289,
+          "like_count": 5116,
+          "listed_count": 3,
+          "media_count": 64,
+          "tweet_count": 2102
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-24T14:03:27.000Z",
+        "description": "无小号 | 30+已婚丨switch丨极度反差丨佛系记录一些爱爱日常和碎碎念，只纪实不杜撰，视频和照片不会让老婆漏点，再问拉黑丨爱看色色图文和视频以学习技巧和满足XP(老婆有些性冷淡且做爱比较拘谨)，欢迎分享交流丨不会主动私信别人但有礼貌的私信都会回丨骗子、男同和不尊重异性的都勿扰（无论男女）丨盗我内容的死一户口本",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gray92849",
+                "end": 23,
+                "expanded_url": "http://ngl.link/gray92849",
+                "start": 0,
+                "url": "https://t.co/dEi8Upqq6X"
+              }
+            ]
+          }
+        },
+        "id": "2359548108",
+        "location": "匿名提问箱：",
+        "name": "甜菜的小猪",
+        "pinned_tweet_id": "1964966757208313965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960261407473377280/aLzehxjq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19489,
+          "following_count": 462,
+          "like_count": 4047,
+          "listed_count": 34,
+          "media_count": 224,
+          "tweet_count": 2594
+        },
+        "url": "https://t.co/dEi8Upqq6X",
+        "username": "gray_8877",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2010256334709723161",
+    "created_at": "2026-01-11T09:49:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T10:49:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010287951557878108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1838271233265405952",
+          "start": 0,
+          "username": "aAaka_177"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010287951557878108",
+    "in_reply_to_user_id": "1838271233265405952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010282593686864153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aAaka_177 我知豆叻！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2010256334709723161",
+        "created_at": "2026-01-11T09:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T10:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010287951557878108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1838271233265405952",
+              "start": 0,
+              "username": "aAaka_177"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010287951557878108",
+        "in_reply_to_user_id": "1838271233265405952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010282593686864153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aAaka_177 我知豆叻！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838271233265405952",
+        "conversation_id": "2010256334709723161",
+        "created_at": "2026-01-11T09:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T10:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010282593686864153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010282593686864153",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010256334709723161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 真的太 tmd 可爱了知不知豆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "08丨萌脸骚丨od丨私信看心情回 请礼貌丨166 98不要私信问我了丨高频率发帖我好无聊丨我听点udg 可以和我一起听歌…",
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010215499150585985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 77,
+          "like_count": 635,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 155
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-23T17:36:54.000Z",
+        "description": "一拳で死ぬ",
+        "id": "1838271233265405952",
+        "name": "世界で最も筋力強い猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842494756947206144/N9cdqQz9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 12,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 16
+        },
+        "username": "aAaka_177",
+        "verified": false
+      }
+    ]
+  }
+}

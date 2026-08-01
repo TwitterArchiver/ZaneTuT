@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2000659225778033060",
+    "created_at": "2026-01-09T14:21:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T15:21:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009631637471186972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1704863262196572160",
+          "start": 0,
+          "username": "Sinsi3169"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009631637471186972",
+    "in_reply_to_user_id": "1704863262196572160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000659225778033060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sinsi3169 卧槽完全xp…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 124100,
+        "height": 720,
+        "media_key": "13_2000659155208527875",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2000659155208527875/img/SKlAYsz6iQg7Glyg.jpg",
+        "public_metrics": {
+          "view_count": 529621
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000659155208527875/vid/avc1/326x270/ht_vocgsCH-s44CC.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000659155208527875/vid/avc1/436x360/FvLvFl3TNy1BxtFO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000659155208527875/vid/avc1/872x720/x43cc2lRT9k4ZNI2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2000659155208527875/pl/Zjpa78In02l59dBn.m3u8"
+          }
+        ],
+        "width": 872
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2000659225778033060",
+        "created_at": "2026-01-09T14:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T15:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009631637471186972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1704863262196572160",
+              "start": 0,
+              "username": "Sinsi3169"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009631637471186972",
+        "in_reply_to_user_id": "1704863262196572160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000659225778033060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sinsi3169 卧槽完全xp…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000659155208527875"
+          ]
+        },
+        "author_id": "1704863262196572160",
+        "conversation_id": "2000659225778033060",
+        "created_at": "2025-12-15T20:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T21:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000659225778033060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gUUsnOC5TG",
+              "end": 23,
+              "expanded_url": "https://x.com/Sinsi3169/status/2000659225778033060/video/1",
+              "media_key": "13_2000659155208527875",
+              "start": 0,
+              "url": "https://t.co/gUUsnOC5TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000659225778033060",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 11954,
+          "impression_count": 433498,
+          "like_count": 26469,
+          "quote_count": 96,
+          "reply_count": 21,
+          "retweet_count": 2886
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gUUsnOC5TG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "🚪52/100/188 骂我的人是gay",
+        "id": "1997985969958699008",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2009195553230606621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 62,
+          "like_count": 462,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 73
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-21T14:21:02.000Z",
+        "description": "priv: @Sinsi3169pv backup: @purna3169",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "Sinsi3169pv"
+              },
+              {
+                "end": 37,
+                "start": 27,
+                "username": "purna3169"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sinsi3169",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sinsi3169",
+                "start": 0,
+                "url": "https://t.co/Vb8pUaCehK"
+              }
+            ]
+          }
+        },
+        "id": "1704863262196572160",
+        "location": "Beyoğlu, İstanbul",
+        "name": "Sinsi",
+        "pinned_tweet_id": "2007367053540479366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007430202452774912/uQAQPNr4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91517,
+          "following_count": 2339,
+          "like_count": 70037,
+          "listed_count": 210,
+          "media_count": 7196,
+          "tweet_count": 17443
+        },
+        "url": "https://t.co/Vb8pUaCehK",
+        "username": "Sinsi3169",
+        "verified": false
+      }
+    ]
+  }
+}

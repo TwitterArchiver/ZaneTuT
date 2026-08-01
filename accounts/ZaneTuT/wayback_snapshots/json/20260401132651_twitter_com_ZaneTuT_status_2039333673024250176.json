@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2039286470490636730",
+    "created_at": "2026-04-01T13:26:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T14:26:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039333673024250176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2009153444133896192",
+          "start": 0,
+          "username": "teoronlit18654"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039333673024250176",
+    "in_reply_to_user_id": "2009153444133896192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039331938776039833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@teoronlit18654 我好爱吃咸蛋黄嫩鸡呀…但是我朋友吃这个会觉得腻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2039286470490636730",
+        "created_at": "2026-04-01T13:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T14:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039333673024250176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2009153444133896192",
+              "start": 0,
+              "username": "teoronlit18654"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039333673024250176",
+        "in_reply_to_user_id": "2009153444133896192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039331938776039833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teoronlit18654 我好爱吃咸蛋黄嫩鸡呀…但是我朋友吃这个会觉得腻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009153444133896192",
+        "conversation_id": "2039286470490636730",
+        "created_at": "2026-04-01T13:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T14:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039331938776039833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039331938776039833",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039286470490636730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 啥味儿最好吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨08丨od丨中抑中焦丨互fo免🚪丨我听点udg sasi很多很多丨两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 45,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6119,
+          "following_count": 298,
+          "like_count": 5803,
+          "listed_count": 3,
+          "media_count": 67,
+          "tweet_count": 2467
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-08T06:41:36.000Z",
+        "description": "空的",
+        "id": "2009153444133896192",
+        "name": "Shuuuuuu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010594339605688320/I2a_5xiM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 64,
+          "like_count": 1366,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 461
+        },
+        "username": "teoronlit18654",
+        "verified": false
+      }
+    ]
+  }
+}

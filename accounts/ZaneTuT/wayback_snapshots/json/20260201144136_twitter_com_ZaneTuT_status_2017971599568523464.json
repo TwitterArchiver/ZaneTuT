@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2017971599568523464",
+    "created_at": "2026-02-01T14:41:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T15:41:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017971599568523464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1589508609578176512",
+          "start": 3,
+          "username": "mifanmiaomiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017971599568523464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017812349789352434",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mifanmiaomiao: 不是所有女生都是粉色的！黑色不是做爱做多了！主要有遗传因素，荷尔蒙影响，和年龄增长有关。是正常现象🫶🏻\n老婆们不要轻易尝试变粉的广告和产品，会破坏菌群。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2017971599568523464",
+        "created_at": "2026-02-01T14:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T15:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017971599568523464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1589508609578176512",
+              "start": 3,
+              "username": "mifanmiaomiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017971599568523464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017812349789352434",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mifanmiaomiao: 不是所有女生都是粉色的！黑色不是做爱做多了！主要有遗传因素，荷尔蒙影响，和年龄增长有关。是正常现象🫶🏻\n老婆们不要轻易尝试变粉的广告和产品，会破坏菌群。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589508609578176512",
+        "conversation_id": "2017812349789352434",
+        "created_at": "2026-02-01T04:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T05:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017812349789352434"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017812349789352434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 115114,
+          "like_count": 998,
+          "quote_count": 0,
+          "reply_count": 127,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "不是所有女生都是粉色的！黑色不是做爱做多了！主要有遗传因素，荷尔蒙影响，和年龄增长有关。是正常现象🫶🏻\n老婆们不要轻易尝试变粉的广告和产品，会破坏菌群。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨神秘账号@Rotte2t00丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "Rotte2t00"
+              },
+              {
+                "end": 80,
+                "start": 65,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 95,
+                "start": 87,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2948,
+          "following_count": 182,
+          "like_count": 3008,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 1373
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-07T06:42:57.000Z",
+        "description": "会互fo~（大部分时间在搞/写/发黄色介意可取关~）俺喜欢和大家交朋友！ 欢迎互转互粉互赞~正在努力学英语润出去.... 偶尔会写点抽象的满足自己！！会给互fo画画（不过技术不太好 /画的有些慢）希望宝宝会喜欢^•͈༝•^ฅ欢迎宝宝们来找我私信聊天哦🥰太冒昧的私信休怪我的刀不长眼！🔪🪓🗡",
+        "id": "1589508609578176512",
+        "name": "米花糖",
+        "pinned_tweet_id": "1998563648768487661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998359027051618304/QN4w_EJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 903,
+          "like_count": 7735,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 1641
+        },
+        "username": "mifanmiaomiao",
+        "verified": false
+      }
+    ]
+  }
+}

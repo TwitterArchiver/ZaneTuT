@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2013305454663807128",
+    "created_at": "2026-01-19T23:38:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T00:38:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013395734645874716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1995222810159882240",
+          "start": 0,
+          "username": "Ameowxiaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013395734645874716",
+    "in_reply_to_user_id": "1995222810159882240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013305454663807128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ameowxiaaa 是让我转这个吗。我点你主页只剩这个了不管了先转吧😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2013305454663807128",
+        "created_at": "2026-01-19T23:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T00:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013395734645874716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1995222810159882240",
+              "start": 0,
+              "username": "Ameowxiaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013395734645874716",
+        "in_reply_to_user_id": "1995222810159882240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013305454663807128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ameowxiaaa 是让我转这个吗。我点你主页只剩这个了不管了先转吧😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995222810159882240",
+        "conversation_id": "2013305454663807128",
+        "created_at": "2026-01-19T17:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T18:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013305454663807128"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013305454663807128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我买了八套情趣内衣你们知道吗！我要等我老公操我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪128 纯绿丨有的文案不是原创别攻击我TuT丨08丨od丨私信看心情回丨高频率发帖我好无聊丨互fo可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2011423750164725893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1485,
+          "following_count": 142,
+          "like_count": 2001,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 912
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T20:06:53.000Z",
+        "description": "一个被性压抑折磨的无聊的人…",
+        "id": "1995222810159882240",
+        "name": "小苗苗。",
+        "pinned_tweet_id": "1998886513174778241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996686649359507457/DZvq120y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 124,
+          "like_count": 601,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 324
+        },
+        "username": "Ameowxiaaa",
+        "verified": false
+      }
+    ]
+  }
+}

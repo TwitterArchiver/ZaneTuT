@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2016633733965893997",
+    "created_at": "2026-01-29T00:14:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T01:14:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016666202874269809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1889784492413620224",
+          "start": 0,
+          "username": "KyuuGokinn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016666202874269809",
+    "in_reply_to_user_id": "1889784492413620224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016633733965893997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KyuuGokinn 中文说唱完蛋了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2016633733965893997",
+        "created_at": "2026-01-29T00:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T01:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016666202874269809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1889784492413620224",
+              "start": 0,
+              "username": "KyuuGokinn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016666202874269809",
+        "in_reply_to_user_id": "1889784492413620224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016633733965893997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KyuuGokinn 中文说唱完蛋了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889784492413620224",
+        "conversation_id": "2016633733965893997",
+        "created_at": "2026-01-28T22:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T23:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016633733965893997"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016633733965893997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中文说唱完蛋了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心丨08丨od丨私信看心情回丨高频率发帖丨互fo可以直接➕V丨我听点udg sasi很多很多丨我皮下非常没有素质别惹我了行吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2830,
+          "following_count": 172,
+          "like_count": 2870,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 1310
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-12T21:11:57.000Z",
+        "description": "中文｜DBD｜梦向发言",
+        "id": "1889784492413620224",
+        "name": "LifeIsAStruggle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016009001926828032/5SnEU-JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 69,
+          "like_count": 294,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 86
+        },
+        "username": "KyuuGokinn",
+        "verified": false
+      }
+    ]
+  }
+}

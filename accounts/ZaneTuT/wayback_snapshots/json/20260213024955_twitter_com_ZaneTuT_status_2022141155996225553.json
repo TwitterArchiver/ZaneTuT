@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2021626935152193916",
+    "created_at": "2026-02-13T02:49:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T03:49:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022141155996225553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1875159851216875520",
+          "start": 0,
+          "username": "iamnotkawasaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022141155996225553",
+    "in_reply_to_user_id": "1875159851216875520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021626935152193916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iamnotkawasaki 我不是你想的那样"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32933,
+        "height": 720,
+        "media_key": "13_2021626837261332485",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2021626837261332485/img/RT0tG6Ze1452dshD.jpg",
+        "public_metrics": {
+          "view_count": 2274
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021626837261332485/vid/avc1/480x270/7mWf9JciKokAcH81.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021626837261332485/vid/avc1/640x360/Kk434HBVCSnAxKSm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021626837261332485/vid/avc1/1280x720/DjZX2chBCJGwg0pX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2021626837261332485/pl/1xXkMsrflDc_veP2.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2021626935152193916",
+        "created_at": "2026-02-13T02:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T03:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022141155996225553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1875159851216875520",
+              "start": 0,
+              "username": "iamnotkawasaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022141155996225553",
+        "in_reply_to_user_id": "1875159851216875520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021626935152193916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iamnotkawasaki 我不是你想的那样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2021626837261332485"
+          ]
+        },
+        "author_id": "1875159851216875520",
+        "conversation_id": "2021626935152193916",
+        "created_at": "2026-02-11T16:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T17:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021626935152193916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3TfizoqC9N",
+              "end": 27,
+              "expanded_url": "https://x.com/iamnotkawasaki/status/2021626935152193916/video/1",
+              "media_key": "13_2021626837261332485",
+              "start": 4,
+              "url": "https://t.co/3TfizoqC9N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021626935152193916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7711,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "炸弹爱 https://t.co/3TfizoqC9N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3922,
+          "following_count": 211,
+          "like_count": 3577,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 1638
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T12:38:52.000Z",
+        "description": "自用蜂鸟vpn https://t.co/KeHJYCjznt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nasyou.com/#/register?cod…",
+                "end": 31,
+                "expanded_url": "https://www.nasyou.com/#/register?code=QfQJlAtH",
+                "start": 8,
+                "url": "https://t.co/KeHJYCjznt"
+              }
+            ]
+          }
+        },
+        "id": "1875159851216875520",
+        "location": "苏州",
+        "name": "rain1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989898393704173570/n90EsG2O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1443,
+          "following_count": 333,
+          "like_count": 3269,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 486
+        },
+        "username": "iamnotkawasaki",
+        "verified": false
+      }
+    ]
+  }
+}

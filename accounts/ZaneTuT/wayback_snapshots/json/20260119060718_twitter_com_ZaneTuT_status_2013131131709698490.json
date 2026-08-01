@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2013131131709698490",
+    "created_at": "2026-01-19T06:07:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T07:07:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013131131709698490"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wasai778/statu…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/wasai778/status/2012914432175718651",
+          "start": 56,
+          "url": "https://t.co/nRTJnlfdPT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013131131709698490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012914432175718651",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我被前任打的时候就是做完之后我开玩笑说他小 他恼羞成怒给我在民宿揍了一顿 最后我要走 他还不让 开始经典认错😃 https://t.co/nRTJnlfdPT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2013131131709698490",
+        "created_at": "2026-01-19T06:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T07:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013131131709698490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wasai778/statu…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/wasai778/status/2012914432175718651",
+              "start": 56,
+              "url": "https://t.co/nRTJnlfdPT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013131131709698490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012914432175718651",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我被前任打的时候就是做完之后我开玩笑说他小 他恼羞成怒给我在民宿揍了一顿 最后我要走 他还不让 开始经典认错😃 https://t.co/nRTJnlfdPT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856793166953025537",
+        "conversation_id": "2012914432175718651",
+        "created_at": "2026-01-18T15:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T16:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012914432175718651"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012914432175718651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 84751,
+          "like_count": 261,
+          "quote_count": 2,
+          "reply_count": 65,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "你们男人事后的贤者模式好讨厌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪128 纯绿丨有的文案不是原创别攻击我TuT丨08丨od丨私信看心情回丨高频率发帖我好无聊丨互fo可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2011423750164725893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1246,
+          "following_count": 137,
+          "like_count": 1881,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 854
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T20:16:45.000Z",
+        "description": "Switch  声音还算好听一女的  简介不了  慢慢观察！",
+        "id": "1856793166953025537",
+        "location": "🚪158 口令留v",
+        "name": "今天很哇塞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994943654818123777/1o589CHK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34292,
+          "following_count": 1,
+          "like_count": 17,
+          "listed_count": 96,
+          "media_count": 29,
+          "tweet_count": 40
+        },
+        "username": "wasai778",
+        "verified": false
+      }
+    ]
+  }
+}

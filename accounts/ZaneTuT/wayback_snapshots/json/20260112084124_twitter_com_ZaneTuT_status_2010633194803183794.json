@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2010394510207889445",
+    "created_at": "2026-01-12T08:41:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T09:41:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010633194803183794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1396167804294819841",
+          "start": 0,
+          "username": "qingjiu___"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010633194803183794",
+    "in_reply_to_user_id": "1396167804294819841",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010394510207889445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qingjiu___ 我穿走了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2010394492369522688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-ZbI6gWUAA_JdF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2010394510207889445",
+        "created_at": "2026-01-12T08:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T09:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010633194803183794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1396167804294819841",
+              "start": 0,
+              "username": "qingjiu___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010633194803183794",
+        "in_reply_to_user_id": "1396167804294819841",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010394510207889445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingjiu___ 我穿走了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010394492369522688"
+          ]
+        },
+        "author_id": "1396167804294819841",
+        "conversation_id": "2010394510207889445",
+        "created_at": "2026-01-11T16:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T17:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010394510207889445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y5BInOZOB7",
+              "end": 31,
+              "expanded_url": "https://x.com/qingjiu___/status/2010394510207889445/photo/1",
+              "media_key": "3_2010394492369522688",
+              "start": 8,
+              "url": "https://t.co/Y5BInOZOB7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010394510207889445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1603,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我裤衩放这里了 https://t.co/Y5BInOZOB7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "🚪66纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨我听点udg 可以和我一起听歌…",
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010215499150585985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 104,
+          "like_count": 783,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 231
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-22T18:15:30.000Z",
+        "description": "Fb https://t.co/bjTReW32Uk /🚪169//破干男喘的/",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "qingjiuu.fanbox.cc",
+                "end": 26,
+                "expanded_url": "https://qingjiuu.fanbox.cc/",
+                "start": 3,
+                "url": "https://t.co/bjTReW32Uk"
+              }
+            ]
+          }
+        },
+        "id": "1396167804294819841",
+        "location": "江西",
+        "name": "清酒",
+        "pinned_tweet_id": "2003113936196116743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1396168055898574849/D-Yecybe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72759,
+          "following_count": 195,
+          "like_count": 6040,
+          "listed_count": 211,
+          "media_count": 1001,
+          "tweet_count": 5349
+        },
+        "username": "qingjiu___",
+        "verified": false
+      }
+    ]
+  }
+}

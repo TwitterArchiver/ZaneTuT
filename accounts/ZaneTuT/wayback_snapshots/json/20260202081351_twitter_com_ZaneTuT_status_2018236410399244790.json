@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2018234056132137209",
+    "created_at": "2026-02-02T08:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T09:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018236410399244790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1966188117163134976",
+          "start": 0,
+          "username": "auawyzzk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018236410399244790",
+    "in_reply_to_user_id": "1966188117163134976",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018234721772437631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@auawyzzk 🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2018234056132137209",
+        "created_at": "2026-02-02T08:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T09:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018236410399244790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1966188117163134976",
+              "start": 0,
+              "username": "auawyzzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018236410399244790",
+        "in_reply_to_user_id": "1966188117163134976",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018234721772437631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@auawyzzk 🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966188117163134976",
+        "conversation_id": "2018234056132137209",
+        "created_at": "2026-02-02T08:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T09:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018234721772437631"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018234721772437631",
+        "in_reply_to_user_id": "1966188117163134976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018234056132137209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说我可以一直当小宝宝的 你看到这张脸还说得出话来吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨神秘账号@Rotte2t00丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "Rotte2t00"
+              },
+              {
+                "end": 80,
+                "start": 65,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 95,
+                "start": 87,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2985,
+          "following_count": 191,
+          "like_count": 3078,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1372
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T17:12:39.000Z",
+        "description": "蝻的 家里蹲吃拼好饭中 双相 缺爱屌 自残 od ⚠️负能很多⚠️ 想要老婆 00 188 70 林俊杰是神 想下辈子变成小女孩 不友跨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/auawyzzk2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/auawyzzk2",
+                "start": 0,
+                "url": "https://t.co/vuAp5MrgmI"
+              }
+            ]
+          }
+        },
+        "id": "1966188117163134976",
+        "location": "墓地",
+        "name": "我一直在割",
+        "pinned_tweet_id": "2018234056132137209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966192998833860609/HNU7N_cG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 76,
+          "like_count": 9723,
+          "listed_count": 0,
+          "media_count": 435,
+          "tweet_count": 6976
+        },
+        "url": "https://t.co/vuAp5MrgmI",
+        "username": "auawyzzk",
+        "verified": false
+      }
+    ]
+  }
+}

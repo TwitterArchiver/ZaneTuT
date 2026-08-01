@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2016237046382395902",
+    "created_at": "2026-02-06T11:22:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T12:22:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019733536543302033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1973430266124541952",
+          "start": 0,
+          "username": "niki769989"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019733536543302033",
+    "in_reply_to_user_id": "1973430266124541952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016237046382395902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niki769989 有这好东西不早说！听得我心里痒痒的！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 63175,
+        "height": 1280,
+        "media_key": "13_2016236909098631169",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2016236909098631169/img/O0gX15wmzU8kG8vh.jpg",
+        "public_metrics": {
+          "view_count": 11
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016236909098631169/vid/avc1/320x690/Vis0qpAGUAem1GG1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016236909098631169/vid/avc1/480x1036/MeDSE-5gLc2HU9K-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016236909098631169/vid/avc1/592x1280/IdgECO2PHgantkB0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2016236909098631169/pl/7rivFGmjgpAkI64I.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2016237046382395902",
+        "created_at": "2026-02-06T11:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T12:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019733536543302033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1973430266124541952",
+              "start": 0,
+              "username": "niki769989"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019733536543302033",
+        "in_reply_to_user_id": "1973430266124541952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016237046382395902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niki769989 有这好东西不早说！听得我心里痒痒的！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2016236909098631169"
+          ]
+        },
+        "author_id": "1973430266124541952",
+        "conversation_id": "2016237046382395902",
+        "created_at": "2026-01-27T19:49:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T20:49:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016237046382395902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ir1aWnlYVF",
+              "end": 23,
+              "expanded_url": "https://x.com/niki769989/status/2016237046382395902/video/1",
+              "media_key": "13_2016236909098631169",
+              "start": 0,
+              "url": "https://t.co/Ir1aWnlYVF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016237046382395902",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Ir1aWnlYVF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3315,
+          "following_count": 191,
+          "like_count": 3271,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 1469
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T16:50:30.000Z",
+        "description": "此号是@Kexuejiazhuang的转生版，寻找互关好朋友中，互关宝宝们看到了都帮我转转好吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 3,
+                "username": "Kexuejiazhuang"
+              }
+            ]
+          }
+        },
+        "id": "1973430266124541952",
+        "name": "欠寿司了吧🍣（给我寿司吧🍣）",
+        "pinned_tweet_id": "2019171930243543443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015116959730589696/qstIzpJu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 24,
+          "like_count": 938,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 175
+        },
+        "username": "niki769989",
+        "verified": false
+      }
+    ]
+  }
+}

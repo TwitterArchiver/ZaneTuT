@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2016875081037992069",
+    "created_at": "2026-01-29T14:55:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T15:55:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016887915453043004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1940006342833700864",
+          "start": 0,
+          "username": "Y177854593566"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016887915453043004",
+    "in_reply_to_user_id": "1940006342833700864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016875081037992069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y177854593566 小音！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 286,
+        "media_key": "3_2016875071919575042",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_1hMSobUAImmBD.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2016875081037992069",
+        "created_at": "2026-01-29T14:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T15:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016887915453043004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1940006342833700864",
+              "start": 0,
+              "username": "Y177854593566"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016887915453043004",
+        "in_reply_to_user_id": "1940006342833700864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016875081037992069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y177854593566 小音！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016875071919575042"
+          ]
+        },
+        "author_id": "1940006342833700864",
+        "conversation_id": "2016875081037992069",
+        "created_at": "2026-01-29T14:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T15:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016875081037992069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ULaQPyQntX",
+              "end": 47,
+              "expanded_url": "https://x.com/Y177854593566/status/2016875081037992069/photo/1",
+              "media_key": "3_2016875071919575042",
+              "start": 24,
+              "url": "https://t.co/ULaQPyQntX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016875081037992069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有人！恭喜這個小音破3kfo (◍＞◡＜◍) https://t.co/ULaQPyQntX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心丨08丨od丨私信看心情回丨高频率发帖丨互fo可以直接➕V丨我听点udg sasi很多很多丨我皮下非常没有素质别惹我了行吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2871,
+          "following_count": 175,
+          "like_count": 2908,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1321
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-01T11:15:38.000Z",
+        "description": "這裏小音ovo！07的176cm小女孩˃ 𖥦 ˂ 喜歡年上 所以男高和比我小的別找我了≥﹏≤分享日常 啥都發 當朋友圈發 純分享生活 發自己覺得好看的^ω^ 喜歡我可以給我打錢😋喜歡聊天 大家都可以找我聊ᗜ𖥦ᗜ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%9F%B3%E9%9B%A8%E5%A4%A9",
+                "start": 0,
+                "url": "https://t.co/NRVQTJEPA4"
+              }
+            ]
+          }
+        },
+        "id": "1940006342833700864",
+        "location": "🚪288/520",
+        "name": "小音雨天",
+        "pinned_tweet_id": "2012105864073933068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001981596262686720/qIhFj5ge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3003,
+          "following_count": 39,
+          "like_count": 772,
+          "listed_count": 17,
+          "media_count": 83,
+          "tweet_count": 339
+        },
+        "url": "https://t.co/NRVQTJEPA4",
+        "username": "Y177854593566",
+        "verified": false
+      }
+    ]
+  }
+}

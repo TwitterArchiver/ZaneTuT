@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2070879141654884505",
+    "created_at": "2026-06-27T18:09:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T19:09:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070932502081147381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2005290453219033088",
+          "start": 0,
+          "username": "zzzlovezhen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070932502081147381",
+    "in_reply_to_user_id": "2005290453219033088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070932387832439292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzzlovezhen 不哭也会好起来的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2070879141654884505",
+        "created_at": "2026-06-27T18:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T19:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070932502081147381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2005290453219033088",
+              "start": 0,
+              "username": "zzzlovezhen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070932502081147381",
+        "in_reply_to_user_id": "2005290453219033088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070932387832439292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzzlovezhen 不哭也会好起来的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005290453219033088",
+        "conversation_id": "2070879141654884505",
+        "created_at": "2026-06-27T18:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T19:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070932387832439292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070932387832439292",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070879141654884505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 不哭也会好起来的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨互fo免🚪丨算挂找@kill_this_hate💗不准你打我丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2044362275218489629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7602,
+          "following_count": 274,
+          "like_count": 5812,
+          "listed_count": 4,
+          "media_count": 42,
+          "tweet_count": 2555
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-28T14:51:27.000Z",
+        "description": "對我來說妳也只是",
+        "id": "2005290453219033088",
+        "location": "坏结局",
+        "name": "我想我會變成這樣都是你害的",
+        "pinned_tweet_id": "2011307075331375430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009981046746689543/22Z3tca2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 52,
+          "like_count": 434,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 745
+        },
+        "url": "",
+        "username": "zzzlovezhen",
+        "verified": false
+      }
+    ]
+  }
+}

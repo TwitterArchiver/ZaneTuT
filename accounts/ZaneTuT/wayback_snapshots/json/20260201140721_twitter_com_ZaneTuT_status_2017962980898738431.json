@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017962959461560320"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2017962980898738431",
+    "created_at": "2026-02-01T14:07:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T15:07:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017962980898738431"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dNEg7MmSsj",
+          "end": 90,
+          "expanded_url": "https://x.com/ZaneTuT/status/2017962980898738431/photo/1",
+          "media_key": "3_2017962959461560320",
+          "start": 67,
+          "url": "https://t.co/dNEg7MmSsj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017962980898738431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1️⃣？知道了我会告诉他的\n2️⃣一点点吧 有人爱我再说\n3️⃣谢谢！(o^^o)其实我私下烟酒都来素质也很差呀！\n4️⃣在的 高二 https://t.co/dNEg7MmSsj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1063,
+        "media_key": "3_2017962959461560320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAE-nriaMAA5rTv.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017962959461560320"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2017962980898738431",
+        "created_at": "2026-02-01T14:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T15:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017962980898738431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dNEg7MmSsj",
+              "end": 90,
+              "expanded_url": "https://x.com/ZaneTuT/status/2017962980898738431/photo/1",
+              "media_key": "3_2017962959461560320",
+              "start": 67,
+              "url": "https://t.co/dNEg7MmSsj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017962980898738431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1️⃣？知道了我会告诉他的\n2️⃣一点点吧 有人爱我再说\n3️⃣谢谢！(o^^o)其实我私下烟酒都来素质也很差呀！\n4️⃣在的 高二 https://t.co/dNEg7MmSsj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心丨08丨od丨私信只回口令丨互fo可以直接➕V丨我听点udg sasi很多很多丨我皮下非常没有素质别惹我了行吗丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 115,
+                "start": 107,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2943,
+          "following_count": 186,
+          "like_count": 3005,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 1370
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

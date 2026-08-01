@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2059687353187213371",
+    "created_at": "2026-05-28T01:00:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T02:00:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059801852368294307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1842093930722295808",
+          "start": 0,
+          "username": "cyyyyxu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059801852368294307",
+    "in_reply_to_user_id": "1842093930722295808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059687353187213371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cyyyyxu 宝宝你首页右划有一个历史 点开在那里面！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2059687353187213371",
+        "created_at": "2026-05-28T01:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T02:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059801852368294307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1842093930722295808",
+              "start": 0,
+              "username": "cyyyyxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059801852368294307",
+        "in_reply_to_user_id": "1842093930722295808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059687353187213371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cyyyyxu 宝宝你首页右划有一个历史 点开在那里面！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842093930722295808",
+        "conversation_id": "2059687353187213371",
+        "created_at": "2026-05-27T17:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059687353187213371"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059687353187213371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 618,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？？？？我的点赞去哪了？？为什么我的点赞找不到了啥意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨互fo免🚪丨算挂找@kill_this_hate💗不准你打我丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2044362275218489629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7511,
+          "following_count": 270,
+          "like_count": 5880,
+          "listed_count": 4,
+          "media_count": 42,
+          "tweet_count": 2543
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T06:46:42.000Z",
+        "description": "一个非常脆弱的小女孩 ，不爱别伤害",
+        "id": "1842093930722295808",
+        "name": "11",
+        "pinned_tweet_id": "2046148067510923484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042486537644822528/Gmxxg8Ru_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3825,
+          "following_count": 36,
+          "like_count": 1427,
+          "listed_count": 5,
+          "media_count": 102,
+          "tweet_count": 932
+        },
+        "username": "cyyyyxu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010521370002870272"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2010521378886504883",
+    "created_at": "2026-01-12T01:17:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T02:17:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010521378886504883"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sKcob2Bny3",
+          "end": 32,
+          "expanded_url": "https://x.com/ZaneTuT/status/2010521378886504883/photo/1",
+          "media_key": "3_2010521370002870272",
+          "start": 9,
+          "url": "https://t.co/sKcob2Bny3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010521378886504883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那应该还挺难受的 https://t.co/sKcob2Bny3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2010521370002870272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-bOiKhaUAATJD1.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010521370002870272"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2010521378886504883",
+        "created_at": "2026-01-12T01:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T02:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010521378886504883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sKcob2Bny3",
+              "end": 32,
+              "expanded_url": "https://x.com/ZaneTuT/status/2010521378886504883/photo/1",
+              "media_key": "3_2010521370002870272",
+              "start": 9,
+              "url": "https://t.co/sKcob2Bny3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010521378886504883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那应该还挺难受的 https://t.co/sKcob2Bny3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨我听点udg 可以和我一起听歌…",
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010215499150585985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 90,
+          "like_count": 697,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 191
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

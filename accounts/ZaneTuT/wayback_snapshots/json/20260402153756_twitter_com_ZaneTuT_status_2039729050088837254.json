@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2039648107319722241",
+    "created_at": "2026-04-02T15:37:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T16:37:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039729050088837254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1776287989104279552",
+          "start": 0,
+          "username": "cccsy10030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039729050088837254",
+    "in_reply_to_user_id": "1776287989104279552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039689132965015666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cccsy10030 戴了啊？有写啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2039648107319722241",
+        "created_at": "2026-04-02T15:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039729050088837254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1776287989104279552",
+              "start": 0,
+              "username": "cccsy10030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039729050088837254",
+        "in_reply_to_user_id": "1776287989104279552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039689132965015666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cccsy10030 戴了啊？有写啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776287989104279552",
+        "conversation_id": "2039648107319722241",
+        "created_at": "2026-04-02T12:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T13:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039689132965015666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039689132965015666",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039683875941560805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 男的出轨很畜生这是事实 但是我好奇为什么做爱不戴非要无套🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨08丨od丨中抑中焦丨互fo免🚪丨我听点udg sasi很多很多丨两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 45,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6214,
+          "following_count": 292,
+          "like_count": 6040,
+          "listed_count": 3,
+          "media_count": 96,
+          "tweet_count": 2547
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-05T16:37:21.000Z",
+        "description": "初高资源搜索\nhttps://t.co/B7jtbjTft7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/jisou?start=a_…",
+                "end": 30,
+                "expanded_url": "http://t.me/jisou?start=a_6041441037",
+                "start": 7,
+                "url": "https://t.co/B7jtbjTft7"
+              }
+            ]
+          }
+        },
+        "id": "1776287989104279552",
+        "location": " ",
+        "name": "离",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830836370962886656/-pAB3w_K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 788,
+          "like_count": 245,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 41
+        },
+        "username": "cccsy10030",
+        "verified": false
+      }
+    ]
+  }
+}

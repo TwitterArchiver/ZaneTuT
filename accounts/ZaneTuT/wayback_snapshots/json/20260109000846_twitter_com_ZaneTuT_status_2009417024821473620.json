@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2009417024821473620",
+    "created_at": "2026-01-09T00:08:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T01:08:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009417024821473620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1982016540196339712",
+          "start": 3,
+          "username": "TypeC2i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009417024821473620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009295086543077512",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TypeC2i: 亲嘴不伸舌头的你们都戒过毒。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2009417024821473620",
+        "created_at": "2026-01-09T00:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T01:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009417024821473620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1982016540196339712",
+              "start": 3,
+              "username": "TypeC2i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009417024821473620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009295086543077512",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TypeC2i: 亲嘴不伸舌头的你们都戒过毒。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982016540196339712",
+        "conversation_id": "2009295086543077512",
+        "created_at": "2026-01-08T16:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T17:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009295086543077512"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009295086543077512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3979,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "亲嘴不伸舌头的你们都戒过毒。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "sasi孝女其实 加上我vx的人才知道我是udg 女神！",
+        "id": "1997985969958699008",
+        "name": "到底怎样才有人爱我",
+        "pinned_tweet_id": "2009195553230606621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 60,
+          "like_count": 419,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 58
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-25T09:29:27.000Z",
+        "description": "ENFJ！♓️ 大三牲 不接推广哦各位亲",
+        "id": "1982016540196339712",
+        "name": "充电线",
+        "pinned_tweet_id": "1983014062721261568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982016866026434560/Nic3a_QH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1933,
+          "following_count": 122,
+          "like_count": 1926,
+          "listed_count": 5,
+          "media_count": 172,
+          "tweet_count": 1205
+        },
+        "username": "TypeC2i",
+        "verified": false
+      }
+    ]
+  }
+}

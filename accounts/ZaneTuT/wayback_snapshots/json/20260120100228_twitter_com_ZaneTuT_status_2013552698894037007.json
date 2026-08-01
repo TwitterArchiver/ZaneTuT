@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2013535705696461245",
+    "created_at": "2026-01-20T10:02:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T11:02:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013552698894037007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2009941557160620042",
+          "start": 0,
+          "username": "yhrr0306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013552698894037007",
+    "in_reply_to_user_id": "2009941557160620042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013550330114646116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yhrr0306 宝宝你私信理我一下…🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2013535705696461245",
+        "created_at": "2026-01-20T10:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T11:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013552698894037007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2009941557160620042",
+              "start": 0,
+              "username": "yhrr0306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013552698894037007",
+        "in_reply_to_user_id": "2009941557160620042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013550330114646116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yhrr0306 宝宝你私信理我一下…🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009941557160620042",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2013535705696461245",
+        "created_at": "2026-01-20T09:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T10:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013550330114646116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013550330114646116",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013535705696461245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 我在抖音也刷到了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪128 纯绿丨有的文案不是原创别攻击我TuT丨08丨od丨私信看心情回丨高频率发帖我好无聊丨互fo可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2011423750164725893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1572,
+          "following_count": 145,
+          "like_count": 2076,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 938
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-10T10:53:16.000Z",
+        "description": "我要稳稳的幸福",
+        "id": "2009941557160620042",
+        "name": "apple",
+        "pinned_tweet_id": "2011291400382656820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009941788627480578/QUDJMKYz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 7,
+          "like_count": 845,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 123
+        },
+        "username": "yhrr0306",
+        "verified": false
+      }
+    ]
+  }
+}

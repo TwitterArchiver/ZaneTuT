@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2028367310503989336",
+    "created_at": "2026-03-02T08:45:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T09:45:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028391281463115863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1867907473421848576",
+          "start": 0,
+          "username": "wnglinxini79837"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028391281463115863",
+    "in_reply_to_user_id": "1867907473421848576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028390196065313090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wnglinxini79837 啊啊啊啊啊啊啊啊哈哈哈哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2028367310503989336",
+        "created_at": "2026-03-02T08:45:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T09:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028391281463115863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1867907473421848576",
+              "start": 0,
+              "username": "wnglinxini79837"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028391281463115863",
+        "in_reply_to_user_id": "1867907473421848576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028390196065313090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wnglinxini79837 啊啊啊啊啊啊啊啊哈哈哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867907473421848576",
+        "conversation_id": "2028367310503989336",
+        "created_at": "2026-03-02T08:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T09:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028390196065313090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028390196065313090",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028367310503989336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT od完就昏过去了谁往下面摸🌚🌚🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5140,
+          "following_count": 248,
+          "like_count": 4159,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 1871
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-14T12:20:31.000Z",
+        "description": "祝你幸福",
+        "id": "1867907473421848576",
+        "location": "🇯🇵",
+        "name": "Illusion",
+        "pinned_tweet_id": "2022357216494522545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867907700266602496/nMu1Zkdp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10141,
+          "following_count": 109,
+          "like_count": 2297,
+          "listed_count": 29,
+          "media_count": 113,
+          "tweet_count": 395
+        },
+        "username": "wnglinxini79837",
+        "verified": false
+      }
+    ]
+  }
+}

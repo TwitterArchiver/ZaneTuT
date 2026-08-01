@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2039293801102209255",
+    "created_at": "2026-04-01T12:21:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T13:21:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039317180156911617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1820594914339799040",
+          "start": 0,
+          "username": "2CROW19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039317180156911617",
+    "in_reply_to_user_id": "1820594914339799040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039293801102209255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2CROW19 我真的马上就被你们三个吓哭了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 929,
+        "media_key": "3_2039293794965925889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE0G5uGaMAE91Gt.jpg",
+        "width": 598
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2039293801102209255",
+        "created_at": "2026-04-01T12:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T13:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039317180156911617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1820594914339799040",
+              "start": 0,
+              "username": "2CROW19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039317180156911617",
+        "in_reply_to_user_id": "1820594914339799040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039293801102209255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2CROW19 我真的马上就被你们三个吓哭了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039293794965925889"
+          ]
+        },
+        "author_id": "1820594914339799040",
+        "conversation_id": "2039293801102209255",
+        "created_at": "2026-04-01T10:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T11:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039293801102209255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yoSDgD2MES",
+              "end": 31,
+              "expanded_url": "https://x.com/2CROW19/status/2039293801102209255/photo/1",
+              "media_key": "3_2039293794965925889",
+              "start": 8,
+              "url": "https://t.co/yoSDgD2MES"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039293801102209255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 273,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哪三个，好难猜 https://t.co/yoSDgD2MES"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨08丨od丨中抑中焦丨互fo免🚪丨我听点udg sasi很多很多丨两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 45,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6116,
+          "following_count": 298,
+          "like_count": 5797,
+          "listed_count": 3,
+          "media_count": 65,
+          "tweet_count": 2461
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T22:57:16.000Z",
+        "description": "想谴责想骂我的人可以滚了，我只想和无论我变成什么样都会跟我一起玩的人玩",
+        "id": "1820594914339799040",
+        "location": "🚪50 仅限每周四 平时免费",
+        "name": "永恆",
+        "pinned_tweet_id": "2038318273973178519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034274699413438465/-Vx8v5kZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 161,
+          "like_count": 1985,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 1519
+        },
+        "username": "2CROW19",
+        "verified": false
+      }
+    ]
+  }
+}

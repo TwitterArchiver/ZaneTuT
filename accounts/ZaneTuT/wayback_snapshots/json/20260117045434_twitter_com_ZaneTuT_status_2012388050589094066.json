@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2012388050589094066",
+    "created_at": "2026-01-17T04:54:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T05:54:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012388050589094066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2003010814698205184",
+          "start": 3,
+          "username": "ShuBing16121816"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012388050589094066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012089396154315113",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShuBing16121816: 骚话这种东西只有我喜欢的人对我说才会有感觉，会很开心很爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2012388050589094066",
+        "created_at": "2026-01-17T04:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T05:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012388050589094066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2003010814698205184",
+              "start": 3,
+              "username": "ShuBing16121816"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012388050589094066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012089396154315113",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShuBing16121816: 骚话这种东西只有我喜欢的人对我说才会有感觉，会很开心很爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003010814698205184",
+        "conversation_id": "2012089396154315113",
+        "created_at": "2026-01-16T09:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T10:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012089396154315113"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012089396154315113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10228,
+          "like_count": 98,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "骚话这种东西只有我喜欢的人对我说才会有感觉，会很开心很爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪88/128 纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨回fo眼熟的 可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010591438627897389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 122,
+          "like_count": 1521,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 649
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-22T07:53:02.000Z",
+        "description": "03｜172｜白羊｜废话｜美食｜爱看剧｜发吊阳痿｜都是我@cuishu77006 @sunbaiwan888",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "cuishu77006"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "sunbaiwan888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cuishu77006",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cuishu77006",
+                "start": 0,
+                "url": "https://t.co/U0OVO9u5Gm"
+              }
+            ]
+          }
+        },
+        "id": "2003010814698205184",
+        "location": "🚪88/188/520/1314",
+        "name": "脆薯饼",
+        "pinned_tweet_id": "2006997448682795027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003011553923375104/hjfbqP4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 70,
+          "like_count": 1516,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 865
+        },
+        "url": "https://t.co/U0OVO9u5Gm",
+        "username": "ShuBing16121816",
+        "verified": false
+      }
+    ]
+  }
+}

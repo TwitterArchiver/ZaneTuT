@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2082990353104163325",
+    "created_at": "2026-07-31T01:09:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T02:09:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082996963616989631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1685053257100689408",
+          "start": 0,
+          "username": "lei_le91111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082996963616989631",
+    "in_reply_to_user_id": "1685053257100689408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082990353104163325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lei_le91111 有病啊哈哈哈哈哈哈哈哈哈哈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2082990334212964352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhErD1WAAAfAqI.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2082990353104163325",
+        "created_at": "2026-07-31T01:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T02:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082996963616989631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1685053257100689408",
+              "start": 0,
+              "username": "lei_le91111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082996963616989631",
+        "in_reply_to_user_id": "1685053257100689408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082990353104163325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lei_le91111 有病啊哈哈哈哈哈哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082990334212964352"
+          ]
+        },
+        "author_id": "1685053257100689408",
+        "conversation_id": "2082990353104163325",
+        "created_at": "2026-07-31T00:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T01:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082990353104163325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OunyDcrJMk",
+              "end": 36,
+              "expanded_url": "https://x.com/lei_le91111/status/2082990353104163325/photo/1",
+              "media_key": "3_2082990334212964352",
+              "start": 13,
+              "url": "https://t.co/OunyDcrJMk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082990353104163325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜不喜欢老公 鸡鸡操死你 https://t.co/OunyDcrJMk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "互fo免🚪丨💗算卦找@kill_this_hate 不准你打我丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 57,
+                "start": 47,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2082733912485499321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8342,
+          "following_count": 274,
+          "like_count": 6146,
+          "listed_count": 5,
+          "media_count": 35,
+          "tweet_count": 2671
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T22:23:20.000Z",
+        "description": "🚪188(互关除外) 男的一万。",
+        "id": "1685053257100689408",
+        "name": "藤宫周",
+        "pinned_tweet_id": "2082915653371978131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026333097726554112/qD4EiDKo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6714,
+          "following_count": 1047,
+          "like_count": 16631,
+          "listed_count": 21,
+          "media_count": 200,
+          "tweet_count": 1942
+        },
+        "url": "",
+        "username": "lei_le91111",
+        "verified": false
+      }
+    ]
+  }
+}

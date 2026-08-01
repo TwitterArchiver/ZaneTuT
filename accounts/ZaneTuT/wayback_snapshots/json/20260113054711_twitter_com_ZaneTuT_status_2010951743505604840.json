@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2010401459670585699",
+    "created_at": "2026-01-13T05:47:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T06:47:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010951743505604840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1967773181906763776",
+          "start": 0,
+          "username": "xinxianchenpi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010951743505604840",
+    "in_reply_to_user_id": "1967773181906763776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010401459670585699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinxianchenpi 亲我一口"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2010401459670585699",
+        "created_at": "2026-01-13T05:47:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T06:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010951743505604840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1967773181906763776",
+              "start": 0,
+              "username": "xinxianchenpi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010951743505604840",
+        "in_reply_to_user_id": "1967773181906763776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010401459670585699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinxianchenpi 亲我一口"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967773181906763776",
+        "conversation_id": "2010401459670585699",
+        "created_at": "2026-01-11T17:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T18:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010401459670585699"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010401459670585699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 224,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "222fo了你们想要啥粉福"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "🚪66纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨我听点udg 可以和我一起听歌…",
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010215499150585985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 81,
+          "like_count": 881,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 313
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-16T02:11:17.000Z",
+        "description": "enfp/直女/看似好脾气实则没招儿了/在国外/我喜欢和大家互动/话多/🚪88/一爱/喜欢大奶男妈妈越大越好 请塞满我的私信！！！/我是淫魔😈/手控/声控/喜欢温柔的年上妈妈/古风小女子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhusijuice",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zhusijuice",
+                "start": 0,
+                "url": "https://t.co/ThUnd68Q0q"
+              }
+            ]
+          }
+        },
+        "id": "1967773181906763776",
+        "name": "*☆竹丝☆*",
+        "pinned_tweet_id": "1969458860726304966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006995420686254080/E-qKsWgh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 95,
+          "like_count": 1719,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 748
+        },
+        "url": "https://t.co/ThUnd68Q0q",
+        "username": "xinxianchenpi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012944363764994048"
+      ],
+      "media_source_tweet_id": [
+        "2012944369427349683"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2013150115649778141",
+    "created_at": "2026-01-19T07:22:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T08:22:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013150115649778141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1892478260501491712",
+          "start": 3,
+          "username": "uluvrara2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o2uj6SDHgd",
+          "end": 38,
+          "expanded_url": "https://x.com/uluvrara2/status/2012944369427349683/photo/1",
+          "media_key": "3_2012944363764994048",
+          "start": 15,
+          "url": "https://t.co/o2uj6SDHgd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013150115649778141",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 678
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012944369427349683",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uluvrara2: https://t.co/o2uj6SDHgd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1501,
+        "media_key": "3_2012944363764994048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-9qO9rWUAABMcX.jpg",
+        "width": 1130
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012944363764994048"
+          ],
+          "media_source_tweet_id": [
+            "2012944369427349683"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2013150115649778141",
+        "created_at": "2026-01-19T07:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T08:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013150115649778141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1892478260501491712",
+              "start": 3,
+              "username": "uluvrara2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o2uj6SDHgd",
+              "end": 38,
+              "expanded_url": "https://x.com/uluvrara2/status/2012944369427349683/photo/1",
+              "media_key": "3_2012944363764994048",
+              "start": 15,
+              "url": "https://t.co/o2uj6SDHgd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013150115649778141",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 678
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012944369427349683",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uluvrara2: https://t.co/o2uj6SDHgd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012944363764994048"
+          ]
+        },
+        "author_id": "1892478260501491712",
+        "conversation_id": "2012944369427349683",
+        "created_at": "2026-01-18T17:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T18:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012944369427349683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o2uj6SDHgd",
+              "end": 23,
+              "expanded_url": "https://x.com/uluvrara2/status/2012944369427349683/photo/1",
+              "media_key": "3_2012944363764994048",
+              "start": 0,
+              "url": "https://t.co/o2uj6SDHgd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012944369427349683",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 508,
+          "impression_count": 124086,
+          "like_count": 5722,
+          "quote_count": 82,
+          "reply_count": 28,
+          "retweet_count": 678
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/o2uj6SDHgd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪128 纯绿丨有的文案不是原创别攻击我TuT丨08丨od丨私信看心情回丨高频率发帖我好无聊丨互fo可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2011423750164725893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1259,
+          "following_count": 138,
+          "like_count": 1907,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 846
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-20T07:36:03.000Z",
+        "description": "daily expressions of love𓏲ּ𝄢",
+        "id": "1892478260501491712",
+        "location": "dm 4 promo/removal ",
+        "name": "mood 𓏲ּ𝄢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491852821712896/w9nfEUni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16452,
+          "following_count": 495,
+          "like_count": 206,
+          "listed_count": 22,
+          "media_count": 61,
+          "tweet_count": 78
+        },
+        "username": "uluvrara2",
+        "verified": true
+      }
+    ]
+  }
+}

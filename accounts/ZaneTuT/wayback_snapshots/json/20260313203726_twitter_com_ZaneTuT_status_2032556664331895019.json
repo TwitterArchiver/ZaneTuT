@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2032259621080215994",
+    "created_at": "2026-03-13T20:37:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T21:37:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032556664331895019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2006754708204269568",
+          "start": 0,
+          "username": "77sevenii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032556664331895019",
+    "in_reply_to_user_id": "2006754708204269568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032489262093058050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@77sevenii 因为他爸是校长 妈的个…唉！李权哲你继续靠关系！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2032259621080215994",
+        "created_at": "2026-03-13T20:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T21:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032556664331895019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2006754708204269568",
+              "start": 0,
+              "username": "77sevenii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032556664331895019",
+        "in_reply_to_user_id": "2006754708204269568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032489262093058050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@77sevenii 因为他爸是校长 妈的个…唉！李权哲你继续靠关系！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006754708204269568",
+        "conversation_id": "2032259621080215994",
+        "created_at": "2026-03-13T16:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T17:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032489262093058050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032489262093058050",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032259621080215994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 他跟我朋友一个中学的 当时他参加偶练的时候 校长还要他们给仓鼠投票 私下里更是烟酒都来的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5466,
+          "following_count": 286,
+          "like_count": 4666,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 2023
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-01T15:49:48.000Z",
+        "description": "",
+        "id": "2006754708204269568",
+        "name": "77",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006755085708390401/kRI0YoZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 45,
+          "like_count": 621,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 40
+        },
+        "username": "77sevenii",
+        "verified": false
+      }
+    ]
+  }
+}

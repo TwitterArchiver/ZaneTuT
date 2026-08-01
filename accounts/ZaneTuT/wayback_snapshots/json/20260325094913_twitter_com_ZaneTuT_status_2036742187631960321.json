@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2036742187631960321",
+    "created_at": "2026-03-25T09:49:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T10:49:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036742187631960321"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kittyyu0208/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/kittyyu0208/status/2036464738532769998",
+          "start": 5,
+          "url": "https://t.co/QQpk2aIVzZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036742187631960321",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036464738532769998",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要拍。 https://t.co/QQpk2aIVzZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036464715707326470",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEL53olaIAYb4bl.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2036742187631960321",
+        "created_at": "2026-03-25T09:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T10:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036742187631960321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kittyyu0208/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/kittyyu0208/status/2036464738532769998",
+              "start": 5,
+              "url": "https://t.co/QQpk2aIVzZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036742187631960321",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036464738532769998",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要拍。 https://t.co/QQpk2aIVzZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036464715707326470"
+          ]
+        },
+        "author_id": "1933247637211295744",
+        "conversation_id": "2036464738532769998",
+        "created_at": "2026-03-24T15:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T16:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036464738532769998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8hofQWOnTi",
+              "end": 26,
+              "expanded_url": "https://x.com/KittyYu0208/status/2036464738532769998/photo/1",
+              "media_key": "3_2036464715707326470",
+              "start": 3,
+              "url": "https://t.co/8hofQWOnTi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036464738532769998",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 553,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想拍 https://t.co/8hofQWOnTi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5891,
+          "following_count": 306,
+          "like_count": 5241,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 2141
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T19:39:06.000Z",
+        "description": "˶ᕱ⑅ᕱﾞ记录xp🤏｜infp｜173/110｜不线下不约｜匿名在这里https://t.co/u8sWQdoss5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kittyyu1",
+                "end": 58,
+                "expanded_url": "https://ngl.link/kittyyu1",
+                "start": 35,
+                "url": "https://t.co/u8sWQdoss5"
+              }
+            ]
+          }
+        },
+        "id": "1933247637211295744",
+        "name": "我又放晴了",
+        "pinned_tweet_id": "2033088576909607120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025011064291950593/4f_9VXPG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2010,
+          "following_count": 54,
+          "like_count": 609,
+          "listed_count": 7,
+          "media_count": 18,
+          "tweet_count": 113
+        },
+        "username": "KittyYu0208",
+        "verified": false
+      }
+    ]
+  }
+}

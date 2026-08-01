@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2012908160630009953",
+    "created_at": "2026-01-18T15:53:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T16:53:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012916200800485854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1970810447365586944",
+          "start": 0,
+          "username": "wan_fan962"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012916200800485854",
+    "in_reply_to_user_id": "1970810447365586944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012908160630009953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wan_fan962 太有劲了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1278,
+        "media_key": "3_2012908157786320896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-9JTf5W8AAe1z3.jpg",
+        "width": 958
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2012908160630009953",
+        "created_at": "2026-01-18T15:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T16:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012916200800485854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1970810447365586944",
+              "start": 0,
+              "username": "wan_fan962"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012916200800485854",
+        "in_reply_to_user_id": "1970810447365586944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012908160630009953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wan_fan962 太有劲了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012908157786320896"
+          ]
+        },
+        "author_id": "1970810447365586944",
+        "conversation_id": "2012908160630009953",
+        "created_at": "2026-01-18T15:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T16:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012908160630009953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wYl6XvsTVT",
+              "end": 27,
+              "expanded_url": "https://x.com/wan_fan962/status/2012908160630009953/photo/1",
+              "media_key": "3_2012908157786320896",
+              "start": 4,
+              "url": "https://t.co/wYl6XvsTVT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012908160630009953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 406,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有劲吗 https://t.co/wYl6XvsTVT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪128 纯绿丨有的文案不是原创别攻击我TuT丨08丨od丨私信看心情回丨高频率发帖我好无聊丨互fo可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2011423750164725893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1101,
+          "following_count": 133,
+          "like_count": 1781,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 807
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T11:20:15.000Z",
+        "description": "我是小学生，家长不让我在十一点以后玩手机，所以十一点以后我就不回消息了，但是可爱的人可以发，我会和家长求情的",
+        "id": "1970810447365586944",
+        "location": "有🚪||推广自辩||多喜乐 长安宁o(*^_^*",
+        "name": "左时区。",
+        "pinned_tweet_id": "2006625156345770188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011670598376964098/No6QDoX8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14237,
+          "following_count": 52,
+          "like_count": 1310,
+          "listed_count": 29,
+          "media_count": 61,
+          "tweet_count": 945
+        },
+        "username": "wan_fan962",
+        "verified": false
+      }
+    ]
+  }
+}

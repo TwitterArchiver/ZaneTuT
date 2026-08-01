@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2029928898700751299",
+    "created_at": "2026-03-06T14:41:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T15:41:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029930291385749660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "383600312",
+          "start": 0,
+          "username": "Shota_9z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029930291385749660",
+    "in_reply_to_user_id": "383600312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029928898700751299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shota_9z 好那个！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2029928884351946756",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCvBkLcaUAQYn0x.jpg",
+        "width": 3204
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2029928898700751299",
+        "created_at": "2026-03-06T14:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T15:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029930291385749660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "383600312",
+              "start": 0,
+              "username": "Shota_9z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029930291385749660",
+        "in_reply_to_user_id": "383600312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029928898700751299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shota_9z 好那个！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029928884351946756"
+          ]
+        },
+        "author_id": "383600312",
+        "conversation_id": "2029928898700751299",
+        "created_at": "2026-03-06T14:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T15:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029928898700751299"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xt0o6gxWsm",
+              "end": 28,
+              "expanded_url": "https://x.com/Shota_9z/status/2029928898700751299/photo/1",
+              "media_key": "3_2029928884351946756",
+              "start": 5,
+              "url": "https://t.co/xt0o6gxWsm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029928898700751299",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道 https://t.co/xt0o6gxWsm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5178,
+          "following_count": 257,
+          "like_count": 4227,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1912
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2011-10-02T05:14:28.000Z",
+        "description": "直男 | 无🚪",
+        "id": "383600312",
+        "name": "Shota",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936515659715821568/LWqdkK5H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 86,
+          "like_count": 1524,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 182
+        },
+        "username": "Shota_9z",
+        "verified": true
+      }
+    ]
+  }
+}

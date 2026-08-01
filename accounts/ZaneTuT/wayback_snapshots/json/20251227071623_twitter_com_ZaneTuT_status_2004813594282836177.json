@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2004813594282836177",
+    "created_at": "2025-12-27T07:16:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T08:16:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004813594282836177"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2004813594282836177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "卧槽这个圣罗兰的口红有股蓝莓巧克力味！好好闻好好闻！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2004813594282836177",
+        "created_at": "2025-12-27T07:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T08:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004813594282836177"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004813594282836177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽这个圣罗兰的口红有股蓝莓巧克力味！好好闻好好闻！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "对我好疏远是怎么啦",
+        "id": "1997985969958699008",
+        "name": "骨骨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 45,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 22
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

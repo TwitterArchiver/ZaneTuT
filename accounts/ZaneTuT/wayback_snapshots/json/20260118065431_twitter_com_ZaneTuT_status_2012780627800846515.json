@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2012779777128534526",
+    "created_at": "2026-01-18T06:54:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T07:54:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012780627800846515"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2012780627800846515",
+    "in_reply_to_user_id": "1997985969958699008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012779777128534526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我被打之后立马和朋友讲了 我还要解释一句不是调情。。我一直哭我真的服了 他还一直怪我什么都和朋友说 可是我被打了之后告诉朋友这有错吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1544,
+        "media_key": "3_2012779759114084352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-7UhtkXYAApS3H.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2012779777128534526",
+        "created_at": "2026-01-18T06:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T07:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012780627800846515"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012780627800846515",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012779777128534526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我被打之后立马和朋友讲了 我还要解释一句不是调情。。我一直哭我真的服了 他还一直怪我什么都和朋友说 可是我被打了之后告诉朋友这有错吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012779759114084352"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2012779777128534526",
+        "created_at": "2026-01-18T06:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T07:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012779777128534526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iyvPlVSCM7",
+              "end": 83,
+              "expanded_url": "https://x.com/ZaneTuT/status/2012779777128534526/photo/1",
+              "media_key": "3_2012779759114084352",
+              "start": 60,
+              "url": "https://t.co/iyvPlVSCM7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012779777128534526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然翻到一段怀念前夫哥的文字 其实我现在已经不喜欢他了 我只是觉得他欠我一个道歉 我永远忘不了在民宿被打的那天 我恨你 https://t.co/iyvPlVSCM7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪88/128 纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨回fo眼熟的 可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010591438627897389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 129,
+          "like_count": 1685,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 744
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

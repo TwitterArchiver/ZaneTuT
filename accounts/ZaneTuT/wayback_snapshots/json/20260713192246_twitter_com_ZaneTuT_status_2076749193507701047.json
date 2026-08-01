@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076559032132030464"
+      ],
+      "media_source_tweet_id": [
+        "2076559049831960667"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2076749193507701047",
+    "created_at": "2026-07-13T19:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T20:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076749193507701047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1473365832155955200",
+          "start": 3,
+          "username": "Kinoko43795929"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JghTqrltuy",
+          "end": 43,
+          "expanded_url": "https://x.com/Kinoko43795929/status/2076559049831960667/photo/1",
+          "media_key": "3_2076559032132030464",
+          "start": 20,
+          "url": "https://t.co/JghTqrltuy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076749193507701047",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076559049831960667",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kinoko43795929: https://t.co/JghTqrltuy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1112,
+        "media_key": "3_2076559032132030464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFrcAlb0AAWMKc.jpg",
+        "width": 1131
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076559032132030464"
+          ],
+          "media_source_tweet_id": [
+            "2076559049831960667"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2076749193507701047",
+        "created_at": "2026-07-13T19:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T20:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076749193507701047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1473365832155955200",
+              "start": 3,
+              "username": "Kinoko43795929"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JghTqrltuy",
+              "end": 43,
+              "expanded_url": "https://x.com/Kinoko43795929/status/2076559049831960667/photo/1",
+              "media_key": "3_2076559032132030464",
+              "start": 20,
+              "url": "https://t.co/JghTqrltuy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076749193507701047",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076559049831960667",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kinoko43795929: https://t.co/JghTqrltuy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076559032132030464"
+          ]
+        },
+        "author_id": "1473365832155955200",
+        "conversation_id": "2076559049831960667",
+        "created_at": "2026-07-13T06:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T07:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076559049831960667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JghTqrltuy",
+              "end": 23,
+              "expanded_url": "https://x.com/Kinoko43795929/status/2076559049831960667/photo/1",
+              "media_key": "3_2076559032132030464",
+              "start": 0,
+              "url": "https://t.co/JghTqrltuy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076559049831960667",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 17164,
+          "like_count": 449,
+          "quote_count": 9,
+          "reply_count": 16,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JghTqrltuy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨互fo免🚪丨💗算卦找@kill_this_hate 不准你打我丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 52,
+                "start": 44,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2075472000680911094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8020,
+          "following_count": 275,
+          "like_count": 6057,
+          "listed_count": 4,
+          "media_count": 39,
+          "tweet_count": 2615
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-21T18:52:52.000Z",
+        "description": "只是想被爱/男同不要私信我。。我恐同",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kinoko12903",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kinoko12903",
+                "start": 0,
+                "url": "https://t.co/vb89FjIl3g"
+              }
+            ]
+          }
+        },
+        "id": "1473365832155955200",
+        "location": "天津",
+        "name": "Kinoko",
+        "pinned_tweet_id": "1907281356390035837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054251007253872640/a7Mn3SnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2353,
+          "following_count": 494,
+          "like_count": 5328,
+          "listed_count": 7,
+          "media_count": 156,
+          "tweet_count": 1142
+        },
+        "url": "https://t.co/vb89FjIl3g",
+        "username": "Kinoko43795929",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2024421003745775860",
+    "created_at": "2026-02-19T09:49:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T10:49:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024421003745775860"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaoyou_329/st…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/xiaoyou_329/status/2024322752178507782",
+          "start": 33,
+          "url": "https://t.co/EePPcpeBiX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024421003745775860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024322752178507782",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊啊啊啊啊啊啊啊啊啊好那个！啊啊啊！啊啊啊！啊啊啊！啊啊啊啊啊！ https://t.co/EePPcpeBiX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 961,
+        "media_key": "3_2024322744700080128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBfWz5yXkAAbkRw.jpg",
+        "width": 1012
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2024421003745775860",
+        "created_at": "2026-02-19T09:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T10:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024421003745775860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoyou_329/st…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/xiaoyou_329/status/2024322752178507782",
+              "start": 33,
+              "url": "https://t.co/EePPcpeBiX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024421003745775860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024322752178507782",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊啊啊啊啊啊啊好那个！啊啊啊！啊啊啊！啊啊啊！啊啊啊啊啊！ https://t.co/EePPcpeBiX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024322744700080128"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2024322752178507782",
+        "created_at": "2026-02-19T03:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T04:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024322752178507782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1KjItRp0D3",
+              "end": 38,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2024322752178507782/photo/1",
+              "media_key": "3_2024322744700080128",
+              "start": 15,
+              "url": "https://t.co/1KjItRp0D3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024322752178507782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 77648,
+          "like_count": 247,
+          "quote_count": 0,
+          "reply_count": 54,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "雾草。此男在干嘛。谁懂一下。 https://t.co/1KjItRp0D3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4479,
+          "following_count": 215,
+          "like_count": 3667,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 1695
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024073032029950059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12138,
+          "following_count": 160,
+          "like_count": 6750,
+          "listed_count": 19,
+          "media_count": 680,
+          "tweet_count": 5548
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

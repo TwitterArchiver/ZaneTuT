@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2036070796351926525",
+    "created_at": "2026-03-23T13:27:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T14:27:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036072395476443416"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036072395476443416",
+    "in_reply_to_user_id": "1997985969958699008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036070796351926525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "去理发店哥哥说我本人比照片萌 叫我不要给自己瞎拍了，"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15033,
+        "height": 1280,
+        "media_key": "13_2036070724600012800",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2036070724600012800/img/0Y9WkpwJSWr0WBr8.jpg",
+        "public_metrics": {
+          "view_count": 12
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036070724600012800/vid/avc1/320x568/c0jCR-RfB7sev7Ze.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036070724600012800/vid/avc1/480x852/BVUrKreVScfOA6sO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036070724600012800/vid/avc1/720x1280/NxQtS6N1D9DLsc2K.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2036070724600012800/pl/JTSWfHjWohGTRGhb.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2036070796351926525",
+        "created_at": "2026-03-23T13:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T14:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036072395476443416"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036072395476443416",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036070796351926525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "去理发店哥哥说我本人比照片萌 叫我不要给自己瞎拍了，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2036070724600012800"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2036070796351926525",
+        "created_at": "2026-03-23T13:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T14:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036070796351926525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wmWtIZYN9T",
+              "end": 31,
+              "expanded_url": "https://x.com/ZaneTuT/status/2036070796351926525/video/1",
+              "media_key": "13_2036070724600012800",
+              "start": 8,
+              "url": "https://t.co/wmWtIZYN9T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036070796351926525",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心情是我真萌啊 https://t.co/wmWtIZYN9T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5798,
+          "following_count": 298,
+          "like_count": 5176,
+          "listed_count": 3,
+          "media_count": 60,
+          "tweet_count": 2103
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

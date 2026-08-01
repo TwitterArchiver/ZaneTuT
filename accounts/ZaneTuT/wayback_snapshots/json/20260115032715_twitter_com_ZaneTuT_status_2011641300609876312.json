@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2011403680516579329"
+      ],
+      "media_source_tweet_id": [
+        "2011403820044321064"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2011641300609876312",
+    "created_at": "2026-01-15T03:27:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T04:27:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011641300609876312"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 32,
+          "tag": "watta"
+        },
+        {
+          "end": 46,
+          "start": 39,
+          "tag": "chudai"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1617050706648903681",
+          "start": 3,
+          "username": "dilawu1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/35YjAiPHdY",
+          "end": 70,
+          "expanded_url": "https://x.com/dilawu1/status/2011403820044321064/video/1",
+          "media_key": "13_2011403680516579329",
+          "start": 47,
+          "url": "https://t.co/35YjAiPHdY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011641300609876312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011403820044321064",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dilawu1: 好对我xp的视频 打屁股 watta #watta #chudai https://t.co/35YjAiPHdY"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2011641300609876312].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2011641300609876312",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2011641300609876312"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 80159,
+        "height": 304,
+        "media_key": "13_2011403680516579329",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2011403680516579329/img/aQfqbCgoKeEe9U14.jpg",
+        "public_metrics": {
+          "view_count": 87
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011403680516579329/vid/avc1/568x270/Dpi3tstFfizfW0-z.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011403680516579329/vid/avc1/640x304/O0lJqnDfHGmjan0-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2011403680516579329/pl/k_j1OzvOwV0C-5Yz.m3u8"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2011403680516579329"
+          ]
+        },
+        "author_id": "1617050706648903681",
+        "conversation_id": "2011403820044321064",
+        "created_at": "2026-01-14T11:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T12:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011403820044321064"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 19,
+              "tag": "watta"
+            },
+            {
+              "end": 33,
+              "start": 26,
+              "tag": "chudai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/35YjAiPHdY",
+              "end": 57,
+              "expanded_url": "https://x.com/dilawu1/status/2011403820044321064/video/1",
+              "media_key": "13_2011403680516579329",
+              "start": 34,
+              "url": "https://t.co/35YjAiPHdY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011403820044321064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 276,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "好对我xp的视频 打屁股 watta #watta #chudai https://t.co/35YjAiPHdY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪88/128 纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨互关可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010591438627897389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 135,
+          "like_count": 1281,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 551
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-22T06:45:14.000Z",
+        "description": "08高中生 今年高考啦🎊 好友位🚪 私信看到都会回 不礼貌除外 我真的每条都会回的！",
+        "id": "1617050706648903681",
+        "location": "🚪78",
+        "name": "狄拉狄拉",
+        "pinned_tweet_id": "2011078094254395580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009149150651404291/ja9kRZC2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 414,
+          "like_count": 408,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 115
+        },
+        "username": "dilawu1",
+        "verified": false
+      }
+    ]
+  }
+}

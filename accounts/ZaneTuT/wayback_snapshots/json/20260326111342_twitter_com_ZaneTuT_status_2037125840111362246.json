@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2037081907947810912",
+    "created_at": "2026-03-26T11:13:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T12:13:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037125840111362246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1882013113949855744",
+          "start": 0,
+          "username": "endless_37"
+        },
+        {
+          "end": 20,
+          "id": "1820594914339799040",
+          "start": 12,
+          "username": "2CROW19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037125840111362246",
+    "in_reply_to_user_id": "1882013113949855744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037125740622381242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@endless_37 @2CROW19 仁雷…仁雷……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2037081907947810912",
+        "created_at": "2026-03-26T11:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T12:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037125840111362246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882013113949855744",
+              "start": 0,
+              "username": "endless_37"
+            },
+            {
+              "end": 20,
+              "id": "1820594914339799040",
+              "start": 12,
+              "username": "2CROW19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037125840111362246",
+        "in_reply_to_user_id": "1882013113949855744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037125740622381242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@endless_37 @2CROW19 仁雷…仁雷……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882013113949855744",
+        "conversation_id": "2037081907947810912",
+        "created_at": "2026-03-26T11:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T12:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037125740622381242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1820594914339799040",
+              "start": 0,
+              "username": "2CROW19"
+            },
+            {
+              "end": 17,
+              "id": "1997985969958699008",
+              "start": 9,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037125740622381242",
+        "in_reply_to_user_id": "1820594914339799040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037125483025084511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2CROW19 @ZaneTuT 你们两个够了吧…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5916,
+          "following_count": 314,
+          "like_count": 5403,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 2176
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T10:31:17.000Z",
+        "description": "旧情人的泪做的香水",
+        "id": "1882013113949855744",
+        "name": "人类",
+        "pinned_tweet_id": "2032735833246364147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022447638269038594/-d9lp5ZG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 165,
+          "like_count": 1730,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1071
+        },
+        "username": "endless_37",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T22:57:16.000Z",
+        "description": "想谴责想骂我的人可以滚了，我只想和无论我变成什么样都会跟我一起玩的人玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lon3ly56935",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lon3ly56935",
+                "start": 0,
+                "url": "https://t.co/mYFeDFcvSM"
+              }
+            ]
+          }
+        },
+        "id": "1820594914339799040",
+        "location": "🚪50 仅限每周四 平时免费",
+        "name": "永恆",
+        "pinned_tweet_id": "1971226948727865679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034274699413438465/-Vx8v5kZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 85,
+          "like_count": 1111,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 768
+        },
+        "url": "https://t.co/mYFeDFcvSM",
+        "username": "2CROW19",
+        "verified": false
+      }
+    ]
+  }
+}

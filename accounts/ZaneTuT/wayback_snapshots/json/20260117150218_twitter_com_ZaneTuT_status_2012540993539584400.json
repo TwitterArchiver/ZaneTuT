@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2012439300873257405",
+    "created_at": "2026-01-17T15:02:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T16:02:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012540993539584400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1902088931556126721",
+          "start": 0,
+          "username": "DaFFodilismepwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012540993539584400",
+    "in_reply_to_user_id": "1902088931556126721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012522220803776660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DaFFodilismepwq 这倒是提醒我了！我现在发点恋哥文案！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2012439300873257405",
+        "created_at": "2026-01-17T15:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T16:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012540993539584400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1902088931556126721",
+              "start": 0,
+              "username": "DaFFodilismepwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012540993539584400",
+        "in_reply_to_user_id": "1902088931556126721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012522220803776660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DaFFodilismepwq 这倒是提醒我了！我现在发点恋哥文案！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902088931556126721",
+        "conversation_id": "2012439300873257405",
+        "created_at": "2026-01-17T13:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T14:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012522220803776660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012522220803776660",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012439300873257405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 你怎么了。我们兄控怎么也开始掉眼泪了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪88/128 纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨回fo眼熟的 可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010591438627897389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 133,
+          "like_count": 1593,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 705
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-18T20:06:01.000Z",
+        "description": "真实的假象",
+        "id": "1902088931556126721",
+        "location": "无视期限的独白入口",
+        "name": "非典型感官依赖症",
+        "pinned_tweet_id": "1998266421265252652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012412811084001280/yJ_ZTuwM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 28,
+          "like_count": 10443,
+          "listed_count": 0,
+          "media_count": 339,
+          "tweet_count": 9421
+        },
+        "username": "DaFFodilismepwq",
+        "verified": false
+      }
+    ]
+  }
+}

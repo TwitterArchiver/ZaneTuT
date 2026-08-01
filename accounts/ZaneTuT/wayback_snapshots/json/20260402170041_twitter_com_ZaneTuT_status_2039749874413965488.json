@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2039690185026220177",
+    "created_at": "2026-04-02T17:00:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T18:00:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039749874413965488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1241967881035730945",
+          "start": 0,
+          "username": "catty_kuku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039749874413965488",
+    "in_reply_to_user_id": "1241967881035730945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039747271802401009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@catty_kuku 抖音号是女孩子的 男主是他"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2039690185026220177",
+        "created_at": "2026-04-02T17:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T18:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039749874413965488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1241967881035730945",
+              "start": 0,
+              "username": "catty_kuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039749874413965488",
+        "in_reply_to_user_id": "1241967881035730945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039747271802401009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catty_kuku 抖音号是女孩子的 男主是他"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1241967881035730945",
+        "conversation_id": "2039690185026220177",
+        "created_at": "2026-04-02T16:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T17:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039747271802401009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039747271802401009",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039690185026220177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT ？我操？p1这个原视频我还刷到过 就这个男的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨08丨od丨中抑中焦丨互fo免🚪丨我听点udg sasi很多很多丨两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 45,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6214,
+          "following_count": 292,
+          "like_count": 6044,
+          "listed_count": 3,
+          "media_count": 96,
+          "tweet_count": 2552
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-23T06:00:00.000Z",
+        "description": "05｜brat｜DDLG｜年上牛逼｜想要环游世界^ ^ 小号@7k7k_qi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "7k7k_qi"
+              }
+            ]
+          }
+        },
+        "id": "1241967881035730945",
+        "location": "纯💚🚪88  详情私信 没事不回",
+        "name": "苦酱",
+        "pinned_tweet_id": "1989618767547306210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995134697232637952/PPTGsssN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4224,
+          "following_count": 132,
+          "like_count": 4827,
+          "listed_count": 8,
+          "media_count": 679,
+          "tweet_count": 3592
+        },
+        "username": "catty_kuku",
+        "verified": false
+      }
+    ]
+  }
+}

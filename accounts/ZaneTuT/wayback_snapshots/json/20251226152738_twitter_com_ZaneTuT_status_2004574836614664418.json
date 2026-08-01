@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2004523062985986432",
+    "created_at": "2025-12-26T15:27:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T16:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004574836614664418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1970649523497377792",
+          "start": 0,
+          "username": "longbao520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004574836614664418",
+    "in_reply_to_user_id": "1970649523497377792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004523062985986432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@longbao520 我只是想要一个依靠呀，又不是要天上的星星。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2004523062985986432",
+        "created_at": "2025-12-26T15:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T16:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004574836614664418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1970649523497377792",
+              "start": 0,
+              "username": "longbao520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004574836614664418",
+        "in_reply_to_user_id": "1970649523497377792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004523062985986432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@longbao520 我只是想要一个依靠呀，又不是要天上的星星。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970649523497377792",
+        "conversation_id": "2004523062985986432",
+        "created_at": "2025-12-26T12:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T13:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004523062985986432"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004523062985986432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4605,
+          "like_count": 100,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "你是说你隔着手机爱上了一个你从来没见过的人 仅仅只是因为你们每天都聊天？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "对我好疏远是怎么啦",
+        "id": "1997985969958699008",
+        "name": "骨骨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 33,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 17
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T00:40:41.000Z",
+        "description": "在读书 不定期上推 私信基本都会回复 如果没回复就是太多了看不到 喜欢我可以投喂 88➕v 谢谢大家",
+        "id": "1970649523497377792",
+        "name": "电子蝴蝶",
+        "pinned_tweet_id": "2003067436380323854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990353476728274944/D5L0tQ1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 2,
+          "like_count": 4,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 1496
+        },
+        "username": "longbao520",
+        "verified": false
+      }
+    ]
+  }
+}

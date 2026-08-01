@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2019425786072387811",
+    "created_at": "2026-02-06T04:28:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T05:28:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019629330893332695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2016603029710262277",
+          "start": 0,
+          "username": "Kyuuu2333"
+        },
+        {
+          "end": 23,
+          "id": "1684528453020962818",
+          "start": 11,
+          "username": "Kjjj1713121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019629330893332695",
+    "in_reply_to_user_id": "2016603029710262277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019426109176312288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kyuuu2333 @Kjjj1713121 禁止自娱自乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2019425786072387811",
+        "created_at": "2026-02-06T04:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T05:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019629330893332695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2016603029710262277",
+              "start": 0,
+              "username": "Kyuuu2333"
+            },
+            {
+              "end": 23,
+              "id": "1684528453020962818",
+              "start": 11,
+              "username": "Kjjj1713121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019629330893332695",
+        "in_reply_to_user_id": "2016603029710262277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019426109176312288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kyuuu2333 @Kjjj1713121 禁止自娱自乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016603029710262277",
+        "conversation_id": "2019425786072387811",
+        "created_at": "2026-02-05T15:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T16:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019426109176312288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1684528453020962818",
+              "start": 0,
+              "username": "Kjjj1713121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019426109176312288",
+        "in_reply_to_user_id": "1684528453020962818",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019425786072387811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kjjj1713121 像傻福兄弟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨神秘账号@Rotte2t00丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "Rotte2t00"
+              },
+              {
+                "end": 80,
+                "start": 65,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 95,
+                "start": 87,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3278,
+          "following_count": 188,
+          "like_count": 3245,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1449
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-28T20:03:37.000Z",
+        "description": "能说啥。",
+        "id": "2016603029710262277",
+        "name": "quuuq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016606371832315904/nD8_6eyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 2,
+          "like_count": 235,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 184
+        },
+        "username": "Kyuuu2333",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T11:37:44.000Z",
+        "description": "男 20 学生 我 好 想 睡 觉（是直的",
+        "id": "1684528453020962818",
+        "location": "Chengdu/Tianjin",
+        "name": "QuuuQ",
+        "pinned_tweet_id": "1886882947040731151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016605811456561152/g5z3QLTm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 465,
+          "like_count": 6493,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 1331
+        },
+        "username": "Kjjj1713121",
+        "verified": false
+      }
+    ]
+  }
+}

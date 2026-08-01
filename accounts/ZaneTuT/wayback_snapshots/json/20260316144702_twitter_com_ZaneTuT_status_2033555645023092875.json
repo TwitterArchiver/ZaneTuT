@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2033552393556701606",
+    "created_at": "2026-03-16T14:47:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T15:47:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033555645023092875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1936091086470193152",
+          "start": 0,
+          "username": "yui1225love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033555645023092875",
+    "in_reply_to_user_id": "1936091086470193152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033555550026518948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yui1225love 小兔呀小兔！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2033552393556701606",
+        "created_at": "2026-03-16T14:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T15:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033555645023092875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1936091086470193152",
+              "start": 0,
+              "username": "yui1225love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033555645023092875",
+        "in_reply_to_user_id": "1936091086470193152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033555550026518948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yui1225love 小兔呀小兔！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936091086470193152",
+        "conversation_id": "2033552393556701606",
+        "created_at": "2026-03-16T14:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T15:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033555550026518948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033555550026518948",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033552393556701606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 妈妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5471,
+          "following_count": 273,
+          "like_count": 4887,
+          "listed_count": 3,
+          "media_count": 62,
+          "tweet_count": 2045
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-20T15:58:54.000Z",
+        "description": "本账号成分：碎碎念/玩抽象/妆容穿搭/搞同人♡我不会对药效期间任何言论和行为负责♡女孩子互fo请私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/yui1225love?ig…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/yui1225love?igsh=MWZmYmttbml4Nm40aA==",
+                "start": 0,
+                "url": "https://t.co/5R7R0p3v6t"
+              }
+            ]
+          }
+        },
+        "id": "1936091086470193152",
+        "name": "这里没有你要找的好小兔",
+        "pinned_tweet_id": "2014691800724681025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008196339608244224/gwKTHD6O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 109,
+          "like_count": 1118,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1138
+        },
+        "url": "https://t.co/5R7R0p3v6t",
+        "username": "yui1225love",
+        "verified": false
+      }
+    ]
+  }
+}

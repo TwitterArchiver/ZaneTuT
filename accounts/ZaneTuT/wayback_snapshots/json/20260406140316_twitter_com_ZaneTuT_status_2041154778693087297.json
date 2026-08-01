@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2041044305293476240",
+    "created_at": "2026-04-06T14:03:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T15:03:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041154778693087297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1900706496121602048",
+          "start": 0,
+          "username": "JIAN100222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041154778693087297",
+    "in_reply_to_user_id": "1900706496121602048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041044305293476240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JIAN100222 支持这个丽丽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041044297668341760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFM--Y1bsAAQrmP.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2041044305293476240",
+        "created_at": "2026-04-06T14:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T15:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041154778693087297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1900706496121602048",
+              "start": 0,
+              "username": "JIAN100222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041154778693087297",
+        "in_reply_to_user_id": "1900706496121602048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041044305293476240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JIAN100222 支持这个丽丽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041044297668341760"
+          ]
+        },
+        "author_id": "1900706496121602048",
+        "conversation_id": "2041044305293476240",
+        "created_at": "2026-04-06T06:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T07:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041044305293476240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FFTXkeDUVG",
+              "end": 73,
+              "expanded_url": "https://x.com/JIAN100222/status/2041044305293476240/photo/1",
+              "media_key": "3_2041044297668341760",
+              "start": 50,
+              "url": "https://t.co/FFTXkeDUVG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041044305293476240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3624,
+          "like_count": 45,
+          "quote_count": 2,
+          "reply_count": 44,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "唉本来想等到300再开288开抽也行 \n感谢你们一直陪伴支持谢谢你们\n评论转发关注就好抽两个52块 https://t.co/FFTXkeDUVG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨我真的不爱回消息 太累丨08丨od丨中抑中焦丨互fo免🚪丨我听点udg sasi很多很多丨两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 57,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6187,
+          "following_count": 294,
+          "like_count": 6148,
+          "listed_count": 3,
+          "media_count": 94,
+          "tweet_count": 2576
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T00:32:09.000Z",
+        "description": "看我笑话就好/非正常人/皮下男/性取向和父亲一样\n正常人格@JIAN222100",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "JIAN222100"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jian100222",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jian100222",
+                "start": 0,
+                "url": "https://t.co/N6daRRoFIx"
+              }
+            ]
+          }
+        },
+        "id": "1900706496121602048",
+        "name": "龙丽（婊子人格）",
+        "pinned_tweet_id": "2039294646216741087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033615902500130816/gHzcfWKt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 175,
+          "like_count": 5563,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 1613
+        },
+        "url": "https://t.co/N6daRRoFIx",
+        "username": "JIAN100222",
+        "verified": false
+      }
+    ]
+  }
+}

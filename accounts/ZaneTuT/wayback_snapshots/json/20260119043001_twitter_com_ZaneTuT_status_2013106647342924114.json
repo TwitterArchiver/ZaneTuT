@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013083098649407488"
+      ],
+      "media_source_tweet_id": [
+        "2013083107537097157"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2013106647342924114",
+    "created_at": "2026-01-19T04:30:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T05:30:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013106647342924114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1605597880932175872",
+          "start": 3,
+          "username": "Lyl5304"
+        },
+        {
+          "end": 21,
+          "id": "1997985969958699008",
+          "start": 13,
+          "username": "ZaneTuT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QAD9IsDgjE",
+          "end": 50,
+          "expanded_url": "https://x.com/Lyl5304/status/2013083107537097157/photo/1",
+          "media_key": "3_2013083098649407488",
+          "start": 27,
+          "url": "https://t.co/QAD9IsDgjE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013106647342924114",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013083107537097157",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lyl5304: @ZaneTuT 给我笑得 https://t.co/QAD9IsDgjE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 560,
+        "media_key": "3_2013083098649407488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-_oaZZXMAAbcSe.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013083098649407488"
+          ],
+          "media_source_tweet_id": [
+            "2013083107537097157"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2013106647342924114",
+        "created_at": "2026-01-19T04:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T05:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013106647342924114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1605597880932175872",
+              "start": 3,
+              "username": "Lyl5304"
+            },
+            {
+              "end": 21,
+              "id": "1997985969958699008",
+              "start": 13,
+              "username": "ZaneTuT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QAD9IsDgjE",
+              "end": 50,
+              "expanded_url": "https://x.com/Lyl5304/status/2013083107537097157/photo/1",
+              "media_key": "3_2013083098649407488",
+              "start": 27,
+              "url": "https://t.co/QAD9IsDgjE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013106647342924114",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013083107537097157",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lyl5304: @ZaneTuT 给我笑得 https://t.co/QAD9IsDgjE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013083098649407488"
+          ]
+        },
+        "author_id": "1605597880932175872",
+        "conversation_id": "2012920866280030256",
+        "created_at": "2026-01-19T02:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T03:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013083107537097157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QAD9IsDgjE",
+              "end": 37,
+              "expanded_url": "https://x.com/Lyl5304/status/2013083107537097157/photo/1",
+              "media_key": "3_2013083098649407488",
+              "start": 14,
+              "url": "https://t.co/QAD9IsDgjE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013083107537097157",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012920866280030256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 给我笑得 https://t.co/QAD9IsDgjE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪128 纯绿丨有的文案不是原创别攻击我TuT丨08丨od丨私信看心情回丨高频率发帖我好无聊丨互fo可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2011423750164725893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1222,
+          "following_count": 137,
+          "like_count": 1854,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 844
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-21T16:15:50.000Z",
+        "description": "",
+        "id": "1605597880932175872",
+        "name": "wawo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011330301017145344/grNKHc5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "username": "Lyl5304",
+        "verified": false
+      }
+    ]
+  }
+}

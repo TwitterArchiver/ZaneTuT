@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2020496366565478904",
+    "created_at": "2026-02-08T13:54:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T14:54:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020496366565478904"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2020496366565478904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "恋哥癖大爆发，恋哥癖席卷，恋哥癖黑色星期五，恋哥癖买二送一，恋哥癖统治宇宙，开始恋哥癖节，开放恋哥癖俱乐部，开起恋哥癖俱乐部折扣活动，开始恋哥癖日活动，开始恋哥癖节，开始恋哥癖军乐队，恋哥癖入场，恋哥癖毕业和重新入场，恋哥癖重返学校，恋哥癖派对开始，恋哥癖诅咒开始，恋哥癖恶魔出现"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2020496366565478904",
+        "created_at": "2026-02-08T13:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T14:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020496366565478904"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020496366565478904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恋哥癖大爆发，恋哥癖席卷，恋哥癖黑色星期五，恋哥癖买二送一，恋哥癖统治宇宙，开始恋哥癖节，开放恋哥癖俱乐部，开起恋哥癖俱乐部折扣活动，开始恋哥癖日活动，开始恋哥癖节，开始恋哥癖军乐队，恋哥癖入场，恋哥癖毕业和重新入场，恋哥癖重返学校，恋哥癖派对开始，恋哥癖诅咒开始，恋哥癖恶魔出现"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3464,
+          "following_count": 202,
+          "like_count": 3444,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 1561
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

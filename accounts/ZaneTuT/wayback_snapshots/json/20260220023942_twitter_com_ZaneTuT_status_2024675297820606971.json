@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2024675297820606971",
+    "created_at": "2026-02-20T02:39:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T03:39:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024675297820606971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1121214017941323776",
+          "start": 3,
+          "username": "akf13978"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024675297820606971",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024349893708689663",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akf13978: 叫哥哥不就是性邀请的意思吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2024675297820606971",
+        "created_at": "2026-02-20T02:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T03:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024675297820606971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1121214017941323776",
+              "start": 3,
+              "username": "akf13978"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024675297820606971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024349893708689663",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akf13978: 叫哥哥不就是性邀请的意思吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1121214017941323776",
+        "conversation_id": "2024349893708689663",
+        "created_at": "2026-02-19T05:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T06:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024349893708689663"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024349893708689663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 108941,
+          "like_count": 852,
+          "quote_count": 13,
+          "reply_count": 55,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "叫哥哥不就是性邀请的意思吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4505,
+          "following_count": 217,
+          "like_count": 3677,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 1698
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-25T00:47:07.000Z",
+        "description": "不常刷推/随口吐槽/碎碎念/会念念感兴趣的本/匿名箱https://t.co/j4ai6uVINK小号@akst7212",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "akst7212"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/alxg137/",
+                "end": 49,
+                "expanded_url": "https://ngl.link/alxg137/",
+                "start": 26,
+                "url": "https://t.co/j4ai6uVINK"
+              }
+            ]
+          }
+        },
+        "id": "1121214017941323776",
+        "location": "Hong Kong",
+        "name": "青由也",
+        "pinned_tweet_id": "1952946652207325255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988332886970560514/p1dFkvIP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2286,
+          "following_count": 815,
+          "like_count": 1240,
+          "listed_count": 3,
+          "media_count": 54,
+          "tweet_count": 1826
+        },
+        "username": "akf13978",
+        "verified": false
+      }
+    ]
+  }
+}

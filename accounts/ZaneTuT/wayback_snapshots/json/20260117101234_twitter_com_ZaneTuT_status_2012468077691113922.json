@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2012432599462113302",
+    "created_at": "2026-01-17T10:12:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T11:12:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012468077691113922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1922213296998141952",
+          "start": 0,
+          "username": "sakana_022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012468077691113922",
+    "in_reply_to_user_id": "1922213296998141952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012466896449237348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakana_022 小鱼你太好了🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2012432599462113302",
+        "created_at": "2026-01-17T10:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T11:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012468077691113922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1922213296998141952",
+              "start": 0,
+              "username": "sakana_022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012468077691113922",
+        "in_reply_to_user_id": "1922213296998141952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012466896449237348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakana_022 小鱼你太好了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922213296998141952",
+        "conversation_id": "2012432599462113302",
+        "created_at": "2026-01-17T10:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T11:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012466896449237348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012466896449237348",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012432599462113302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 不用磕头，我爱你。๑⁃̀⩊⁃́๑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪88/128 纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨回fo眼熟的 可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010591438627897389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 132,
+          "like_count": 1554,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 668
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-13T08:52:26.000Z",
+        "description": "ᯠ_   ̫ _ᯄ",
+        "id": "1922213296998141952",
+        "name": "我一点也不坏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011431010769248256/22K4tuop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 78,
+          "like_count": 767,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 494
+        },
+        "username": "sakana_022",
+        "verified": false
+      }
+    ]
+  }
+}

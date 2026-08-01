@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2021847463234351589",
+    "created_at": "2026-02-12T13:53:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T14:53:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021945764105400535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2018703391808245760",
+          "start": 0,
+          "username": "gimjihyeon84129"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021945764105400535",
+    "in_reply_to_user_id": "2018703391808245760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021919704114507909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gimjihyeon84129 可宠我了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2021847463234351589",
+        "created_at": "2026-02-12T13:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T14:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021945764105400535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2018703391808245760",
+              "start": 0,
+              "username": "gimjihyeon84129"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021945764105400535",
+        "in_reply_to_user_id": "2018703391808245760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021919704114507909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gimjihyeon84129 可宠我了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018703391808245760",
+        "conversation_id": "2021847463234351589",
+        "created_at": "2026-02-12T12:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T13:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021919704114507909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021919704114507909",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021847463234351589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 啊啊啊好美😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3869,
+          "following_count": 210,
+          "like_count": 3569,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 1623
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-03T15:11:59.000Z",
+        "description": "Love Wonyoung&Sunghoon 女孩子就是世界上最美好的生物，我爱你们，下辈子还要当女人和你们在一起",
+        "id": "2018703391808245760",
+        "name": "김지현",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018704223400304640/CccAyOjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 54,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "gimjihyeon84129",
+        "verified": false
+      }
+    ]
+  }
+}

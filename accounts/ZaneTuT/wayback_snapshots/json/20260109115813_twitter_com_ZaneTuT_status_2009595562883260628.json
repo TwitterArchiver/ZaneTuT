@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009595555509583873"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2009540303263269004",
+    "created_at": "2026-01-09T11:58:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T12:58:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009595562883260628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1968257760937775104",
+          "start": 0,
+          "username": "taoyanchizaogao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XIhhZXGAno",
+          "end": 46,
+          "expanded_url": "https://x.com/ZaneTuT/status/2009595562883260628/photo/1",
+          "media_key": "3_2009595555509583873",
+          "start": 23,
+          "url": "https://t.co/XIhhZXGAno"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009595562883260628",
+    "in_reply_to_user_id": "1968257760937775104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009540303263269004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taoyanchizaogao 很好玩…… https://t.co/XIhhZXGAno"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2009595555509583873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-OEgqxaQAEUnN5.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009595555509583873"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2009540303263269004",
+        "created_at": "2026-01-09T11:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T12:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009595562883260628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1968257760937775104",
+              "start": 0,
+              "username": "taoyanchizaogao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XIhhZXGAno",
+              "end": 46,
+              "expanded_url": "https://x.com/ZaneTuT/status/2009595562883260628/photo/1",
+              "media_key": "3_2009595555509583873",
+              "start": 23,
+              "url": "https://t.co/XIhhZXGAno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009595562883260628",
+        "in_reply_to_user_id": "1968257760937775104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009540303263269004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taoyanchizaogao 很好玩…… https://t.co/XIhhZXGAno"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968257760937775104",
+        "conversation_id": "2009540303263269004",
+        "created_at": "2026-01-09T08:18:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T09:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009540303263269004"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009540303263269004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7427,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 81,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们最近在玩什么游戏！我太无聊了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "sasi孝女其实 加上我vx的人才知道我是udg 女神！",
+        "id": "1997985969958699008",
+        "name": "到底怎样才有人爱我",
+        "pinned_tweet_id": "2009195553230606621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 61,
+          "like_count": 446,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 65
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T10:16:46.000Z",
+        "description": "神厨小福贵的另一面 https://t.co/FP2FaThsKS 私信不回匿名箱见！我是一个渴望野性与自由又想要安稳和踏实的疯子",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/taoyanchizaogao",
+                "end": 33,
+                "expanded_url": "https://ngl.link/taoyanchizaogao",
+                "start": 10,
+                "url": "https://t.co/FP2FaThsKS"
+              }
+            ]
+          }
+        },
+        "id": "1968257760937775104",
+        "name": "枣糕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004456785411747840/8yElFQyO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2918,
+          "following_count": 55,
+          "like_count": 1703,
+          "listed_count": 4,
+          "media_count": 39,
+          "tweet_count": 810
+        },
+        "username": "taoyanchizaogao",
+        "verified": false
+      }
+    ]
+  }
+}

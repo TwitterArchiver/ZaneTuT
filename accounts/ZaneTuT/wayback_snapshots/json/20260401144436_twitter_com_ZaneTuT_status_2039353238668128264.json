@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2039287102383575156",
+    "created_at": "2026-04-01T14:44:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T15:44:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039353238668128264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1997141885589377026",
+          "start": 0,
+          "username": "syokora755476"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039353238668128264",
+    "in_reply_to_user_id": "1997141885589377026",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039293201744609303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@syokora755476 汐汐！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2039287102383575156",
+        "created_at": "2026-04-01T14:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T15:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039353238668128264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1997141885589377026",
+              "start": 0,
+              "username": "syokora755476"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039353238668128264",
+        "in_reply_to_user_id": "1997141885589377026",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039293201744609303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@syokora755476 汐汐！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997141885589377026",
+        "conversation_id": "2039287102383575156",
+        "created_at": "2026-04-01T10:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T11:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039293201744609303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039293201744609303",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039287102383575156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 喵喵喵🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨08丨od丨中抑中焦丨互fo免🚪丨我听点udg sasi很多很多丨两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 45,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6127,
+          "following_count": 291,
+          "like_count": 5802,
+          "listed_count": 3,
+          "media_count": 67,
+          "tweet_count": 2472
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-06T03:12:08.000Z",
+        "description": "06 | infp | 偶尔会发女装 | 欢迎大家和我互fo | 喜欢s0m1 | 重度游戏依赖 |（我喜欢猫，请给我很多猫猫☺️）| 低精力老鼠人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus11903",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus11903",
+                "start": 0,
+                "url": "https://t.co/JVxlntnviM"
+              }
+            ]
+          }
+        },
+        "id": "1997141885589377026",
+        "location": "0.1km",
+        "name": "汐汐不嘻嘻",
+        "pinned_tweet_id": "2036337317015855423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038476376869875712/7alwg_95_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 182,
+          "like_count": 1473,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 722
+        },
+        "url": "https://t.co/JVxlntnviM",
+        "username": "syokora755476",
+        "verified": false
+      }
+    ]
+  }
+}

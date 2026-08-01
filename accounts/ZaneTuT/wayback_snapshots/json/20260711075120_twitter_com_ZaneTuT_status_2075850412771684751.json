@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2075850412771684751",
+    "created_at": "2026-07-11T07:51:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T08:51:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075850412771684751"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bleasedonotlea…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/bleasedonotlean/status/2075183524223807797",
+          "start": 6,
+          "url": "https://t.co/WdOfhzHihR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075850412771684751",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075183524223807797",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太搞了我操 https://t.co/WdOfhzHihR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2075183517164871680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyIagBboAAGzg0.jpg",
+        "width": 836
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2075850412771684751",
+        "created_at": "2026-07-11T07:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T08:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075850412771684751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bleasedonotlea…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/bleasedonotlean/status/2075183524223807797",
+              "start": 6,
+              "url": "https://t.co/WdOfhzHihR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075850412771684751",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075183524223807797",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太搞了我操 https://t.co/WdOfhzHihR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075183517164871680"
+          ]
+        },
+        "author_id": "2017826246441537536",
+        "conversation_id": "2075183524223807797",
+        "created_at": "2026-07-09T11:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075183524223807797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Iwrs4JTibl",
+              "end": 35,
+              "expanded_url": "https://x.com/bleasedonotlean/status/2075183524223807797/photo/1",
+              "media_key": "3_2075183517164871680",
+              "start": 12,
+              "url": "https://t.co/Iwrs4JTibl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075183524223807797",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 216,
+          "impression_count": 1662184,
+          "like_count": 6147,
+          "quote_count": 13,
+          "reply_count": 815,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "和crush有了新退展 https://t.co/Iwrs4JTibl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨互fo免🚪丨💗算卦找@kill_this_hate 不准你打我丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。❗️陌生链接不要乱点❗️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 52,
+                "start": 44,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2075472000680911094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7959,
+          "following_count": 275,
+          "like_count": 5971,
+          "listed_count": 4,
+          "media_count": 38,
+          "tweet_count": 2593
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-01T05:04:12.000Z",
+        "description": "请不要攻击一只考拉",
+        "id": "2017826246441537536",
+        "name": "Jasmine",
+        "pinned_tweet_id": "2050123841427673148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066165729255432192/KaV9PPye_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 47,
+          "like_count": 5994,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 707
+        },
+        "url": "",
+        "username": "bleasedonotlean",
+        "verified": false
+      }
+    ]
+  }
+}

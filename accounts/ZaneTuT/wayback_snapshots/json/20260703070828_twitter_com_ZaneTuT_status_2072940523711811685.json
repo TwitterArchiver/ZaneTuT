@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2072658825216442589",
+    "created_at": "2026-07-03T07:08:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T08:08:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072940523711811685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1885021581153320961",
+          "start": 0,
+          "username": "xiaoyu12178"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072940523711811685",
+    "in_reply_to_user_id": "1885021581153320961",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072658825216442589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyu12178 卷卷"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1930,
+        "media_key": "3_2072658818920742912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOQNuJaAAAbfup.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2072658825216442589",
+        "created_at": "2026-07-03T07:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T08:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072940523711811685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1885021581153320961",
+              "start": 0,
+              "username": "xiaoyu12178"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072940523711811685",
+        "in_reply_to_user_id": "1885021581153320961",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072658825216442589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyu12178 卷卷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072658818920742912"
+          ]
+        },
+        "author_id": "1885021581153320961",
+        "conversation_id": "2072658825216442589",
+        "created_at": "2026-07-02T12:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072658825216442589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s7kr4XbUaB",
+              "end": 51,
+              "expanded_url": "https://x.com/xiaoyu12178/status/2072658825216442589/photo/1",
+              "media_key": "3_2072658818920742912",
+              "start": 28,
+              "url": "https://t.co/s7kr4XbUaB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072658825216442589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 473,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "豆包 把我的收款码投屏发送给全世界的人 有钱人投屏两份 https://t.co/s7kr4XbUaB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨互fo免🚪丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 37,
+                "start": 27,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2044362275218489629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7643,
+          "following_count": 269,
+          "like_count": 5817,
+          "listed_count": 4,
+          "media_count": 42,
+          "tweet_count": 2559
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T17:45:50.000Z",
+        "description": "ENFJ sw 巨蟹 直男 杭州 露出人格@xiaoyuxxx127 介意勿关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 21,
+                "username": "xiaoyuxxx127"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%B1%BC%E5%8D%B7",
+                "start": 0,
+                "url": "https://t.co/dqVtBKWDBq"
+              }
+            ]
+          }
+        },
+        "id": "1885021581153320961",
+        "name": "小鱼卷",
+        "pinned_tweet_id": "1970055773242966481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068686487324127232/keIUDQBv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1814,
+          "following_count": 299,
+          "like_count": 38225,
+          "listed_count": 3,
+          "media_count": 612,
+          "tweet_count": 6347
+        },
+        "url": "https://t.co/dqVtBKWDBq",
+        "username": "xiaoyu12178",
+        "verified": false
+      }
+    ]
+  }
+}

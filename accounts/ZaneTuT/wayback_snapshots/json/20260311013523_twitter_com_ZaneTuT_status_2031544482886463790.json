@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2031284601122168911",
+    "created_at": "2026-03-11T01:35:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T02:35:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031544482886463790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1591524062488297472",
+          "start": 0,
+          "username": "exzasev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031544482886463790",
+    "in_reply_to_user_id": "1591524062488297472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031284601122168911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@exzasev 嘶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2031284601122168911",
+        "created_at": "2026-03-11T01:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T02:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031544482886463790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1591524062488297472",
+              "start": 0,
+              "username": "exzasev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031544482886463790",
+        "in_reply_to_user_id": "1591524062488297472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031284601122168911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@exzasev 嘶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591524062488297472",
+        "conversation_id": "2031284601122168911",
+        "created_at": "2026-03-10T08:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T09:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031284601122168911"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031284601122168911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 12949,
+          "like_count": 175,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我一直都是蛮坚定的年上主义\n但是\n“姐姐，他老了”\n我操我操我操我操我操我操我操"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5384,
+          "following_count": 273,
+          "like_count": 4472,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1978
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-12T20:11:30.000Z",
+        "description": "18岁性感少妇",
+        "id": "1591524062488297472",
+        "location": "比基尼海滩",
+        "name": "Exzasev",
+        "pinned_tweet_id": "1971521335701786937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008264844936704000/CQpEFqAt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1455,
+          "following_count": 182,
+          "like_count": 12116,
+          "listed_count": 0,
+          "media_count": 874,
+          "tweet_count": 3552
+        },
+        "username": "exzasev",
+        "verified": false
+      }
+    ]
+  }
+}

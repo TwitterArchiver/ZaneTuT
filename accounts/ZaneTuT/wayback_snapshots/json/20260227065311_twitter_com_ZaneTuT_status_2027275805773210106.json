@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2027275805773210106",
+    "created_at": "2026-02-27T06:53:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T07:53:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027275805773210106"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mx_cc3/status/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/mx_cc3/status/2026675397111472528",
+          "start": 12,
+          "url": "https://t.co/yJRDLxrcPq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027275805773210106",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026675397111472528",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊啊啊啊啊啊啊啊啊啊啊 https://t.co/yJRDLxrcPq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2027275805773210106",
+        "created_at": "2026-02-27T06:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T07:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027275805773210106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mx_cc3/status/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/mx_cc3/status/2026675397111472528",
+              "start": 12,
+              "url": "https://t.co/yJRDLxrcPq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027275805773210106",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026675397111472528",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊啊啊啊啊啊啊啊 https://t.co/yJRDLxrcPq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1487988581368885249",
+        "conversation_id": "2026675397111472528",
+        "created_at": "2026-02-25T15:07:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T16:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026675397111472528"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026675397111472528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 165102,
+          "like_count": 1478,
+          "quote_count": 18,
+          "reply_count": 31,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "反差好爽 书呆子冷脸+半框眼镜+纹身肌肉 不敢想扇耳光手劲会有多大🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5065,
+          "following_count": 231,
+          "like_count": 3958,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 1826
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-31T03:18:31.000Z",
+        "description": "不约没🚪",
+        "id": "1487988581368885249",
+        "name": "杀手电饭煲",
+        "pinned_tweet_id": "1998039804878164192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000190683593007104/DTEMvCNy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1931,
+          "following_count": 156,
+          "like_count": 5400,
+          "listed_count": 3,
+          "media_count": 48,
+          "tweet_count": 1918
+        },
+        "username": "mx_cc3",
+        "verified": false
+      }
+    ]
+  }
+}

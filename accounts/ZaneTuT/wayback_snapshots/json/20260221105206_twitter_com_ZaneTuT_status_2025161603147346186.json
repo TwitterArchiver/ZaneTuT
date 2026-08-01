@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2025142254999142523",
+    "created_at": "2026-02-21T10:52:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T11:52:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025161603147346186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1885021581153320961",
+          "start": 0,
+          "username": "xu121718"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025161603147346186",
+    "in_reply_to_user_id": "1885021581153320961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025142254999142523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xu121718 什么意思。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2025142246010748938",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBrAJKEbgAomotb.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2025142254999142523",
+        "created_at": "2026-02-21T10:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T11:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025161603147346186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1885021581153320961",
+              "start": 0,
+              "username": "xu121718"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025161603147346186",
+        "in_reply_to_user_id": "1885021581153320961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025142254999142523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xu121718 什么意思。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025142246010748938"
+          ]
+        },
+        "author_id": "1885021581153320961",
+        "conversation_id": "2025142254999142523",
+        "created_at": "2026-02-21T09:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T10:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025142254999142523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q9Z0BuU84H",
+              "end": 29,
+              "expanded_url": "https://x.com/xu121718/status/2025142254999142523/photo/1",
+              "media_key": "3_2025142246010748938",
+              "start": 6,
+              "url": "https://t.co/Q9Z0BuU84H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025142254999142523",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 273,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等待进食。 https://t.co/Q9Z0BuU84H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4527,
+          "following_count": 218,
+          "like_count": 3758,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 1704
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T17:45:50.000Z",
+        "description": "05 ENFJ sw 巨蟹 直男 杭州 黄暴人格@xiaoyuxxx127  介意勿关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "xiaoyuxxx127"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%B1%BC%E5%8D%B7",
+                "start": 0,
+                "url": "https://t.co/dqVtBKW5LS"
+              }
+            ]
+          }
+        },
+        "id": "1885021581153320961",
+        "name": "小鱼卷",
+        "pinned_tweet_id": "1970055773242966481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005056923008385024/aZMUl90j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1672,
+          "following_count": 278,
+          "like_count": 28722,
+          "listed_count": 4,
+          "media_count": 445,
+          "tweet_count": 4886
+        },
+        "url": "https://t.co/dqVtBKW5LS",
+        "username": "xu121718",
+        "verified": false
+      }
+    ]
+  }
+}

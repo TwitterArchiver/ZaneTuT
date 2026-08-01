@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2019766448177271232",
+    "created_at": "2026-02-06T14:18:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T15:18:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019777703550083117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2009673611918110720",
+          "start": 0,
+          "username": "PotatoD6480"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019777703550083117",
+    "in_reply_to_user_id": "2009673611918110720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019776921664389618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PotatoD6480 你好呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2019766448177271232",
+        "created_at": "2026-02-06T14:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T15:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019777703550083117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2009673611918110720",
+              "start": 0,
+              "username": "PotatoD6480"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019777703550083117",
+        "in_reply_to_user_id": "2009673611918110720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019776921664389618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PotatoD6480 你好呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009673611918110720",
+        "conversation_id": "2019766448177271232",
+        "created_at": "2026-02-06T14:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T15:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019776921664389618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019776921664389618",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019766448177271232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 你好你好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3319,
+          "following_count": 191,
+          "like_count": 3282,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 1476
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T17:08:42.000Z",
+        "description": "Male 05 INFP/非同非跨/有负能内容/请原谅我的意淫/常发碎碎念🥺涩涩压抑用，如果打扰到泥了不要讨厌窝，窝会自己滚蛋。。",
+        "id": "2009673611918110720",
+        "name": "PotatoD",
+        "pinned_tweet_id": "2013263275144745333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009674189729615872/zBr2Czrl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 93,
+          "like_count": 7936,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1267
+        },
+        "username": "PotatoD6480",
+        "verified": false
+      }
+    ]
+  }
+}

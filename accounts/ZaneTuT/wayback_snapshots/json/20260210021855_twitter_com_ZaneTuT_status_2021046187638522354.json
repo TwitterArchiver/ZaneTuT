@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2020994655379145184",
+    "created_at": "2026-02-10T02:18:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T03:18:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021046187638522354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1764232461439897600",
+          "start": 0,
+          "username": "baobao_7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021046187638522354",
+    "in_reply_to_user_id": "1764232461439897600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020994655379145184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baobao_7777 好漂亮呀…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020994644516143104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAwD6-daAAAe_55.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2020994655379145184",
+        "created_at": "2026-02-10T02:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T03:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021046187638522354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1764232461439897600",
+              "start": 0,
+              "username": "baobao_7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021046187638522354",
+        "in_reply_to_user_id": "1764232461439897600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020994655379145184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baobao_7777 好漂亮呀…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020994644516143104"
+          ]
+        },
+        "author_id": "1764232461439897600",
+        "conversation_id": "2020994655379145184",
+        "created_at": "2026-02-09T22:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T23:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020994655379145184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C70d3tSsfl",
+              "end": 26,
+              "expanded_url": "https://x.com/baobao_7777/status/2020994655379145184/photo/1",
+              "media_key": "3_2020994644516143104",
+              "start": 3,
+              "url": "https://t.co/C70d3tSsfl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020994655379145184",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "^^ https://t.co/C70d3tSsfl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3612,
+          "following_count": 206,
+          "like_count": 3498,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 1589
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T10:13:08.000Z",
+        "description": "一个苦命忧郁更年期男人的碎碎念",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/burger7777",
+                "end": 23,
+                "expanded_url": "https://ngl.link/burger7777",
+                "start": 0,
+                "url": "https://t.co/Q1AVyMgqX0"
+              }
+            ]
+          }
+        },
+        "id": "1764232461439897600",
+        "location": "^ω^",
+        "name": "雌香家母(好舒服呀",
+        "pinned_tweet_id": "2020537054996648438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020980512303742977/RZyriHay_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1156,
+          "following_count": 91,
+          "like_count": 16617,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 4943
+        },
+        "url": "https://t.co/Q1AVyMgqX0",
+        "username": "baobao_7777",
+        "verified": false
+      }
+    ]
+  }
+}

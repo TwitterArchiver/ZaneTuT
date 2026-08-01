@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015570531131723776"
+      ],
+      "media_source_tweet_id": [
+        "2015570553789460900"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2015599205629489271",
+    "created_at": "2026-01-26T01:34:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T02:34:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015599205629489271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2014160022645952512",
+          "start": 3,
+          "username": "Rotte2t00"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/07MCfwzkxg",
+          "end": 63,
+          "expanded_url": "https://x.com/Rotte2t00/status/2015570553789460900/photo/1",
+          "media_key": "3_2015570531131723776",
+          "start": 40,
+          "url": "https://t.co/07MCfwzkxg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015599205629489271",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015570553789460900",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rotte2t00: 我根本不玩QQ空间。。上次触碰是他妈两三年前。。 https://t.co/07MCfwzkxg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2015570531131723776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_i-uBfaEAAi5YF.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015570531131723776"
+          ],
+          "media_source_tweet_id": [
+            "2015570553789460900"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2015599205629489271",
+        "created_at": "2026-01-26T01:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T02:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015599205629489271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2014160022645952512",
+              "start": 3,
+              "username": "Rotte2t00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/07MCfwzkxg",
+              "end": 63,
+              "expanded_url": "https://x.com/Rotte2t00/status/2015570553789460900/photo/1",
+              "media_key": "3_2015570531131723776",
+              "start": 40,
+              "url": "https://t.co/07MCfwzkxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015599205629489271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015570553789460900",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rotte2t00: 我根本不玩QQ空间。。上次触碰是他妈两三年前。。 https://t.co/07MCfwzkxg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015570531131723776"
+          ]
+        },
+        "author_id": "2014160022645952512",
+        "conversation_id": "2015570553789460900",
+        "created_at": "2026-01-25T23:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T00:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015570553789460900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/07MCfwzkxg",
+              "end": 48,
+              "expanded_url": "https://x.com/Rotte2t00/status/2015570553789460900/photo/1",
+              "media_key": "3_2015570531131723776",
+              "start": 25,
+              "url": "https://t.co/07MCfwzkxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015570553789460900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 380,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我根本不玩QQ空间。。上次触碰是他妈两三年前。。 https://t.co/07MCfwzkxg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心丨08丨od丨私信看心情回丨高频率发帖丨互fo可以直接➕V丨我听点udg sasi很多很多丨我皮下非常没有素质别惹我了行吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2536,
+          "following_count": 171,
+          "like_count": 2657,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 1252
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-22T02:15:55.000Z",
+        "description": "大号@ZaneTuT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "ZaneTuT"
+              }
+            ]
+          }
+        },
+        "id": "2014160022645952512",
+        "name": "那应该还挺难受的",
+        "pinned_tweet_id": "2014161343000035602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014160875561857025/umGgxC1S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 12,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 23
+        },
+        "username": "Rotte2t00",
+        "verified": false
+      }
+    ]
+  }
+}

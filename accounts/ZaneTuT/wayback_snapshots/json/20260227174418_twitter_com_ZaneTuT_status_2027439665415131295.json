@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2027439665415131295",
+    "created_at": "2026-02-27T17:44:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T18:44:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027439665415131295"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dsohcv1326282/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/dsohcv1326282/status/2027361685129007199",
+          "start": 5,
+          "url": "https://t.co/tlOwf7Z0w7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027439665415131295",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027361685129007199",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？？？？ https://t.co/tlOwf7Z0w7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 560,
+        "media_key": "3_2027361676249763840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKitAAbkAAnbDb.jpg",
+        "width": 457
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2027439665415131295",
+        "created_at": "2026-02-27T17:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T18:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027439665415131295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dsohcv1326282/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/dsohcv1326282/status/2027361685129007199",
+              "start": 5,
+              "url": "https://t.co/tlOwf7Z0w7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027439665415131295",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027361685129007199",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？？？？ https://t.co/tlOwf7Z0w7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027361676249763840"
+          ]
+        },
+        "author_id": "1505341276035506182",
+        "conversation_id": "2027361685129007199",
+        "created_at": "2026-02-27T12:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T13:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027361685129007199"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 6,
+              "tag": "ちい虐"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w8b4lVKa3M",
+              "end": 34,
+              "expanded_url": "https://x.com/dsohcv1326282/status/2027361685129007199/photo/1",
+              "media_key": "3_2027361676249763840",
+              "start": 11,
+              "url": "https://t.co/w8b4lVKa3M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027361685129007199",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1224,
+          "impression_count": 353679,
+          "like_count": 10412,
+          "quote_count": 459,
+          "reply_count": 78,
+          "retweet_count": 1302
+        },
+        "reply_settings": "everyone",
+        "text": "クソ・コラ #ちい虐 https://t.co/w8b4lVKa3M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5085,
+          "following_count": 234,
+          "like_count": 4029,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 1853
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-20T00:32:12.000Z",
+        "description": "ちい虐　𝓈𝒾𝓃𝒸ℯ 𝟸𝟶𝟸𝟻.𝟼",
+        "id": "1505341276035506182",
+        "location": "North Sentinel Island",
+        "name": "江田山",
+        "pinned_tweet_id": "1982791779414933572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734042425788874752/4fkPG8U3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1635,
+          "following_count": 235,
+          "like_count": 4459,
+          "listed_count": 14,
+          "media_count": 207,
+          "tweet_count": 1156
+        },
+        "username": "dsohcv1326282",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2027409160405766599",
+    "created_at": "2026-02-27T16:16:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T17:16:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027417526217695566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1625662182284468224",
+          "start": 0,
+          "username": "qaz24510269"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027417526217695566",
+    "in_reply_to_user_id": "1625662182284468224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027409160405766599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qaz24510269 棕发党你们输了🚬"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2027409153959022592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCLN4kQaUAAEJON.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2027409153963225089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCLN4kRacAESog3.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2027409160405766599",
+        "created_at": "2026-02-27T16:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T17:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027417526217695566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1625662182284468224",
+              "start": 0,
+              "username": "qaz24510269"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027417526217695566",
+        "in_reply_to_user_id": "1625662182284468224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027409160405766599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qaz24510269 棕发党你们输了🚬"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027409153959022592",
+            "3_2027409153963225089"
+          ]
+        },
+        "author_id": "1625662182284468224",
+        "conversation_id": "2027409160405766599",
+        "created_at": "2026-02-27T15:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T16:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027409160405766599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nLPV8RaIru",
+              "end": 32,
+              "expanded_url": "https://x.com/qaz24510269/status/2027409160405766599/photo/1",
+              "media_key": "3_2027409153959022592",
+              "start": 9,
+              "url": "https://t.co/nLPV8RaIru"
+            },
+            {
+              "display_url": "pic.x.com/nLPV8RaIru",
+              "end": 32,
+              "expanded_url": "https://x.com/qaz24510269/status/2027409160405766599/photo/1",
+              "media_key": "3_2027409153963225089",
+              "start": 9,
+              "url": "https://t.co/nLPV8RaIru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027409160405766599",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 306,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "14 diary https://t.co/nLPV8RaIru"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5081,
+          "following_count": 234,
+          "like_count": 4009,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 1846
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-15T01:04:14.000Z",
+        "description": "^ ^",
+        "id": "1625662182284468224",
+        "location": "straight",
+        "name": "qaz",
+        "pinned_tweet_id": "2016442927023812970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1627572124515975168/Q_RKePfn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 229,
+          "like_count": 4423,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 405
+        },
+        "username": "qaz24510269",
+        "verified": false
+      }
+    ]
+  }
+}

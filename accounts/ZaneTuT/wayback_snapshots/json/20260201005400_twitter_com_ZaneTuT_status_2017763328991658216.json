@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2017763328991658216",
+    "created_at": "2026-02-01T00:54:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T01:54:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017763328991658216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1877081160154755072",
+          "start": 3,
+          "username": "YHdetong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017763328991658216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017277702001381530",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YHdetong: 我至今不能理解走后门的 为什么要欺负一个拉屎的地方！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2017763328991658216",
+        "created_at": "2026-02-01T00:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T01:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017763328991658216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877081160154755072",
+              "start": 3,
+              "username": "YHdetong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017763328991658216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017277702001381530",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YHdetong: 我至今不能理解走后门的 为什么要欺负一个拉屎的地方！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877081160154755072",
+        "conversation_id": "2017277702001381530",
+        "created_at": "2026-01-30T16:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T17:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017277702001381530"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017277702001381530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 184733,
+          "like_count": 545,
+          "quote_count": 6,
+          "reply_count": 104,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "我至今不能理解走后门的 为什么要欺负一个拉屎的地方！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心丨08丨od丨私信只回口令丨互fo可以直接➕V丨我听点udg sasi很多很多丨我皮下非常没有素质别惹我了行吗丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 115,
+                "start": 107,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2921,
+          "following_count": 183,
+          "like_count": 2979,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 1352
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-08T19:53:28.000Z",
+        "description": "170 120｜发点想发的｜推止于推｜极品青年音可以找我打瓦😋｜提问箱：https://t.co/n2XjfZ7Lg4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yhdetong28336",
+                "end": 59,
+                "expanded_url": "https://ngl.link/yhdetong28336",
+                "start": 36,
+                "url": "https://t.co/n2XjfZ7Lg4"
+              }
+            ]
+          }
+        },
+        "id": "1877081160154755072",
+        "location": "🚪",
+        "name": "补药酱紫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883534891150712832/pptdTLVk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2551,
+          "following_count": 206,
+          "like_count": 1530,
+          "listed_count": 4,
+          "media_count": 29,
+          "tweet_count": 248
+        },
+        "username": "YHdetong",
+        "verified": false
+      }
+    ]
+  }
+}

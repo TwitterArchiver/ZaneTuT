@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2041854735343612285",
+    "created_at": "2026-04-08T17:56:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T18:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041938276932841680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1900706496121602048",
+          "start": 0,
+          "username": "JIAN100222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041938276932841680",
+    "in_reply_to_user_id": "1900706496121602048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041854735343612285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JIAN100222 谁欺负了我的男孩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2041854735343612285",
+        "created_at": "2026-04-08T17:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T18:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041938276932841680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1900706496121602048",
+              "start": 0,
+              "username": "JIAN100222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041938276932841680",
+        "in_reply_to_user_id": "1900706496121602048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041854735343612285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JIAN100222 谁欺负了我的男孩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900706496121602048",
+        "conversation_id": "2041854735343612285",
+        "created_at": "2026-04-08T12:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T13:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041854735343612285"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041854735343612285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1991,
+          "like_count": 39,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们这些死妈老几把攻击我干啥呀 自己做过的事干他妈搬出来台面说吗 本人玩推到现在半分钱没圈过 别人给的10块5块买点水啥的我就敢收钱 老子连他妈生日一个粉丝发50给我我都没敢收 自己也从不主动私信聊骚加联系方式约炮等 不爱看现在可以双取拉黑谢谢 别把自己当皇帝了想批评谁就是谁 谢谢🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨我真的不爱回消息 太累丨互fo免🚪丨我听点udg sasi很多很多丨两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 66,
+                "start": 55,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6149,
+          "following_count": 296,
+          "like_count": 6147,
+          "listed_count": 3,
+          "media_count": 64,
+          "tweet_count": 2548
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T00:32:09.000Z",
+        "description": "看我笑话就好/非正常人/皮下男/性取向和父亲一样\n不主动聊骚联系加微信\n正常人格@JIAN222100",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "JIAN222100"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jian100222",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jian100222",
+                "start": 0,
+                "url": "https://t.co/N6daRRoFIx"
+              }
+            ]
+          }
+        },
+        "id": "1900706496121602048",
+        "name": "龙丽（世一田力）",
+        "pinned_tweet_id": "2041726992450777203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041726873798111232/UYj6smPl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 180,
+          "like_count": 6112,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1807
+        },
+        "url": "https://t.co/N6daRRoFIx",
+        "username": "JIAN100222",
+        "verified": false
+      }
+    ]
+  }
+}

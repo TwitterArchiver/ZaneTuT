@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016590794409553920"
+      ],
+      "media_source_tweet_id": [
+        "2016590796963877194"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2016858447380435346",
+    "created_at": "2026-01-29T12:58:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T13:58:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016858447380435346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1884840063772790784",
+          "start": 3,
+          "username": "ienii172121"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yt96F719LC",
+          "end": 40,
+          "expanded_url": "https://x.com/ienii172121/status/2016590796963877194/photo/1",
+          "media_key": "3_2016590794409553920",
+          "start": 17,
+          "url": "https://t.co/yt96F719LC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016858447380435346",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016590796963877194",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ienii172121: https://t.co/yt96F719LC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 786,
+        "media_key": "3_2016590794409553920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_xepKYasAAfKDo.jpg",
+        "width": 794
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016590794409553920"
+          ],
+          "media_source_tweet_id": [
+            "2016590796963877194"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2016858447380435346",
+        "created_at": "2026-01-29T12:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T13:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016858447380435346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1884840063772790784",
+              "start": 3,
+              "username": "ienii172121"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yt96F719LC",
+              "end": 40,
+              "expanded_url": "https://x.com/ienii172121/status/2016590796963877194/photo/1",
+              "media_key": "3_2016590794409553920",
+              "start": 17,
+              "url": "https://t.co/yt96F719LC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016858447380435346",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016590796963877194",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ienii172121: https://t.co/yt96F719LC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016590794409553920"
+          ]
+        },
+        "author_id": "1884840063772790784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2016590796963877194",
+        "created_at": "2026-01-28T19:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T20:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016590796963877194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yt96F719LC",
+              "end": 23,
+              "expanded_url": "https://x.com/ienii172121/status/2016590796963877194/photo/1",
+              "media_key": "3_2016590794409553920",
+              "start": 0,
+              "url": "https://t.co/yt96F719LC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016590796963877194",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 14666,
+          "like_count": 833,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yt96F719LC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心丨08丨od丨私信看心情回丨高频率发帖丨互fo可以直接➕V丨我听点udg sasi很多很多丨我皮下非常没有素质别惹我了行吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2869,
+          "following_count": 175,
+          "like_count": 2899,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 1320
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T05:44:41.000Z",
+        "description": "通知OFF フォロー非推奨  ただのゴミ箱  \n⚡️🍑にはまっている   出力左右固定 \n逆も見る   中/日/ENG⭕️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/s8pzbmaokb3tx7…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/s8pzbmaokb3tx72?t=PAoGTz&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/kYMGS0tcFK"
+              }
+            ]
+          }
+        },
+        "id": "1884840063772790784",
+        "name": "シュウエン",
+        "pinned_tweet_id": "1891485254617092467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991952746392776704/h5DQtUWK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3016,
+          "following_count": 188,
+          "like_count": 1240,
+          "listed_count": 8,
+          "media_count": 56,
+          "tweet_count": 781
+        },
+        "url": "https://t.co/kYMGS0tcFK",
+        "username": "ienii172121",
+        "verified": false
+      }
+    ]
+  }
+}

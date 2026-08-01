@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2021276033836777594",
+    "created_at": "2026-02-10T17:32:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T18:32:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021276033836777594"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qwqoverlxrd/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/qwqoverlxrd/status/2021275773269836124",
+          "start": 5,
+          "url": "https://t.co/tApzX81nzq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021276033836777594",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021275773269836124",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啥意思！ https://t.co/tApzX81nzq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 535,
+        "media_key": "3_2021275759650951168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA0DmB8aUAAvpLv.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2021276033836777594",
+        "created_at": "2026-02-10T17:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T18:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021276033836777594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qwqoverlxrd/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/qwqoverlxrd/status/2021275773269836124",
+              "start": 5,
+              "url": "https://t.co/tApzX81nzq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021276033836777594",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021275773269836124",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啥意思！ https://t.co/tApzX81nzq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021275759650951168"
+          ]
+        },
+        "author_id": "2019688220787896326",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2021275773269836124",
+        "created_at": "2026-02-10T17:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T18:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021275773269836124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sG7QGs2ghN",
+              "end": 27,
+              "expanded_url": "https://x.com/QwQoverlxrd/status/2021275773269836124/photo/1",
+              "media_key": "3_2021275759650951168",
+              "start": 4,
+              "url": "https://t.co/sG7QGs2ghN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021275773269836124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎哟。 https://t.co/sG7QGs2ghN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3650,
+          "following_count": 208,
+          "like_count": 3540,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 1613
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-06T08:22:58.000Z",
+        "description": "有爱真好 有你真好",
+        "id": "2019688220787896326",
+        "name": "爱？唉！",
+        "pinned_tweet_id": "2019688953054646597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019688341831311360/FQ4MGzR__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 2,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 14
+        },
+        "username": "QwQoverlxrd",
+        "verified": false
+      }
+    ]
+  }
+}

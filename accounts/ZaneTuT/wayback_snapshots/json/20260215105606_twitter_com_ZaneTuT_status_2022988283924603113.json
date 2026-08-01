@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2022988283924603113",
+    "created_at": "2026-02-15T10:56:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T11:56:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022988283924603113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1522577871331504128",
+          "start": 3,
+          "username": "shashazixiaohao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022988283924603113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022741499876716818",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shashazixiaohao: 欧美片能不能不要拿口水当润滑。。。真的看着很容易萎啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2022988283924603113",
+        "created_at": "2026-02-15T10:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T11:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022988283924603113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1522577871331504128",
+              "start": 3,
+              "username": "shashazixiaohao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022988283924603113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022741499876716818",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shashazixiaohao: 欧美片能不能不要拿口水当润滑。。。真的看着很容易萎啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522577871331504128",
+        "conversation_id": "2022741499876716818",
+        "created_at": "2026-02-14T18:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T19:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022741499876716818"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022741499876716818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 495924,
+          "like_count": 1476,
+          "quote_count": 8,
+          "reply_count": 103,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "欧美片能不能不要拿口水当润滑。。。真的看着很容易萎啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4005,
+          "following_count": 214,
+          "like_count": 3617,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 1657
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-06T14:04:02.000Z",
+        "description": "05|爱拍涩图 |爱碎碎念 |爱看肌肉男（特别是胸肌大大的肩背宽宽的手臂粗粗的) |不线下 |私信会回fo |wx有🚪88r纯聊天 128有图包",
+        "id": "1522577871331504128",
+        "location": "在大海里",
+        "name": "鲨鲨（奇思妙想版）",
+        "pinned_tweet_id": "2000609354949824747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948420726341402640/LekDQWMJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7667,
+          "following_count": 128,
+          "like_count": 4240,
+          "listed_count": 33,
+          "media_count": 28,
+          "tweet_count": 1481
+        },
+        "username": "shashazixiaohao",
+        "verified": false
+      }
+    ]
+  }
+}

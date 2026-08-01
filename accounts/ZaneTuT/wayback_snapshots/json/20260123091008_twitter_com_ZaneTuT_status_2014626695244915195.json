@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2014626695244915195",
+    "created_at": "2026-01-23T09:10:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T10:10:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014626695244915195"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/iuu_0_o/status…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/iuu_0_o/status/2014120334639673555",
+          "start": 2,
+          "url": "https://t.co/ag9eRlGud4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014626695244915195",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014120334639673555",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "… https://t.co/ag9eRlGud4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2014626695244915195",
+        "created_at": "2026-01-23T09:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T10:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014626695244915195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iuu_0_o/status…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/iuu_0_o/status/2014120334639673555",
+              "start": 2,
+              "url": "https://t.co/ag9eRlGud4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014626695244915195",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014120334639673555",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "… https://t.co/ag9eRlGud4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667385380692439040",
+        "conversation_id": "2014120334639673555",
+        "created_at": "2026-01-21T23:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T00:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014120334639673555"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014120334639673555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我都不敢跟我朋友说我又想谈恋爱了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心丨08丨od丨私信看心情回丨高频率发帖丨互fo可以直接➕V丨我听点udg sasi很多很多丨我皮下非常没有素质别惹我了行吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2340,
+          "following_count": 163,
+          "like_count": 2532,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 1176
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-10T04:17:20.000Z",
+        "description": "纯绿🚪52｜自伤｜od｜接伤口定制",
+        "id": "1667385380692439040",
+        "name": "李怜彩",
+        "pinned_tweet_id": "1898735897979568278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918683932041846784/LJcfKBn5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 206,
+          "like_count": 3419,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1717
+        },
+        "username": "iuu_0_o",
+        "verified": false
+      }
+    ]
+  }
+}

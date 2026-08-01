@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2076247653369942070",
+    "created_at": "2026-07-12T10:09:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T11:09:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076247653369942070"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/viviannsado/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/viviannsado/status/2075661090177139177",
+          "start": 4,
+          "url": "https://t.co/z65iV0jLDV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076247653369942070",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075661090177139177",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "完全！ https://t.co/z65iV0jLDV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2076247653369942070",
+        "created_at": "2026-07-12T10:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076247653369942070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/viviannsado/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/viviannsado/status/2075661090177139177",
+              "start": 4,
+              "url": "https://t.co/z65iV0jLDV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076247653369942070",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075661090177139177",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完全！ https://t.co/z65iV0jLDV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013320840721666048",
+        "conversation_id": "2075661090177139177",
+        "created_at": "2026-07-10T19:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T20:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075661090177139177"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075661090177139177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 694,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢厨男 我说的是做饭好吃的男人 厨子 不觉得很性感吗 这是我的小众性癖 我好像知道我为什么喜欢谢霆锋了。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨互fo免🚪丨💗算卦找@kill_this_hate 不准你打我丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 52,
+                "start": 44,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2075472000680911094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7991,
+          "following_count": 275,
+          "like_count": 6010,
+          "listed_count": 4,
+          "media_count": 38,
+          "tweet_count": 2602
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-19T18:41:22.000Z",
+        "description": "泛性恋｜只回复感兴趣的私信。",
+        "id": "2013320840721666048",
+        "location": "西安",
+        "name": "Vivian",
+        "pinned_tweet_id": "2055536555054526774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566268089999360/1fVr7oLy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2808,
+          "following_count": 54,
+          "like_count": 1149,
+          "listed_count": 4,
+          "media_count": 8,
+          "tweet_count": 306
+        },
+        "url": "",
+        "username": "ViviannSado",
+        "verified": false
+      }
+    ]
+  }
+}

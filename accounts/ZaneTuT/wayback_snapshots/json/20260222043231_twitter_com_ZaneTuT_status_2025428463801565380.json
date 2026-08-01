@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2025418240403669123",
+    "created_at": "2026-02-22T04:32:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T05:32:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025428463801565380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1832308955852500995",
+          "start": 0,
+          "username": "hikari_11111111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025428463801565380",
+    "in_reply_to_user_id": "1832308955852500995",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025418240403669123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hikari_11111111 好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2025418240403669123",
+        "created_at": "2026-02-22T04:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T05:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025428463801565380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1832308955852500995",
+              "start": 0,
+              "username": "hikari_11111111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025428463801565380",
+        "in_reply_to_user_id": "1832308955852500995",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025418240403669123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hikari_11111111 好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832308955852500995",
+        "conversation_id": "2025418240403669123",
+        "created_at": "2026-02-22T03:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T04:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025418240403669123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mo1ania/status…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/mo1ania/status/2025232677750841413",
+              "start": 4,
+              "url": "https://t.co/bz1f3C4cea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025418240403669123",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025232677750841413",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😋😋😋 https://t.co/bz1f3C4cea"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4574,
+          "following_count": 220,
+          "like_count": 3813,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 1730
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-07T06:44:41.000Z",
+        "description": "北京 男 之后可能很少出cos了…如果想入我门直接私信我就好了 🚪52/150 想和我聊天也可以私信和我聊 私信都会回的 我话真的特别多 谢谢你们！ 这个是我的提问箱https://t.co/WWRcHh56j3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akira19923",
+                "end": 106,
+                "expanded_url": "https://ngl.link/akira19923",
+                "start": 83,
+                "url": "https://t.co/WWRcHh56j3"
+              }
+            ]
+          }
+        },
+        "id": "1832308955852500995",
+        "name": "明",
+        "pinned_tweet_id": "2015062038540890326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024389844026445824/RM3Lvm7m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 180,
+          "like_count": 1737,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 1385
+        },
+        "username": "hikari_11111111",
+        "verified": false
+      }
+    ]
+  }
+}

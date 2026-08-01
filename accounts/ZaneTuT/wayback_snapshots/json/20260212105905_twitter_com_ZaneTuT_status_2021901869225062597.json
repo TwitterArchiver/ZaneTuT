@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2021901240784105765",
+    "created_at": "2026-02-12T10:59:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T11:59:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021901869225062597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1852442364591403008",
+          "start": 0,
+          "username": "loveying_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021901869225062597",
+    "in_reply_to_user_id": "1852442364591403008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021901240784105765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loveying_ovo 我。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021901226116513793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA88c-GaAAE2-OO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021901226116624384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA88c-GbsAAlNZx.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2021901240784105765",
+        "created_at": "2026-02-12T10:59:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T11:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021901869225062597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1852442364591403008",
+              "start": 0,
+              "username": "loveying_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021901869225062597",
+        "in_reply_to_user_id": "1852442364591403008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021901240784105765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveying_ovo 我。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021901226116513793",
+            "3_2021901226116624384"
+          ]
+        },
+        "author_id": "1852442364591403008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2021901240784105765",
+        "created_at": "2026-02-12T10:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T11:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021901240784105765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DkhE5LAxKM",
+              "end": 41,
+              "expanded_url": "https://x.com/loveying_ovo/status/2021901240784105765/photo/1",
+              "media_key": "3_2021901226116513793",
+              "start": 18,
+              "url": "https://t.co/DkhE5LAxKM"
+            },
+            {
+              "display_url": "pic.x.com/DkhE5LAxKM",
+              "end": 41,
+              "expanded_url": "https://x.com/loveying_ovo/status/2021901240784105765/photo/1",
+              "media_key": "3_2021901226116624384",
+              "start": 18,
+              "url": "https://t.co/DkhE5LAxKM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021901240784105765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "许愿一个和我一样吃饭爱掏中间吃的人 https://t.co/DkhE5LAxKM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3855,
+          "following_count": 210,
+          "like_count": 3564,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 1616
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-01T20:07:38.000Z",
+        "description": "你总有认识不完的小女孩 我讨厌你",
+        "id": "1852442364591403008",
+        "name": "拥有一颗坏坏心",
+        "pinned_tweet_id": "2005813156749148440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010559136065568768/5_aYpeb8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 41,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 575
+        },
+        "username": "loveying_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2012601816563814475",
+    "created_at": "2026-01-17T19:47:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T20:47:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012612720349036879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1953812757910106113",
+          "start": 0,
+          "username": "hugonrainynight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012612720349036879",
+    "in_reply_to_user_id": "1953812757910106113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012611735354736875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hugonrainynight 我喜欢你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2012601816563814475",
+        "created_at": "2026-01-17T19:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T20:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012612720349036879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1953812757910106113",
+              "start": 0,
+              "username": "hugonrainynight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012612720349036879",
+        "in_reply_to_user_id": "1953812757910106113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012611735354736875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hugonrainynight 我喜欢你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953812757910106113",
+        "conversation_id": "2012601816563814475",
+        "created_at": "2026-01-17T19:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T20:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012611735354736875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012611735354736875",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012601816563814475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 小溃疡你好萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪88/128 纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨回fo眼熟的 可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010591438627897389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 126,
+          "like_count": 1640,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 720
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T13:37:52.000Z",
+        "description": "说我的眼泪比别人珍贵｜提问箱https://t.co/QD7N0oQq5M",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hugonrainynight",
+                "end": 37,
+                "expanded_url": "https://ngl.link/hugonrainynight",
+                "start": 14,
+                "url": "https://t.co/QD7N0oQq5M"
+              }
+            ]
+          }
+        },
+        "id": "1953812757910106113",
+        "location": "🚪52纯绿 发屌拉黑",
+        "name": "无情娇妻",
+        "pinned_tweet_id": "2000245677906145671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996381955697573888/zxXfNeig_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 24,
+          "like_count": 396,
+          "listed_count": 8,
+          "media_count": 70,
+          "tweet_count": 263
+        },
+        "username": "hugonrainynight",
+        "verified": false
+      }
+    ]
+  }
+}

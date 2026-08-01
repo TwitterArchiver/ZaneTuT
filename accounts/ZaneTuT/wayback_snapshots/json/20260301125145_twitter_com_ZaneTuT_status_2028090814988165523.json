@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2028090814988165523",
+    "created_at": "2026-03-01T12:51:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T13:51:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028090814988165523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1927749388413362176",
+          "start": 3,
+          "username": "insuchtime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028090814988165523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027949624263381431",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @insuchtime: date其实太麻烦了 但是要洗澡洗头 弄发膜 洗脸护肤 贴面膜 脱毛 涂身体乳 挑衣服 搭衣服 找首饰 喷香水 最近要是有点起痘痘还要焦虑 全是躺床上想想就已经力竭了……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2028090814988165523",
+        "created_at": "2026-03-01T12:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T13:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028090814988165523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1927749388413362176",
+              "start": 3,
+              "username": "insuchtime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028090814988165523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027949624263381431",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @insuchtime: date其实太麻烦了 但是要洗澡洗头 弄发膜 洗脸护肤 贴面膜 脱毛 涂身体乳 挑衣服 搭衣服 找首饰 喷香水 最近要是有点起痘痘还要焦虑 全是躺床上想想就已经力竭了……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927749388413362176",
+        "conversation_id": "2027949624263381431",
+        "created_at": "2026-03-01T03:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T04:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027949624263381431"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027949624263381431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 28901,
+          "like_count": 355,
+          "quote_count": 6,
+          "reply_count": 24,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "date其实太麻烦了 但是要洗澡洗头 弄发膜 洗脸护肤 贴面膜 脱毛 涂身体乳 挑衣服 搭衣服 找首饰 喷香水 最近要是有点起痘痘还要焦虑 全是躺床上想想就已经力竭了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5122,
+          "following_count": 240,
+          "like_count": 4080,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 1873
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-28T15:31:01.000Z",
+        "description": "明知不可为而为之 是我最大的诚意",
+        "id": "1927749388413362176",
+        "name": "今晚变成鲨鱼辣椒",
+        "pinned_tweet_id": "1927983566555611239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927750137230839808/ZfHlLVmG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 185,
+          "like_count": 4488,
+          "listed_count": 3,
+          "media_count": 757,
+          "tweet_count": 3258
+        },
+        "username": "insuchtime",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010657813455118337"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2010657825501102580",
+    "created_at": "2026-01-12T10:19:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T11:19:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010657825501102580"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TfxCVEDIDK",
+          "end": 26,
+          "expanded_url": "https://x.com/ZaneTuT/status/2010657825501102580/photo/1",
+          "media_key": "3_2010657813455118337",
+          "start": 3,
+          "url": "https://t.co/TfxCVEDIDK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010657825501102580",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想你 https://t.co/TfxCVEDIDK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2010657813455118337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-dKoN_bIAE4QSp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010657813455118337"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2010657825501102580",
+        "created_at": "2026-01-12T10:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T11:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010657825501102580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TfxCVEDIDK",
+              "end": 26,
+              "expanded_url": "https://x.com/ZaneTuT/status/2010657825501102580/photo/1",
+              "media_key": "3_2010657813455118337",
+              "start": 3,
+              "url": "https://t.co/TfxCVEDIDK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010657825501102580",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想你 https://t.co/TfxCVEDIDK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "🚪66纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨我听点udg 可以和我一起听歌…",
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010215499150585985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 64,
+          "like_count": 797,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 252
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

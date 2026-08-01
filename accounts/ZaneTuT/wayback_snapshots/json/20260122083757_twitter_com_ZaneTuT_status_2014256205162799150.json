@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2014207447037059099",
+    "created_at": "2026-01-22T08:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T09:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014256205162799150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1882958458296909825",
+          "start": 0,
+          "username": "bbk1ssme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014256205162799150",
+    "in_reply_to_user_id": "1882958458296909825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014207447037059099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbk1ssme 0勇气"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2014207447037059099",
+        "created_at": "2026-01-22T08:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T09:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014256205162799150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1882958458296909825",
+              "start": 0,
+              "username": "bbk1ssme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014256205162799150",
+        "in_reply_to_user_id": "1882958458296909825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014207447037059099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbk1ssme 0勇气"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882958458296909825",
+        "conversation_id": "2014207447037059099",
+        "created_at": "2026-01-22T05:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T06:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014207447037059099"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014207447037059099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1681,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们都是怎么有勇气和陌生人做的🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心丨08丨od丨私信看心情回丨高频率发帖丨互fo可以直接➕V丨我听点udg sasi很多很多丨我皮下非常没有素质别惹我了行吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014245336039199204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2184,
+          "following_count": 159,
+          "like_count": 2406,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 1120
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T01:07:42.000Z",
+        "description": "06｜m｜日常分享+碎碎念｜可以做你的树洞｜没素质的别惹｜匿名箱👇欢迎提问🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pome.vip/6ac637744c",
+                "end": 23,
+                "expanded_url": "https://pome.vip/6ac637744c",
+                "start": 0,
+                "url": "https://t.co/6cLJ8oUIUy"
+              }
+            ]
+          }
+        },
+        "id": "1882958458296909825",
+        "name": "忧郁包",
+        "pinned_tweet_id": "1999680717102686681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012405598881468416/NS1yW7ab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 21,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 76
+        },
+        "url": "https://t.co/6cLJ8oUIUy",
+        "username": "bbk1ssme",
+        "verified": false
+      }
+    ]
+  }
+}

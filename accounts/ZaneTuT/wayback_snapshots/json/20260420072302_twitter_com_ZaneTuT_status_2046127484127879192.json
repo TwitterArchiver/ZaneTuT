@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2046127484127879192",
+    "created_at": "2026-04-20T07:23:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T08:23:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046127484127879192"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tearfall_jin/s…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/tearfall_jin/status/2046118521864904898",
+          "start": 10,
+          "url": "https://t.co/dWsOukuPy4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046127484127879192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046118521864904898",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁欺负了我的女孩。 https://t.co/dWsOukuPy4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2046118468832083968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGVF6BcaQAAJQJx.jpg",
+        "width": 473
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2046118468836376576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGVF6BdbwAA5T3s.jpg",
+        "width": 473
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2046118468836331520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGVF6BdbEAAhxfi.jpg",
+        "width": 398
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2046127484127879192",
+        "created_at": "2026-04-20T07:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T08:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046127484127879192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tearfall_jin/s…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/tearfall_jin/status/2046118521864904898",
+              "start": 10,
+              "url": "https://t.co/dWsOukuPy4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046127484127879192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046118521864904898",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁欺负了我的女孩。 https://t.co/dWsOukuPy4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046118468832083968",
+            "3_2046118468836376576",
+            "3_2046118468836331520"
+          ]
+        },
+        "author_id": "1928068685874302976",
+        "conversation_id": "2046118521864904898",
+        "created_at": "2026-04-20T06:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T07:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046118521864904898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5wNOZYtowV",
+              "end": 41,
+              "expanded_url": "https://x.com/tearfall_Jin/status/2046118521864904898/photo/1",
+              "media_key": "3_2046118468832083968",
+              "start": 18,
+              "url": "https://t.co/5wNOZYtowV"
+            },
+            {
+              "display_url": "pic.x.com/5wNOZYtowV",
+              "end": 41,
+              "expanded_url": "https://x.com/tearfall_Jin/status/2046118521864904898/photo/1",
+              "media_key": "3_2046118468836376576",
+              "start": 18,
+              "url": "https://t.co/5wNOZYtowV"
+            },
+            {
+              "display_url": "pic.x.com/5wNOZYtowV",
+              "end": 41,
+              "expanded_url": "https://x.com/tearfall_Jin/status/2046118521864904898/photo/1",
+              "media_key": "3_2046118468836331520",
+              "start": 18,
+              "url": "https://t.co/5wNOZYtowV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046118521864904898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我好害怕呀不要挂我呜呜呜你满意了🤣 https://t.co/5wNOZYtowV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨互fo免🚪丨我听点udg sasi很多很多丨算挂找@kill_this_hate💗不准你打我丨两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 31,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 67,
+                "start": 59,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6653,
+          "following_count": 294,
+          "like_count": 6342,
+          "listed_count": 3,
+          "media_count": 63,
+          "tweet_count": 2580
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-29T12:39:57.000Z",
+        "description": "#女高 08 intj 🚪88/188/288/520/1314",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "女高"
+              }
+            ]
+          }
+        },
+        "id": "1928068685874302976",
+        "name": "小小霖",
+        "pinned_tweet_id": "2041933082438332819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994879954555998209/MXUqN9E6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5913,
+          "following_count": 234,
+          "like_count": 16237,
+          "listed_count": 24,
+          "media_count": 256,
+          "tweet_count": 994
+        },
+        "username": "tearfall_Jin",
+        "verified": false
+      }
+    ]
+  }
+}

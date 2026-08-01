@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2020901122282525152",
+    "created_at": "2026-02-09T16:42:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T17:42:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020901122282525152"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lzhou75901/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/lzhou75901/status/2020843021668167716",
+          "start": 3,
+          "url": "https://t.co/jmFzEIAKZG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020901122282525152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020843021668167716",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我操 https://t.co/jmFzEIAKZG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1109,
+        "media_key": "3_2020843007172579328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAt6AhVakAAIxx6.jpg",
+        "width": 1259
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2020901122282525152",
+        "created_at": "2026-02-09T16:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T17:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020901122282525152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lzhou75901/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/lzhou75901/status/2020843021668167716",
+              "start": 3,
+              "url": "https://t.co/jmFzEIAKZG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020901122282525152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020843021668167716",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操 https://t.co/jmFzEIAKZG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020843007172579328"
+          ]
+        },
+        "author_id": "2019664799999881218",
+        "conversation_id": "2020843021668167716",
+        "created_at": "2026-02-09T12:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T13:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020843021668167716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mw8osEzQeU",
+              "end": 23,
+              "expanded_url": "https://x.com/LZhou75901/status/2020843021668167716/photo/1",
+              "media_key": "3_2020843007172579328",
+              "start": 0,
+              "url": "https://t.co/Mw8osEzQeU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020843021668167716",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 9364,
+          "like_count": 237,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Mw8osEzQeU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3574,
+          "following_count": 205,
+          "like_count": 3497,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 1585
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-06T06:49:53.000Z",
+        "description": "不喜欢屏蔽就好了 请勿带入现实（禁止搬运） 祝大家天天开心啦 生活号和匿名箱 @kaixinyao0987",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "kaixinyao0987"
+              }
+            ]
+          }
+        },
+        "id": "2019664799999881218",
+        "name": "绿洲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019672648817819648/j3WoX3iz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4319,
+          "following_count": 2,
+          "like_count": 14,
+          "listed_count": 3,
+          "media_count": 5,
+          "tweet_count": 6
+        },
+        "username": "LZhou75901",
+        "verified": false
+      }
+    ]
+  }
+}

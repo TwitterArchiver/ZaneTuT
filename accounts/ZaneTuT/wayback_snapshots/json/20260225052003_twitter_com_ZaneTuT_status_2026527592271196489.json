@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2026454971462619136"
+      ],
+      "media_source_tweet_id": [
+        "2026455408274190406"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2026527592271196489",
+    "created_at": "2026-02-25T05:20:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T06:20:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026527592271196489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "22741157",
+          "start": 3,
+          "username": "AaronVvng"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bQfO6cXpyS",
+          "end": 43,
+          "expanded_url": "https://x.com/AaronVvng/status/2026455408274190406/video/1",
+          "media_key": "13_2026454971462619136",
+          "start": 20,
+          "url": "https://t.co/bQfO6cXpyS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026527592271196489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026455408274190406",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AaronVvng: 年轻真好 https://t.co/bQfO6cXpyS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 48233,
+        "height": 1024,
+        "media_key": "13_2026454971462619136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2026454971462619136/img/1R2s_LbTuQN64MEu.jpg",
+        "public_metrics": {
+          "view_count": 131207
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026454971462619136/vid/avc1/320x568/Hh5XxXAdY5M4JgF7.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026454971462619136/vid/avc1/480x852/O76fhqHCYvdHk31W.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026454971462619136/vid/avc1/576x1024/v7omDU7fxnX67mtc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2026454971462619136/pl/UAbR1WruBI81oJW_.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2026454971462619136"
+          ],
+          "media_source_tweet_id": [
+            "2026455408274190406"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2026527592271196489",
+        "created_at": "2026-02-25T05:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T06:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026527592271196489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "22741157",
+              "start": 3,
+              "username": "AaronVvng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bQfO6cXpyS",
+              "end": 43,
+              "expanded_url": "https://x.com/AaronVvng/status/2026455408274190406/video/1",
+              "media_key": "13_2026454971462619136",
+              "start": 20,
+              "url": "https://t.co/bQfO6cXpyS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026527592271196489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026455408274190406",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AaronVvng: 年轻真好 https://t.co/bQfO6cXpyS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2026454971462619136"
+          ]
+        },
+        "author_id": "22741157",
+        "conversation_id": "2026455408274190406",
+        "created_at": "2026-02-25T00:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T01:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026455408274190406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bQfO6cXpyS",
+              "end": 28,
+              "expanded_url": "https://x.com/AaronVvng/status/2026455408274190406/video/1",
+              "media_key": "13_2026454971462619136",
+              "start": 5,
+              "url": "https://t.co/bQfO6cXpyS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026455408274190406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 216,
+          "impression_count": 166225,
+          "like_count": 750,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "年轻真好 https://t.co/bQfO6cXpyS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5009,
+          "following_count": 229,
+          "like_count": 3889,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 1791
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-04T06:06:03.000Z",
+        "description": "前代码搬运工，现役键盘侠 & 赛博游牧民。",
+        "id": "22741157",
+        "location": "Poland",
+        "name": "Aaron",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/87312304/13158_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2031,
+          "following_count": 2412,
+          "like_count": 1094,
+          "listed_count": 5,
+          "media_count": 195,
+          "tweet_count": 5149
+        },
+        "username": "AaronVvng",
+        "verified": true
+      }
+    ]
+  }
+}

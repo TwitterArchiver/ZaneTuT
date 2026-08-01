@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2028356625090973990",
+    "created_at": "2026-03-02T06:27:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T07:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028356625090973990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2287445576",
+          "start": 3,
+          "username": "shibari48"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028356625090973990",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 936
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924734719532663072",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shibari48: ⚠️我宣布这就是我用过最好用的【穿戴玩具】啊！虽然还只是内测版本，已经相当给力了。体验的小伙伴被怼住阴蒂高潮了无数次。\n【转发】+【关注】+【评论】，等【啵啵贝】正式上线了，给大家抽五台送了。\n我有点爱不释手了，好玩爱玩！\n有想要寄拍的博主也可以私…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2028356625090973990].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2028356625090973990",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2028356625090973990"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 78666,
+        "height": 1920,
+        "media_key": "13_1924734419958628352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1924734419958628352/img/eXvF1k_yW44vnW4W.jpg",
+        "public_metrics": {
+          "view_count": 884107
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1924734419958628352/vid/avc1/1080x1920/wd31XUwVwEh6kZZu.mp4?tag=16"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1924734419958628352/vid/avc1/320x568/cAwnpFtp-BjYNxTz.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1924734419958628352/pl/eQC_e0ZjTXqDgSI8.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1924734419958628352/vid/avc1/720x1280/AoALBtj73c9TrIBb.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1924734419958628352/vid/avc1/480x852/IBNh7iAwNKsaVS5K.mp4?tag=16"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1924734419958628352"
+          ]
+        },
+        "author_id": "2287445576",
+        "conversation_id": "1924734719532663072",
+        "created_at": "2025-05-20T07:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T08:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924734719532663072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aqcnNpm6Id",
+              "end": 152,
+              "expanded_url": "https://x.com/shibari48/status/1924734719532663072/video/1",
+              "media_key": "13_1924734419958628352",
+              "start": 129,
+              "url": "https://t.co/aqcnNpm6Id"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924734719532663072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2038,
+          "impression_count": 3124496,
+          "like_count": 6220,
+          "quote_count": 68,
+          "reply_count": 1126,
+          "retweet_count": 936
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️我宣布这就是我用过最好用的【穿戴玩具】啊！虽然还只是内测版本，已经相当给力了。体验的小伙伴被怼住阴蒂高潮了无数次。\n【转发】+【关注】+【评论】，等【啵啵贝】正式上线了，给大家抽五台送了。\n我有点爱不释手了，好玩爱玩！\n有想要寄拍的博主也可以私信我嗷！ https://t.co/aqcnNpm6Id"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5133,
+          "following_count": 248,
+          "like_count": 4157,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 1874
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-12T01:34:00.000Z",
+        "description": "Shibari player. based on Beijing. 原创bdsm品牌：@wavezjll 属性测试链接（完全免费不收集个人信息）：https://t.co/MxZwU6MnWr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "wavezjll"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "test.48haotest.site",
+                "end": 96,
+                "expanded_url": "https://test.48haotest.site",
+                "start": 73,
+                "url": "https://t.co/MxZwU6MnWr"
+              }
+            ]
+          }
+        },
+        "id": "2287445576",
+        "location": "夜之城",
+        "name": "绳师48号",
+        "pinned_tweet_id": "1924734719532663072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1547991296664825856/r7tSeVCW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240821,
+          "following_count": 356,
+          "like_count": 653,
+          "listed_count": 368,
+          "media_count": 340,
+          "tweet_count": 1059
+        },
+        "username": "shibari48",
+        "verified": true
+      }
+    ]
+  }
+}

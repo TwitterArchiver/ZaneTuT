@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2021959241133908283",
+    "created_at": "2026-02-12T15:07:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T16:07:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021964333165818370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1761646255049154560",
+          "start": 0,
+          "username": "WeiMolindrunk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021964333165818370",
+    "in_reply_to_user_id": "1761646255049154560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021959241133908283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WeiMolindrunk 这什么鸡吧傻逼？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 975,
+        "media_key": "3_2021959230572711936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA9xNRib0AAMMqR.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2021959241133908283",
+        "created_at": "2026-02-12T15:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T16:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021964333165818370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1761646255049154560",
+              "start": 0,
+              "username": "WeiMolindrunk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021964333165818370",
+        "in_reply_to_user_id": "1761646255049154560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021959241133908283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WeiMolindrunk 这什么鸡吧傻逼？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021959230572711936"
+          ]
+        },
+        "author_id": "1761646255049154560",
+        "conversation_id": "2021959241133908283",
+        "created_at": "2026-02-12T14:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T15:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021959241133908283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QkDtpbXuzR",
+              "end": 48,
+              "expanded_url": "https://x.com/WeiMolindrunk/status/2021959241133908283/photo/1",
+              "media_key": "3_2021959230572711936",
+              "start": 25,
+              "url": "https://t.co/QkDtpbXuzR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021959241133908283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在是纠结质量问题吗🙀🙀🙀宝子我不跟小男娘抢男人 https://t.co/QkDtpbXuzR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3876,
+          "following_count": 211,
+          "like_count": 3575,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 1632
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T06:56:29.000Z",
+        "description": "我有恋哥癖我爱青年音♡(.◜ω◝.)♡只回礼貌粉丝的私信，回复慢慢大家原谅orz无🚪",
+        "id": "1761646255049154560",
+        "location": "私信一上来发🐔四目",
+        "name": "我等绝非扇贝",
+        "pinned_tweet_id": "2016843874644480294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013577042873270273/YJosQ9x9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2121,
+          "following_count": 134,
+          "like_count": 3565,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 769
+        },
+        "username": "WeiMolindrunk",
+        "verified": false
+      }
+    ]
+  }
+}

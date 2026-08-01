@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2024850793522979207",
+    "created_at": "2026-02-20T14:17:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T15:17:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024850793522979207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1997985969958699008",
+          "start": 3,
+          "username": "ZaneTuT"
+        }
+      ],
+      "urls": [
+        {
+          "description": "你说我的爱像溃疡’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1pKkO…",
+          "end": 36,
+          "expanded_url": "https://x.com/i/spaces/1pKkOyyAawBKj",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2024846776004759553/pyeu9ziE?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2024846776004759553/pyeu9ziE?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 13,
+          "status": 200,
+          "title": "Happening now: 年上牛逼 愈美神了 有人理我吗？",
+          "unwound_url": "https://twitter.com/i/spaces/1pKkOyyAawBKj/peek",
+          "url": "https://t.co/sw25LEbeUp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024850793522979207",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024846774117265468",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZaneTuT: https://t.co/sw25LEbeUp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2024850793522979207",
+        "created_at": "2026-02-20T14:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T15:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024850793522979207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1997985969958699008",
+              "start": 3,
+              "username": "ZaneTuT"
+            }
+          ],
+          "urls": [
+            {
+              "description": "你说我的爱像溃疡’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1pKkO…",
+              "end": 36,
+              "expanded_url": "https://x.com/i/spaces/1pKkOyyAawBKj",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2024846776004759553/pyeu9ziE?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2024846776004759553/pyeu9ziE?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 13,
+              "status": 200,
+              "title": "Happening now: 年上牛逼 愈美神了 有人理我吗？",
+              "unwound_url": "https://twitter.com/i/spaces/1pKkOyyAawBKj/peek",
+              "url": "https://t.co/sw25LEbeUp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024850793522979207",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024846774117265468",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZaneTuT: https://t.co/sw25LEbeUp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2024846774117265468",
+        "created_at": "2026-02-20T14:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T15:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024846774117265468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "你说我的爱像溃疡’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1pKkO…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1pKkOyyAawBKj",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2024846776004759553/pyeu9ziE?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2024846776004759553/pyeu9ziE?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 年上牛逼 愈美神了 有人理我吗？",
+              "unwound_url": "https://twitter.com/i/spaces/1pKkOyyAawBKj/peek",
+              "url": "https://t.co/sw25LEbeUp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024846774117265468",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/sw25LEbeUp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4514,
+          "following_count": 217,
+          "like_count": 3733,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 1703
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

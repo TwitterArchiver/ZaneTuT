@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039660844905111552",
+        "3_2039660844905017344",
+        "3_2039660844909199360",
+        "3_2039660845035364352"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2039648107319722241",
+    "created_at": "2026-04-02T11:06:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T12:06:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039660858544964024"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/c9u98YwIjN",
+          "end": 80,
+          "expanded_url": "https://x.com/ZaneTuT/status/2039660858544964024/photo/1",
+          "media_key": "3_2039660844905111552",
+          "start": 57,
+          "url": "https://t.co/c9u98YwIjN"
+        },
+        {
+          "display_url": "pic.x.com/c9u98YwIjN",
+          "end": 80,
+          "expanded_url": "https://x.com/ZaneTuT/status/2039660858544964024/photo/1",
+          "media_key": "3_2039660844905017344",
+          "start": 57,
+          "url": "https://t.co/c9u98YwIjN"
+        },
+        {
+          "display_url": "pic.x.com/c9u98YwIjN",
+          "end": 80,
+          "expanded_url": "https://x.com/ZaneTuT/status/2039660858544964024/photo/1",
+          "media_key": "3_2039660844909199360",
+          "start": 57,
+          "url": "https://t.co/c9u98YwIjN"
+        },
+        {
+          "display_url": "pic.x.com/c9u98YwIjN",
+          "end": 80,
+          "expanded_url": "https://x.com/ZaneTuT/status/2039660858544964024/photo/1",
+          "media_key": "3_2039660845035364352",
+          "start": 57,
+          "url": "https://t.co/c9u98YwIjN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039660858544964024",
+    "in_reply_to_user_id": "1997985969958699008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039648107319722241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可能有人注意到他之前销过几次号 又回来了 最后以一直锁推结尾 有他微信的人 他销号的原因真的如他所说吗 你不要脸 https://t.co/c9u98YwIjN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2004,
+        "media_key": "3_2039660844905111552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE5Uu1rXoAAX1ov.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039660844905017344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE5Uu1rWMAAiLFy.jpg",
+        "width": 1204
+      },
+      {
+        "height": 1584,
+        "media_key": "3_2039660844909199360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE5Uu1sWAAAav4k.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039660845035364352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE5Uu2KbIAABrRD.jpg",
+        "width": 1204
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039648097559535616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE5JI2HWYAAqjYY.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039660844905111552",
+            "3_2039660844905017344",
+            "3_2039660844909199360",
+            "3_2039660845035364352"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039648107319722241",
+        "created_at": "2026-04-02T11:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T12:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039660858544964024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c9u98YwIjN",
+              "end": 80,
+              "expanded_url": "https://x.com/ZaneTuT/status/2039660858544964024/photo/1",
+              "media_key": "3_2039660844905111552",
+              "start": 57,
+              "url": "https://t.co/c9u98YwIjN"
+            },
+            {
+              "display_url": "pic.x.com/c9u98YwIjN",
+              "end": 80,
+              "expanded_url": "https://x.com/ZaneTuT/status/2039660858544964024/photo/1",
+              "media_key": "3_2039660844905017344",
+              "start": 57,
+              "url": "https://t.co/c9u98YwIjN"
+            },
+            {
+              "display_url": "pic.x.com/c9u98YwIjN",
+              "end": 80,
+              "expanded_url": "https://x.com/ZaneTuT/status/2039660858544964024/photo/1",
+              "media_key": "3_2039660844909199360",
+              "start": 57,
+              "url": "https://t.co/c9u98YwIjN"
+            },
+            {
+              "display_url": "pic.x.com/c9u98YwIjN",
+              "end": 80,
+              "expanded_url": "https://x.com/ZaneTuT/status/2039660858544964024/photo/1",
+              "media_key": "3_2039660845035364352",
+              "start": 57,
+              "url": "https://t.co/c9u98YwIjN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039660858544964024",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039648107319722241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可能有人注意到他之前销过几次号 又回来了 最后以一直锁推结尾 有他微信的人 他销号的原因真的如他所说吗 你不要脸 https://t.co/c9u98YwIjN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039648097559535616"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2039648107319722241",
+        "created_at": "2026-04-02T10:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T11:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039648107319722241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zOawq0fRKm",
+              "end": 149,
+              "expanded_url": "https://x.com/ZaneTuT/status/2039648107319722241/photo/1",
+              "media_key": "3_2039648097559535616",
+              "start": 126,
+              "url": "https://t.co/zOawq0fRKm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039648107319722241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 6609,
+          "like_count": 77,
+          "quote_count": 4,
+          "reply_count": 29,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我告诉你 你做的那些事 骗过的女孩 我这里包括小璐手里全都有证据 你出轨聊骚 和她在一起多久就绿了她多久 她怀孕了你在外面聊骚 一直到今年三月初你们还见过面 期间你一直说想我 同时和她一直说你爱她 你真的有良心吗 不止这些事情 我会一件一件全部发出来 https://t.co/zOawq0fRKm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨08丨od丨中抑中焦丨互fo免🚪丨我听点udg sasi很多很多丨两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 45,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6173,
+          "following_count": 290,
+          "like_count": 5913,
+          "listed_count": 3,
+          "media_count": 70,
+          "tweet_count": 2506
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

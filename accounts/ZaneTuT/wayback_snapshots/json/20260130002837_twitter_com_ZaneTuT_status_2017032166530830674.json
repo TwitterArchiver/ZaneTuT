@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2017032166530830674",
+    "created_at": "2026-01-30T00:28:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T01:28:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017032166530830674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2004619896630788096",
+          "start": 3,
+          "username": "wohaokun555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017032166530830674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016389091659812924",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wohaokun555: 恭喜你聊到隐藏款了 其实我纯爱外表下，隐藏的是一个彻头彻尾的色情狂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2017032166530830674",
+        "created_at": "2026-01-30T00:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T01:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017032166530830674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2004619896630788096",
+              "start": 3,
+              "username": "wohaokun555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017032166530830674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016389091659812924",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wohaokun555: 恭喜你聊到隐藏款了 其实我纯爱外表下，隐藏的是一个彻头彻尾的色情狂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004619896630788096",
+        "conversation_id": "2016389091659812924",
+        "created_at": "2026-01-28T05:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T06:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016389091659812924"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016389091659812924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 20711,
+          "like_count": 438,
+          "quote_count": 3,
+          "reply_count": 36,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "恭喜你聊到隐藏款了 其实我纯爱外表下，隐藏的是一个彻头彻尾的色情狂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心丨08丨od丨私信看心情回丨高频率发帖丨互fo可以直接➕V丨我听点udg sasi很多很多丨我皮下非常没有素质别惹我了行吗丨算卦找@kill_this_hate💗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              },
+              {
+                "end": 106,
+                "start": 91,
+                "username": "kill_this_hate"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2887,
+          "following_count": 177,
+          "like_count": 2928,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 1335
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-26T18:26:49.000Z",
+        "description": "匿名提问➡️https://t.co/zPRnP2JlN5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wohaokun555",
+                "end": 29,
+                "expanded_url": "https://ngl.link/wohaokun555",
+                "start": 6,
+                "url": "https://t.co/zPRnP2JlN5"
+              }
+            ]
+          }
+        },
+        "id": "2004619896630788096",
+        "location": "🚪188（绿 发生殖器死妈！",
+        "name": "中推忧郁神",
+        "pinned_tweet_id": "2016072861732212867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313058978406400/yLC08oHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 71,
+          "like_count": 3929,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 910
+        },
+        "username": "wohaokun555",
+        "verified": false
+      }
+    ]
+  }
+}

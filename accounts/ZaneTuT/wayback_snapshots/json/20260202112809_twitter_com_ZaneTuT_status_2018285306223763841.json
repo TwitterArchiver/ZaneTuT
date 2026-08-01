@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2018275380176760846",
+    "created_at": "2026-02-02T11:28:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T12:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018285306223763841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1875024920318713856",
+          "start": 0,
+          "username": "ExhaustOfLov3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018285306223763841",
+    "in_reply_to_user_id": "1875024920318713856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018275380176760846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ExhaustOfLov3 恋恋呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2018275376263479296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAJawu0aQAA0vnL.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2018275380176760846",
+        "created_at": "2026-02-02T11:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T12:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018285306223763841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1875024920318713856",
+              "start": 0,
+              "username": "ExhaustOfLov3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018285306223763841",
+        "in_reply_to_user_id": "1875024920318713856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018275380176760846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ExhaustOfLov3 恋恋呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018275376263479296"
+          ]
+        },
+        "author_id": "1875024920318713856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2018275380176760846",
+        "created_at": "2026-02-02T10:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T11:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018275380176760846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/1E6c9Nrt82"
+            },
+            {
+              "display_url": "pic.x.com/1Zm1dGzS8T",
+              "end": 64,
+              "expanded_url": "https://x.com/ExhaustOfLov3/status/2018275380176760846/photo/1",
+              "media_key": "3_2018275376263479296",
+              "start": 41,
+              "url": "https://t.co/1Zm1dGzS8T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018275380176760846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/1E6c9Nrt82 https://t.co/1Zm1dGzS8T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨神秘账号@Rotte2t00丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "Rotte2t00"
+              },
+              {
+                "end": 80,
+                "start": 65,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 95,
+                "start": 87,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2991,
+          "following_count": 191,
+          "like_count": 3094,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 1381
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T03:42:37.000Z",
+        "description": "=我永远在你眼里是那种家伙｜不知道叫我什么可以叫我恋恋｜",
+        "id": "1875024920318713856",
+        "name": "炸弹爱",
+        "pinned_tweet_id": "1918503448506691674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017558688148688907/ZyHIWwxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 172,
+          "like_count": 22139,
+          "listed_count": 2,
+          "media_count": 200,
+          "tweet_count": 4006
+        },
+        "username": "ExhaustOfLov3",
+        "verified": false
+      }
+    ]
+  }
+}

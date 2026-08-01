@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2075174951842357556",
+    "created_at": "2026-07-09T15:32:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T16:32:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075241815557771634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2075164968904015872",
+          "start": 0,
+          "username": "765534yc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075241815557771634",
+    "in_reply_to_user_id": "2075164968904015872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075241036113453237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@765534yc 唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2075174951842357556",
+        "created_at": "2026-07-09T15:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T16:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075241815557771634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2075164968904015872",
+              "start": 0,
+              "username": "765534yc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075241815557771634",
+        "in_reply_to_user_id": "2075164968904015872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075241036113453237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@765534yc 唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075164968904015872",
+        "conversation_id": "2075174951842357556",
+        "created_at": "2026-07-09T15:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T16:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075241036113453237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075241036113453237",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075174951842357556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 夜深人静的时候我也常常会想，或许是不是我能低头多说一句话，就能和好如初。可是我们之间没有误会，没有争吵，就这样渐行渐远"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨互fo免🚪丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 37,
+                "start": 27,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2044362275218489629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7801,
+          "following_count": 275,
+          "like_count": 5905,
+          "listed_count": 4,
+          "media_count": 40,
+          "tweet_count": 2589
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-09T10:29:05.000Z",
+        "description": "看到我请叫我去复习...",
+        "id": "2075164968904015872",
+        "location": "他二婶子的两亩地里",
+        "name": "土豆炒马铃薯（被烤...",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075172679540428800/0fKpWvGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "765534yc",
+        "verified": false
+      }
+    ]
+  }
+}

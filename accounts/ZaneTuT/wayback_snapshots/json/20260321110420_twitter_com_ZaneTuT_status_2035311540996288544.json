@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2035311457555116032",
+        "13_2035311457580224512"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2035311540996288544",
+    "created_at": "2026-03-21T11:04:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T12:04:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035311540996288544"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PrxqPPWdLx",
+          "end": 33,
+          "expanded_url": "https://x.com/ZaneTuT/status/2035311540996288544/video/1",
+          "media_key": "13_2035311457555116032",
+          "start": 10,
+          "url": "https://t.co/PrxqPPWdLx"
+        },
+        {
+          "display_url": "pic.x.com/PrxqPPWdLx",
+          "end": 33,
+          "expanded_url": "https://x.com/ZaneTuT/status/2035311540996288544/video/1",
+          "media_key": "13_2035311457580224512",
+          "start": 10,
+          "url": "https://t.co/PrxqPPWdLx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035311540996288544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "女孩发布了两条视频 https://t.co/PrxqPPWdLx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7600,
+        "height": 1280,
+        "media_key": "13_2035311457555116032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2035311457555116032/img/g_Jtf1UL9oKMQRqW.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035311457555116032/vid/avc1/320x568/sYJ5uV6Pq4NbURAe.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035311457555116032/vid/avc1/480x852/5v4ROpyiFxVezOZC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035311457555116032/vid/avc1/720x1280/7L5cAzTfHaaZSgFF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2035311457555116032/pl/A8Xd8jStCDwnRr4a.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 15050,
+        "height": 1280,
+        "media_key": "13_2035311457580224512",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2035311457580224512/img/iKbw13QravGNsUUW.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035311457580224512/vid/avc1/320x568/ky5gUp4sbzjFjEgx.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035311457580224512/vid/avc1/480x852/yx4zTp5YeLUIyePC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035311457580224512/vid/avc1/720x1280/2ud4ehqz-hg3yD-C.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2035311457580224512/pl/fLrTzXnDMWr7PHH1.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2035311457555116032",
+            "13_2035311457580224512"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2035311540996288544",
+        "created_at": "2026-03-21T11:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T12:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035311540996288544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PrxqPPWdLx",
+              "end": 33,
+              "expanded_url": "https://x.com/ZaneTuT/status/2035311540996288544/video/1",
+              "media_key": "13_2035311457555116032",
+              "start": 10,
+              "url": "https://t.co/PrxqPPWdLx"
+            },
+            {
+              "display_url": "pic.x.com/PrxqPPWdLx",
+              "end": 33,
+              "expanded_url": "https://x.com/ZaneTuT/status/2035311540996288544/video/1",
+              "media_key": "13_2035311457580224512",
+              "start": 10,
+              "url": "https://t.co/PrxqPPWdLx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035311540996288544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女孩发布了两条视频 https://t.co/PrxqPPWdLx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5507,
+          "following_count": 289,
+          "like_count": 5141,
+          "listed_count": 3,
+          "media_count": 66,
+          "tweet_count": 2111
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

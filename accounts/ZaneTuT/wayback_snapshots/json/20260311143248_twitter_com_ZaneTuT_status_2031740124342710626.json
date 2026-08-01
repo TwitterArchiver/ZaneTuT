@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2030262160295882752"
+      ],
+      "media_source_tweet_id": [
+        "2030262388549906494"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2031740124342710626",
+    "created_at": "2026-03-11T14:32:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T15:32:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031740124342710626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1909500223334105089",
+          "start": 3,
+          "username": "HotRe_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lIx9F0z0rg",
+          "end": 85,
+          "expanded_url": "https://x.com/HotRe_/status/2030262388549906494/video/1",
+          "media_key": "13_2030262160295882752",
+          "start": 62,
+          "url": "https://t.co/lIx9F0z0rg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031740124342710626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030262388549906494",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HotRe_: 做小狗的一天 喜欢好玩 狠狠的羞耻了 什么也没做就湿的一塌糊涂了 然后被爸爸狠狠指奸了 嘿嘿好吃🥵 https://t.co/lIx9F0z0rg"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2031740124342710626].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2031740124342710626",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2031740124342710626"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 75466,
+        "height": 720,
+        "media_key": "13_2030262160295882752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2030262160295882752/img/b2E3yscOdWt33g58.jpg",
+        "public_metrics": {
+          "view_count": 21409
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030262160295882752/vid/avc1/480x270/GpPrUkGKBVzTRQE7.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030262160295882752/vid/avc1/640x360/TbM8PDRAEEwp1ktP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030262160295882752/vid/avc1/1280x720/vXieIqaPGFItXlJX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2030262160295882752/pl/3rD-7dk5u_Xje8dD.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030262160295882752"
+          ]
+        },
+        "author_id": "1909500223334105089",
+        "conversation_id": "2030262388549906494",
+        "created_at": "2026-03-07T12:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T13:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030262388549906494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lIx9F0z0rg",
+              "end": 73,
+              "expanded_url": "https://x.com/HotRe_/status/2030262388549906494/video/1",
+              "media_key": "13_2030262160295882752",
+              "start": 50,
+              "url": "https://t.co/lIx9F0z0rg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030262388549906494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 157,
+          "impression_count": 65887,
+          "like_count": 676,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "做小狗的一天 喜欢好玩 狠狠的羞耻了 什么也没做就湿的一塌糊涂了 然后被爸爸狠狠指奸了 嘿嘿好吃🥵 https://t.co/lIx9F0z0rg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5412,
+          "following_count": 274,
+          "like_count": 4572,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1987
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T06:55:14.000Z",
+        "description": "喜欢做小🐕｜❗️情侣推情侣推❗️｜不跟任何人合作 也不约线下不找单男 脾气很差会骂人｜喜欢拍我个人审美的视频 不接受意见😋｜个人大号@Enthus1asmm 日常号@Enthus1asmy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Enthus1asmm"
+              },
+              {
+                "end": 94,
+                "start": 82,
+                "username": "Enthus1asmy"
+              }
+            ]
+          }
+        },
+        "id": "1909500223334105089",
+        "location": "🚪488/522/666/900",
+        "name": "萨摩耶",
+        "pinned_tweet_id": "2016341426515411342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027539239492329472/lWxa5EJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52974,
+          "following_count": 3,
+          "like_count": 56,
+          "listed_count": 201,
+          "media_count": 29,
+          "tweet_count": 101
+        },
+        "username": "HotRe_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012373034456469504",
+        "3_2012373034825605120",
+        "3_2012373034464870400",
+        "3_2012373034477420544"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2012373054509212125",
+    "created_at": "2026-01-17T03:54:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T04:54:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012373054509212125"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z3TziAnB5s",
+          "end": 45,
+          "expanded_url": "https://x.com/ZaneTuT/status/2012373054509212125/photo/1",
+          "media_key": "3_2012373034456469504",
+          "start": 22,
+          "url": "https://t.co/Z3TziAnB5s"
+        },
+        {
+          "display_url": "pic.x.com/Z3TziAnB5s",
+          "end": 45,
+          "expanded_url": "https://x.com/ZaneTuT/status/2012373054509212125/photo/1",
+          "media_key": "3_2012373034825605120",
+          "start": 22,
+          "url": "https://t.co/Z3TziAnB5s"
+        },
+        {
+          "display_url": "pic.x.com/Z3TziAnB5s",
+          "end": 45,
+          "expanded_url": "https://x.com/ZaneTuT/status/2012373054509212125/photo/1",
+          "media_key": "3_2012373034464870400",
+          "start": 22,
+          "url": "https://t.co/Z3TziAnB5s"
+        },
+        {
+          "display_url": "pic.x.com/Z3TziAnB5s",
+          "end": 45,
+          "expanded_url": "https://x.com/ZaneTuT/status/2012373054509212125/photo/1",
+          "media_key": "3_2012373034477420544",
+          "start": 22,
+          "url": "https://t.co/Z3TziAnB5s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012373054509212125",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个世界充满悲伤和痛苦 还好有你捅了我一刀 https://t.co/Z3TziAnB5s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2012373034456469504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-1inOJaUAA5sr8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1478,
+        "media_key": "3_2012373034825605120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-1inPha4AAKqgq.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2012373034464870400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-1inOLagAAB_Kf.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2012373034477420544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-1inOOaAAAx6MK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012373034456469504",
+            "3_2012373034825605120",
+            "3_2012373034464870400",
+            "3_2012373034477420544"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2012373054509212125",
+        "created_at": "2026-01-17T03:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T04:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012373054509212125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z3TziAnB5s",
+              "end": 45,
+              "expanded_url": "https://x.com/ZaneTuT/status/2012373054509212125/photo/1",
+              "media_key": "3_2012373034456469504",
+              "start": 22,
+              "url": "https://t.co/Z3TziAnB5s"
+            },
+            {
+              "display_url": "pic.x.com/Z3TziAnB5s",
+              "end": 45,
+              "expanded_url": "https://x.com/ZaneTuT/status/2012373054509212125/photo/1",
+              "media_key": "3_2012373034825605120",
+              "start": 22,
+              "url": "https://t.co/Z3TziAnB5s"
+            },
+            {
+              "display_url": "pic.x.com/Z3TziAnB5s",
+              "end": 45,
+              "expanded_url": "https://x.com/ZaneTuT/status/2012373054509212125/photo/1",
+              "media_key": "3_2012373034464870400",
+              "start": 22,
+              "url": "https://t.co/Z3TziAnB5s"
+            },
+            {
+              "display_url": "pic.x.com/Z3TziAnB5s",
+              "end": 45,
+              "expanded_url": "https://x.com/ZaneTuT/status/2012373054509212125/photo/1",
+              "media_key": "3_2012373034477420544",
+              "start": 22,
+              "url": "https://t.co/Z3TziAnB5s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012373054509212125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个世界充满悲伤和痛苦 还好有你捅了我一刀 https://t.co/Z3TziAnB5s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪88/128 纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨回fo眼熟的 可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010591438627897389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 122,
+          "like_count": 1524,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 658
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

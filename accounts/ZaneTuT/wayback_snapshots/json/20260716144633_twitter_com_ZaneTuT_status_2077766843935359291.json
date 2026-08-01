@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2077693365517426786",
+    "created_at": "2026-07-16T14:46:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T15:46:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077766843935359291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2077046016713342977",
+          "start": 0,
+          "username": "Qiqicakf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077766843935359291",
+    "in_reply_to_user_id": "2077046016713342977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077706270858227777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiqicakf 对！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2077693365517426786",
+        "created_at": "2026-07-16T14:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T15:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077766843935359291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2077046016713342977",
+              "start": 0,
+              "username": "Qiqicakf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077766843935359291",
+        "in_reply_to_user_id": "2077046016713342977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077706270858227777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiqicakf 对！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077046016713342977",
+        "conversation_id": "2077693365517426786",
+        "created_at": "2026-07-16T10:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T11:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077706270858227777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077706270858227777",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077693365517426786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 好米呀！特别好看！适合夏天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨互fo免🚪丨💗算卦找@kill_this_hate 不准你打我丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 52,
+                "start": 44,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2075472000680911094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8050,
+          "following_count": 275,
+          "like_count": 6144,
+          "listed_count": 4,
+          "media_count": 38,
+          "tweet_count": 2632
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-14T15:02:54.000Z",
+        "description": "",
+        "id": "2077046016713342977",
+        "name": "Qiqi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077046287594041344/uRaVNDnh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 22,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 65
+        },
+        "url": "",
+        "username": "Qiqicakf",
+        "verified": false
+      }
+    ]
+  }
+}

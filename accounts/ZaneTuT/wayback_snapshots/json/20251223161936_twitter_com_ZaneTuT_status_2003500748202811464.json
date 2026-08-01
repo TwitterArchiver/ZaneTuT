@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2003403497669296523",
+    "created_at": "2025-12-23T16:19:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T17:19:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003500748202811464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1820192121678344192",
+          "start": 0,
+          "username": "Rottenif00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003500748202811464",
+    "in_reply_to_user_id": "1820192121678344192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003403497669296523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rottenif00 其实我特别喜欢看你的帖子 有种自己被爱的感觉。我哭了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2003403497669296523",
+        "created_at": "2025-12-23T16:19:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T17:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003500748202811464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1820192121678344192",
+              "start": 0,
+              "username": "Rottenif00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003500748202811464",
+        "in_reply_to_user_id": "1820192121678344192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003403497669296523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rottenif00 其实我特别喜欢看你的帖子 有种自己被爱的感觉。我哭了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820192121678344192",
+        "conversation_id": "2003403497669296523",
+        "created_at": "2025-12-23T09:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T10:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003403497669296523"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003403497669296523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 13282,
+          "like_count": 259,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "警告所有恋妻癖！你老婆是独立的个体，不准再对你老婆有占有欲了，你老婆想做什么都是她的自由。卧槽，老婆你在跟谁说话，老婆你今天还和谁聊天了，只有我一个人不行吗，老婆你怎么不回我消息，卧槽老婆你还对别人笑，是想逼死我吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "",
+        "id": "1997985969958699008",
+        "name": "Zane",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997986096517722112/FfRQXH48_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 11,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T20:16:44.000Z",
+        "description": "🐾",
+        "id": "1820192121678344192",
+        "name": "软肋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995745045928960000/MZvYMunY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7789,
+          "following_count": 4,
+          "like_count": 1525,
+          "listed_count": 9,
+          "media_count": 4,
+          "tweet_count": 16
+        },
+        "username": "Rottenif00",
+        "verified": false
+      }
+    ]
+  }
+}

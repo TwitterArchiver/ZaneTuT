@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2038627642312896575",
+    "created_at": "2026-03-30T14:41:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T15:41:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038627642312896575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1773041626581221376",
+          "start": 3,
+          "username": "Nikikiki8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038627642312896575",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038482129118715946",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nikikiki8964: 精神病女孩真的不要上推上网跟年上男/或者直接不要老跟男的聊天，因为精神病爆发时脑子会变得不清醒\n一两年前我双相很严重的时候，网上加了个男的老跟我聊，他比我大挺多好像二十七八接近三十，给我发过一两百块，老画饼洗脑诱导我和他谈恋爱线下见面，我反应…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2038627642312896575",
+        "created_at": "2026-03-30T14:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T15:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038627642312896575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1773041626581221376",
+              "start": 3,
+              "username": "Nikikiki8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038627642312896575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038482129118715946",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nikikiki8964: 精神病女孩真的不要上推上网跟年上男/或者直接不要老跟男的聊天，因为精神病爆发时脑子会变得不清醒\n一两年前我双相很严重的时候，网上加了个男的老跟我聊，他比我大挺多好像二十七八接近三十，给我发过一两百块，老画饼洗脑诱导我和他谈恋爱线下见面，我反应…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773041626581221376",
+        "conversation_id": "2038482129118715946",
+        "created_at": "2026-03-30T05:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T06:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038482129118715946"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038482129118715946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3257,
+          "like_count": 59,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "精神病女孩真的不要上推上网跟年上男/或者直接不要老跟男的聊天，因为精神病爆发时脑子会变得不清醒\n一两年前我双相很严重的时候，网上加了个男的老跟我聊，他比我大挺多好像二十七八接近三十，给我发过一两百块，老画饼洗脑诱导我和他谈恋爱线下见面，我反应过来就删了，后来发现还真有被他骗到的人😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5961,
+          "following_count": 297,
+          "like_count": 5603,
+          "listed_count": 3,
+          "media_count": 67,
+          "tweet_count": 2358
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T17:37:30.000Z",
+        "description": "个人想法储存站｜同人女｜虚拟性恋尊厌｜回关交友随缘｜有事提问箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%A5%BF%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%A5%BF%E7%93%9C%E6%8A%95%E6%89%8B",
+                "start": 0,
+                "url": "https://t.co/ujX5HCo8rR"
+              }
+            ]
+          }
+        },
+        "id": "1773041626581221376",
+        "location": "匿名提问箱→",
+        "name": "Cackatoo",
+        "pinned_tweet_id": "2034228273673302354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037106211557158912/1gldjX2T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1623,
+          "following_count": 86,
+          "like_count": 94994,
+          "listed_count": 8,
+          "media_count": 58,
+          "tweet_count": 230
+        },
+        "url": "https://t.co/ujX5HCo8rR",
+        "username": "Nikikiki8964",
+        "verified": false
+      }
+    ]
+  }
+}

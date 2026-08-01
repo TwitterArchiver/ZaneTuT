@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2074784838243275139",
+    "created_at": "2026-07-08T11:18:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T12:18:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074815469459247437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1864972807622529030",
+          "start": 0,
+          "username": "Saye0918"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074815469459247437",
+    "in_reply_to_user_id": "1864972807622529030",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074811040483709219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Saye0918 就是！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2074784838243275139",
+        "created_at": "2026-07-08T11:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074815469459247437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1864972807622529030",
+              "start": 0,
+              "username": "Saye0918"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074815469459247437",
+        "in_reply_to_user_id": "1864972807622529030",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074811040483709219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Saye0918 就是！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864972807622529030",
+        "conversation_id": "2074784838243275139",
+        "created_at": "2026-07-08T11:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074811040483709219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074811040483709219",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074784838243275139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 吗的，这种不给人家打码的婊子什么时候能去死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨互fo免🚪丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 37,
+                "start": 27,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2044362275218489629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7752,
+          "following_count": 272,
+          "like_count": 5853,
+          "listed_count": 4,
+          "media_count": 45,
+          "tweet_count": 2574
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-06T09:59:14.000Z",
+        "description": "",
+        "id": "1864972807622529030",
+        "name": "S",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992436977350889473/S3N0Vxl9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 180,
+          "like_count": 1393,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 88
+        },
+        "url": "",
+        "username": "Saye0918",
+        "verified": false
+      }
+    ]
+  }
+}

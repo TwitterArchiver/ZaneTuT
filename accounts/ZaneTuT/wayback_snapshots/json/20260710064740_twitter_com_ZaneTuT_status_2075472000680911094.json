@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2075472000680911094",
+    "created_at": "2026-07-10T06:47:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T07:47:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075472000680911094"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "欢迎粉丝来骚扰",
+          "display_url": "t.me/ZaneTuT1",
+          "end": 77,
+          "expanded_url": "http://t.me/ZaneTuT1",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/2075471866660278272/_3Bdc1mP?format=jpg&name=orig",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2075471866660278272/_3Bdc1mP?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 54,
+          "status": 200,
+          "title": "你说我的爱像溃疡",
+          "unwound_url": "https://t.me/ZaneTuT1",
+          "url": "https://t.co/seX9zzTls3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075472000680911094",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "mentionedUsers",
+    "text": "为了回馈广大粉丝对我的支持！24小时免费对我的粉丝们限时无门槛🏧进入，可观看所有视频和写真！ \n唯一通道： https://t.co/seX9zzTls3\n暗号 :  约"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2075472000680911094",
+        "created_at": "2026-07-10T06:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T07:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075472000680911094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "欢迎粉丝来骚扰",
+              "display_url": "t.me/ZaneTuT1",
+              "end": 77,
+              "expanded_url": "http://t.me/ZaneTuT1",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2075471866660278272/_3Bdc1mP?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2075471866660278272/_3Bdc1mP?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 54,
+              "status": 200,
+              "title": "你说我的爱像溃疡",
+              "unwound_url": "https://t.me/ZaneTuT1",
+              "url": "https://t.co/seX9zzTls3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075472000680911094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "为了回馈广大粉丝对我的支持！24小时免费对我的粉丝们限时无门槛🏧进入，可观看所有视频和写真！ \n唯一通道： https://t.co/seX9zzTls3\n暗号 :  约"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨互fo免🚪丨💗算卦找@kill_this_hate 不准你打我丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。❗️陌生链接不要乱点❗️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 52,
+                "start": 44,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2044362275218489629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7850,
+          "following_count": 275,
+          "like_count": 5935,
+          "listed_count": 4,
+          "media_count": 39,
+          "tweet_count": 2593
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": true
+      }
+    ]
+  }
+}

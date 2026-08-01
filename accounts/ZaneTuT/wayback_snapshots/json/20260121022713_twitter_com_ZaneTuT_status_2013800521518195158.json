@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2013678883024126354",
+    "created_at": "2026-01-21T02:27:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T03:27:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013800521518195158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2000477498950537216",
+          "start": 0,
+          "username": "RecallingOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013800521518195158",
+    "in_reply_to_user_id": "2000477498950537216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013699843563364589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RecallingOvO 对呀^o^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2013678883024126354",
+        "created_at": "2026-01-21T02:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T03:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013800521518195158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2000477498950537216",
+              "start": 0,
+              "username": "RecallingOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013800521518195158",
+        "in_reply_to_user_id": "2000477498950537216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013699843563364589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RecallingOvO 对呀^o^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000477498950537216",
+        "conversation_id": "2013678883024126354",
+        "created_at": "2026-01-20T19:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T20:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013699843563364589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013699843563364589",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013678883024126354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 小溃疡你是不是改名了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪128 纯绿丨有的文案不是原创别攻击我TuT丨08丨od丨私信看心情回丨高频率发帖我好无聊丨互fo可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "一说话就扯溃疡",
+        "pinned_tweet_id": "2013559742573224427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1826,
+          "following_count": 145,
+          "like_count": 2180,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 984
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-15T08:06:39.000Z",
+        "description": "宅女/170cm57kg/听歌续命/INFJ/啥都懂点/梦想成为艺术家/挺神经一人/m/爱拍涩图（自恋狂/弹点小曲/二次元/缺爱b/双重人格/可以找我聊:游戏 说唱 动漫 情感 机车 绘画 哲学 电影 kpop 总之你一切感兴趣的事物/我很闲，可以找我聊天，或许会让你开心呢^⦁᎑-^ ੭",
+        "id": "2000477498950537216",
+        "name": "里里",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013722623335632896/0XskGBNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 35,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 51
+        },
+        "username": "RecallingOvO",
+        "verified": false
+      }
+    ]
+  }
+}

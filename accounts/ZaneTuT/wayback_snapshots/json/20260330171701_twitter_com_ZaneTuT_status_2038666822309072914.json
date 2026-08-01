@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038663943653294080",
+        "3_2038663943661711360",
+        "3_2038663943644946432"
+      ],
+      "media_source_tweet_id": [
+        "2038663969532227777",
+        "2038663969532227777",
+        "2038663969532227777"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2038666822309072914",
+    "created_at": "2026-03-30T17:17:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T18:17:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038666822309072914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1997985969958699008",
+          "start": 3,
+          "username": "ZaneTuT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y2Qgaz4ntV",
+          "end": 72,
+          "expanded_url": "https://x.com/ZaneTuT/status/2038663969532227777/photo/1",
+          "media_key": "3_2038663943653294080",
+          "start": 49,
+          "url": "https://t.co/Y2Qgaz4ntV"
+        },
+        {
+          "display_url": "pic.x.com/Y2Qgaz4ntV",
+          "end": 72,
+          "expanded_url": "https://x.com/ZaneTuT/status/2038663969532227777/photo/1",
+          "media_key": "3_2038663943661711360",
+          "start": 49,
+          "url": "https://t.co/Y2Qgaz4ntV"
+        },
+        {
+          "display_url": "pic.x.com/Y2Qgaz4ntV",
+          "end": 72,
+          "expanded_url": "https://x.com/ZaneTuT/status/2038663969532227777/photo/1",
+          "media_key": "3_2038663943644946432",
+          "start": 49,
+          "url": "https://t.co/Y2Qgaz4ntV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038666822309072914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038663969532227777",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZaneTuT: 你把我的眼泪 时间 真心 全部还给我 我给过你很多次机会了 我很恨你了 https://t.co/Y2Qgaz4ntV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038663943653294080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HErKDjHaAAAyt1T.jpg",
+        "width": 1152
+      },
+      {
+        "height": 792,
+        "media_key": "3_2038663943661711360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HErKDjJacAAY7hM.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038663943644946432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HErKDjFaoAAmfag.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038663943653294080",
+            "3_2038663943661711360",
+            "3_2038663943644946432"
+          ],
+          "media_source_tweet_id": [
+            "2038663969532227777",
+            "2038663969532227777",
+            "2038663969532227777"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038666822309072914",
+        "created_at": "2026-03-30T17:17:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T18:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038666822309072914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1997985969958699008",
+              "start": 3,
+              "username": "ZaneTuT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y2Qgaz4ntV",
+              "end": 72,
+              "expanded_url": "https://x.com/ZaneTuT/status/2038663969532227777/photo/1",
+              "media_key": "3_2038663943653294080",
+              "start": 49,
+              "url": "https://t.co/Y2Qgaz4ntV"
+            },
+            {
+              "display_url": "pic.x.com/Y2Qgaz4ntV",
+              "end": 72,
+              "expanded_url": "https://x.com/ZaneTuT/status/2038663969532227777/photo/1",
+              "media_key": "3_2038663943661711360",
+              "start": 49,
+              "url": "https://t.co/Y2Qgaz4ntV"
+            },
+            {
+              "display_url": "pic.x.com/Y2Qgaz4ntV",
+              "end": 72,
+              "expanded_url": "https://x.com/ZaneTuT/status/2038663969532227777/photo/1",
+              "media_key": "3_2038663943644946432",
+              "start": 49,
+              "url": "https://t.co/Y2Qgaz4ntV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038666822309072914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038663969532227777",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZaneTuT: 你把我的眼泪 时间 真心 全部还给我 我给过你很多次机会了 我很恨你了 https://t.co/Y2Qgaz4ntV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038663943653294080",
+            "3_2038663943661711360",
+            "3_2038663943644946432"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2038663969532227777",
+        "created_at": "2026-03-30T17:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T18:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038663969532227777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y2Qgaz4ntV",
+              "end": 59,
+              "expanded_url": "https://x.com/ZaneTuT/status/2038663969532227777/photo/1",
+              "media_key": "3_2038663943653294080",
+              "start": 36,
+              "url": "https://t.co/Y2Qgaz4ntV"
+            },
+            {
+              "display_url": "pic.x.com/Y2Qgaz4ntV",
+              "end": 59,
+              "expanded_url": "https://x.com/ZaneTuT/status/2038663969532227777/photo/1",
+              "media_key": "3_2038663943661711360",
+              "start": 36,
+              "url": "https://t.co/Y2Qgaz4ntV"
+            },
+            {
+              "display_url": "pic.x.com/Y2Qgaz4ntV",
+              "end": 59,
+              "expanded_url": "https://x.com/ZaneTuT/status/2038663969532227777/photo/1",
+              "media_key": "3_2038663943644946432",
+              "start": 36,
+              "url": "https://t.co/Y2Qgaz4ntV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038663969532227777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你把我的眼泪 时间 真心 全部还给我 我给过你很多次机会了 我很恨你了 https://t.co/Y2Qgaz4ntV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5971,
+          "following_count": 301,
+          "like_count": 5632,
+          "listed_count": 3,
+          "media_count": 66,
+          "tweet_count": 2365
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

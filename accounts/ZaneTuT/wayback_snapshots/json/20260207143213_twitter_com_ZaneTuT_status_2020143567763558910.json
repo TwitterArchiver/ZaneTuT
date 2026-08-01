@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2020143567763558910",
+    "created_at": "2026-02-07T14:32:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T15:32:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020143567763558910"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nikifannizi/st…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/nikifannizi/status/2020136834668310920",
+          "start": 29,
+          "url": "https://t.co/GqEvTYSva8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020143567763558910",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020136834668310920",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我喜欢穿着衣服这样 这个臭毛病还是前任给我惯出来的。。。 https://t.co/GqEvTYSva8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43865,
+        "height": 666,
+        "media_key": "13_2020136742268121088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020136742268121088/img/Sa-CFF9eJ7lzgLyQ.jpg",
+        "public_metrics": {
+          "view_count": 142
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020136742268121088/vid/avc1/420x270/mAQmgETOfKu5hQYo.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020136742268121088/vid/avc1/562x360/-8Q9z4aP06qSvikq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020136742268121088/vid/avc1/1040x666/hLmjzgE5AohCtWy_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020136742268121088/pl/t9XzExWE1r5YDGpV.m3u8"
+          }
+        ],
+        "width": 1040
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2020143567763558910",
+        "created_at": "2026-02-07T14:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T15:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020143567763558910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nikifannizi/st…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/nikifannizi/status/2020136834668310920",
+              "start": 29,
+              "url": "https://t.co/GqEvTYSva8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020143567763558910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020136834668310920",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我喜欢穿着衣服这样 这个臭毛病还是前任给我惯出来的。。。 https://t.co/GqEvTYSva8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020136742268121088"
+          ]
+        },
+        "author_id": "1577848566818648064",
+        "conversation_id": "2020136834668310920",
+        "created_at": "2026-02-07T14:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T15:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020136834668310920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ENyDTE9xJs",
+              "end": 85,
+              "expanded_url": "https://x.com/Nikifannizi/status/2020136834668310920/video/1",
+              "media_key": "13_2020136742268121088",
+              "start": 62,
+              "url": "https://t.co/ENyDTE9xJs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020136834668310920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 290,
+          "like_count": 17,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "分享一个性癖\n两个人不穿衣服贴在一起\n拥抱抚摸女生的线条和肉体\n感受肉体的温度皮肤的触感\n偶尔往禁忌的地方游荡\n很爽很舒服 https://t.co/ENyDTE9xJs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3416,
+          "following_count": 200,
+          "like_count": 3366,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 1513
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-06T02:30:00.000Z",
+        "description": "一个两性情感博主！！主营内容：坐标交友 || 两性知识 || 群聊交友 || 情感咨询 || 圈圈玩法 || 所有的两性知识vx🚪58分享所有！🚪888成为我的vvvvvip！🚪33擦边交友聊天群。置顶的是我🛰️小号，欢迎来玩！优先口令🧧和🧧这是我的小号：@DangLaoShiA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 128,
+                "username": "DangLaoShiA"
+              }
+            ]
+          }
+        },
+        "id": "1577848566818648064",
+        "location": "你心里",
+        "name": "当老师的两性杂货铺",
+        "pinned_tweet_id": "2016064626602213476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931511892020977664/oanYUNqL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17036,
+          "following_count": 230,
+          "like_count": 448,
+          "listed_count": 22,
+          "media_count": 1459,
+          "tweet_count": 2226
+        },
+        "username": "Nikifannizi",
+        "verified": false
+      }
+    ]
+  }
+}

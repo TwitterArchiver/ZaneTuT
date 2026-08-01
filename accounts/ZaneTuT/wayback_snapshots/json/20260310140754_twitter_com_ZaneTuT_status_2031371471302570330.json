@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2031251765341888591",
+    "created_at": "2026-03-10T14:07:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T15:07:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031371471302570330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1926589725189476352",
+          "start": 0,
+          "username": "sandyyyy0922"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031371471302570330",
+    "in_reply_to_user_id": "1926589725189476352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031251765341888591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sandyyyy0922 人们究竟什么时候能允许自己喜欢的东西被他人讨厌？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2031251765341888591",
+        "created_at": "2026-03-10T14:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T15:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031371471302570330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1926589725189476352",
+              "start": 0,
+              "username": "sandyyyy0922"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031371471302570330",
+        "in_reply_to_user_id": "1926589725189476352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031251765341888591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sandyyyy0922 人们究竟什么时候能允许自己喜欢的东西被他人讨厌？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926589725189476352",
+        "conversation_id": "2031251765341888591",
+        "created_at": "2026-03-10T06:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T07:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031251765341888591"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031251765341888591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "某些粉丝急死了🥰🥰看见心肝被骂要发好几条帖来破防🥰🥰这么脆弱勿追星！别人都删帖了还要追着咬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5327,
+          "following_count": 272,
+          "like_count": 4450,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1970
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T10:42:55.000Z",
+        "description": "M豆在🇨🇦闭关修炼中… 叫我M豆或者豆就好～有老公/哥哥/宝宝（同一个人）不聊骚不看屌不卖不约不私信露出…发骚男勿扰贱男勿扰皮下男勿扰…其余的小宝宝们请都来找我玩吧✌️👁️👅👁️✌️另一个豆@woxihuandaMdou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 95,
+                "username": "woxihuandaMdou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%BB%84%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%BB%84%E8%89%B2%E5%A4%A7m%E8%B1%86",
+                "start": 0,
+                "url": "https://t.co/WRe3HQ5o5M"
+              }
+            ]
+          }
+        },
+        "id": "1926589725189476352",
+        "location": "Ontario, Canada",
+        "name": "黄色大M🫘",
+        "pinned_tweet_id": "2027836784147583410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926595280301875202/aWTzMjuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 284,
+          "like_count": 1426,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 1362
+        },
+        "url": "https://t.co/WRe3HQ5o5M",
+        "username": "sandyyyy0922",
+        "verified": true
+      }
+    ]
+  }
+}

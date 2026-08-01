@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2012753570588979541",
+    "created_at": "2026-01-18T05:07:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T06:07:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012753570588979541"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/buyaochilea/st…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/buyaochilea/status/2012538192839250253",
+          "start": 3,
+          "url": "https://t.co/enOOqTdVjM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012753570588979541",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012538192839250253",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我操 https://t.co/enOOqTdVjM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 980,
+        "media_key": "3_2012538163143573504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-34y-cXAAAhU30.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2012753570588979541",
+        "created_at": "2026-01-18T05:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T06:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012753570588979541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/buyaochilea/st…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/buyaochilea/status/2012538192839250253",
+              "start": 3,
+              "url": "https://t.co/enOOqTdVjM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012753570588979541",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012538192839250253",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操 https://t.co/enOOqTdVjM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012538163143573504"
+          ]
+        },
+        "author_id": "1653083358254235648",
+        "conversation_id": "2012538192839250253",
+        "created_at": "2026-01-17T14:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T15:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012538192839250253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fyMmqTEVRx",
+              "end": 23,
+              "expanded_url": "https://x.com/buyaochilea/status/2012538192839250253/photo/1",
+              "media_key": "3_2012538163143573504",
+              "start": 0,
+              "url": "https://t.co/fyMmqTEVRx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012538192839250253",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 817,
+          "impression_count": 252525,
+          "like_count": 7552,
+          "quote_count": 46,
+          "reply_count": 132,
+          "retweet_count": 266
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fyMmqTEVRx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪88/128 纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨回fo眼熟的 可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010591438627897389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994,
+          "following_count": 127,
+          "like_count": 1665,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 733
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T17:06:17.000Z",
+        "description": "bg写手｜🚫任何形式的抄袭/融梗/AI🚫｜食用前请看【亮点】｜约稿私信@tounaolengjing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 35,
+                "username": "tounaolengjing"
+              }
+            ]
+          }
+        },
+        "id": "1653083358254235648",
+        "location": "不接推广/商务",
+        "name": "别头脑发热了",
+        "pinned_tweet_id": "1925096582569198016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983192973644091392/2vrseD7o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201625,
+          "following_count": 23,
+          "like_count": 1516,
+          "listed_count": 183,
+          "media_count": 268,
+          "tweet_count": 799
+        },
+        "username": "buyaochilea",
+        "verified": true
+      }
+    ]
+  }
+}

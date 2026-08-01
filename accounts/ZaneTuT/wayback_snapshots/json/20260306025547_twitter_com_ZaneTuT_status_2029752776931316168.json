@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2029280688827187483",
+    "created_at": "2026-03-06T02:55:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T03:55:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029752776931316168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1999045703935614976",
+          "start": 0,
+          "username": "Qiu4u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029752776931316168",
+    "in_reply_to_user_id": "1999045703935614976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029280688827187483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiu4u 宝宝你萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2029280671076892672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCl0BM0awAAM4XM.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2029280671081086977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCl0BM1awAE_fyq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2029280688827187483",
+        "created_at": "2026-03-06T02:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T03:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029752776931316168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1999045703935614976",
+              "start": 0,
+              "username": "Qiu4u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029752776931316168",
+        "in_reply_to_user_id": "1999045703935614976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029280688827187483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiu4u 宝宝你萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029280671076892672",
+            "3_2029280671081086977"
+          ]
+        },
+        "author_id": "1999045703935614976",
+        "conversation_id": "2029280688827187483",
+        "created_at": "2026-03-04T19:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T20:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029280688827187483"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 6,
+              "tag": "jiraikei"
+            },
+            {
+              "end": 22,
+              "start": 16,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 33,
+              "start": 23,
+              "tag": "地雷系と繋がりたい"
+            },
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "地雷女"
+            },
+            {
+              "end": 51,
+              "start": 39,
+              "tag": "量産型女子と繋がりたい"
+            },
+            {
+              "end": 58,
+              "start": 52,
+              "tag": "量産型女子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mho6N8158A",
+              "end": 82,
+              "expanded_url": "https://x.com/Qiu4u/status/2029280688827187483/photo/1",
+              "media_key": "3_2029280671076892672",
+              "start": 59,
+              "url": "https://t.co/mho6N8158A"
+            },
+            {
+              "display_url": "pic.x.com/mho6N8158A",
+              "end": 82,
+              "expanded_url": "https://x.com/Qiu4u/status/2029280688827187483/photo/1",
+              "media_key": "3_2029280671081086977",
+              "start": 59,
+              "url": "https://t.co/mho6N8158A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029280688827187483",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想要互fo😭#jiraikei #地雷系女子 #地雷系と繋がりたい #地雷女 #量産型女子と繋がりたい #量産型女子 https://t.co/mho6N8158A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5159,
+          "following_count": 251,
+          "like_count": 4197,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 1894
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T09:17:12.000Z",
+        "description": "我是小秋/ED 双相二型/已被上报好无助/158cm40kg减重中梦想35kg最近有点贴秋膘了/我o我割/求大家和我互fo！/English ok/地雷系と繋がりたい",
+        "id": "1999045703935614976",
+        "location": "Kanagawa-ken, Japan",
+        "name": "用你笑容为我祭奠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002838039543136256/3OmqFFrp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 140,
+          "like_count": 1618,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 293
+        },
+        "username": "Qiu4u",
+        "verified": false
+      }
+    ]
+  }
+}

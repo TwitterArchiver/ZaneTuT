@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007988952897368064"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2007988977622765678",
+    "created_at": "2026-01-05T01:34:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T02:34:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007988977622765678"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EGdyc10ln0",
+          "end": 23,
+          "expanded_url": "https://x.com/ZaneTuT/status/2007988977622765678/photo/1",
+          "media_key": "3_2007988952897368064",
+          "start": 0,
+          "url": "https://t.co/EGdyc10ln0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007988977622765678",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/EGdyc10ln0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2007988952897368064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G93PUFpbMAAnnjo.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007988952897368064"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2007988977622765678",
+        "created_at": "2026-01-05T01:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T02:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007988977622765678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EGdyc10ln0",
+              "end": 23,
+              "expanded_url": "https://x.com/ZaneTuT/status/2007988977622765678/photo/1",
+              "media_key": "3_2007988952897368064",
+              "start": 0,
+              "url": "https://t.co/EGdyc10ln0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007988977622765678",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/EGdyc10ln0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "对我好疏远是怎么啦",
+        "id": "1997985969958699008",
+        "name": "到底怎样才有人爱我",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 57,
+          "like_count": 274,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 44
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

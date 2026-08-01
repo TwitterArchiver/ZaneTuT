@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2020877318546502093",
+    "created_at": "2026-02-09T16:43:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T17:43:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020901278063477051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1832308955852500995",
+          "start": 0,
+          "username": "ming_akira0423"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020901278063477051",
+    "in_reply_to_user_id": "1832308955852500995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020877318546502093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ming_akira0423 尼玛这条我提前八百年看了是不是"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13200,
+        "height": 1280,
+        "media_key": "13_2020877239462899712",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020877239462899712/img/W92YWYAYuQyFDjOC.jpg",
+        "public_metrics": {
+          "view_count": 24
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020877239462899712/vid/avc1/320x568/9wNs1vidtAxt0mb1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020877239462899712/vid/avc1/480x852/KIuT0FHMircYUpLb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020877239462899712/vid/avc1/720x1280/0UHJbNoRqeAQSVhv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020877239462899712/pl/lHHQzBRQPp_4DkwS.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2020877318546502093",
+        "created_at": "2026-02-09T16:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T17:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020901278063477051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1832308955852500995",
+              "start": 0,
+              "username": "ming_akira0423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020901278063477051",
+        "in_reply_to_user_id": "1832308955852500995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020877318546502093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ming_akira0423 尼玛这条我提前八百年看了是不是"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020877239462899712"
+          ]
+        },
+        "author_id": "1832308955852500995",
+        "conversation_id": "2020877318546502093",
+        "created_at": "2026-02-09T15:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T16:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020877318546502093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LXkz49Nk07",
+              "end": 26,
+              "expanded_url": "https://x.com/ming_akira0423/status/2020877318546502093/video/1",
+              "media_key": "13_2020877239462899712",
+              "start": 3,
+              "url": "https://t.co/LXkz49Nk07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020877318546502093",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯… https://t.co/LXkz49Nk07"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3574,
+          "following_count": 205,
+          "like_count": 3497,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 1586
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-07T06:44:41.000Z",
+        "description": "北京 男 之后可能很少出cos了…如果想入我门直接私信我就好了 想和我聊天也可以私信和我聊 私信都会回的 我话真的特别多 谢谢你们！ 这个是我的提问箱https://t.co/WWRcHh4ytv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akira19923",
+                "end": 98,
+                "expanded_url": "https://ngl.link/akira19923",
+                "start": 75,
+                "url": "https://t.co/WWRcHh4ytv"
+              }
+            ]
+          }
+        },
+        "id": "1832308955852500995",
+        "name": "明",
+        "pinned_tweet_id": "2015062038540890326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009957760268648448/PFnjP22P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 160,
+          "like_count": 1582,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1172
+        },
+        "username": "ming_akira0423",
+        "verified": false
+      }
+    ]
+  }
+}

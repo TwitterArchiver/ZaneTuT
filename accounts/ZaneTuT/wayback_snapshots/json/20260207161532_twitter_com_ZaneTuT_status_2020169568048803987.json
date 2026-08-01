@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020169556388626432",
+        "3_2020169556392804352",
+        "3_2020169556376088576",
+        "3_2020169556384452608"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2020169568048803987",
+    "created_at": "2026-02-07T16:15:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T17:15:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020169568048803987"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2j0nalHvK3",
+          "end": 29,
+          "expanded_url": "https://x.com/ZaneTuT/status/2020169568048803987/photo/1",
+          "media_key": "3_2020169556388626432",
+          "start": 6,
+          "url": "https://t.co/2j0nalHvK3"
+        },
+        {
+          "display_url": "pic.x.com/2j0nalHvK3",
+          "end": 29,
+          "expanded_url": "https://x.com/ZaneTuT/status/2020169568048803987/photo/1",
+          "media_key": "3_2020169556392804352",
+          "start": 6,
+          "url": "https://t.co/2j0nalHvK3"
+        },
+        {
+          "display_url": "pic.x.com/2j0nalHvK3",
+          "end": 29,
+          "expanded_url": "https://x.com/ZaneTuT/status/2020169568048803987/photo/1",
+          "media_key": "3_2020169556376088576",
+          "start": 6,
+          "url": "https://t.co/2j0nalHvK3"
+        },
+        {
+          "display_url": "pic.x.com/2j0nalHvK3",
+          "end": 29,
+          "expanded_url": "https://x.com/ZaneTuT/status/2020169568048803987/photo/1",
+          "media_key": "3_2020169556384452608",
+          "start": 6,
+          "url": "https://t.co/2j0nalHvK3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020169568048803987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不开心了 https://t.co/2j0nalHvK3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020169556388626432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAkVghqaQAAkwxk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020169556392804352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAkVghraAAA8KFz.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020169556376088576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAkVghna8AATJgO.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020169556384452608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAkVghpakAAh1uv.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020169556388626432",
+            "3_2020169556392804352",
+            "3_2020169556376088576",
+            "3_2020169556384452608"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2020169568048803987",
+        "created_at": "2026-02-07T16:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T17:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020169568048803987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2j0nalHvK3",
+              "end": 29,
+              "expanded_url": "https://x.com/ZaneTuT/status/2020169568048803987/photo/1",
+              "media_key": "3_2020169556388626432",
+              "start": 6,
+              "url": "https://t.co/2j0nalHvK3"
+            },
+            {
+              "display_url": "pic.x.com/2j0nalHvK3",
+              "end": 29,
+              "expanded_url": "https://x.com/ZaneTuT/status/2020169568048803987/photo/1",
+              "media_key": "3_2020169556392804352",
+              "start": 6,
+              "url": "https://t.co/2j0nalHvK3"
+            },
+            {
+              "display_url": "pic.x.com/2j0nalHvK3",
+              "end": 29,
+              "expanded_url": "https://x.com/ZaneTuT/status/2020169568048803987/photo/1",
+              "media_key": "3_2020169556376088576",
+              "start": 6,
+              "url": "https://t.co/2j0nalHvK3"
+            },
+            {
+              "display_url": "pic.x.com/2j0nalHvK3",
+              "end": 29,
+              "expanded_url": "https://x.com/ZaneTuT/status/2020169568048803987/photo/1",
+              "media_key": "3_2020169556384452608",
+              "start": 6,
+              "url": "https://t.co/2j0nalHvK3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020169568048803987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不开心了 https://t.co/2j0nalHvK3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3419,
+          "following_count": 200,
+          "like_count": 3376,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 1517
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

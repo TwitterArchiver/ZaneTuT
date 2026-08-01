@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2019670373575586045",
+    "created_at": "2026-02-06T08:12:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T09:12:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019685718642291005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1684528453020962818",
+          "start": 0,
+          "username": "Kjjj1713121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019685718642291005",
+    "in_reply_to_user_id": "1684528453020962818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019670373575586045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kjjj1713121 大Q你怎么这么懂小q呀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2019670373575586045",
+        "created_at": "2026-02-06T08:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T09:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019685718642291005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1684528453020962818",
+              "start": 0,
+              "username": "Kjjj1713121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019685718642291005",
+        "in_reply_to_user_id": "1684528453020962818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019670373575586045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kjjj1713121 大Q你怎么这么懂小q呀！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684528453020962818",
+        "conversation_id": "2019670373575586045",
+        "created_at": "2026-02-06T07:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T08:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019670373575586045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kyuuu2333/stat…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/kyuuu2333/status/2019668550911512683",
+              "start": 25,
+              "url": "https://t.co/9dCy2cGJ7u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019670373575586045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019668550911512683",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为有时候要走牧民道对吧！或者有人帮忙感谢一下！ https://t.co/9dCy2cGJ7u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨神秘账号@Rotte2t00丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "Rotte2t00"
+              },
+              {
+                "end": 80,
+                "start": 65,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 95,
+                "start": 87,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3295,
+          "following_count": 189,
+          "like_count": 3255,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1452
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T11:37:44.000Z",
+        "description": "男 20 学生 我 好 想 睡 觉（是直的",
+        "id": "1684528453020962818",
+        "location": "Chengdu/Tianjin",
+        "name": "QuuuQ",
+        "pinned_tweet_id": "1886882947040731151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016605811456561152/g5z3QLTm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 465,
+          "like_count": 6498,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 1336
+        },
+        "username": "Kjjj1713121",
+        "verified": false
+      }
+    ]
+  }
+}

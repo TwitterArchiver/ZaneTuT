@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2014558029094506787",
+    "created_at": "2026-01-23T07:38:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T08:38:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014603610823295137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1984629468410101764",
+          "start": 0,
+          "username": "twntyfour7svn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014603610823295137",
+    "in_reply_to_user_id": "1984629468410101764",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014594652184445000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@twntyfour7svn 习惯就好了！我一直做这个长度嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2014558029094506787",
+        "created_at": "2026-01-23T07:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T08:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014603610823295137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1984629468410101764",
+              "start": 0,
+              "username": "twntyfour7svn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014603610823295137",
+        "in_reply_to_user_id": "1984629468410101764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014594652184445000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twntyfour7svn 习惯就好了！我一直做这个长度嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984629468410101764",
+        "conversation_id": "2014558029094506787",
+        "created_at": "2026-01-23T07:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T08:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014594652184445000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014594652184445000",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014558029094506787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 好长哦！我还没做过这么长的 会不会不方便"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心丨08丨od丨私信看心情回丨高频率发帖丨互fo可以直接➕V丨我听点udg sasi很多很多丨我皮下非常没有素质别惹我了行吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2340,
+          "following_count": 163,
+          "like_count": 2526,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 1178
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-01T14:32:12.000Z",
+        "description": "我提前说一下 我是文盲 和我家小狗共用一个账号 如果这个账号发了不好的言论 那都是小狗发的对不起 我家小狗没上过学 刚学会上网三个月 请大家谅解 骂人的都是小狗 狗四个爪子比我打字快🫶🏻",
+        "id": "1984629468410101764",
+        "name": "屁屁",
+        "pinned_tweet_id": "2010053247202169223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010030643103838209/nLSjDjZP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 50,
+          "like_count": 738,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 397
+        },
+        "username": "twntyfour7svn",
+        "verified": false
+      }
+    ]
+  }
+}

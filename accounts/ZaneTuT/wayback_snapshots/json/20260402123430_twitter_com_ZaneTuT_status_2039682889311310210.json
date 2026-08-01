@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039682866997874688"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2039648107319722241",
+    "created_at": "2026-04-02T12:34:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T13:34:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039682889311310210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2039672295162294272",
+          "start": 0,
+          "username": "Jri5ji"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YZu8wvW1Jl",
+          "end": 36,
+          "expanded_url": "https://x.com/ZaneTuT/status/2039682889311310210/photo/1",
+          "media_key": "3_2039682866997874688",
+          "start": 13,
+          "url": "https://t.co/YZu8wvW1Jl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039682889311310210",
+    "in_reply_to_user_id": "2039672295162294272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039681906502185123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jri5ji 疯了吧你 https://t.co/YZu8wvW1Jl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 349,
+        "media_key": "3_2039682866997874688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE5owsXb0AAj7WO.jpg",
+        "width": 1130
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039682866997874688"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2039648107319722241",
+        "created_at": "2026-04-02T12:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T13:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039682889311310210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2039672295162294272",
+              "start": 0,
+              "username": "Jri5ji"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YZu8wvW1Jl",
+              "end": 36,
+              "expanded_url": "https://x.com/ZaneTuT/status/2039682889311310210/photo/1",
+              "media_key": "3_2039682866997874688",
+              "start": 13,
+              "url": "https://t.co/YZu8wvW1Jl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039682889311310210",
+        "in_reply_to_user_id": "2039672295162294272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039681906502185123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jri5ji 疯了吧你 https://t.co/YZu8wvW1Jl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039672295162294272",
+        "conversation_id": "2039648107319722241",
+        "created_at": "2026-04-02T12:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T13:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039681906502185123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039681906502185123",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039648107319722241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 你就继续吧 我骗过什么女孩了。我他妈没骗炮也没骗钱 你这说的不知道的以为我干啥了呢 你就继续真假掺半说好不好 我看看你说的能有多离谱 说你傻你知道来推特上发我 说你聪明吧别人说啥你又都信啥。人能说对自己不利的话吗 你第一次挂我我说啥了吗 我甚至都没骂过脏话吧大哥 我一直都是好好说的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨08丨od丨中抑中焦丨互fo免🚪丨我听点udg sasi很多很多丨两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 45,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6209,
+          "following_count": 291,
+          "like_count": 5977,
+          "listed_count": 4,
+          "media_count": 82,
+          "tweet_count": 2517
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T11:52:50.000Z",
+        "description": "",
+        "id": "2039672295162294272",
+        "name": "Jr",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "Jri5ji",
+        "verified": false
+      }
+    ]
+  }
+}

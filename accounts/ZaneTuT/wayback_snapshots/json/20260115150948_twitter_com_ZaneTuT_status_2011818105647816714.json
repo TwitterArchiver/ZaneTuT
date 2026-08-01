@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2011817910994419865",
+    "created_at": "2026-01-15T15:09:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T16:09:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011818105647816714"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2011818105647816714",
+    "in_reply_to_user_id": "1997985969958699008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011817910994419865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是卧槽这他妈太糊了 你们能看清吗我他妈一直哭 ？？？？？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14100,
+        "height": 1280,
+        "media_key": "13_2011817806451650560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2011817806451650560/img/w5Q0v_8KmZOy48sS.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011817806451650560/vid/avc1/960x1280/xW_1m0PQeWMQ5O21.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2011817806451650560/pl/AgVlnv64oA7CK_EI.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011817806451650560/vid/avc1/320x426/fH6Wcau8ShJ7cgNb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011817806451650560/vid/avc1/720x960/GuaLwh4YjeAWW_vX.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011817806451650560/vid/avc1/480x640/ecUpzJFxKGi2hHbV.mp4"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2011817910994419865",
+        "created_at": "2026-01-15T15:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T16:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011818105647816714"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2011818105647816714",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011817910994419865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是卧槽这他妈太糊了 你们能看清吗我他妈一直哭 ？？？？？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2011817806451650560"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2011817910994419865",
+        "created_at": "2026-01-15T15:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T16:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011817910994419865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oSihJPe6Un",
+              "end": 47,
+              "expanded_url": "https://x.com/ZaneTuT/status/2011817910994419865/video/1",
+              "media_key": "13_2011817806451650560",
+              "start": 24,
+              "url": "https://t.co/oSihJPe6Un"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011817910994419865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发条视频 我可爱吗！膝盖上是车祸摔的我一直哭… https://t.co/oSihJPe6Un"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪88/128 纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨回fo眼熟的 可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010591438627897389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 139,
+          "like_count": 1398,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 629
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

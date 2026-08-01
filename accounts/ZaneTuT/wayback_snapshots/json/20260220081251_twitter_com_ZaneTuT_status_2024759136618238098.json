@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2024202268770263041"
+      ],
+      "media_source_tweet_id": [
+        "2024202330820731337"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2024759136618238098",
+    "created_at": "2026-02-20T08:12:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T09:12:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024759136618238098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1983966175035060241",
+          "start": 3,
+          "username": "Nudespassionart"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fbk2FkLeN4",
+          "end": 44,
+          "expanded_url": "https://x.com/Nudespassionart/status/2024202330820731337/video/1",
+          "media_key": "13_2024202268770263041",
+          "start": 21,
+          "url": "https://t.co/fbk2FkLeN4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024759136618238098",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 925
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024202330820731337",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nudespassionart: https://t.co/fbk2FkLeN4"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2024759136618238098].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2024759136618238098",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2024759136618238098"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29000,
+        "height": 1080,
+        "media_key": "13_2024202268770263041",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2024202268770263041/img/CXYLuUnA_Gxp5vz_.jpg",
+        "public_metrics": {
+          "view_count": 257029
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2024202268770263041/pl/jKpXrcriG3j_amws.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024202268770263041/vid/avc1/640x360/7qacxQtB6_9ZnXKr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024202268770263041/vid/avc1/1280x720/PKgglynUKJFM6VkN.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024202268770263041/vid/avc1/480x270/1ZHoH0qaPBkIitqC.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024202268770263041/vid/avc1/1920x1080/pp9StUMS3XUQ5J1R.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024202268770263041"
+          ]
+        },
+        "author_id": "1983966175035060241",
+        "conversation_id": "2024202330820731337",
+        "created_at": "2026-02-18T19:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T20:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024202330820731337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fbk2FkLeN4",
+              "end": 23,
+              "expanded_url": "https://x.com/Nudespassionart/status/2024202330820731337/video/1",
+              "media_key": "13_2024202268770263041",
+              "start": 0,
+              "url": "https://t.co/fbk2FkLeN4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024202330820731337",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 6005,
+          "impression_count": 98217,
+          "like_count": 15732,
+          "quote_count": 6,
+          "reply_count": 7,
+          "retweet_count": 925
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fbk2FkLeN4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4506,
+          "following_count": 219,
+          "like_count": 3687,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 1695
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-30T18:36:21.000Z",
+        "description": "NSFW | Reklam ve iş birliği için Dm 💌",
+        "id": "1983966175035060241",
+        "location": "İstanbul, Türkiye",
+        "name": "Nudesart",
+        "pinned_tweet_id": "2024202330820731337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983972770347094017/0E66ymuu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60275,
+          "following_count": 1320,
+          "like_count": 756,
+          "listed_count": 95,
+          "media_count": 2140,
+          "tweet_count": 3979
+        },
+        "username": "Nudespassionart",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2011274495932449056",
+    "created_at": "2026-01-14T04:23:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T05:23:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011293140733608203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1841733584358346752",
+          "start": 0,
+          "username": "hnhn973157"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011293140733608203",
+    "in_reply_to_user_id": "1841733584358346752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011292998383124538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hnhn973157 唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2011274495932449056",
+        "created_at": "2026-01-14T04:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T05:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011293140733608203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1841733584358346752",
+              "start": 0,
+              "username": "hnhn973157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011293140733608203",
+        "in_reply_to_user_id": "1841733584358346752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011292998383124538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hnhn973157 唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841733584358346752",
+        "conversation_id": "2011274495932449056",
+        "created_at": "2026-01-14T04:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T05:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011292998383124538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011292998383124538",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011274495932449056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 人和人还是刚认识的时候最好啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪88/128 纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010591438627897389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 115,
+          "like_count": 1127,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 477
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T06:54:46.000Z",
+        "description": "我已经接受了自己是个无聊的人这个残酷的现实",
+        "id": "1841733584358346752",
+        "name": "每天都好糟糕",
+        "pinned_tweet_id": "1939410908725256492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011291461409783822/PuJEtBZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 3,
+          "like_count": 413,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 485
+        },
+        "username": "hnhn973157",
+        "verified": false
+      }
+    ]
+  }
+}

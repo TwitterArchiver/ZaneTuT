@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028115507690471425"
+      ],
+      "media_source_tweet_id": [
+        "2028115520294432805"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2028137340129181895",
+    "created_at": "2026-03-01T15:56:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T16:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028137340129181895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1590695308463288321",
+          "start": 3,
+          "username": "acclzd_clz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HaAd2FrU33",
+          "end": 90,
+          "expanded_url": "https://x.com/acclzd_clz/status/2028115520294432805/photo/1",
+          "media_key": "3_2028115507690471425",
+          "start": 67,
+          "url": "https://t.co/HaAd2FrU33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028137340129181895",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028115520294432805",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @acclzd_clz: 宝宝会做到吗？不能的话我好伤心。\n\n(•̀᎑-) 怎么办 我的心脏被小鹿撞的砰砰跳 \n好像爱上你了。 https://t.co/HaAd2FrU33"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2730,
+        "media_key": "3_2028115507690471425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCVQTw9aAAESRTm.jpg",
+        "width": 2049
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028115507690471425"
+          ],
+          "media_source_tweet_id": [
+            "2028115520294432805"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2028137340129181895",
+        "created_at": "2026-03-01T15:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T16:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028137340129181895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1590695308463288321",
+              "start": 3,
+              "username": "acclzd_clz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HaAd2FrU33",
+              "end": 90,
+              "expanded_url": "https://x.com/acclzd_clz/status/2028115520294432805/photo/1",
+              "media_key": "3_2028115507690471425",
+              "start": 67,
+              "url": "https://t.co/HaAd2FrU33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028137340129181895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028115520294432805",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @acclzd_clz: 宝宝会做到吗？不能的话我好伤心。\n\n(•̀᎑-) 怎么办 我的心脏被小鹿撞的砰砰跳 \n好像爱上你了。 https://t.co/HaAd2FrU33"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028115507690471425"
+          ]
+        },
+        "author_id": "1590695308463288321",
+        "conversation_id": "2028115520294432805",
+        "created_at": "2026-03-01T14:29:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T15:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028115520294432805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HaAd2FrU33",
+              "end": 74,
+              "expanded_url": "https://x.com/acclzd_clz/status/2028115520294432805/photo/1",
+              "media_key": "3_2028115507690471425",
+              "start": 51,
+              "url": "https://t.co/HaAd2FrU33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028115520294432805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 10120,
+          "like_count": 513,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝会做到吗？不能的话我好伤心。\n\n(•̀᎑-) 怎么办 我的心脏被小鹿撞的砰砰跳 \n好像爱上你了。 https://t.co/HaAd2FrU33"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5126,
+          "following_count": 240,
+          "like_count": 4081,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 1875
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-10T13:18:17.000Z",
+        "description": "求宝宝定制ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ｜无排单随时可找哈！",
+        "id": "1590695308463288321",
+        "location": "黄文厨子",
+        "name": "荞麦厘子",
+        "pinned_tweet_id": "1977923915717742802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000918094051733504/efPaT4ou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120064,
+          "following_count": 101,
+          "like_count": 10554,
+          "listed_count": 120,
+          "media_count": 435,
+          "tweet_count": 1966
+        },
+        "username": "acclzd_clz",
+        "verified": false
+      }
+    ]
+  }
+}

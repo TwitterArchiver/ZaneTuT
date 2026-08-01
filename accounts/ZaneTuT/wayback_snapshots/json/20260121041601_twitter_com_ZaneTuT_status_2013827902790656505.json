@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2013696328157798568",
+    "created_at": "2026-01-21T04:16:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T05:16:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013827902790656505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1977271676623831040",
+          "start": 0,
+          "username": "OvO4141"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013827902790656505",
+    "in_reply_to_user_id": "1977271676623831040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013696328157798568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OvO4141 我好想转帖啊我操"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2013696328157798568",
+        "created_at": "2026-01-21T04:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T05:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013827902790656505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1977271676623831040",
+              "start": 0,
+              "username": "OvO4141"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013827902790656505",
+        "in_reply_to_user_id": "1977271676623831040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013696328157798568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OvO4141 我好想转帖啊我操"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977271676623831040",
+        "conversation_id": "2013696328157798568",
+        "created_at": "2026-01-20T19:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T20:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013696328157798568"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013696328157798568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在的舌头很适合吃逼玩逗蒂主"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪128 纯绿丨有的文案不是原创别攻击我TuT丨08丨od丨私信看心情回丨高频率发帖我好无聊丨互fo可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "一说话就扯溃疡",
+        "pinned_tweet_id": "2013559742573224427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1836,
+          "following_count": 145,
+          "like_count": 2197,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 989
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T07:14:47.000Z",
+        "description": "",
+        "id": "1977271676623831040",
+        "name": "泣く泣く",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998869843081310210/qyMokYmV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 19
+        },
+        "username": "OvO4141",
+        "verified": false
+      }
+    ]
+  }
+}

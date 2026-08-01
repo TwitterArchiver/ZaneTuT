@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2011367007409901691",
+    "created_at": "2026-01-14T09:53:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T10:53:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011376052917166184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1769282438940008448",
+          "start": 0,
+          "username": "iuu_33i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011376052917166184",
+    "in_reply_to_user_id": "1769282438940008448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011375169999356013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iuu_33i 正解！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2011367007409901691",
+        "created_at": "2026-01-14T09:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T10:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011376052917166184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1769282438940008448",
+              "start": 0,
+              "username": "iuu_33i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011376052917166184",
+        "in_reply_to_user_id": "1769282438940008448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011375169999356013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iuu_33i 正解！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769282438940008448",
+        "conversation_id": "2011367007409901691",
+        "created_at": "2026-01-14T09:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T10:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011375169999356013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011375169999356013",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011367007409901691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 三只小猫都这样萌！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪88/128 纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010591438627897389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 122,
+          "like_count": 1196,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 502
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-17T08:39:53.000Z",
+        "description": "INFP｜sub｜170/52｜恋痛｜暂不约实践｜主人&puppy的点滴🤍｜会时不时掉落惊喜照片🫧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iris17274",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iris17274",
+                "start": 0,
+                "url": "https://t.co/IN57Q5EzXN"
+              }
+            ]
+          }
+        },
+        "id": "1769282438940008448",
+        "location": "Tianjin",
+        "name": "_33",
+        "pinned_tweet_id": "1783914963909939326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982695474973843456/n5yMFP-a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 59,
+          "like_count": 2737,
+          "listed_count": 4,
+          "media_count": 18,
+          "tweet_count": 137
+        },
+        "url": "https://t.co/IN57Q5EzXN",
+        "username": "iuu_33i",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2010256334709723161",
+    "created_at": "2026-01-11T07:52:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T08:52:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010258431664685377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1739591003559088128",
+          "start": 0,
+          "username": "ShiYou62377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010258431664685377",
+    "in_reply_to_user_id": "1739591003559088128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010258214009614393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiYou62377 哎呀我亲(ˆ⸝⸝&gt;ꇴ&lt;ˆ)ε&lt;⸝⸝ˆ)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2010256334709723161",
+        "created_at": "2026-01-11T07:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T08:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010258431664685377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1739591003559088128",
+              "start": 0,
+              "username": "ShiYou62377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010258431664685377",
+        "in_reply_to_user_id": "1739591003559088128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010258214009614393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiYou62377 哎呀我亲(ˆ⸝⸝&gt;ꇴ&lt;ˆ)ε&lt;⸝⸝ˆ)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739591003559088128",
+        "conversation_id": "2010256334709723161",
+        "created_at": "2026-01-11T07:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T08:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010258214009614393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010258214009614393",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010256334709723161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT □暴躁的小女孩\n□坏坏的臭女人\n✓太萌了简直萌物◟(˶&gt; ᎑ &lt;˶)◞\n□其他问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "08丨萌脸骚丨od丨私信看心情回 请礼貌丨166 98不要私信问我了丨高频率发帖我好无聊丨我听点udg 可以和我一起听歌…",
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010215499150585985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 77,
+          "like_count": 620,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 147
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-26T10:16:37.000Z",
+        "description": "我叫小沋｜谢谢你来看我｜⬇️是匿名提问箱｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%B2%8B",
+                "start": 0,
+                "url": "https://t.co/l2NtAahPgL"
+              }
+            ]
+          }
+        },
+        "id": "1739591003559088128",
+        "location": "天堂",
+        "name": "十沋",
+        "pinned_tweet_id": "1993281196500103343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004983552673271808/qy2-b8Sx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 91,
+          "like_count": 9357,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 1397
+        },
+        "url": "https://t.co/l2NtAahPgL",
+        "username": "ShiYou62377",
+        "verified": false
+      }
+    ]
+  }
+}

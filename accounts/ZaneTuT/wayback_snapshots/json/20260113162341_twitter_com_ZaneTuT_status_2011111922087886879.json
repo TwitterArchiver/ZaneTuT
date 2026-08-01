@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2004978018385612800"
+      ],
+      "media_source_tweet_id": [
+        "2004978074371457443"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2011111922087886879",
+    "created_at": "2026-01-13T16:23:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T17:23:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011111922087886879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1841137446215471104",
+          "start": 3,
+          "username": "eespyaestt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JjO6GicOfU",
+          "end": 58,
+          "expanded_url": "https://x.com/eespyaestt/status/2004978074371457443/video/1",
+          "media_key": "13_2004978018385612800",
+          "start": 35,
+          "url": "https://t.co/JjO6GicOfU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011111922087886879",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3608
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004978074371457443",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "RT @eespyaestt: Princess treatment https://t.co/JjO6GicOfU"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2011111922087886879].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2011111922087886879",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2011111922087886879"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22082,
+        "height": 720,
+        "media_key": "13_2004978018385612800",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2004978018385612800/img/iq6eevd3dn9mAxMm.jpg",
+        "public_metrics": {
+          "view_count": 549238
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004978018385612800/vid/avc1/480x270/r3aTdoPSrvDmqC4s.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004978018385612800/vid/avc1/640x360/fCl6vrk_mFo1vr0p.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004978018385612800/vid/avc1/1280x720/5LSGeG0xkKwrd8at.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2004978018385612800/pl/2ZPQKV6H4449oynQ.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2004978018385612800"
+          ]
+        },
+        "author_id": "1841137446215471104",
+        "conversation_id": "2004978074371457443",
+        "created_at": "2025-12-27T18:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T19:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004978074371457443"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "Princess",
+              "probability": 0.581,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JjO6GicOfU",
+              "end": 42,
+              "expanded_url": "https://x.com/eespyaestt/status/2004978074371457443/video/1",
+              "media_key": "13_2004978018385612800",
+              "start": 19,
+              "url": "https://t.co/JjO6GicOfU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004978074371457443",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 12872,
+          "impression_count": 610535,
+          "like_count": 27739,
+          "quote_count": 140,
+          "reply_count": 0,
+          "retweet_count": 3608
+        },
+        "reply_settings": "verified",
+        "text": "Princess treatment https://t.co/JjO6GicOfU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪66纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010591438627897389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 106,
+          "like_count": 1030,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 425
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-01T15:26:01.000Z",
+        "description": "- aesthetic content - mostly inactive & archive for me - dm for only removal or cr.",
+        "id": "1841137446215471104",
+        "location": "ur wet pussy",
+        "name": "espy ✦ aest",
+        "pinned_tweet_id": "1841139782916735331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947825240668573696/JbPj-MfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36848,
+          "following_count": 145,
+          "like_count": 379,
+          "listed_count": 82,
+          "media_count": 121,
+          "tweet_count": 160
+        },
+        "username": "eespyaestt",
+        "verified": false
+      }
+    ]
+  }
+}

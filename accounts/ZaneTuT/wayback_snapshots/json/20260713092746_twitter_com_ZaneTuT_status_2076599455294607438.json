@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2076370946638668209",
+    "created_at": "2026-07-13T09:27:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T10:27:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076599455294607438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1926589725189476352",
+          "start": 0,
+          "username": "sandyyyy0922"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076599455294607438",
+    "in_reply_to_user_id": "1926589725189476352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076370946638668209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sandyyyy0922 这是个好事啊！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1298,
+        "media_key": "3_2076369526623465472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNC_FVjWcAAWtcF.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2076370946638668209",
+        "created_at": "2026-07-13T09:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T10:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076599455294607438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1926589725189476352",
+              "start": 0,
+              "username": "sandyyyy0922"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076599455294607438",
+        "in_reply_to_user_id": "1926589725189476352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076370946638668209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sandyyyy0922 这是个好事啊！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076369526623465472"
+          ]
+        },
+        "author_id": "1926589725189476352",
+        "conversation_id": "2076370946638668209",
+        "created_at": "2026-07-12T18:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T19:14:07.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076369529559531669",
+          "2076369926206464410",
+          "2076370946638668209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AEbfxQycMj",
+              "end": 144,
+              "expanded_url": "https://x.com/sandyyyy0922/status/2076370946638668209/photo/1",
+              "media_key": "3_2076369526623465472",
+              "start": 121,
+              "url": "https://t.co/AEbfxQycMj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076370946638668209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4927,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 46,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "OK OK射射大家的喜欢。无论是来看我激情对线战斗的还是欣赏我的普人容貌的。承蒙厚爱之…\n在这条下面评论+点赞 抽1个18.88🧧 2个9.99🧧 3个5.2🧧吧！小钱但是是本豆的心意 希望大家不要嫌弃之～\n北京时间7.14上午9:00开奖 https://t.co/AEbfxQycMj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨互fo免🚪丨💗算卦找@kill_this_hate 不准你打我丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 52,
+                "start": 44,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2075472000680911094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8008,
+          "following_count": 275,
+          "like_count": 6046,
+          "listed_count": 4,
+          "media_count": 38,
+          "tweet_count": 2611
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-25T10:42:55.000Z",
+        "description": "碎碎念+照片随机掉落+恋爱碎片｜07天秤｜叫我M豆或者豆就好｜Bisexual｜infj｜有老公/男友/哥哥/宝宝（同一个人）｜另一个豆@woxihuandaMdou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "woxihuandaMdou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "brothergo.com//lcel46/web?t=…",
+                "end": 23,
+                "expanded_url": "https://www.brothergo.com//lcel46/web?t=1780027673",
+                "start": 0,
+                "url": "https://t.co/9CCewqfogR"
+              }
+            ]
+          }
+        },
+        "id": "1926589725189476352",
+        "location": "M豆星",
+        "name": "黄色大M🫘",
+        "pinned_tweet_id": "2058565041256063190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926595280301875202/aWTzMjuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2119,
+          "following_count": 382,
+          "like_count": 3806,
+          "listed_count": 2,
+          "media_count": 367,
+          "tweet_count": 3540
+        },
+        "url": "https://t.co/9CCewqfogR",
+        "username": "sandyyyy0922",
+        "verified": true
+      }
+    ]
+  }
+}

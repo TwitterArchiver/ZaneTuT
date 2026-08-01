@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2038820543169003966",
+    "created_at": "2026-03-31T03:29:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T04:29:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038820972732760316"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038820972732760316",
+    "in_reply_to_user_id": "1997985969958699008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038820543169003966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得p4很神圣呀很可爱呀…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2038820532121178113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEtYeMnbEAEFycb.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038820532045721600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEtYeMVbsAARmi_.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1586,
+        "media_key": "3_2038820532049924096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEtYeMWb0AA48Sf.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2038820532033097728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEtYeMSbEAACEg1.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2038820543169003966",
+        "created_at": "2026-03-31T03:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T04:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038820972732760316"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038820972732760316",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038820543169003966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得p4很神圣呀很可爱呀…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038820532121178113",
+            "3_2038820532045721600",
+            "3_2038820532049924096",
+            "3_2038820532033097728"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2038820543169003966",
+        "created_at": "2026-03-31T03:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T04:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038820543169003966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6keCGhnuJd",
+              "end": 33,
+              "expanded_url": "https://x.com/ZaneTuT/status/2038820543169003966/photo/1",
+              "media_key": "3_2038820532121178113",
+              "start": 10,
+              "url": "https://t.co/6keCGhnuJd"
+            },
+            {
+              "display_url": "pic.x.com/6keCGhnuJd",
+              "end": 33,
+              "expanded_url": "https://x.com/ZaneTuT/status/2038820543169003966/photo/1",
+              "media_key": "3_2038820532045721600",
+              "start": 10,
+              "url": "https://t.co/6keCGhnuJd"
+            },
+            {
+              "display_url": "pic.x.com/6keCGhnuJd",
+              "end": 33,
+              "expanded_url": "https://x.com/ZaneTuT/status/2038820543169003966/photo/1",
+              "media_key": "3_2038820532049924096",
+              "start": 10,
+              "url": "https://t.co/6keCGhnuJd"
+            },
+            {
+              "display_url": "pic.x.com/6keCGhnuJd",
+              "end": 33,
+              "expanded_url": "https://x.com/ZaneTuT/status/2038820543169003966/photo/1",
+              "media_key": "3_2038820532033097728",
+              "start": 10,
+              "url": "https://t.co/6keCGhnuJd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038820543169003966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很可爱 请给我钱 https://t.co/6keCGhnuJd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5986,
+          "following_count": 288,
+          "like_count": 5679,
+          "listed_count": 3,
+          "media_count": 69,
+          "tweet_count": 2395
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

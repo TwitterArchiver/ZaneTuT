@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2010877317049172254",
+    "created_at": "2026-01-13T00:53:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T01:53:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010877899046600850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1625662182284468224",
+          "start": 0,
+          "username": "qaz24510269"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010877899046600850",
+    "in_reply_to_user_id": "1625662182284468224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010877855904014546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qaz24510269 哈哈哈哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2010877317049172254",
+        "created_at": "2026-01-13T00:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T01:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010877899046600850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1625662182284468224",
+              "start": 0,
+              "username": "qaz24510269"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010877899046600850",
+        "in_reply_to_user_id": "1625662182284468224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010877855904014546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qaz24510269 哈哈哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1625662182284468224",
+        "conversation_id": "2010877317049172254",
+        "created_at": "2026-01-13T00:53:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T01:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010877855904014546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010877855904014546",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010877317049172254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 卧槽链接发过来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "🚪66纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨我听点udg 可以和我一起听歌…",
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010215499150585985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 84,
+          "like_count": 839,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 281
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-15T01:04:14.000Z",
+        "description": "🍂",
+        "id": "1625662182284468224",
+        "location": "Macau",
+        "name": "qaz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1627572124515975168/Q_RKePfn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 220,
+          "like_count": 2927,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 270
+        },
+        "username": "qaz24510269",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027253025320951808"
+      ],
+      "media_source_tweet_id": [
+        "2027253030354104598"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2027604395555475940",
+    "created_at": "2026-02-28T04:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T05:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027604395555475940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1912573016380436483",
+          "start": 3,
+          "username": "ymeatuna"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kxw4CE1yZY",
+          "end": 65,
+          "expanded_url": "https://x.com/ymeatuna/status/2027253030354104598/photo/1",
+          "media_key": "3_2027253025320951808",
+          "start": 42,
+          "url": "https://t.co/Kxw4CE1yZY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027604395555475940",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027253030354104598",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ymeatuna: 读私信有感：你们是怎么做到对着我这么阳痿的头像发骚的？ https://t.co/Kxw4CE1yZY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1253,
+        "media_key": "3_2027253025320951808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCI_4rwXYAAQTQt.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027253025320951808"
+          ],
+          "media_source_tweet_id": [
+            "2027253030354104598"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2027604395555475940",
+        "created_at": "2026-02-28T04:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T05:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027604395555475940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1912573016380436483",
+              "start": 3,
+              "username": "ymeatuna"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kxw4CE1yZY",
+              "end": 65,
+              "expanded_url": "https://x.com/ymeatuna/status/2027253030354104598/photo/1",
+              "media_key": "3_2027253025320951808",
+              "start": 42,
+              "url": "https://t.co/Kxw4CE1yZY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027604395555475940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027253030354104598",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ymeatuna: 读私信有感：你们是怎么做到对着我这么阳痿的头像发骚的？ https://t.co/Kxw4CE1yZY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027253025320951808"
+          ]
+        },
+        "author_id": "1912573016380436483",
+        "conversation_id": "2027253030354104598",
+        "created_at": "2026-02-27T05:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T06:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027253030354104598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kxw4CE1yZY",
+              "end": 51,
+              "expanded_url": "https://x.com/ymeatuna/status/2027253030354104598/photo/1",
+              "media_key": "3_2027253025320951808",
+              "start": 28,
+              "url": "https://t.co/Kxw4CE1yZY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027253030354104598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9036,
+          "like_count": 127,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "读私信有感：你们是怎么做到对着我这么阳痿的头像发骚的？ https://t.co/Kxw4CE1yZY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5099,
+          "following_count": 234,
+          "like_count": 4063,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 1864
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-16T18:25:25.000Z",
+        "description": "这里是sxw的剪贴板/防走丢@Ju1eppp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "Ju1eppp"
+              }
+            ]
+          }
+        },
+        "id": "1912573016380436483",
+        "location": "6.8km",
+        "name": "水腥味",
+        "pinned_tweet_id": "1988450581145395353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023754795828293632/lLkkKNvL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 98,
+          "like_count": 824,
+          "listed_count": 1,
+          "media_count": 323,
+          "tweet_count": 2243
+        },
+        "username": "ymeatuna",
+        "verified": false
+      }
+    ]
+  }
+}

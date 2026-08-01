@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2013838293612556600",
+    "created_at": "2026-01-21T04:58:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T05:58:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013838679366938930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1845304648313323522",
+          "start": 0,
+          "username": "55juzi55_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013838679366938930",
+    "in_reply_to_user_id": "1845304648313323522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013838293612556600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@55juzi55_ 洗耳恭听 欣欣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2221,
+        "media_key": "3_2013838290546458624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_KXQWcaAAAJxBR.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2013838293612556600",
+        "created_at": "2026-01-21T04:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T05:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013838679366938930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1845304648313323522",
+              "start": 0,
+              "username": "55juzi55_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013838679366938930",
+        "in_reply_to_user_id": "1845304648313323522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013838293612556600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@55juzi55_ 洗耳恭听 欣欣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013838290546458624"
+          ]
+        },
+        "author_id": "1845304648313323522",
+        "conversation_id": "2013838293612556600",
+        "created_at": "2026-01-21T04:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T05:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013838293612556600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/116rh28vQX",
+              "end": 160,
+              "expanded_url": "https://x.com/55juzi55_/status/2013838293612556600/photo/1",
+              "media_key": "3_2013838290546458624",
+              "start": 137,
+              "url": "https://t.co/116rh28vQX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013838293612556600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猪头...emmmm人身攻击就人身攻击吧，说我丑就丑吧，虽然我知道我长得不怎么样，但是我还真没有容貌焦虑，爹妈给的没办法，各位女宝宝们如果被他骚扰了直接拉黑就好了，这种人就像是狗💩，你回复他他反倒来劲，估计就是现实生活太不顺了，直接拉黑就好了，我有一个报复计划，评论区说😈 https://t.co/116rh28vQX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪128 纯绿丨有的文案不是原创别攻击我TuT丨08丨od丨私信看心情回丨高频率发帖我好无聊丨互fo可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "一说话就扯溃疡",
+        "pinned_tweet_id": "2013559742573224427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1837,
+          "following_count": 146,
+          "like_count": 2212,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 998
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T03:25:04.000Z",
+        "description": "只回粉丝丨欢迎找我聊天丨当朋友圈发丨非著名鉴🐔家丨🚪可加联系方式丨欢迎美女宝宝互关丨接陪玩丨喜欢帅哥美女丨礼貌一点互相尊重谢谢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aqa.link/xxin22139",
+                "end": 23,
+                "expanded_url": "https://aqa.link/xxin22139",
+                "start": 0,
+                "url": "https://t.co/puLJY6VgnI"
+              }
+            ]
+          }
+        },
+        "id": "1845304648313323522",
+        "location": "🚪188/520没什么实际区别 无任何抵扣",
+        "name": "欣欣",
+        "pinned_tweet_id": "2013069149870637529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924989316138467328/bwN8esp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 38,
+          "like_count": 776,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 642
+        },
+        "url": "https://t.co/puLJY6VgnI",
+        "username": "55juzi55_",
+        "verified": false
+      }
+    ]
+  }
+}

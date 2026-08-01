@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2038837287476432987",
+    "created_at": "2026-03-31T06:28:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T07:28:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038865904432566466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1807557409503883264",
+          "start": 0,
+          "username": "jjjkkk8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038865904432566466",
+    "in_reply_to_user_id": "1807557409503883264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038865685234024753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jjjkkk8964 唉！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2038837287476432987",
+        "created_at": "2026-03-31T06:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T07:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038865904432566466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1807557409503883264",
+              "start": 0,
+              "username": "jjjkkk8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038865904432566466",
+        "in_reply_to_user_id": "1807557409503883264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038865685234024753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jjjkkk8964 唉！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807557409503883264",
+        "conversation_id": "2038837287476432987",
+        "created_at": "2026-03-31T06:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T07:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038865685234024753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038865685234024753",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038837287476432987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 劝删 这期我有个朋友破防了。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5988,
+          "following_count": 288,
+          "like_count": 5683,
+          "listed_count": 3,
+          "media_count": 65,
+          "tweet_count": 2403
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-30T23:30:58.000Z",
+        "description": "不正常人｜仅晚上在线｜发推只是碎碎念不喜欢可以屏蔽｜喜欢各种台本",
+        "id": "1807557409503883264",
+        "name": "kk",
+        "pinned_tweet_id": "1961115278965866618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022416027037110273/p7haU6ou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 43,
+          "like_count": 4066,
+          "listed_count": 0,
+          "media_count": 241,
+          "tweet_count": 2601
+        },
+        "username": "jjjkkk8964",
+        "verified": false
+      }
+    ]
+  }
+}

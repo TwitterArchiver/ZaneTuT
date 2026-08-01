@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2004595191039267276",
+    "created_at": "2026-01-30T05:55:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T06:55:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017114480849956873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1875024920318713856",
+          "start": 0,
+          "username": "CoAd1ceking"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017114480849956873",
+    "in_reply_to_user_id": "1875024920318713856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004595191039267276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CoAd1ceking 接！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1030,
+        "media_key": "3_2004595188078116865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9HAs-fagAEZ7uN.jpg",
+        "width": 2098
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2004595191039267276",
+        "created_at": "2026-01-30T05:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T06:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017114480849956873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1875024920318713856",
+              "start": 0,
+              "username": "CoAd1ceking"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017114480849956873",
+        "in_reply_to_user_id": "1875024920318713856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004595191039267276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CoAd1ceking 接！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004595188078116865"
+          ]
+        },
+        "author_id": "1875024920318713856",
+        "conversation_id": "2004595191039267276",
+        "created_at": "2025-12-26T16:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T17:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004595191039267276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vQgdWS6w9Y",
+              "end": 29,
+              "expanded_url": "https://x.com/CoAd1ceking/status/2004595191039267276/photo/1",
+              "media_key": "3_2004595188078116865",
+              "start": 6,
+              "url": "https://t.co/vQgdWS6w9Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004595191039267276",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1523,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也是拍上了 https://t.co/vQgdWS6w9Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心丨08丨od丨私信看心情回丨高频率发帖丨互fo可以直接➕V丨我听点udg sasi很多很多丨我皮下非常没有素质别惹我了行吗丨算卦找@kill_this_hate💗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              },
+              {
+                "end": 106,
+                "start": 91,
+                "username": "kill_this_hate"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2894,
+          "following_count": 179,
+          "like_count": 2947,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 1343
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T03:42:37.000Z",
+        "description": "=我永远在你眼里是那种家伙｜不知道叫我什么可以叫我恋恋｜",
+        "id": "1875024920318713856",
+        "name": "性单恋",
+        "pinned_tweet_id": "1918503448506691674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017103676373131264/Gw__KWyx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 161,
+          "like_count": 21469,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 3896
+        },
+        "username": "CoAd1ceking",
+        "verified": false
+      }
+    ]
+  }
+}

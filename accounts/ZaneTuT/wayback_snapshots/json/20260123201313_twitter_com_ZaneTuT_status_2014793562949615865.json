@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2014645386707661272",
+    "created_at": "2026-01-23T20:13:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T21:13:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014793562949615865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1605220341134946306",
+          "start": 0,
+          "username": "zttttt1232"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014793562949615865",
+    "in_reply_to_user_id": "1605220341134946306",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014792315584266429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zttttt1232 对！这个果韵真是难抽死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2014792302057639936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_X67IRWUAASk6W.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2014792302095400960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_X67IaWgAAVtFq.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2014645386707661272",
+        "created_at": "2026-01-23T20:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T21:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014793562949615865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1605220341134946306",
+              "start": 0,
+              "username": "zttttt1232"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014793562949615865",
+        "in_reply_to_user_id": "1605220341134946306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014792315584266429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zttttt1232 对！这个果韵真是难抽死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014792302057639936",
+            "3_2014792302095400960"
+          ]
+        },
+        "author_id": "1605220341134946306",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2014645386707661272",
+        "created_at": "2026-01-23T20:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T21:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014792315584266429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/biYmJ13HWc",
+              "end": 42,
+              "expanded_url": "https://x.com/zttttt1232/status/2014792315584266429/photo/1",
+              "media_key": "3_2014792302057639936",
+              "start": 19,
+              "url": "https://t.co/biYmJ13HWc"
+            },
+            {
+              "display_url": "pic.x.com/biYmJ13HWc",
+              "end": 42,
+              "expanded_url": "https://x.com/zttttt1232/status/2014792315584266429/photo/1",
+              "media_key": "3_2014792302095400960",
+              "start": 19,
+              "url": "https://t.co/biYmJ13HWc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014792315584266429",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014645386707661272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 我去。好看但难抽。 https://t.co/biYmJ13HWc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心丨08丨od丨私信看心情回丨高频率发帖丨互fo可以直接➕V丨我听点udg sasi很多很多丨我皮下非常没有素质别惹我了行吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2370,
+          "following_count": 164,
+          "like_count": 2574,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 1192
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-20T15:15:36.000Z",
+        "description": "不看🐣 发就拉黑❕ 废话很多介意取关｜私信只回口令88 188 520｜不互关❕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zttt35764",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zttt35764",
+                "start": 0,
+                "url": "https://t.co/TYmvicQDDC"
+              }
+            ]
+          }
+        },
+        "id": "1605220341134946306",
+        "name": "Wa",
+        "pinned_tweet_id": "2011040304183591021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930678559456337920/fMRR6PGm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2038,
+          "following_count": 6,
+          "like_count": 1508,
+          "listed_count": 7,
+          "media_count": 20,
+          "tweet_count": 175
+        },
+        "url": "https://t.co/TYmvicQDDC",
+        "username": "zttttt1232",
+        "verified": false
+      }
+    ]
+  }
+}

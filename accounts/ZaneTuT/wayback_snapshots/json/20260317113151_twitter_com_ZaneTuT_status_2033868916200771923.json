@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2033867544855982361",
+    "created_at": "2026-03-17T11:31:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T12:31:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033868916200771923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1882013113949855744",
+          "start": 0,
+          "username": "endless_37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033868916200771923",
+    "in_reply_to_user_id": "1882013113949855744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033868713007714332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@endless_37 世界坏 类类好…TuT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2033867544855982361",
+        "created_at": "2026-03-17T11:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T12:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033868916200771923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882013113949855744",
+              "start": 0,
+              "username": "endless_37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033868916200771923",
+        "in_reply_to_user_id": "1882013113949855744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033868713007714332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@endless_37 世界坏 类类好…TuT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882013113949855744",
+        "conversation_id": "2033867544855982361",
+        "created_at": "2026-03-17T11:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T12:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033868713007714332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033868713007714332",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033867544855982361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 不会的小溃疡 你的敏感只是因为没有人愿意去包容你的一些错误。我希望你不要贬低自己 也希望你会遇到那个包容你的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5470,
+          "following_count": 281,
+          "like_count": 4916,
+          "listed_count": 3,
+          "media_count": 62,
+          "tweet_count": 2066
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T10:31:17.000Z",
+        "description": "旧情人的泪做的香水",
+        "id": "1882013113949855744",
+        "name": "人类",
+        "pinned_tweet_id": "2032735833246364147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022447638269038594/-d9lp5ZG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 102,
+          "like_count": 648,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 526
+        },
+        "username": "endless_37",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2041044642683039947",
+    "created_at": "2026-04-06T14:02:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T15:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041154485070737438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1906360034725961728",
+          "start": 0,
+          "username": "Xiaoyou_329"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041154485070737438",
+    "in_reply_to_user_id": "1906360034725961728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041044642683039947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaoyou_329 千万别来威海呀小由TuT没有任何可玩。火炬八街只是一条普通的马路而已 布鲁威斯号只是一艘破船而已。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2041044642683039947",
+        "created_at": "2026-04-06T14:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T15:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041154485070737438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041154485070737438",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041044642683039947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 千万别来威海呀小由TuT没有任何可玩。火炬八街只是一条普通的马路而已 布鲁威斯号只是一艘破船而已。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2041044642683039947",
+        "created_at": "2026-04-06T06:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T07:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041044642683039947"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041044642683039947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5633,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2000大概能去哪旅游一趟…？还是说买大疆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨我真的不爱回消息 太累丨08丨od丨中抑中焦丨互fo免🚪丨我听点udg sasi很多很多丨两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 57,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6187,
+          "following_count": 294,
+          "like_count": 6146,
+          "listed_count": 3,
+          "media_count": 94,
+          "tweet_count": 2574
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13642,
+          "following_count": 161,
+          "like_count": 7412,
+          "listed_count": 20,
+          "media_count": 794,
+          "tweet_count": 6318
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

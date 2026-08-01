@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039689831152787456",
+        "3_2039689831148556288",
+        "3_2039689831148589056",
+        "3_2039689831295664128"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2039689852522770702",
+    "created_at": "2026-04-02T13:02:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T14:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039689852522770702"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5PLJh7CB52",
+          "end": 25,
+          "expanded_url": "https://x.com/ZaneTuT/status/2039689852522770702/photo/1",
+          "media_key": "3_2039689831152787456",
+          "start": 2,
+          "url": "https://t.co/5PLJh7CB52"
+        },
+        {
+          "display_url": "pic.x.com/5PLJh7CB52",
+          "end": 25,
+          "expanded_url": "https://x.com/ZaneTuT/status/2039689852522770702/photo/1",
+          "media_key": "3_2039689831148556288",
+          "start": 2,
+          "url": "https://t.co/5PLJh7CB52"
+        },
+        {
+          "display_url": "pic.x.com/5PLJh7CB52",
+          "end": 25,
+          "expanded_url": "https://x.com/ZaneTuT/status/2039689852522770702/photo/1",
+          "media_key": "3_2039689831148589056",
+          "start": 2,
+          "url": "https://t.co/5PLJh7CB52"
+        },
+        {
+          "display_url": "pic.x.com/5PLJh7CB52",
+          "end": 25,
+          "expanded_url": "https://x.com/ZaneTuT/status/2039689852522770702/photo/1",
+          "media_key": "3_2039689831295664128",
+          "start": 2,
+          "url": "https://t.co/5PLJh7CB52"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039689852522770702",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "6 https://t.co/5PLJh7CB52"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039689831152787456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE5vGD3WoAAD9aT.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039689831148556288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE5vGD2WEAARro_.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039689831148589056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE5vGD2WkAAuPTx.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039689831295664128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE5vGEZawAATIaY.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039689831152787456",
+            "3_2039689831148556288",
+            "3_2039689831148589056",
+            "3_2039689831295664128"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039689852522770702",
+        "created_at": "2026-04-02T13:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T14:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039689852522770702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5PLJh7CB52",
+              "end": 25,
+              "expanded_url": "https://x.com/ZaneTuT/status/2039689852522770702/photo/1",
+              "media_key": "3_2039689831152787456",
+              "start": 2,
+              "url": "https://t.co/5PLJh7CB52"
+            },
+            {
+              "display_url": "pic.x.com/5PLJh7CB52",
+              "end": 25,
+              "expanded_url": "https://x.com/ZaneTuT/status/2039689852522770702/photo/1",
+              "media_key": "3_2039689831148556288",
+              "start": 2,
+              "url": "https://t.co/5PLJh7CB52"
+            },
+            {
+              "display_url": "pic.x.com/5PLJh7CB52",
+              "end": 25,
+              "expanded_url": "https://x.com/ZaneTuT/status/2039689852522770702/photo/1",
+              "media_key": "3_2039689831148589056",
+              "start": 2,
+              "url": "https://t.co/5PLJh7CB52"
+            },
+            {
+              "display_url": "pic.x.com/5PLJh7CB52",
+              "end": 25,
+              "expanded_url": "https://x.com/ZaneTuT/status/2039689852522770702/photo/1",
+              "media_key": "3_2039689831295664128",
+              "start": 2,
+              "url": "https://t.co/5PLJh7CB52"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039689852522770702",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "6 https://t.co/5PLJh7CB52"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨08丨od丨中抑中焦丨互fo免🚪丨我听点udg sasi很多很多丨两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 45,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6216,
+          "following_count": 291,
+          "like_count": 5991,
+          "listed_count": 4,
+          "media_count": 90,
+          "tweet_count": 2529
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

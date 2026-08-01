@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020514654779555840"
+      ],
+      "media_source_tweet_id": [
+        "2020514665059508276"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2020729917256896979",
+    "created_at": "2026-02-09T05:22:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T06:22:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020729917256896979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2000126709375623168",
+          "start": 3,
+          "username": "Miharuka_47"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1zH8sIHCUd",
+          "end": 52,
+          "expanded_url": "https://x.com/Miharuka_47/status/2020514665059508276/photo/1",
+          "media_key": "3_2020514654779555840",
+          "start": 29,
+          "url": "https://t.co/1zH8sIHCUd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020729917256896979",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020514665059508276",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miharuka_47: 孩子们我有点想吃薯条。 https://t.co/1zH8sIHCUd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1355,
+        "media_key": "3_2020514654779555840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HApPX5WbQAAC4U7.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020514654779555840"
+          ],
+          "media_source_tweet_id": [
+            "2020514665059508276"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2020729917256896979",
+        "created_at": "2026-02-09T05:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T06:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020729917256896979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2000126709375623168",
+              "start": 3,
+              "username": "Miharuka_47"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1zH8sIHCUd",
+              "end": 52,
+              "expanded_url": "https://x.com/Miharuka_47/status/2020514665059508276/photo/1",
+              "media_key": "3_2020514654779555840",
+              "start": 29,
+              "url": "https://t.co/1zH8sIHCUd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020729917256896979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020514665059508276",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miharuka_47: 孩子们我有点想吃薯条。 https://t.co/1zH8sIHCUd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020514654779555840"
+          ]
+        },
+        "author_id": "2000126709375623168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2020514665059508276",
+        "created_at": "2026-02-08T15:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T16:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020514665059508276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1zH8sIHCUd",
+              "end": 35,
+              "expanded_url": "https://x.com/Miharuka_47/status/2020514665059508276/photo/1",
+              "media_key": "3_2020514654779555840",
+              "start": 12,
+              "url": "https://t.co/1zH8sIHCUd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020514665059508276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4864,
+          "like_count": 291,
+          "quote_count": 4,
+          "reply_count": 14,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们我有点想吃薯条。 https://t.co/1zH8sIHCUd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3521,
+          "following_count": 204,
+          "like_count": 3473,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1569
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-14T08:52:36.000Z",
+        "description": "就一破发抽象文案碎碎念的。别性骚扰我。 | 心的距離是遙不可及。 ❤︎•┈ ❤︎ ⋅⋯ together ⋯⋅ ❤︎ ┈•❤︎",
+        "id": "2000126709375623168",
+        "name": "夢遙",
+        "pinned_tweet_id": "2018398587890409558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015483655137918976/sU1eoINa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2552,
+          "following_count": 165,
+          "like_count": 4985,
+          "listed_count": 6,
+          "media_count": 124,
+          "tweet_count": 1363
+        },
+        "username": "Miharuka_47",
+        "verified": false
+      }
+    ]
+  }
+}

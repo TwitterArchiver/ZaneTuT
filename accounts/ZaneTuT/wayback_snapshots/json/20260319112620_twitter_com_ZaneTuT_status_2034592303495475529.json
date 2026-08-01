@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2034592212793573376"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2034592303495475529",
+    "created_at": "2026-03-19T11:26:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T12:26:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034592303495475529"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fVBw2yslja",
+          "end": 44,
+          "expanded_url": "https://x.com/ZaneTuT/status/2034592303495475529/video/1",
+          "media_key": "13_2034592212793573376",
+          "start": 21,
+          "url": "https://t.co/fVBw2yslja"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034592303495475529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有人知道我气成啥样了吗 队友你故意的吗。 https://t.co/fVBw2yslja"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9871,
+        "height": 590,
+        "media_key": "13_2034592212793573376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2034592212793573376/img/yhuwmjlzs5nuCkj7.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034592212793573376/vid/avc1/584x270/YtIYynBvvE2iWV5I.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034592212793573376/vid/avc1/780x360/yQPNpCHiKDFdTXq6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034592212793573376/vid/avc1/1280x590/McVQU6TLe1lk3Zx5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2034592212793573376/pl/7XTg9Zi6znmHZp_6.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2034592212793573376"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2034592303495475529",
+        "created_at": "2026-03-19T11:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T12:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034592303495475529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fVBw2yslja",
+              "end": 44,
+              "expanded_url": "https://x.com/ZaneTuT/status/2034592303495475529/video/1",
+              "media_key": "13_2034592212793573376",
+              "start": 21,
+              "url": "https://t.co/fVBw2yslja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034592303495475529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人知道我气成啥样了吗 队友你故意的吗。 https://t.co/fVBw2yslja"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5504,
+          "following_count": 285,
+          "like_count": 5037,
+          "listed_count": 3,
+          "media_count": 64,
+          "tweet_count": 2092
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

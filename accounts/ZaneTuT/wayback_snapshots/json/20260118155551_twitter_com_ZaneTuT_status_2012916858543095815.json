@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2012763728979386641",
+    "created_at": "2026-01-18T15:55:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T16:55:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012916858543095815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1922213296998141952",
+          "start": 0,
+          "username": "sakana_022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012916858543095815",
+    "in_reply_to_user_id": "1922213296998141952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012916286754373716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakana_022 🥺🥺🥺我一直哭 你真好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2012763728979386641",
+        "created_at": "2026-01-18T15:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T16:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012916858543095815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1922213296998141952",
+              "start": 0,
+              "username": "sakana_022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012916858543095815",
+        "in_reply_to_user_id": "1922213296998141952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012916286754373716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakana_022 🥺🥺🥺我一直哭 你真好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922213296998141952",
+        "conversation_id": "2012763728979386641",
+        "created_at": "2026-01-18T15:53:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T16:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012916286754373716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012916286754373716",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012763728979386641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 不必怀疑自己错误的感情经历可以引导你看清很多但是不要因为这些就贬低自己…好吗每一个人都是多面性的，只是恰巧对方不好的我们不喜欢的方面展现出来了。日渐相处中相互的缺点就暴露出来，这是无法避免的呀！唉人生的主旋律就是这样吧大概！但是不要不要妄自菲薄！坚信你很好是他们不好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪128 纯绿丨有的文案不是原创别攻击我TuT丨08丨od丨私信看心情回丨高频率发帖我好无聊丨互fo可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2011423750164725893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1101,
+          "following_count": 133,
+          "like_count": 1787,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 809
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-13T08:52:26.000Z",
+        "description": "ᯠ_   ̫ _ᯄ",
+        "id": "1922213296998141952",
+        "name": "我一点也不坏",
+        "pinned_tweet_id": "2012603593178619975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011431010769248256/22K4tuop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 81,
+          "like_count": 786,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 516
+        },
+        "username": "sakana_022",
+        "verified": false
+      }
+    ]
+  }
+}

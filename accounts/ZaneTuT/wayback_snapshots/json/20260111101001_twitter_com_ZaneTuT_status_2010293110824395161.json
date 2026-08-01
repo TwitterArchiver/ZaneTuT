@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2010293110824395161",
+    "created_at": "2026-01-11T10:10:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T11:10:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010293110824395161"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cldeop/status/…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/cldeop/status/2009965344681844805",
+          "start": 14,
+          "url": "https://t.co/TzegvJYU6e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010293110824395161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009965344681844805",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有病啊弄的我一直鸡吧的傻乐 https://t.co/TzegvJYU6e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1356,
+        "media_key": "3_2009965336733601792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-TU0xLa0AAGoWe.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2010293110824395161",
+        "created_at": "2026-01-11T10:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T11:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010293110824395161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cldeop/status/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/cldeop/status/2009965344681844805",
+              "start": 14,
+              "url": "https://t.co/TzegvJYU6e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010293110824395161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009965344681844805",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有病啊弄的我一直鸡吧的傻乐 https://t.co/TzegvJYU6e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009965336733601792"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2009965344681844805",
+        "created_at": "2026-01-10T12:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T13:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009965344681844805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MS8Eu7VKPo",
+              "end": 23,
+              "expanded_url": "https://x.com/Cldeop/status/2009965344681844805/photo/1",
+              "media_key": "3_2009965336733601792",
+              "start": 0,
+              "url": "https://t.co/MS8Eu7VKPo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009965344681844805",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 26731,
+          "like_count": 514,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MS8Eu7VKPo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨我听点udg 可以和我一起听歌…",
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010215499150585985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 78,
+          "like_count": 646,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 161
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2006394934333710386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97834,
+          "following_count": 676,
+          "like_count": 33700,
+          "listed_count": 273,
+          "media_count": 14885,
+          "tweet_count": 21522
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

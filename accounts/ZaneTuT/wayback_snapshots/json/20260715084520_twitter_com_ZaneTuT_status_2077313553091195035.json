@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2077189032438813118",
+    "created_at": "2026-07-15T08:45:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T09:45:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077313553091195035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1944941332658847744",
+          "start": 0,
+          "username": "xiaoyuyuyuyu0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077313553091195035",
+    "in_reply_to_user_id": "1944941332658847744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077271270820032906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyuyuyuyu0 好讨厌！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2077189032438813118",
+        "created_at": "2026-07-15T08:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T09:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077313553091195035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1944941332658847744",
+              "start": 0,
+              "username": "xiaoyuyuyuyu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077313553091195035",
+        "in_reply_to_user_id": "1944941332658847744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077271270820032906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyuyuyuyu0 好讨厌！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944941332658847744",
+        "conversation_id": "2077189032438813118",
+        "created_at": "2026-07-15T05:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T06:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077271270820032906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077271270820032906",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077189032438813118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 我也不喜欢夏天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨互fo免🚪丨💗算卦找@kill_this_hate 不准你打我丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 52,
+                "start": 44,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2075472000680911094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8029,
+          "following_count": 276,
+          "like_count": 6095,
+          "listed_count": 4,
+          "media_count": 39,
+          "tweet_count": 2625
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-15T02:05:41.000Z",
+        "description": "是男娘哦😋158门门哦加v或q附赠视频图包。除推、飞机、抖之外无其他平台账号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn2.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn2.net/#/register?code=CuHFedDb",
+                "start": 0,
+                "url": "https://t.co/JQK4qTlcFG"
+              }
+            ]
+          }
+        },
+        "id": "1944941332658847744",
+        "location": "北京",
+        "name": "咪啦",
+        "pinned_tweet_id": "1958177110700269755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008126985785253888/WoAWhMsT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5999,
+          "following_count": 147,
+          "like_count": 110,
+          "listed_count": 34,
+          "media_count": 148,
+          "tweet_count": 358
+        },
+        "url": "https://t.co/JQK4qTlcFG",
+        "username": "xiaoyuyuyuyu0",
+        "verified": false
+      }
+    ]
+  }
+}

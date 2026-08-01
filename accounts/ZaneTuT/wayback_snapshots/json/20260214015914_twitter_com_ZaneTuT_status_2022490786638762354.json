@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022490773175119872"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2016808067611185235",
+    "created_at": "2026-02-14T01:59:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T02:59:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022490786638762354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1962794475274805248",
+          "start": 0,
+          "username": "cutezm107"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9GSd1iPb1t",
+          "end": 38,
+          "expanded_url": "https://x.com/ZaneTuT/status/2022490786638762354/photo/1",
+          "media_key": "3_2022490773175119872",
+          "start": 15,
+          "url": "https://t.co/9GSd1iPb1t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022490786638762354",
+    "in_reply_to_user_id": "1962794475274805248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016808067611185235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cutezm107 怎？？ https://t.co/9GSd1iPb1t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022490773175119872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBFUpICbsAATbE1.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016808039467343872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_0kOfSaYAAz9dA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022490773175119872"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2016808067611185235",
+        "created_at": "2026-02-14T01:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T02:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022490786638762354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962794475274805248",
+              "start": 0,
+              "username": "cutezm107"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9GSd1iPb1t",
+              "end": 38,
+              "expanded_url": "https://x.com/ZaneTuT/status/2022490786638762354/photo/1",
+              "media_key": "3_2022490773175119872",
+              "start": 15,
+              "url": "https://t.co/9GSd1iPb1t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022490786638762354",
+        "in_reply_to_user_id": "1962794475274805248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016808067611185235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cutezm107 怎？？ https://t.co/9GSd1iPb1t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016808039467343872"
+          ]
+        },
+        "author_id": "1962794475274805248",
+        "conversation_id": "2016808067611185235",
+        "created_at": "2026-01-29T09:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T10:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016808067611185235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GfsqVG2oAd",
+              "end": 27,
+              "expanded_url": "https://x.com/cutezm107/status/2016808067611185235/photo/1",
+              "media_key": "3_2016808039467343872",
+              "start": 4,
+              "url": "https://t.co/GfsqVG2oAd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016808067611185235",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 551,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎？？ https://t.co/GfsqVG2oAd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3963,
+          "following_count": 214,
+          "like_count": 3603,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 1641
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-02T08:27:36.000Z",
+        "description": "对我很疏远是怎么啦",
+        "id": "1962794475274805248",
+        "name": "_",
+        "pinned_tweet_id": "1981380882301931950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010775899931885574/mdUbf7ie_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 62,
+          "like_count": 1692,
+          "listed_count": 7,
+          "media_count": 48,
+          "tweet_count": 526
+        },
+        "username": "cutezm107",
+        "verified": false
+      }
+    ]
+  }
+}

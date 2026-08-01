@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2031019204946936296",
+    "created_at": "2026-03-09T14:48:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T15:48:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031019204946936296"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/osaka0317/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/osaka0317/status/2030916792160591962",
+          "start": 6,
+          "url": "https://t.co/BKrCQhiDzC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031019204946936296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030916792160591962",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不早说啊。 https://t.co/BKrCQhiDzC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2031019204946936296",
+        "created_at": "2026-03-09T14:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T15:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031019204946936296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/osaka0317/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/osaka0317/status/2030916792160591962",
+              "start": 6,
+              "url": "https://t.co/BKrCQhiDzC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031019204946936296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030916792160591962",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不早说啊。 https://t.co/BKrCQhiDzC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902347749749895168",
+        "conversation_id": "2030916792160591962",
+        "created_at": "2026-03-09T08:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T09:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030916792160591962"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030916792160591962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7396,
+          "like_count": 195,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "原来你们点赞是暗示想交朋友啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5293,
+          "following_count": 267,
+          "like_count": 4405,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 1963
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T13:14:00.000Z",
+        "description": "最后大家都会死的",
+        "id": "1902347749749895168",
+        "name": "kana",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935637676985839616/LvKoQJIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 41,
+          "like_count": 421,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1037
+        },
+        "username": "osaka0317",
+        "verified": false
+      }
+    ]
+  }
+}

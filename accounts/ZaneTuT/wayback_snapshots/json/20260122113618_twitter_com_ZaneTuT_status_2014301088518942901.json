@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014301076259008512"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2014300477807370560",
+    "created_at": "2026-01-22T11:36:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T12:36:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014301088518942901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1679525138193063936",
+          "start": 0,
+          "username": "vitaneee31382"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i9XCJ67Y6a",
+          "end": 43,
+          "expanded_url": "https://x.com/ZaneTuT/status/2014301088518942901/photo/1",
+          "media_key": "3_2014301076259008512",
+          "start": 20,
+          "url": "https://t.co/i9XCJ67Y6a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014301088518942901",
+    "in_reply_to_user_id": "1679525138193063936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014300942842417382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vitaneee31382 我害怕！ https://t.co/i9XCJ67Y6a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2014301076259008512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Q8KBka8AAl0fg.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014301076259008512"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2014300477807370560",
+        "created_at": "2026-01-22T11:36:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T12:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014301088518942901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1679525138193063936",
+              "start": 0,
+              "username": "vitaneee31382"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i9XCJ67Y6a",
+              "end": 43,
+              "expanded_url": "https://x.com/ZaneTuT/status/2014301088518942901/photo/1",
+              "media_key": "3_2014301076259008512",
+              "start": 20,
+              "url": "https://t.co/i9XCJ67Y6a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014301088518942901",
+        "in_reply_to_user_id": "1679525138193063936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014300942842417382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vitaneee31382 我害怕！ https://t.co/i9XCJ67Y6a"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679525138193063936",
+        "conversation_id": "2014300477807370560",
+        "created_at": "2026-01-22T11:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T12:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014300942842417382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014300942842417382",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014300477807370560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 补药啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心丨08丨od丨私信看心情回丨高频率发帖丨互fo可以直接➕V丨我听点udg sasi很多很多丨我皮下非常没有素质别惹我了行吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2201,
+          "following_count": 159,
+          "like_count": 2419,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 1134
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T16:16:27.000Z",
+        "description": "⬆️无人在意无人喜欢的brat｜一只小蝙蝠⩌⌯⩌ 160-55-21｜每天都在发奇奇怪怪的东西-请随意私信-非互关不闲聊（打钱另说）-照片在媒体₊⁺ ♡̶₊⁺💌 信箱📪 https://t.co/f0yBpzGiKI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bat56383",
+                "end": 108,
+                "expanded_url": "https://ngl.link/bat56383",
+                "start": 85,
+                "url": "https://t.co/f0yBpzGiKI"
+              }
+            ]
+          }
+        },
+        "id": "1679525138193063936",
+        "location": "距您-10m",
+        "name": "吾乃天之饺子",
+        "pinned_tweet_id": "2014266613651136534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010904942077493249/j_hbLhdK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 82,
+          "like_count": 846,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 544
+        },
+        "username": "vitaneee31382",
+        "verified": false
+      }
+    ]
+  }
+}

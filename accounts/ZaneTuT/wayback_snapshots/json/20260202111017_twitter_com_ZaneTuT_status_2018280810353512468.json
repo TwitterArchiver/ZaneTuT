@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2018254142691815703",
+    "created_at": "2026-02-02T11:10:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T12:10:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018280810353512468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1622226629136367674",
+          "start": 0,
+          "username": "kexuejiazhuang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018280810353512468",
+    "in_reply_to_user_id": "1622226629136367674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018254142691815703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kexuejiazhuang 哎呀卧槽！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2018254128255029248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAJHb70bUAAGcUG.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2018254142691815703",
+        "created_at": "2026-02-02T11:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T12:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018280810353512468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1622226629136367674",
+              "start": 0,
+              "username": "kexuejiazhuang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018280810353512468",
+        "in_reply_to_user_id": "1622226629136367674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018254142691815703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kexuejiazhuang 哎呀卧槽！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018254128255029248"
+          ]
+        },
+        "author_id": "1622226629136367674",
+        "conversation_id": "2018254142691815703",
+        "created_at": "2026-02-02T09:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T10:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018254142691815703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AfmF7CzKGg",
+              "end": 49,
+              "expanded_url": "https://x.com/kexuejiazhuang/status/2018254142691815703/photo/1",
+              "media_key": "3_2018254128255029248",
+              "start": 26,
+              "url": "https://t.co/AfmF7CzKGg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018254142691815703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 452,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就这样看着你，脸红红地呼吸&gt;⸝⸝⸝⸝&lt; https://t.co/AfmF7CzKGg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨神秘账号@Rotte2t00丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "Rotte2t00"
+              },
+              {
+                "end": 80,
+                "start": 65,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 95,
+                "start": 87,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2989,
+          "following_count": 191,
+          "like_count": 3086,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 1377
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T13:32:39.000Z",
+        "description": "生理男取向男不是男娘，普通路过🚪弟，想认识我可以直接来私信。此号起到一个墓碑的作用，不安会双取，里号持续更新中˃ ˂ 现在入里号仅需28r",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kexuejiazhuang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kexuejiazhuang",
+                "start": 0,
+                "url": "https://t.co/qXcDn5D2HC"
+              }
+            ]
+          }
+        },
+        "id": "1622226629136367674",
+        "location": "🚪188/解锁里号 vx和线下",
+        "name": "给我寿司吧🍣",
+        "pinned_tweet_id": "2007050446779859050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004605957251461120/N8tiWvTf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 238,
+          "like_count": 38194,
+          "listed_count": 0,
+          "media_count": 259,
+          "tweet_count": 4299
+        },
+        "url": "https://t.co/qXcDn5D2HC",
+        "username": "kexuejiazhuang",
+        "verified": false
+      }
+    ]
+  }
+}

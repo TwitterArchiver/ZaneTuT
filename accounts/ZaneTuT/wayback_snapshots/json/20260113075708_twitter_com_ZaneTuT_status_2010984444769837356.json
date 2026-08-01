@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010984426478731264"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2010984444769837356",
+    "created_at": "2026-01-13T07:57:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T08:57:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010984444769837356"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IE3izp9ERu",
+          "end": 25,
+          "expanded_url": "https://x.com/ZaneTuT/status/2010984444769837356/photo/1",
+          "media_key": "3_2010984426478731264",
+          "start": 2,
+          "url": "https://t.co/IE3izp9ERu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010984444769837356",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "？ https://t.co/IE3izp9ERu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 689,
+        "media_key": "3_2010984426478731264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-hzrmUbgAAEYh5.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010984426478731264"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2010984444769837356",
+        "created_at": "2026-01-13T07:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T08:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010984444769837356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IE3izp9ERu",
+              "end": 25,
+              "expanded_url": "https://x.com/ZaneTuT/status/2010984444769837356/photo/1",
+              "media_key": "3_2010984426478731264",
+              "start": 2,
+              "url": "https://t.co/IE3izp9ERu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010984444769837356",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/IE3izp9ERu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "🚪66纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010215499150585985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 93,
+          "like_count": 920,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 332
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

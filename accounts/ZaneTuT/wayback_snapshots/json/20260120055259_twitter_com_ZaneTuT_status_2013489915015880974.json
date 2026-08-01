@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2013426731638542389",
+    "created_at": "2026-01-20T05:52:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T06:52:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013489915015880974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1235200392637620225",
+          "start": 0,
+          "username": "Ggloria012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013489915015880974",
+    "in_reply_to_user_id": "1235200392637620225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013426731638542389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ggloria012 卧槽 太美了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013426589061525504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Eg0K5WsAA2UGa.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2013426731638542389",
+        "created_at": "2026-01-20T05:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T06:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013489915015880974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1235200392637620225",
+              "start": 0,
+              "username": "Ggloria012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013489915015880974",
+        "in_reply_to_user_id": "1235200392637620225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013426731638542389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ggloria012 卧槽 太美了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013426589061525504"
+          ]
+        },
+        "author_id": "1235200392637620225",
+        "conversation_id": "2013426731638542389",
+        "created_at": "2026-01-20T01:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T02:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013426731638542389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I98o3J3t11",
+              "end": 46,
+              "expanded_url": "https://x.com/Ggloria012/status/2013426731638542389/photo/1",
+              "media_key": "3_2013426589061525504",
+              "start": 23,
+              "url": "https://t.co/I98o3J3t11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013426731638542389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 757,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咋办西太后打折好想买……手机根本拍不出它的美 https://t.co/I98o3J3t11"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪128 纯绿丨有的文案不是原创别攻击我TuT丨08丨od丨私信看心情回丨高频率发帖我好无聊丨互fo可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2011423750164725893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1530,
+          "following_count": 142,
+          "like_count": 2017,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 921
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-04T13:48:32.000Z",
+        "description": "",
+        "id": "1235200392637620225",
+        "name": "NYC出租我的逼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000743215079526403/9pkE_xXw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 20,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 104
+        },
+        "username": "Ggloria012",
+        "verified": false
+      }
+    ]
+  }
+}

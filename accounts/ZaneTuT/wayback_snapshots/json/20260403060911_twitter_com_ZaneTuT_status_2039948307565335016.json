@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2039941754711920717",
+    "created_at": "2026-04-03T06:09:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T07:09:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039948307565335016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1817368655715504128",
+          "start": 0,
+          "username": "shnll2717381"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039948307565335016",
+    "in_reply_to_user_id": "1817368655715504128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039942340450648564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shnll2717381 醒图会员不是白开的。tm开了一个月结果一个月没出门 急哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2039941754711920717",
+        "created_at": "2026-04-03T06:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T07:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039948307565335016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1817368655715504128",
+              "start": 0,
+              "username": "shnll2717381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039948307565335016",
+        "in_reply_to_user_id": "1817368655715504128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039942340450648564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shnll2717381 醒图会员不是白开的。tm开了一个月结果一个月没出门 急哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817368655715504128",
+        "conversation_id": "2039941754711920717",
+        "created_at": "2026-04-03T05:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T06:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039942340450648564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039942340450648564",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039941754711920717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 你他妈好美"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨08丨od丨中抑中焦丨互fo免🚪丨我听点udg sasi很多很多丨两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 45,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6215,
+          "following_count": 293,
+          "like_count": 6047,
+          "listed_count": 3,
+          "media_count": 98,
+          "tweet_count": 2558
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T01:17:25.000Z",
+        "description": "一隻可憐的豬b，，",
+        "id": "1817368655715504128",
+        "name": "UnfoundUser",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031531343528472576/xE8vGm7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 14,
+          "like_count": 240,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 31
+        },
+        "username": "shnll2717381",
+        "verified": false
+      }
+    ]
+  }
+}

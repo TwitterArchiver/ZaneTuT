@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039700551005351936"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2039700230300663828",
+    "created_at": "2026-04-02T13:44:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T14:44:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039700565395911004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2003562997604823040",
+          "start": 0,
+          "username": "chengorange777"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fBC93WROiq",
+          "end": 75,
+          "expanded_url": "https://x.com/ZaneTuT/status/2039700565395911004/photo/1",
+          "media_key": "3_2039700551005351936",
+          "start": 52,
+          "url": "https://t.co/fBC93WROiq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039700565395911004",
+    "in_reply_to_user_id": "2003562997604823040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039700230300663828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chengorange777 他回应了被我屏蔽了 没回应个什么理出来 反正依旧死不承认栽赃污蔑那一套 https://t.co/fBC93WROiq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039700551005351936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE542CbXsAAiC-d.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039700551005351936"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2039700230300663828",
+        "created_at": "2026-04-02T13:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T14:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039700565395911004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2003562997604823040",
+              "start": 0,
+              "username": "chengorange777"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fBC93WROiq",
+              "end": 75,
+              "expanded_url": "https://x.com/ZaneTuT/status/2039700565395911004/photo/1",
+              "media_key": "3_2039700551005351936",
+              "start": 52,
+              "url": "https://t.co/fBC93WROiq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039700565395911004",
+        "in_reply_to_user_id": "2003562997604823040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039700230300663828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chengorange777 他回应了被我屏蔽了 没回应个什么理出来 反正依旧死不承认栽赃污蔑那一套 https://t.co/fBC93WROiq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003562997604823040",
+        "conversation_id": "2039700230300663828",
+        "created_at": "2026-04-02T13:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T14:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039700230300663828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ZaneTuT/status…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/ZaneTuT/status/2039690304341582205",
+              "start": 24,
+              "url": "https://t.co/hmP6PgsI3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039700230300663828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039690304341582205",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好贱啊又当又立怎么没胆量回应就直接销号跑路了呢 https://t.co/hmP6PgsI3O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨08丨od丨中抑中焦丨互fo免🚪丨我听点udg sasi很多很多丨两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 45,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6214,
+          "following_count": 292,
+          "like_count": 6013,
+          "listed_count": 4,
+          "media_count": 96,
+          "tweet_count": 2544
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-23T20:27:16.000Z",
+        "description": "小桔🍊\n🔮塔罗&水晶个人玩家\n🖤喜欢音声|可能产出\n🩶嘴很毒 会预防性拉黑\n🤍https://t.co/zMlI8nnTxW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chengorange",
+                "end": 62,
+                "expanded_url": "https://ngl.link/chengorange",
+                "start": 39,
+                "url": "https://t.co/zMlI8nnTxW"
+              }
+            ]
+          }
+        },
+        "id": "2003562997604823040",
+        "name": "小桔不是程子",
+        "pinned_tweet_id": "2038321485992140951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003567055929499648/4l09gn_W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 151,
+          "like_count": 710,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 421
+        },
+        "username": "chengorange777",
+        "verified": false
+      }
+    ]
+  }
+}

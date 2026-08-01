@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2028000732268663207",
+    "created_at": "2026-03-01T06:53:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T07:53:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028000732268663207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "948164217370112007",
+          "start": 3,
+          "username": "midnighttttm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028000732268663207",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027813262075785305",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @midnighttttm: 神经，就隔着手机聊了几天，你就爱上了？感觉你好吓人，你才是真的神经病，互删吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2028000732268663207",
+        "created_at": "2026-03-01T06:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T07:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028000732268663207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "948164217370112007",
+              "start": 3,
+              "username": "midnighttttm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028000732268663207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027813262075785305",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @midnighttttm: 神经，就隔着手机聊了几天，你就爱上了？感觉你好吓人，你才是真的神经病，互删吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "948164217370112007",
+        "conversation_id": "2027813262075785305",
+        "created_at": "2026-02-28T18:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T19:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027813262075785305"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027813262075785305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 28800,
+          "like_count": 490,
+          "quote_count": 15,
+          "reply_count": 31,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "神经，就隔着手机聊了几天，你就爱上了？感觉你好吓人，你才是真的神经病，互删吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5121,
+          "following_count": 237,
+          "like_count": 4068,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 1866
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-02T12:09:00.000Z",
+        "description": "",
+        "id": "948164217370112007",
+        "name": "烤鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021864062293045248/eRF7DNWx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2697,
+          "following_count": 73,
+          "like_count": 1820,
+          "listed_count": 11,
+          "media_count": 63,
+          "tweet_count": 252
+        },
+        "username": "midnighttttm",
+        "verified": false
+      }
+    ]
+  }
+}

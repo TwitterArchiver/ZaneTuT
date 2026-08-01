@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1929208301390364672"
+      ],
+      "media_source_tweet_id": [
+        "1929212468749910139"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2016334089201287609",
+    "created_at": "2026-01-28T02:14:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T03:14:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016334089201287609"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 55,
+          "start": 52,
+          "tag": "sp"
+        },
+        {
+          "end": 62,
+          "start": 56,
+          "tag": "spank"
+        },
+        {
+          "end": 72,
+          "start": 63,
+          "tag": "spanking"
+        },
+        {
+          "end": 77,
+          "start": 73,
+          "tag": "打屁股"
+        },
+        {
+          "end": 81,
+          "start": 78,
+          "tag": "小圈"
+        },
+        {
+          "end": 86,
+          "start": 82,
+          "tag": "纯实践"
+        },
+        {
+          "end": 90,
+          "start": 87,
+          "tag": "女贝"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1487453184453115906",
+          "start": 3,
+          "username": "Otkkker_"
+        },
+        {
+          "end": 49,
+          "id": "1691045796723167234",
+          "start": 34,
+          "username": "huifeidexinxin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LOWxp8xGrM",
+          "end": 114,
+          "expanded_url": "https://x.com/Otkkker_/status/1929212468749910139/video/1",
+          "media_key": "13_1929208301390364672",
+          "start": 91,
+          "url": "https://t.co/LOWxp8xGrM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016334089201287609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 267
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929212468749910139",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Otkkker_: 凌晨三点睡觉的屁股\n应该怎么惩罚呢\n🍑：@huifeidexinxin \n\n#sp #spank #spanking #打屁股 #小圈 #纯实践 #女贝 https://t.co/LOWxp8xGrM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2016334089201287609].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2016334089201287609",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2016334089201287609"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 159466,
+        "height": 720,
+        "media_key": "13_1929208301390364672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1929208301390364672/img/3a_PzKj6l20BbRj0.jpg",
+        "public_metrics": {
+          "view_count": 180301
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1929208301390364672/vid/avc1/480x270/z0XMOnKdmFjCBdri.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1929208301390364672/vid/avc1/640x360/t7GOL4G-FobTkqeB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1929208301390364672/vid/avc1/1280x720/J1uOcVv073h49kvU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1929208301390364672/pl/lOQgNFROKbKWHNRX.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1929208301390364672"
+          ]
+        },
+        "author_id": "1487453184453115906",
+        "conversation_id": "1929212468749910139",
+        "created_at": "2025-06-01T16:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T17:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929212468749910139"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "sp"
+            },
+            {
+              "end": 48,
+              "start": 42,
+              "tag": "spank"
+            },
+            {
+              "end": 58,
+              "start": 49,
+              "tag": "spanking"
+            },
+            {
+              "end": 63,
+              "start": 59,
+              "tag": "打屁股"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "小圈"
+            },
+            {
+              "end": 72,
+              "start": 68,
+              "tag": "纯实践"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "女贝"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 35,
+              "id": "1691045796723167234",
+              "start": 20,
+              "username": "huifeidexinxin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LOWxp8xGrM",
+              "end": 100,
+              "expanded_url": "https://x.com/Otkkker_/status/1929212468749910139/video/1",
+              "media_key": "13_1929208301390364672",
+              "start": 77,
+              "url": "https://t.co/LOWxp8xGrM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929212468749910139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1264,
+          "impression_count": 616248,
+          "like_count": 3894,
+          "quote_count": 5,
+          "reply_count": 30,
+          "retweet_count": 267
+        },
+        "reply_settings": "everyone",
+        "text": "凌晨三点睡觉的屁股\n应该怎么惩罚呢\n🍑：@huifeidexinxin \n\n#sp #spank #spanking #打屁股 #小圈 #纯实践 #女贝 https://t.co/LOWxp8xGrM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心丨08丨od丨私信看心情回丨高频率发帖丨互fo可以直接➕V丨我听点udg sasi很多很多丨我皮下非常没有素质别惹我了行吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2755,
+          "following_count": 171,
+          "like_count": 2787,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 1276
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-29T15:50:55.000Z",
+        "description": "sp小⭕️/184 75/京沪/约实践请带自我介绍私信/颜控",
+        "id": "1487453184453115906",
+        "location": "北京",
+        "name": "⭐️",
+        "pinned_tweet_id": "1906373538711290154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1708047174502957056/WiyNEw4x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36178,
+          "following_count": 92,
+          "like_count": 225,
+          "listed_count": 51,
+          "media_count": 26,
+          "tweet_count": 395
+        },
+        "username": "Otkkker_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-14T11:15:19.000Z",
+        "description": "☁️ 𝕎𝕚𝕝𝕝 𝕓𝕖 𝕓𝕖𝕥𝕥𝕖𝕣   ◡̈",
+        "id": "1691045796723167234",
+        "name": "长矛沾屎戳谁谁死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698380764927385601/lNIQBqbe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11072,
+          "following_count": 164,
+          "like_count": 15454,
+          "listed_count": 17,
+          "media_count": 26,
+          "tweet_count": 1005
+        },
+        "username": "huifeidexinxin",
+        "verified": false
+      }
+    ]
+  }
+}

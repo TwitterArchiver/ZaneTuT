@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2020103800024121344"
+      ],
+      "media_source_tweet_id": [
+        "2020104142690160958"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2028353615237419015",
+    "created_at": "2026-03-02T06:16:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T07:16:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028353615237419015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1986908144694665218",
+          "start": 3,
+          "username": "JosephGuss11"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QB374vQNKR",
+          "end": 66,
+          "expanded_url": "https://x.com/JosephGuss11/status/2020104142690160958/video/1",
+          "media_key": "13_2020103800024121344",
+          "start": 43,
+          "url": "https://t.co/QB374vQNKR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028353615237419015",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 428
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020104142690160958",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JosephGuss11: 乖宝宝\n\n（在评论区@机器人拿我视频的全部拉黑） https://t.co/QB374vQNKR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2028353615237419015].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2028353615237419015",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2028353615237419015"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 50178,
+        "height": 1920,
+        "media_key": "13_2020103800024121344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020103800024121344/img/sDCYhr3X0hQb_D8k.jpg",
+        "public_metrics": {
+          "view_count": 132714
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020103800024121344/vid/avc1/320x568/_m0fhF_ES_-SKhkx.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020103800024121344/vid/avc1/480x852/HyQyQzG9HuFqpF-N.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020103800024121344/vid/avc1/720x1280/RXNvPM2ChF-0XYQh.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020103800024121344/pl/zD5zDTJy5Df9AGRc.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020103800024121344"
+          ]
+        },
+        "author_id": "1986908144694665218",
+        "conversation_id": "2020104142690160958",
+        "created_at": "2026-02-07T11:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T12:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020104142690160958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QB374vQNKR",
+              "end": 48,
+              "expanded_url": "https://x.com/JosephGuss11/status/2020104142690160958/video/1",
+              "media_key": "13_2020103800024121344",
+              "start": 25,
+              "url": "https://t.co/QB374vQNKR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020104142690160958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1275,
+          "impression_count": 236808,
+          "like_count": 6969,
+          "quote_count": 4,
+          "reply_count": 20,
+          "retweet_count": 428
+        },
+        "reply_settings": "everyone",
+        "text": "乖宝宝\n\n（在评论区@机器人拿我视频的全部拉黑） https://t.co/QB374vQNKR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5134,
+          "following_count": 250,
+          "like_count": 4154,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 1873
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T21:26:32.000Z",
+        "description": "182-60-20 枯木终有春日 我是我",
+        "id": "1986908144694665218",
+        "location": "本/不交友/不闲聊",
+        "name": "樹",
+        "pinned_tweet_id": "2027713451309863001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000648888966078464/5Y78KSmX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69646,
+          "following_count": 0,
+          "like_count": 8,
+          "listed_count": 184,
+          "media_count": 18,
+          "tweet_count": 25
+        },
+        "username": "JosephGuss11",
+        "verified": false
+      }
+    ]
+  }
+}

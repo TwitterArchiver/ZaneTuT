@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2009116897921651195",
+    "created_at": "2026-01-09T00:06:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T01:06:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009416375018905734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1656877683383365633",
+          "start": 0,
+          "username": "bisn06208094590"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009416375018905734",
+    "in_reply_to_user_id": "1656877683383365633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009116897921651195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bisn06208094590 这么萌不早说"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6666,
+        "height": 1280,
+        "media_key": "13_2009116820155117568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2009116820155117568/img/3N-dOywJEd4QfTOR.jpg",
+        "public_metrics": {
+          "view_count": 380
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009116820155117568/vid/avc1/320x568/j7whQgERve011U3U.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009116820155117568/vid/avc1/480x852/4fI_vLtvRKnAG-cM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009116820155117568/vid/avc1/720x1280/sp_OnkCHx2OAi7Sg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2009116820155117568/pl/iUc876n6vNd4NSLf.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2009116897921651195",
+        "created_at": "2026-01-09T00:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T01:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009416375018905734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1656877683383365633",
+              "start": 0,
+              "username": "bisn06208094590"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009416375018905734",
+        "in_reply_to_user_id": "1656877683383365633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009116897921651195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisn06208094590 这么萌不早说"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2009116820155117568"
+          ]
+        },
+        "author_id": "1656877683383365633",
+        "conversation_id": "2009116897921651195",
+        "created_at": "2026-01-08T04:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T05:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009116897921651195"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "卷毛"
+            },
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "恋爱脑"
+            },
+            {
+              "end": 43,
+              "start": 36,
+              "tag": "想要怜悯之刃"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uiFdlHVvs9",
+              "end": 67,
+              "expanded_url": "https://x.com/bisn06208094590/status/2009116897921651195/video/1",
+              "media_key": "13_2009116820155117568",
+              "start": 44,
+              "url": "https://t.co/uiFdlHVvs9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009116897921651195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1100,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我谈恋爱就一个要求 我抽她左脸就得贴上来说右脸也想要 #卷毛 #恋爱脑 #想要怜悯之刃 https://t.co/uiFdlHVvs9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "对我好疏远是怎么啦",
+        "id": "1997985969958699008",
+        "name": "到底怎样才有人爱我",
+        "pinned_tweet_id": "2009195553230606621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 60,
+          "like_count": 417,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 57
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T04:23:30.000Z",
+        "description": "谢谢你们的关注 祝你天天开心 互关可以+v",
+        "id": "1656877683383365633",
+        "location": "🚪28.8",
+        "name": "小水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009117060484485120/tyiA7q0Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 453,
+          "like_count": 1216,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 706
+        },
+        "username": "bisn06208094590",
+        "verified": false
+      }
+    ]
+  }
+}

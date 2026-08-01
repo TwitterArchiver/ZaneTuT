@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2012370891254972779",
+    "created_at": "2026-01-17T03:46:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T04:46:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012370891254972779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1577848566818648064",
+          "start": 3,
+          "username": "Nikifannizi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012370891254972779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012327055476871540",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nikifannizi: otk姿势sp实录\notk真的很适合daddy and puppy关系的sm玩法，趴在daddy的腿上，puppy基本上没有反抗的能力，任由daddy狠狠的抽打着puppy粉嫩屁股，这也是daddy和little girl的游戏。亲密性也拉满非…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2012370891254972779].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2012370891254972779",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2012370891254972779"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22453,
+        "height": 598,
+        "media_key": "13_2012326987130384385",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2012326987130384385/img/axf4kMdjaNO0LjO_.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012326987130384385/vid/avc1/576x270/hSbfg_mxuVYCnO8M.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012326987130384385/vid/avc1/770x360/mOtO3wRk6QJh7uwF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012326987130384385/vid/avc1/1280x598/OoJ5d1WzcjyMlGaq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2012326987130384385/pl/140QPr3uJCVbVC2C.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2012326987130384385"
+          ]
+        },
+        "author_id": "1577848566818648064",
+        "conversation_id": "2012327055476871540",
+        "created_at": "2026-01-17T00:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T01:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012327055476871540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P8ykwrq7w4",
+              "end": 153,
+              "expanded_url": "https://x.com/Nikifannizi/status/2012327055476871540/video/1",
+              "media_key": "13_2012326987130384385",
+              "start": 130,
+              "url": "https://t.co/P8ykwrq7w4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012327055476871540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 618,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "otk姿势sp实录\notk真的很适合daddy and puppy关系的sm玩法，趴在daddy的腿上，puppy基本上没有反抗的能力，任由daddy狠狠的抽打着puppy粉嫩屁股，这也是daddy和little girl的游戏。亲密性也拉满非常的适合互动。 https://t.co/P8ykwrq7w4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪88/128 纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨回fo眼熟的 可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010591438627897389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 122,
+          "like_count": 1521,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 661
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-06T02:30:00.000Z",
+        "description": "一个两性情感博主！！主营内容：坐标交友 || 两性知识 || 群聊交友 || 情感咨询 || 圈圈玩法 || 所有的两性知识vx🚪58分享所有！🚪888成为我的vvvvvip！🚪33擦边交友聊天群。置顶的是我🛰️小号，欢迎来玩！优先口令🧧和🧧这是我的小号：@DangLaoShiA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 128,
+                "username": "DangLaoShiA"
+              }
+            ]
+          }
+        },
+        "id": "1577848566818648064",
+        "location": "你心里",
+        "name": "当老师的两性杂货铺",
+        "pinned_tweet_id": "2009976766576898456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931511892020977664/oanYUNqL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12153,
+          "following_count": 217,
+          "like_count": 430,
+          "listed_count": 13,
+          "media_count": 1306,
+          "tweet_count": 1970
+        },
+        "username": "Nikifannizi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2004532909580140634",
+    "created_at": "2025-12-26T13:46:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T14:46:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004549360424751250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1490941014030561283",
+          "start": 0,
+          "username": "redaizhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004549360424751250",
+    "in_reply_to_user_id": "1490941014030561283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004532909580140634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@redaizhu 我真没内裤和你闹了热带猪！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 826,
+        "media_key": "3_2004532906795081728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9GIDuoaIAAFoCG.png",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2004532909580140634",
+        "created_at": "2025-12-26T13:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T14:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004549360424751250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1490941014030561283",
+              "start": 0,
+              "username": "redaizhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004549360424751250",
+        "in_reply_to_user_id": "1490941014030561283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004532909580140634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@redaizhu 我真没内裤和你闹了热带猪！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004532906795081728"
+          ]
+        },
+        "author_id": "1490941014030561283",
+        "conversation_id": "2004532909580140634",
+        "created_at": "2025-12-26T12:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T13:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004532909580140634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2i48bN4PUV",
+              "end": 23,
+              "expanded_url": "https://x.com/redaizhu/status/2004532909580140634/photo/1",
+              "media_key": "3_2004532906795081728",
+              "start": 0,
+              "url": "https://t.co/2i48bN4PUV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004532909580140634",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 10275,
+          "like_count": 296,
+          "quote_count": 10,
+          "reply_count": 21,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2i48bN4PUV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "对我好疏远是怎么啦",
+        "id": "1997985969958699008",
+        "name": "骨骨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 26,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 13
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T06:50:26.000Z",
+        "description": "不喜欢屏蔽就好了   请勿带入现实  祝大家天天开心啦  生活号和匿名箱 @kaixinyao0987",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 37,
+                "username": "kaixinyao0987"
+              }
+            ]
+          }
+        },
+        "id": "1490941014030561283",
+        "name": "热带猪🌙",
+        "pinned_tweet_id": "1963804763889254400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875558956464271365/jS3Awz6n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79647,
+          "following_count": 85,
+          "like_count": 32690,
+          "listed_count": 95,
+          "media_count": 2007,
+          "tweet_count": 5665
+        },
+        "username": "redaizhu",
+        "verified": false
+      }
+    ]
+  }
+}

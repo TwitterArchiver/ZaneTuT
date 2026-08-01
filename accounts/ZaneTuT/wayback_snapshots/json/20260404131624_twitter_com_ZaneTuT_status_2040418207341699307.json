@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2040136851651260862",
+    "created_at": "2026-04-04T13:16:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T14:16:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040418207341699307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1862557266890956800",
+          "start": 0,
+          "username": "bei_haishui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040418207341699307",
+    "in_reply_to_user_id": "1862557266890956800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040136851651260862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bei_haishui 卧槽如果能在这大操特操一整晚的话 啊啊啊啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "16_2040136804398161920",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HFAFnU9aYAAaBIQ.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HFAFnU9aYAAaBIQ.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2040136851651260862",
+        "created_at": "2026-04-04T13:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T14:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040418207341699307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1862557266890956800",
+              "start": 0,
+              "username": "bei_haishui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040418207341699307",
+        "in_reply_to_user_id": "1862557266890956800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040136851651260862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bei_haishui 卧槽如果能在这大操特操一整晚的话 啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2040136804398161920"
+          ]
+        },
+        "author_id": "1862557266890956800",
+        "conversation_id": "2040136851651260862",
+        "created_at": "2026-04-03T18:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T19:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040136851651260862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jUL0HleLHQ",
+              "end": 54,
+              "expanded_url": "https://x.com/bei_haishui/status/2040136851651260862/photo/1",
+              "media_key": "16_2040136804398161920",
+              "start": 31,
+              "url": "https://t.co/jUL0HleLHQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040136851651260862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6258,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喝完酒之后回来泡个澡再连个音响和呼吸灯美美睡上一觉真是惬意啊 https://t.co/jUL0HleLHQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨08丨od丨中抑中焦丨互fo免🚪丨我听点udg sasi很多很多丨两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 45,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6207,
+          "following_count": 291,
+          "like_count": 6087,
+          "listed_count": 3,
+          "media_count": 98,
+          "tweet_count": 2566
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-29T18:00:42.000Z",
+        "description": "非常低质非常日常的一头猪\n私信常开允许骚扰\n碎碎念和一些喜欢的片@liiiiizhibei",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 32,
+                "username": "liiiiizhibei"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ssrcat.bar/index.php#/reg…",
+                "end": 23,
+                "expanded_url": "https://ssrcat.bar/index.php#/register?code=GXfczkiy&from=%E5%86%B0%E5%98%B4%E5%94%87",
+                "start": 0,
+                "url": "https://t.co/5dh5BaiMY7"
+              }
+            ]
+          }
+        },
+        "id": "1862557266890956800",
+        "location": "自用vpn",
+        "name": "冰嘴唇.",
+        "pinned_tweet_id": "2039356367094550885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018942052453744640/_YsWMcxf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9804,
+          "following_count": 403,
+          "like_count": 41288,
+          "listed_count": 12,
+          "media_count": 81,
+          "tweet_count": 5544
+        },
+        "url": "https://t.co/5dh5BaiMY7",
+        "username": "bei_haishui",
+        "verified": false
+      }
+    ]
+  }
+}

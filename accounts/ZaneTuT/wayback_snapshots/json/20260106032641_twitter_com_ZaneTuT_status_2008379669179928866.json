@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2008379669179928866",
+    "created_at": "2026-01-06T03:26:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T04:26:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008379669179928866"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2008379669179928866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你根本就做不到你说的一切 你只是看见她的破碎 然后英雄主义爆发 就像八岁的孩子吵着闹着要一只小猫 却根本没有照顾小猫的能力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2008379669179928866",
+        "created_at": "2026-01-06T03:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T04:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008379669179928866"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008379669179928866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你根本就做不到你说的一切 你只是看见她的破碎 然后英雄主义爆发 就像八岁的孩子吵着闹着要一只小猫 却根本没有照顾小猫的能力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "对我好疏远是怎么啦",
+        "id": "1997985969958699008",
+        "name": "到底怎样才有人爱我",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 55,
+          "like_count": 306,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 45
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2014168651897668010",
+    "created_at": "2026-01-22T02:50:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T03:50:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014168651897668010"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yandbyanle/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/yandbyanle/status/2014147732093727037",
+          "start": 11,
+          "url": "https://t.co/QEWiVhA6PR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014168651897668010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014147732093727037",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "前四个字一直在刺痛我 https://t.co/QEWiVhA6PR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2014168651897668010",
+        "created_at": "2026-01-22T02:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T03:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014168651897668010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yandbyanle/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/yandbyanle/status/2014147732093727037",
+              "start": 11,
+              "url": "https://t.co/QEWiVhA6PR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014168651897668010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014147732093727037",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "前四个字一直在刺痛我 https://t.co/QEWiVhA6PR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905118234413801473",
+        "conversation_id": "2013761042283720868",
+        "created_at": "2026-01-22T01:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T02:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014147732093727037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014147732093727037",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013761042283720868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 你傻逼啊。谁家哥哥会这样。哥哥看到以后直接去庙里驱邪了。我哥最多在我六岁，不想吃苦瓜的时候哄我说，吃一片苦瓜就可以吃一片薯片，把我哄得一口苦瓜一口薯片这样整盘苦瓜都吃下去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心 骂我的我会直接转贴丨08丨od丨私信看心情回丨高频率发帖丨互fo可以直接➕V丨我听点udg sasi很多很多…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2013559742573224427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2113,
+          "following_count": 153,
+          "like_count": 2348,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1093
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-27T04:42:50.000Z",
+        "description": "可能会发碎碎念之类的",
+        "id": "1905118234413801473",
+        "name": "小A",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013365702552375296/iH6G_MHG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 10,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "username": "yandbyanle",
+        "verified": false
+      }
+    ]
+  }
+}

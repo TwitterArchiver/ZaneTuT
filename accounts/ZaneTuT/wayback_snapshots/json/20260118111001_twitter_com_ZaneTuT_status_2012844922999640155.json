@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2012444116270158214",
+    "created_at": "2026-01-18T11:10:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T12:10:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012844922999640155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1977271676623831040",
+          "start": 0,
+          "username": "OvO4141"
+        },
+        {
+          "end": 21,
+          "id": "1827853718567751680",
+          "start": 9,
+          "username": "Balia595644"
+        },
+        {
+          "end": 34,
+          "id": "1811438667581247494",
+          "start": 22,
+          "username": "yuntunpuppy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012844922999640155",
+    "in_reply_to_user_id": "1977271676623831040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012844401564037378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OvO4141 @Balia595644 @yuntunpuppy 这原帖我还点赞了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2012444116270158214",
+        "created_at": "2026-01-18T11:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T12:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012844922999640155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1977271676623831040",
+              "start": 0,
+              "username": "OvO4141"
+            },
+            {
+              "end": 21,
+              "id": "1827853718567751680",
+              "start": 9,
+              "username": "Balia595644"
+            },
+            {
+              "end": 34,
+              "id": "1811438667581247494",
+              "start": 22,
+              "username": "yuntunpuppy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012844922999640155",
+        "in_reply_to_user_id": "1977271676623831040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012844401564037378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OvO4141 @Balia595644 @yuntunpuppy 这原帖我还点赞了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977271676623831040",
+        "conversation_id": "2012444116270158214",
+        "created_at": "2026-01-18T11:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T12:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012844401564037378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1827853718567751680",
+              "start": 0,
+              "username": "Balia595644"
+            },
+            {
+              "end": 25,
+              "id": "1811438667581247494",
+              "start": 13,
+              "username": "yuntunpuppy"
+            },
+            {
+              "end": 34,
+              "id": "1997985969958699008",
+              "start": 26,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012844401564037378",
+        "in_reply_to_user_id": "1827853718567751680",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012475675735679276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Balia595644 @yuntunpuppy @ZaneTuT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪88/128 纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨回fo眼熟的 可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2011423750164725893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 130,
+          "like_count": 1726,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 771
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T07:14:47.000Z",
+        "description": "",
+        "id": "1977271676623831040",
+        "name": "泣く泣く",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998869843081310210/qyMokYmV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 16
+        },
+        "username": "OvO4141",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-25T23:41:09.000Z",
+        "description": "不关注不聊  不礼貌不聊  发私信我都会回                      没有回就是没上线",
+        "id": "1827853718567751680",
+        "location": "🚪99",
+        "name": "Ovo",
+        "pinned_tweet_id": "2012357502617420234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008791182286221312/nzRXGcBi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 38,
+          "like_count": 576,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 492
+        },
+        "username": "Balia595644",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T16:33:47.000Z",
+        "description": "",
+        "id": "1811438667581247494",
+        "location": "Atlanta, GA",
+        "name": "云吞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011406736687816704/qxjMsZi8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 23,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "yuntunpuppy",
+        "verified": false
+      }
+    ]
+  }
+}

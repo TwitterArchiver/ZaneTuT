@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1991981378372599808"
+      ],
+      "media_source_tweet_id": [
+        "1991981443816542565"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2013963191555080414",
+    "created_at": "2026-01-21T13:13:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T14:13:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013963191555080414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1314578737703219201",
+          "start": 3,
+          "username": "minami71281"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bunBcgfhsL",
+          "end": 62,
+          "expanded_url": "https://x.com/cuteofcouples/status/1991981443816542565/video/1",
+          "media_key": "13_1991981378372599808",
+          "start": 39,
+          "url": "https://t.co/bunBcgfhsL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013963191555080414",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 504
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013559186693726525",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @minami71281: 彼氏からこれくらい思いっきり求められてえ🥹 https://t.co/bunBcgfhsL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8475,
+        "height": 1280,
+        "media_key": "13_1991981378372599808",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1991981378372599808/img/cDl20QPVPxcZKp66.jpg",
+        "public_metrics": {
+          "view_count": 584646
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991981378372599808/vid/avc1/320x568/r4sW5_Rwc8V64mQj.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991981378372599808/vid/avc1/480x852/nrmepgbV_vrHKWRD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991981378372599808/vid/avc1/720x1280/DxQ5VLbDRGqteRgi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1991981378372599808/pl/nf_eZ-9plCOyaDMy.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1991981378372599808"
+          ],
+          "media_source_tweet_id": [
+            "1991981443816542565"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2013963191555080414",
+        "created_at": "2026-01-21T13:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T14:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013963191555080414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1314578737703219201",
+              "start": 3,
+              "username": "minami71281"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bunBcgfhsL",
+              "end": 62,
+              "expanded_url": "https://x.com/cuteofcouples/status/1991981443816542565/video/1",
+              "media_key": "13_1991981378372599808",
+              "start": 39,
+              "url": "https://t.co/bunBcgfhsL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013963191555080414",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 504
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013559186693726525",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @minami71281: 彼氏からこれくらい思いっきり求められてえ🥹 https://t.co/bunBcgfhsL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1991981378372599808"
+          ],
+          "media_source_tweet_id": [
+            "1991981443816542565"
+          ]
+        },
+        "author_id": "1314578737703219201",
+        "conversation_id": "2013559186693726525",
+        "created_at": "2026-01-20T10:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T11:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013559186693726525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bunBcgfhsL",
+              "end": 45,
+              "expanded_url": "https://x.com/cuteofcouples/status/1991981443816542565/video/1",
+              "media_key": "13_1991981378372599808",
+              "start": 22,
+              "url": "https://t.co/bunBcgfhsL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013559186693726525",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 667,
+          "impression_count": 138961,
+          "like_count": 6188,
+          "quote_count": 62,
+          "reply_count": 20,
+          "retweet_count": 504
+        },
+        "reply_settings": "everyone",
+        "text": "彼氏からこれくらい思いっきり求められてえ🥹 https://t.co/bunBcgfhsL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪128 纯绿丨有的文案不是原创别攻击我TuT丨08丨od丨私信看心情回丨高频率发帖我好无聊丨互fo可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "一说话就扯溃疡",
+        "pinned_tweet_id": "2013559742573224427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1937,
+          "following_count": 138,
+          "like_count": 2291,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 1044
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-09T14:49:37.000Z",
+        "description": "【痴性・痴能・痴学】🔞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/minami712819",
+                "end": 23,
+                "expanded_url": "https://note.com/minami712819",
+                "start": 0,
+                "url": "https://t.co/dDUbWUkQaw"
+              }
+            ]
+          }
+        },
+        "id": "1314578737703219201",
+        "location": "性と恋愛のあれこれ",
+        "name": "ミナ美",
+        "pinned_tweet_id": "1907751102432555231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1607044030508208129/gokDHJzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243192,
+          "following_count": 77,
+          "like_count": 26236,
+          "listed_count": 753,
+          "media_count": 776,
+          "tweet_count": 2800
+        },
+        "url": "https://t.co/dDUbWUkQaw",
+        "username": "minami71281",
+        "verified": true
+      }
+    ]
+  }
+}

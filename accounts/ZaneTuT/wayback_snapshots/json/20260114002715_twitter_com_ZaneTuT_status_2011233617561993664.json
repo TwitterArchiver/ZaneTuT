@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2011160801164529772",
+    "created_at": "2026-01-14T00:27:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T01:27:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011233617561993664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1995222810159882240",
+          "start": 0,
+          "username": "Ameowxiaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011233617561993664",
+    "in_reply_to_user_id": "1995222810159882240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011160801164529772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ameowxiaaa 你几把at我干啥我笑死了我要好好分析一下你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1638,
+        "media_key": "3_2011160796110209025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-kUFqZXQAEwq7J.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2011160801164529772",
+        "created_at": "2026-01-14T00:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T01:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011233617561993664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1995222810159882240",
+              "start": 0,
+              "username": "Ameowxiaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011233617561993664",
+        "in_reply_to_user_id": "1995222810159882240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011160801164529772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ameowxiaaa 你几把at我干啥我笑死了我要好好分析一下你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011160796110209025"
+          ]
+        },
+        "author_id": "1995222810159882240",
+        "conversation_id": "2011160801164529772",
+        "created_at": "2026-01-13T19:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T20:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011160801164529772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BaeWWc11U6",
+              "end": 32,
+              "expanded_url": "https://x.com/Ameowxiaaa/status/2011160801164529772/photo/1",
+              "media_key": "3_2011160796110209025",
+              "start": 9,
+              "url": "https://t.co/BaeWWc11U6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011160801164529772",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT https://t.co/BaeWWc11U6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪66纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010591438627897389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 111,
+          "like_count": 1048,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 428
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T20:06:53.000Z",
+        "description": "一个被性压抑折磨的无聊的人…",
+        "id": "1995222810159882240",
+        "name": "小苗苗。",
+        "pinned_tweet_id": "1998886513174778241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996686649359507457/DZvq120y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 122,
+          "like_count": 484,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 233
+        },
+        "username": "Ameowxiaaa",
+        "verified": false
+      }
+    ]
+  }
+}

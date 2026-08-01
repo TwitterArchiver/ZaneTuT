@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2011082931360653349",
+    "created_at": "2026-01-13T15:54:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T16:54:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011104527391637841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1601629573635981313",
+          "start": 0,
+          "username": "Sam0k7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011104527391637841",
+    "in_reply_to_user_id": "1601629573635981313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011103913030844627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sam0k7 我没听懂。我是女孩子。这句话有恶意吗我听不懂。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2011082931360653349",
+        "created_at": "2026-01-13T15:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T16:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011104527391637841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1601629573635981313",
+              "start": 0,
+              "username": "Sam0k7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011104527391637841",
+        "in_reply_to_user_id": "1601629573635981313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011103913030844627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sam0k7 我没听懂。我是女孩子。这句话有恶意吗我听不懂。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601629573635981313",
+        "conversation_id": "2011082931360653349",
+        "created_at": "2026-01-13T15:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T16:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011103913030844627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011103913030844627",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011082931360653349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 这个男的好像用不了吧😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪66纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010591438627897389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 106,
+          "like_count": 1027,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 418
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-10T17:27:08.000Z",
+        "description": "🌏iiii真人 大胆私",
+        "id": "1601629573635981313",
+        "name": "Sam07",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007496900220760064/JmlsqJa5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 227,
+          "like_count": 1636,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 57
+        },
+        "username": "Sam0k7",
+        "verified": false
+      }
+    ]
+  }
+}

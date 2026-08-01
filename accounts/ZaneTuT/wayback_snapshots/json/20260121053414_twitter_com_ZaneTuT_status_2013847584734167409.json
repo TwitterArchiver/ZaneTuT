@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013847568372158464"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2013847584734167409",
+    "created_at": "2026-01-21T05:34:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T06:34:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013847584734167409"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pM0gCx7H3y",
+          "end": 28,
+          "expanded_url": "https://x.com/ZaneTuT/status/2013847584734167409/photo/1",
+          "media_key": "3_2013847568372158464",
+          "start": 5,
+          "url": "https://t.co/pM0gCx7H3y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013847584734167409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "漫天飞雪 https://t.co/pM0gCx7H3y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013847568372158464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_KfsZCbUAAMCqP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013847568372158464"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2013847584734167409",
+        "created_at": "2026-01-21T05:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T06:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013847584734167409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pM0gCx7H3y",
+              "end": 28,
+              "expanded_url": "https://x.com/ZaneTuT/status/2013847584734167409/photo/1",
+              "media_key": "3_2013847568372158464",
+              "start": 5,
+              "url": "https://t.co/pM0gCx7H3y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013847584734167409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "漫天飞雪 https://t.co/pM0gCx7H3y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪128 纯绿丨有的文案不是原创别攻击我TuT丨08丨od丨私信看心情回丨高频率发帖我好无聊丨互fo可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "一说话就扯溃疡",
+        "pinned_tweet_id": "2013559742573224427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1846,
+          "following_count": 146,
+          "like_count": 2229,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1011
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2037052477313572999",
+    "created_at": "2026-03-26T08:23:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T09:23:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037083111952179687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1865031377281773568",
+          "start": 0,
+          "username": "bibizhu00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037083111952179687",
+    "in_reply_to_user_id": "1865031377281773568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037052477313572999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bibizhu00 我操"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037052471848427523",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEUQbi1bYAM8FJH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2037052477313572999",
+        "created_at": "2026-03-26T08:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T09:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037083111952179687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1865031377281773568",
+              "start": 0,
+              "username": "bibizhu00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037083111952179687",
+        "in_reply_to_user_id": "1865031377281773568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037052477313572999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bibizhu00 我操"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037052471848427523"
+          ]
+        },
+        "author_id": "1865031377281773568",
+        "conversation_id": "2037052477313572999",
+        "created_at": "2026-03-26T06:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T07:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037052477313572999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/23VUc4P64F",
+              "end": 48,
+              "expanded_url": "https://x.com/bibizhu00/status/2037052477313572999/photo/1",
+              "media_key": "3_2037052471848427523",
+              "start": 25,
+              "url": "https://t.co/23VUc4P64F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037052477313572999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1823,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买到黑金荔枝牛皮小号的我 今天会对所有人笑嘻嘻😎 https://t.co/23VUc4P64F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5916,
+          "following_count": 312,
+          "like_count": 5368,
+          "listed_count": 3,
+          "media_count": 64,
+          "tweet_count": 2164
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T13:52:19.000Z",
+        "description": "朋友圈 朋友圈！纯清水 \n\n盗图死全家，不卖、不约 、不聊h",
+        "id": "1865031377281773568",
+        "location": "Sydney",
+        "name": "菠萝蛋挞",
+        "pinned_tweet_id": "2023007213145694693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901880295030460416/hfFlAa9w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 12,
+          "like_count": 56,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 301
+        },
+        "username": "bibizhu00",
+        "verified": false
+      }
+    ]
+  }
+}

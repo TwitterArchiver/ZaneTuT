@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2017656613386260593",
+    "created_at": "2026-01-31T18:02:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T19:02:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017659820984439034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1885021581153320961",
+          "start": 0,
+          "username": "xu121718"
+        },
+        {
+          "end": 18,
+          "id": "2016391481276137472",
+          "start": 10,
+          "username": "Ri0trix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017659820984439034",
+    "in_reply_to_user_id": "1885021581153320961",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017659723391410472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xu121718 @Ri0trix 卷卷我想你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2017656613386260593",
+        "created_at": "2026-01-31T18:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T19:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017659820984439034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1885021581153320961",
+              "start": 0,
+              "username": "xu121718"
+            },
+            {
+              "end": 18,
+              "id": "2016391481276137472",
+              "start": 10,
+              "username": "Ri0trix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017659820984439034",
+        "in_reply_to_user_id": "1885021581153320961",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017659723391410472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xu121718 @Ri0trix 卷卷我想你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885021581153320961",
+        "conversation_id": "2017656613386260593",
+        "created_at": "2026-01-31T18:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T19:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017659723391410472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            },
+            {
+              "end": 17,
+              "id": "2016391481276137472",
+              "start": 9,
+              "username": "Ri0trix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017659723391410472",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017656613386260593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT @Ri0trix 中"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心丨08丨od丨私信只回口令丨互fo可以直接➕V丨我听点udg sasi很多很多丨我皮下非常没有素质别惹我了行吗丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 115,
+                "start": 107,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2917,
+          "following_count": 182,
+          "like_count": 2974,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 1351
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T17:45:50.000Z",
+        "description": "05 ENFJ sw 巨蟹 直男 杭州 黄暴人格@xiaoyuxxx127  介意勿关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "xiaoyuxxx127"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%B1%BC%E5%8D%B7",
+                "start": 0,
+                "url": "https://t.co/dqVtBKW5LS"
+              }
+            ]
+          }
+        },
+        "id": "1885021581153320961",
+        "name": "小鱼卷",
+        "pinned_tweet_id": "1970055773242966481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005056923008385024/aZMUl90j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1594,
+          "following_count": 260,
+          "like_count": 26382,
+          "listed_count": 3,
+          "media_count": 415,
+          "tweet_count": 4389
+        },
+        "url": "https://t.co/dqVtBKW5LS",
+        "username": "xu121718",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-28T06:04:01.000Z",
+        "description": "叫我小r就好｜玻璃心一点就炸｜07｜od｜私信都会看哦｜经常发疯｜患有精神分裂｜互fo可以来➕好友｜我听说唱udg浓度高🤍 一个恶魔女孩@ZaneTuT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 68,
+                "username": "ZaneTuT"
+              }
+            ]
+          }
+        },
+        "id": "2016391481276137472",
+        "location": "🚪88 偶尔有照片",
+        "name": "Riotrix",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016391909606830081/c3kUa5b4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 3,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 46
+        },
+        "username": "Ri0trix",
+        "verified": false
+      }
+    ]
+  }
+}

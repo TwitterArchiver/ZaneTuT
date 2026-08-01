@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2013834406700687787",
+    "created_at": "2026-01-21T15:34:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T16:34:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013998656735805463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1725426999437701120",
+          "start": 0,
+          "username": "amrcworeee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013998656735805463",
+    "in_reply_to_user_id": "1725426999437701120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013998521817743374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amrcworeee 呆萌中"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2013834406700687787",
+        "created_at": "2026-01-21T15:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T16:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013998656735805463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1725426999437701120",
+              "start": 0,
+              "username": "amrcworeee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013998656735805463",
+        "in_reply_to_user_id": "1725426999437701120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013998521817743374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amrcworeee 呆萌中"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725426999437701120",
+        "conversation_id": "2013834406700687787",
+        "created_at": "2026-01-21T15:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T16:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013998521817743374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013998521817743374",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013834406700687787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 溃疡萌萌的……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪128 纯绿丨有的文案不是原创别攻击我TuT丨极度玻璃心 骂我的我会直接转贴丨08丨od丨私信看心情回丨高频率发帖丨互fo可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "一说话就扯溃疡",
+        "pinned_tweet_id": "2013559742573224427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2000,
+          "following_count": 151,
+          "like_count": 2332,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 1080
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-17T08:15:10.000Z",
+        "description": "(´｡-ω(-ω-｡`)🚪88",
+        "id": "1725426999437701120",
+        "name": "ㅍㅅㅍ。🐰",
+        "pinned_tweet_id": "1809312995530707310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013937941605912576/PWlg-3VQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 232,
+          "like_count": 736,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 75
+        },
+        "username": "amrcworeee",
+        "verified": false
+      }
+    ]
+  }
+}

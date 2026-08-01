@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2013838293612556600",
+    "created_at": "2026-01-21T04:59:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T05:59:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013838718503727140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1754694323113693184",
+          "start": 0,
+          "username": "a1yssaTvT"
+        },
+        {
+          "end": 21,
+          "id": "1845304648313323522",
+          "start": 11,
+          "username": "55juzi55_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013838718503727140",
+    "in_reply_to_user_id": "1754694323113693184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013838647661912402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a1yssaTvT @55juzi55_ 我看到了！我气坏了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2013838293612556600",
+        "created_at": "2026-01-21T04:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T05:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013838718503727140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1754694323113693184",
+              "start": 0,
+              "username": "a1yssaTvT"
+            },
+            {
+              "end": 21,
+              "id": "1845304648313323522",
+              "start": 11,
+              "username": "55juzi55_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013838718503727140",
+        "in_reply_to_user_id": "1754694323113693184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013838647661912402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a1yssaTvT @55juzi55_ 我看到了！我气坏了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754694323113693184",
+        "conversation_id": "2013838293612556600",
+        "created_at": "2026-01-21T04:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T05:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013838647661912402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1845304648313323522",
+              "start": 0,
+              "username": "55juzi55_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013838647661912402",
+        "in_reply_to_user_id": "1845304648313323522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013838293612556600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@55juzi55_ 他攻击我最爱抽的烟我受不了了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪128 纯绿丨有的文案不是原创别攻击我TuT丨08丨od丨私信看心情回丨高频率发帖我好无聊丨互fo可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "一说话就扯溃疡",
+        "pinned_tweet_id": "2013559742573224427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1837,
+          "following_count": 146,
+          "like_count": 2212,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 999
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T02:31:53.000Z",
+        "description": "纯分享 谢谢你的关注 会互fo喜欢的人(´-ω-｀)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/a1yssa44704",
+                "end": 23,
+                "expanded_url": "https://ngl.link/a1yssa44704",
+                "start": 0,
+                "url": "https://t.co/r9HGVbwrIM"
+              }
+            ]
+          }
+        },
+        "id": "1754694323113693184",
+        "location": "霓虹町",
+        "name": "小兔饼",
+        "pinned_tweet_id": "2013493053273604527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010264334706880512/1DKsm_vT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 82,
+          "like_count": 323,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 607
+        },
+        "url": "https://t.co/r9HGVbwrIM",
+        "username": "a1yssaTvT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T03:25:04.000Z",
+        "description": "只回粉丝丨欢迎找我聊天丨当朋友圈发丨非著名鉴🐔家丨🚪可加联系方式丨欢迎美女宝宝互关丨接陪玩丨喜欢帅哥美女丨礼貌一点互相尊重谢谢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aqa.link/xxin22139",
+                "end": 23,
+                "expanded_url": "https://aqa.link/xxin22139",
+                "start": 0,
+                "url": "https://t.co/puLJY6VgnI"
+              }
+            ]
+          }
+        },
+        "id": "1845304648313323522",
+        "location": "🚪188/520没什么实际区别 无任何抵扣",
+        "name": "欣欣",
+        "pinned_tweet_id": "2013069149870637529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924989316138467328/bwN8esp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 38,
+          "like_count": 776,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 642
+        },
+        "url": "https://t.co/puLJY6VgnI",
+        "username": "55juzi55_",
+        "verified": false
+      }
+    ]
+  }
+}

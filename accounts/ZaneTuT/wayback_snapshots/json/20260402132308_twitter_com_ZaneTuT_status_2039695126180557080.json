@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2039690120131936665",
+    "created_at": "2026-04-02T13:23:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T14:23:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039695126180557080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2021125542498664454",
+          "start": 0,
+          "username": "Jjshsb61946"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039695126180557080",
+    "in_reply_to_user_id": "2021125542498664454",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039694133045129550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jjshsb61946 和他恋爱的那个女孩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2039690120131936665",
+        "created_at": "2026-04-02T13:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T14:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039695126180557080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2021125542498664454",
+              "start": 0,
+              "username": "Jjshsb61946"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039695126180557080",
+        "in_reply_to_user_id": "2021125542498664454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039694133045129550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jjshsb61946 和他恋爱的那个女孩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021125542498664454",
+        "conversation_id": "2039690120131936665",
+        "created_at": "2026-04-02T13:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T14:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039694133045129550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039694133045129550",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039690120131936665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 这几张没看懂 安室透是王家瑞还是博主？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨08丨od丨中抑中焦丨互fo免🚪丨我听点udg sasi很多很多丨两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 45,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6215,
+          "following_count": 291,
+          "like_count": 6006,
+          "listed_count": 4,
+          "media_count": 95,
+          "tweet_count": 2539
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-10T07:34:35.000Z",
+        "description": "相互尊重 不聊骚 谢谢",
+        "id": "2021125542498664454",
+        "name": "Liberal",
+        "pinned_tweet_id": "2026645927956819993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021130224025636864/8avXYvDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 166,
+          "like_count": 5452,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1437
+        },
+        "username": "Jjshsb61946",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2027569437302526000",
+    "created_at": "2026-02-28T02:19:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T03:19:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027569437302526000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1235879793272311808",
+          "start": 3,
+          "username": "WWWWaaaalive"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027569437302526000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027315554055508015",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WWWWaaaalive: 男朋友/老公你一定要性欲旺盛而且体力超好的我求你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2027569437302526000",
+        "created_at": "2026-02-28T02:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T03:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027569437302526000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1235879793272311808",
+              "start": 3,
+              "username": "WWWWaaaalive"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027569437302526000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027315554055508015",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WWWWaaaalive: 男朋友/老公你一定要性欲旺盛而且体力超好的我求你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1235879793272311808",
+        "conversation_id": "2027315554055508015",
+        "created_at": "2026-02-27T09:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T10:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027315554055508015"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027315554055508015",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 27600,
+          "like_count": 497,
+          "quote_count": 4,
+          "reply_count": 16,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "男朋友/老公你一定要性欲旺盛而且体力超好的我求你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5094,
+          "following_count": 234,
+          "like_count": 4058,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 1863
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-06T10:48:10.000Z",
+        "description": "一直不下雨就好了 无废话版👉🏻@PhotosforN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "PhotosforN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "go.suzi05.xyz/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://go.suzi05.xyz/#/register?code=kSFTne8R",
+                "start": 0,
+                "url": "https://t.co/W4XnxMh1aq"
+              }
+            ]
+          }
+        },
+        "id": "1235879793272311808",
+        "location": "超好用的VPN👉🏻",
+        "name": "蛙仔（禁自慰版）",
+        "pinned_tweet_id": "1964160678060773536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009156387264212992/jO0glYut_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86888,
+          "following_count": 714,
+          "like_count": 114077,
+          "listed_count": 164,
+          "media_count": 2360,
+          "tweet_count": 89851
+        },
+        "url": "https://t.co/W4XnxMh1aq",
+        "username": "WWWWaaaalive",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

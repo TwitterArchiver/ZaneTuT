@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2010952555489345639",
+    "created_at": "2026-01-14T00:47:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T01:47:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011238611841405324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1996307673818816512",
+          "start": 0,
+          "username": "minniebabylo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011238611841405324",
+    "in_reply_to_user_id": "1996307673818816512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011140656757162224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@minniebabylo 不行！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2010952555489345639",
+        "created_at": "2026-01-14T00:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T01:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011238611841405324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1996307673818816512",
+              "start": 0,
+              "username": "minniebabylo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011238611841405324",
+        "in_reply_to_user_id": "1996307673818816512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011140656757162224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minniebabylo 不行！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996307673818816512",
+        "conversation_id": "2010952555489345639",
+        "created_at": "2026-01-13T18:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T19:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011140656757162224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011140656757162224",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010952555489345639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 谢谢老师 我这就去和房梁拔河"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪66纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010591438627897389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 110,
+          "like_count": 1054,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 432
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-03T19:57:06.000Z",
+        "description": "secret garden ｜ 分享自己觉得很美的照片视频 ｜ 不下海哒咩呦₍^˶ ╸𖥦 ╸˵^₎⟆",
+        "id": "1996307673818816512",
+        "location": "纯圈🚪88  长教训专属",
+        "name": "minniebabylo",
+        "pinned_tweet_id": "2009529169777148235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996307808950833152/e50JbseS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 59,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 30
+        },
+        "username": "minniebabylo",
+        "verified": false
+      }
+    ]
+  }
+}

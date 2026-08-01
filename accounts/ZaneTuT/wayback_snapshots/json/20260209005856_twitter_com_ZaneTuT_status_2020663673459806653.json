@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1953424169422684160"
+      ],
+      "media_source_tweet_id": [
+        "1953424239375388741"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2020663673459806653",
+    "created_at": "2026-02-09T00:58:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T01:58:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020663673459806653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1808686771418640384",
+          "start": 3,
+          "username": "turras07"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ii60aByBxv",
+          "end": 37,
+          "expanded_url": "https://x.com/DAIGDlG/status/1953424239375388741/video/1",
+          "media_key": "13_1953424169422684160",
+          "start": 14,
+          "url": "https://t.co/ii60aByBxv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020663673459806653",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5361
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020148435031114157",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @turras07: https://t.co/ii60aByBxv"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2020663673459806653].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2020663673459806653",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2020663673459806653"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18183,
+        "height": 720,
+        "media_key": "13_1953424169422684160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1953424169422684160/img/uG27u5fi66SE6TUo.jpg",
+        "public_metrics": {
+          "view_count": 1534758
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953424169422684160/vid/avc1/320x320/zC0JqKvonz8Ho5Ev.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953424169422684160/vid/avc1/540x540/vToOsHc5yqTLPPGx.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953424169422684160/vid/avc1/720x720/NBIWeyzjlXAY3Wbh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1953424169422684160/pl/zwxOEuwPystF68gH.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1953424169422684160"
+          ],
+          "media_source_tweet_id": [
+            "1953424239375388741"
+          ]
+        },
+        "author_id": "1808686771418640384",
+        "conversation_id": "2020148435031114157",
+        "created_at": "2026-02-07T14:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T15:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020148435031114157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ii60aByBxv",
+              "end": 23,
+              "expanded_url": "https://x.com/DAIGDlG/status/1953424239375388741/video/1",
+              "media_key": "13_1953424169422684160",
+              "start": 0,
+              "url": "https://t.co/ii60aByBxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020148435031114157",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14383,
+          "impression_count": 141437,
+          "like_count": 42597,
+          "quote_count": 84,
+          "reply_count": 12,
+          "retweet_count": 5361
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ii60aByBxv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3511,
+          "following_count": 202,
+          "like_count": 3454,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1561
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T02:18:32.000Z",
+        "description": "18 top 🇪🇸 • DM for promo",
+        "id": "1808686771418640384",
+        "name": "sergio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973530371229622272/y2MpSC94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4021,
+          "following_count": 497,
+          "like_count": 6557,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 198
+        },
+        "username": "turras07",
+        "verified": true
+      }
+    ]
+  }
+}

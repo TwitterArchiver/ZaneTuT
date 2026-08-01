@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2016426958029275387",
+    "created_at": "2026-01-28T09:00:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T10:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016436189709132274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1949505260260593664",
+          "start": 0,
+          "username": "X10N_Lee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016436189709132274",
+    "in_reply_to_user_id": "1949505260260593664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016435159307034795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X10N_Lee 爱瑞文！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2016426958029275387",
+        "created_at": "2026-01-28T09:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T10:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016436189709132274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1949505260260593664",
+              "start": 0,
+              "username": "X10N_Lee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016436189709132274",
+        "in_reply_to_user_id": "1949505260260593664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016435159307034795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X10N_Lee 爱瑞文！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949505260260593664",
+        "conversation_id": "2016426958029275387",
+        "created_at": "2026-01-28T08:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T09:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016435159307034795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016435159307034795",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016426958029275387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 我爱小溃疡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心丨08丨od丨私信看心情回丨高频率发帖丨互fo可以直接➕V丨我听点udg sasi很多很多丨我皮下非常没有素质别惹我了行吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2762,
+          "following_count": 172,
+          "like_count": 2840,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 1298
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-27T16:21:02.000Z",
+        "description": "我听说地球曾下过一百万年雨 。https://t.co/jZ54us9M6O⬅️这里素我的提问箱！有什么想说的都可以告诉我哦！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raven_n",
+                "end": 38,
+                "expanded_url": "https://ngl.link/raven_n",
+                "start": 15,
+                "url": "https://t.co/jZ54us9M6O"
+              }
+            ]
+          }
+        },
+        "id": "1949505260260593664",
+        "name": "#22",
+        "pinned_tweet_id": "2008857183749120254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992158472490926080/Pq2rC4YR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 195,
+          "like_count": 3869,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1366
+        },
+        "username": "X10N_Lee",
+        "verified": false
+      }
+    ]
+  }
+}

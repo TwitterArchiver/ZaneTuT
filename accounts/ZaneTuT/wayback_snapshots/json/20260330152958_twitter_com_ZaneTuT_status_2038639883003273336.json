@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2038639883003273336",
+    "created_at": "2026-03-30T15:29:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T16:29:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038639883003273336"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kill_this_hate…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/kill_this_hate/status/2038633017577705836",
+          "start": 24,
+          "url": "https://t.co/vjj9WssHEl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038639883003273336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038633017577705836",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "都来找这个雀雀！我之前主页挂过！超级靠谱TuT https://t.co/vjj9WssHEl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 516,
+        "media_key": "3_2038632990595837952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEqt51_bcAAYPIR.jpg",
+        "width": 849
+      },
+      {
+        "height": 365,
+        "media_key": "3_2038632990629380096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEqt52HbQAAbMhD.jpg",
+        "width": 1020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2038639883003273336",
+        "created_at": "2026-03-30T15:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T16:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038639883003273336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kill_this_hate…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/kill_this_hate/status/2038633017577705836",
+              "start": 24,
+              "url": "https://t.co/vjj9WssHEl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038639883003273336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038633017577705836",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "都来找这个雀雀！我之前主页挂过！超级靠谱TuT https://t.co/vjj9WssHEl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038632990595837952",
+            "3_2038632990629380096"
+          ]
+        },
+        "author_id": "1750040441880498176",
+        "conversation_id": "2038633017577705836",
+        "created_at": "2026-03-30T15:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T16:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038633017577705836"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "反馈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7PiQUhkslw",
+              "end": 27,
+              "expanded_url": "https://x.com/kill_this_hate/status/2038633017577705836/photo/1",
+              "media_key": "3_2038632990595837952",
+              "start": 4,
+              "url": "https://t.co/7PiQUhkslw"
+            },
+            {
+              "display_url": "pic.x.com/7PiQUhkslw",
+              "end": 27,
+              "expanded_url": "https://x.com/kill_this_hate/status/2038633017577705836/photo/1",
+              "media_key": "3_2038632990629380096",
+              "start": 4,
+              "url": "https://t.co/7PiQUhkslw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038633017577705836",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#反馈 https://t.co/7PiQUhkslw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5967,
+          "following_count": 300,
+          "like_count": 5609,
+          "listed_count": 3,
+          "media_count": 67,
+          "tweet_count": 2362
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T06:19:04.000Z",
+        "description": "请爱我的人后退一步，对，就这样招招手就好。",
+        "id": "1750040441880498176",
+        "location": "lark2206",
+        "name": "雀逃避现实（接占卜",
+        "pinned_tweet_id": "2027930860163633378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022546607917666307/T2i9VP-J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 109,
+          "like_count": 21378,
+          "listed_count": 2,
+          "media_count": 901,
+          "tweet_count": 9547
+        },
+        "username": "kill_this_hate",
+        "verified": false
+      }
+    ]
+  }
+}

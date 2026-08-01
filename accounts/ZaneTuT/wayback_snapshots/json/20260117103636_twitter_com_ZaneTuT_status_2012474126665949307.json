@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2012432599462113302",
+    "created_at": "2026-01-17T10:36:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T11:36:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012474126665949307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1679367703549865985",
+          "start": 0,
+          "username": "MilkyrabbitOvo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012474126665949307",
+    "in_reply_to_user_id": "1679367703549865985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012467177564356678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MilkyrabbitOvo 小兔你真好 我一直哭🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2012432599462113302",
+        "created_at": "2026-01-17T10:36:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T11:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012474126665949307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1679367703549865985",
+              "start": 0,
+              "username": "MilkyrabbitOvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012474126665949307",
+        "in_reply_to_user_id": "1679367703549865985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012467177564356678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MilkyrabbitOvo 小兔你真好 我一直哭🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679367703549865985",
+        "conversation_id": "2012432599462113302",
+        "created_at": "2026-01-17T10:08:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T11:08:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012467177564356678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012467177564356678",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012432599462113302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 我爱你 宝宝下次磕头我们可以一起 总会有人爱我们的 自己也要好好爱自己 🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪88/128 纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨回fo眼熟的 可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010591438627897389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 132,
+          "like_count": 1554,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 671
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T05:50:44.000Z",
+        "description": "hi 我是小兔 纯绿推/02 INFP 喜欢年下/4i＞1i 不互攻/女s 无性sm 温柔妈咪/账号用于记录日常和重要的人 没有小狗 有意向带简介和照片私信 只回感兴趣和有礼貌的/总会有人让我贪婪地要爱要钱要一切对方会笑眯眯地双手奉上说我真可爱/不约p不聊骚不下海 恶臭勿扰  •͈ᴗ•͈ ♡",
+        "id": "1679367703549865985",
+        "name": "奶兔星球",
+        "pinned_tweet_id": "2009453810255843722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003295315202596864/u4dnfRpQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 36,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 74
+        },
+        "username": "MilkyrabbitOvo",
+        "verified": false
+      }
+    ]
+  }
+}

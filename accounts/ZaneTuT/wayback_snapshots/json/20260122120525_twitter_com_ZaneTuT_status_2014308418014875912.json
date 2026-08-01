@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2014163853324460203",
+    "created_at": "2026-01-22T12:05:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T13:05:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014308418014875912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1885388161700028418",
+          "start": 0,
+          "username": "Voidcurrent_06"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014308418014875912",
+    "in_reply_to_user_id": "1885388161700028418",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014307793659162837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Voidcurrent_06 🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2014163853324460203",
+        "created_at": "2026-01-22T12:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T13:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014308418014875912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1885388161700028418",
+              "start": 0,
+              "username": "Voidcurrent_06"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014308418014875912",
+        "in_reply_to_user_id": "1885388161700028418",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014307793659162837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Voidcurrent_06 🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885388161700028418",
+        "conversation_id": "2014163853324460203",
+        "created_at": "2026-01-22T12:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T13:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014307793659162837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014307793659162837",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014163853324460203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 我们现在是什么关系⋯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心丨08丨od丨私信看心情回丨高频率发帖丨互fo可以直接➕V丨我听点udg sasi很多很多丨我皮下非常没有素质别惹我了行吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2206,
+          "following_count": 159,
+          "like_count": 2423,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 1135
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T18:02:33.000Z",
+        "description": "T ω T",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/voidcurrent",
+                "end": 23,
+                "expanded_url": "https://ngl.link/voidcurrent",
+                "start": 0,
+                "url": "https://t.co/VEmGzLJ4Nt"
+              }
+            ]
+          }
+        },
+        "id": "1885388161700028418",
+        "location": "请别再无视我的泪",
+        "name": "Y",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965396206492024834/FKF8FsvY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3634,
+          "following_count": 225,
+          "like_count": 2379,
+          "listed_count": 29,
+          "media_count": 8,
+          "tweet_count": 780
+        },
+        "url": "https://t.co/VEmGzLJ4Nt",
+        "username": "Voidcurrent_06",
+        "verified": false
+      }
+    ]
+  }
+}

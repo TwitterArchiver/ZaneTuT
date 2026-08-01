@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010612259228459008",
+        "3_2010612259241025536",
+        "3_2010612259232604161",
+        "3_2010612259224158208"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2010612271563907153",
+    "created_at": "2026-01-12T07:18:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T08:18:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010612271563907153"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MdtI7Ui2Z4",
+          "end": 35,
+          "expanded_url": "https://x.com/ZaneTuT/status/2010612271563907153/photo/1",
+          "media_key": "3_2010612259228459008",
+          "start": 12,
+          "url": "https://t.co/MdtI7Ui2Z4"
+        },
+        {
+          "display_url": "pic.x.com/MdtI7Ui2Z4",
+          "end": 35,
+          "expanded_url": "https://x.com/ZaneTuT/status/2010612271563907153/photo/1",
+          "media_key": "3_2010612259241025536",
+          "start": 12,
+          "url": "https://t.co/MdtI7Ui2Z4"
+        },
+        {
+          "display_url": "pic.x.com/MdtI7Ui2Z4",
+          "end": 35,
+          "expanded_url": "https://x.com/ZaneTuT/status/2010612271563907153/photo/1",
+          "media_key": "3_2010612259232604161",
+          "start": 12,
+          "url": "https://t.co/MdtI7Ui2Z4"
+        },
+        {
+          "display_url": "pic.x.com/MdtI7Ui2Z4",
+          "end": 35,
+          "expanded_url": "https://x.com/ZaneTuT/status/2010612271563907153/photo/1",
+          "media_key": "3_2010612259224158208",
+          "start": 12,
+          "url": "https://t.co/MdtI7Ui2Z4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010612271563907153",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "prbl梦女 是我，！ https://t.co/MdtI7Ui2Z4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2010612259228459008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-chMnRboAA3E8j.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2010612259241025536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-chMnUbYAANjo4.jpg",
+        "width": 1536
+      },
+      {
+        "height": 960,
+        "media_key": "3_2010612259232604161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-chMnSa4AEO0pr.jpg",
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2010612259224158208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-chMnQaAAAqKi_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010612259228459008",
+            "3_2010612259241025536",
+            "3_2010612259232604161",
+            "3_2010612259224158208"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2010612271563907153",
+        "created_at": "2026-01-12T07:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T08:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010612271563907153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MdtI7Ui2Z4",
+              "end": 35,
+              "expanded_url": "https://x.com/ZaneTuT/status/2010612271563907153/photo/1",
+              "media_key": "3_2010612259228459008",
+              "start": 12,
+              "url": "https://t.co/MdtI7Ui2Z4"
+            },
+            {
+              "display_url": "pic.x.com/MdtI7Ui2Z4",
+              "end": 35,
+              "expanded_url": "https://x.com/ZaneTuT/status/2010612271563907153/photo/1",
+              "media_key": "3_2010612259241025536",
+              "start": 12,
+              "url": "https://t.co/MdtI7Ui2Z4"
+            },
+            {
+              "display_url": "pic.x.com/MdtI7Ui2Z4",
+              "end": 35,
+              "expanded_url": "https://x.com/ZaneTuT/status/2010612271563907153/photo/1",
+              "media_key": "3_2010612259232604161",
+              "start": 12,
+              "url": "https://t.co/MdtI7Ui2Z4"
+            },
+            {
+              "display_url": "pic.x.com/MdtI7Ui2Z4",
+              "end": 35,
+              "expanded_url": "https://x.com/ZaneTuT/status/2010612271563907153/photo/1",
+              "media_key": "3_2010612259224158208",
+              "start": 12,
+              "url": "https://t.co/MdtI7Ui2Z4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010612271563907153",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "prbl梦女 是我，！ https://t.co/MdtI7Ui2Z4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨我听点udg 可以和我一起听歌…",
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010215499150585985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 101,
+          "like_count": 757,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 215
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

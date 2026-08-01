@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2013130464714711431",
+    "created_at": "2026-01-19T06:04:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T07:04:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013130464714711431"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vox35112635/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/vox35112635/status/2013117667604062674",
+          "start": 7,
+          "url": "https://t.co/C9ciUJ88T9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013130464714711431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013117667604062674",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "穷尿血了？？ https://t.co/C9ciUJ88T9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 208,
+        "media_key": "3_2013117661354356736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_AH2NgXcAAk8-v.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2013130464714711431",
+        "created_at": "2026-01-19T06:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T07:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013130464714711431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vox35112635/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/vox35112635/status/2013117667604062674",
+              "start": 7,
+              "url": "https://t.co/C9ciUJ88T9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013130464714711431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013117667604062674",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "穷尿血了？？ https://t.co/C9ciUJ88T9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013117661354356736"
+          ]
+        },
+        "author_id": "1291988176496545792",
+        "conversation_id": "2013117667604062674",
+        "created_at": "2026-01-19T05:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T06:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013117667604062674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JgkMLICJHT",
+              "end": 29,
+              "expanded_url": "https://x.com/Vox35112635/status/2013117667604062674/photo/1",
+              "media_key": "3_2013117661354356736",
+              "start": 6,
+              "url": "https://t.co/JgkMLICJHT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013117667604062674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4536,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 47,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你没事吧？ https://t.co/JgkMLICJHT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪128 纯绿丨有的文案不是原创别攻击我TuT丨08丨od丨私信看心情回丨高频率发帖我好无聊丨互fo可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2011423750164725893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1244,
+          "following_count": 137,
+          "like_count": 1877,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 853
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-08T06:42:48.000Z",
+        "description": "抖音号：32625516049/现在会接一点有偿转发/付费线上绿色交友委托/如果谎称投稿人私下联系你们请找我确认防止被骗/广告正规推以外的其他投稿均为免费/加vx随缘给门槛就好了/算卦找@minglishii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 93,
+                "username": "minglishii"
+              }
+            ]
+          }
+        },
+        "id": "1291988176496545792",
+        "location": "沙发床上",
+        "name": "跑调的毕加索",
+        "pinned_tweet_id": "2003364757957673187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523690111569117190/MeBry_Ku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281520,
+          "following_count": 530,
+          "like_count": 485,
+          "listed_count": 321,
+          "media_count": 11211,
+          "tweet_count": 16259
+        },
+        "username": "Vox35112635",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2012955728416485839",
+    "created_at": "2026-01-18T18:30:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T19:30:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012955848432345215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1832308955852500995",
+          "start": 0,
+          "username": "ming_akira0423"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012955848432345215",
+    "in_reply_to_user_id": "1832308955852500995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012955728416485839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ming_akira0423 你继续搬运聊天记录发帖"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2012955717754404865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-90j2lXwAEZnhb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2012955728416485839",
+        "created_at": "2026-01-18T18:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T19:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012955848432345215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1832308955852500995",
+              "start": 0,
+              "username": "ming_akira0423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012955848432345215",
+        "in_reply_to_user_id": "1832308955852500995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012955728416485839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ming_akira0423 你继续搬运聊天记录发帖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012955717754404865"
+          ]
+        },
+        "author_id": "1832308955852500995",
+        "conversation_id": "2012955728416485839",
+        "created_at": "2026-01-18T18:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T19:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012955728416485839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9JDieO90zz",
+              "end": 35,
+              "expanded_url": "https://x.com/ming_akira0423/status/2012955728416485839/photo/1",
+              "media_key": "3_2012955717754404865",
+              "start": 12,
+              "url": "https://t.co/9JDieO90zz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012955728416485839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我买的资料终于用上了。 https://t.co/9JDieO90zz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪128 纯绿丨有的文案不是原创别攻击我TuT丨08丨od丨私信看心情回丨高频率发帖我好无聊丨互fo可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2011423750164725893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 134,
+          "like_count": 1823,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 816
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-07T06:44:41.000Z",
+        "description": "北京 男 之后可能很少出cos了…如果想入我门直接私信我就好了 想和我聊天也可以私信和我聊 私信都会回的 我话真的特别多 谢谢你们！ 这个是我的提问箱https://t.co/WWRcHh4ytv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akira19923",
+                "end": 98,
+                "expanded_url": "https://ngl.link/akira19923",
+                "start": 75,
+                "url": "https://t.co/WWRcHh4ytv"
+              }
+            ]
+          }
+        },
+        "id": "1832308955852500995",
+        "name": "明",
+        "pinned_tweet_id": "2006753409937060028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009957760268648448/PFnjP22P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 121,
+          "like_count": 1393,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 652
+        },
+        "username": "ming_akira0423",
+        "verified": false
+      }
+    ]
+  }
+}

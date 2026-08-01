@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2016832183701557455",
+    "created_at": "2026-01-29T11:13:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T12:13:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016832183701557455"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sertraline816/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/sertraline816/status/2015792754165469620",
+          "start": 6,
+          "url": "https://t.co/GrW1QXx7CQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016832183701557455",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015792754165469620",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我哭难受了 https://t.co/GrW1QXx7CQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2016832183701557455",
+        "created_at": "2026-01-29T11:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T12:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016832183701557455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sertraline816/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/sertraline816/status/2015792754165469620",
+              "start": 6,
+              "url": "https://t.co/GrW1QXx7CQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016832183701557455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015792754165469620",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我哭难受了 https://t.co/GrW1QXx7CQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834625166774829056",
+        "conversation_id": "2015792754165469620",
+        "created_at": "2026-01-26T14:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T15:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015792754165469620"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015792754165469620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 60851,
+          "like_count": 1030,
+          "quote_count": 19,
+          "reply_count": 46,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "没名分的醋吃起来才是最疼，最自私，最没道理的....而且你只能自己开导自己因为说出去了别人只会骂你傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心丨08丨od丨私信看心情回丨高频率发帖丨互fo可以直接➕V丨我听点udg sasi很多很多丨我皮下非常没有素质别惹我了行吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2863,
+          "following_count": 174,
+          "like_count": 2889,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 1316
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-13T16:09:08.000Z",
+        "description": "主页含有少量牛子请谨慎观看/请和我聊天/绝望的家教老师/长期活跃在别人动态下/请和我打Apex、OW、星露谷、群星/性取向直/不定期情绪崩溃会发很多莫名其妙的话请谨慎关注/1i/高强度在x冲浪如果你关注了我那很有可能会充斥你的主页所以谨慎关注",
+        "id": "1834625166774829056",
+        "name": "Sertraline",
+        "pinned_tweet_id": "2004973899059245287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004371399184424960/SnRop93a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1245,
+          "following_count": 250,
+          "like_count": 7623,
+          "listed_count": 4,
+          "media_count": 626,
+          "tweet_count": 4763
+        },
+        "username": "Sertraline816",
+        "verified": false
+      }
+    ]
+  }
+}

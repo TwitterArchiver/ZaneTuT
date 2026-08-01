@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2010251739379970331",
+    "created_at": "2026-01-11T07:26:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T08:26:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010251862939979978"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2010251862939979978",
+    "in_reply_to_user_id": "1997985969958699008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010251739379970331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好难听我操你个妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21870,
+        "height": 804,
+        "media_key": "13_2010251652713099264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2010251652713099264/img/7JaivvwedlHJn9Xe.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010251652713099264/vid/avc1/320x356/R_mDFwy4X32HdLgz.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010251652713099264/vid/avc1/480x536/L1qb6Y9MGUIoYOIV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010251652713099264/vid/avc1/720x804/XWyt3nSsQEcyZ55s.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2010251652713099264/pl/Ol7JdRX4Pj5bSZ0S.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2010251739379970331",
+        "created_at": "2026-01-11T07:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T08:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010251862939979978"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010251862939979978",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010251739379970331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好难听我操你个妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2010251652713099264"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2010251739379970331",
+        "created_at": "2026-01-11T07:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T08:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010251739379970331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R7aBwC6DZ6",
+              "end": 46,
+              "expanded_url": "https://x.com/ZaneTuT/status/2010251739379970331/video/1",
+              "media_key": "13_2010251652713099264",
+              "start": 23,
+              "url": "https://t.co/R7aBwC6DZ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010251739379970331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大下午的我发个喘喘 你们只能夸我可爱知豆了不 https://t.co/R7aBwC6DZ6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "08丨萌脸骚丨od丨私信看心情回 请礼貌丨166 98不要私信问我了丨高频率发帖我好无聊丨我听点udg 可以和我一起听歌…",
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010215499150585985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 77,
+          "like_count": 621,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 145
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

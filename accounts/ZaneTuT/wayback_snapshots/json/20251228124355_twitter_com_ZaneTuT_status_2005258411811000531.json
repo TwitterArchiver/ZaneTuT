@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2005255857685323916",
+    "created_at": "2025-12-28T12:43:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T13:43:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005258411811000531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1490941014030561283",
+          "start": 0,
+          "username": "redaizhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005258411811000531",
+    "in_reply_to_user_id": "1490941014030561283",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005255857685323916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@redaizhu 哎呀…美味……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 848,
+        "media_key": "3_2005255855164506113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9QZk3LaQAEBrZG.png",
+        "width": 1151
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2005255857685323916",
+        "created_at": "2025-12-28T12:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T13:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005258411811000531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1490941014030561283",
+              "start": 0,
+              "username": "redaizhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005258411811000531",
+        "in_reply_to_user_id": "1490941014030561283",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005255857685323916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@redaizhu 哎呀…美味……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005255855164506113"
+          ]
+        },
+        "author_id": "1490941014030561283",
+        "conversation_id": "2005255857685323916",
+        "created_at": "2025-12-28T12:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T13:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005255857685323916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/37I3akvF6r",
+              "end": 23,
+              "expanded_url": "https://x.com/redaizhu/status/2005255857685323916/photo/1",
+              "media_key": "3_2005255855164506113",
+              "start": 0,
+              "url": "https://t.co/37I3akvF6r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005255857685323916",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 352,
+          "like_count": 38,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/37I3akvF6r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "对我好疏远是怎么啦",
+        "id": "1997985969958699008",
+        "name": "到底怎样才有人爱我",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 45,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 31
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T06:50:26.000Z",
+        "description": "不喜欢屏蔽就好了   请勿带入现实  祝大家天天开心啦  生活号和匿名箱 @kaixinyao0987",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 37,
+                "username": "kaixinyao0987"
+              }
+            ]
+          }
+        },
+        "id": "1490941014030561283",
+        "name": "热带猪🌙",
+        "pinned_tweet_id": "1963804763889254400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875558956464271365/jS3Awz6n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81491,
+          "following_count": 85,
+          "like_count": 32647,
+          "listed_count": 95,
+          "media_count": 2009,
+          "tweet_count": 5666
+        },
+        "username": "redaizhu",
+        "verified": false
+      }
+    ]
+  }
+}

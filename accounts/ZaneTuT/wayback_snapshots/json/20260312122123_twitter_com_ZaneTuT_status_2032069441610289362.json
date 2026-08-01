@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2032069441610289362",
+    "created_at": "2026-03-12T12:21:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T13:21:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032069441610289362"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/burundi1983/st…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/burundi1983/status/2031996111167037752",
+          "start": 21,
+          "url": "https://t.co/SpKQUxQyQs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032069441610289362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031996111167037752",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "睡过一个大屌男 我真的这样。我不得劲。。 https://t.co/SpKQUxQyQs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 474,
+        "media_key": "3_2031991406303305728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDMVawda4AAC2hB.jpg",
+        "width": 939
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2032069441610289362",
+        "created_at": "2026-03-12T12:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T13:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032069441610289362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/burundi1983/st…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/burundi1983/status/2031996111167037752",
+              "start": 21,
+              "url": "https://t.co/SpKQUxQyQs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032069441610289362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031996111167037752",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "睡过一个大屌男 我真的这样。我不得劲。。 https://t.co/SpKQUxQyQs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031991406303305728"
+          ]
+        },
+        "author_id": "1673220351499591681",
+        "conversation_id": "2031996111167037752",
+        "created_at": "2026-03-12T07:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T08:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031996111167037752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DepPmZBEra",
+              "end": 23,
+              "expanded_url": "https://x.com/burundi1983/status/2031996111167037752/photo/1",
+              "media_key": "3_2031991406303305728",
+              "start": 0,
+              "url": "https://t.co/DepPmZBEra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031996111167037752",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 54373,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 44,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DepPmZBEra"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5437,
+          "following_count": 277,
+          "like_count": 4633,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 2008
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T06:43:17.000Z",
+        "description": "大号@Sweet_xst\n两个号发的投稿是不重复的哦！拜托宝宝们也关注一下这个号吧！！拜托拜托",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Sweet_xst"
+              }
+            ]
+          }
+        },
+        "id": "1673220351499591681",
+        "name": "椰宰鸡",
+        "pinned_tweet_id": "2026553948111516024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010663449085530112/J_Q3Ta3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5206,
+          "following_count": 197,
+          "like_count": 354,
+          "listed_count": 5,
+          "media_count": 110,
+          "tweet_count": 409
+        },
+        "username": "burundi1983",
+        "verified": false
+      }
+    ]
+  }
+}

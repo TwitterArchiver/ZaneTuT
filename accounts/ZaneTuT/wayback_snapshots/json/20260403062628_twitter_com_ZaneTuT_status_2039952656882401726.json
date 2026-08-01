@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2039919983720038607",
+    "created_at": "2026-04-03T06:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T07:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039952656882401726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2015135567638335488",
+          "start": 0,
+          "username": "boman821072"
+        },
+        {
+          "end": 21,
+          "id": "2001536364685463552",
+          "start": 13,
+          "username": "catuuxu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039952656882401726",
+    "in_reply_to_user_id": "2015135567638335488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039938777603244479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boman821072 @catuuxu 怀了自动认领众神之子呗，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2039919983720038607",
+        "created_at": "2026-04-03T06:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T07:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039952656882401726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2015135567638335488",
+              "start": 0,
+              "username": "boman821072"
+            },
+            {
+              "end": 21,
+              "id": "2001536364685463552",
+              "start": 13,
+              "username": "catuuxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039952656882401726",
+        "in_reply_to_user_id": "2015135567638335488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039938777603244479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boman821072 @catuuxu 怀了自动认领众神之子呗，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015135567638335488",
+        "conversation_id": "2039919983720038607",
+        "created_at": "2026-04-03T05:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T06:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039938777603244479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2001536364685463552",
+              "start": 0,
+              "username": "catuuxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039938777603244479",
+        "in_reply_to_user_id": "2001536364685463552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 377,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039919983720038607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catuuxu 我天怀了咋办这样搞。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨08丨od丨中抑中焦丨互fo免🚪丨我听点udg sasi很多很多丨两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 45,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6215,
+          "following_count": 293,
+          "like_count": 6053,
+          "listed_count": 3,
+          "media_count": 96,
+          "tweet_count": 2557
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T18:52:55.000Z",
+        "description": "有没有出原味的友友呀，我想要",
+        "id": "2015135567638335488",
+        "name": "O.o",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015139291173732352/JH4Q--pQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 390,
+          "like_count": 706,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 174
+        },
+        "username": "boman821072",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T06:14:00.000Z",
+        "description": "小学生TvT 可以叫我小宝 l 私信只回门 l 碎碎念/小号@UwUwU0U，不约不线下 匿名：https://t.co/UXHzSFIt43",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "UwUwU0U"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moliyu77",
+                "end": 71,
+                "expanded_url": "https://ngl.link/moliyu77",
+                "start": 48,
+                "url": "https://t.co/UXHzSFIt43"
+              }
+            ]
+          }
+        },
+        "id": "2001536364685463552",
+        "location": "距离你3.6公里",
+        "name": "小咬",
+        "pinned_tweet_id": "2005524058415440351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001537879441575939/WB2pai3J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2626,
+          "following_count": 23,
+          "like_count": 404,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 742
+        },
+        "username": "catuuxu",
+        "verified": false
+      }
+    ]
+  }
+}

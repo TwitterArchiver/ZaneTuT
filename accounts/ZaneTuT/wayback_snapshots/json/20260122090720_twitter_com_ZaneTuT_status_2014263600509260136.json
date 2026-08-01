@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2014260185079136641",
+    "created_at": "2026-01-22T09:07:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T10:07:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014263600509260136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1668132642209042432",
+          "start": 0,
+          "username": "at3ooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014263600509260136",
+    "in_reply_to_user_id": "1668132642209042432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014261942970425849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@at3ooo 我不会为了他充钱的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2014260185079136641",
+        "created_at": "2026-01-22T09:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T10:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014263600509260136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1668132642209042432",
+              "start": 0,
+              "username": "at3ooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014263600509260136",
+        "in_reply_to_user_id": "1668132642209042432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014261942970425849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@at3ooo 我不会为了他充钱的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668132642209042432",
+        "conversation_id": "2014260185079136641",
+        "created_at": "2026-01-22T09:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T10:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014261942970425849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014261942970425849",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014260185079136641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT ngl会员好像能看到是谁发的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心丨08丨od丨私信看心情回丨高频率发帖丨互fo可以直接➕V丨我听点udg sasi很多很多丨我皮下非常没有素质别惹我了行吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014245336039199204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2189,
+          "following_count": 159,
+          "like_count": 2406,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 1127
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-12T05:46:40.000Z",
+        "description": "会讲很多废话/我说的都是错的 ///喜欢有礼貌的人",
+        "id": "1668132642209042432",
+        "location": "Mukim 18 (Tanjong Tokong)",
+        "name": "别管我啦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012860901481701376/_oUGRGtZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 17,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 19
+        },
+        "username": "at3ooo",
+        "verified": false
+      }
+    ]
+  }
+}

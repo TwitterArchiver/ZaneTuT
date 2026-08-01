@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2019692865270739340",
+    "created_at": "2026-02-06T08:41:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T09:41:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019692865270739340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1899265417828249600",
+          "start": 3,
+          "username": "wzc1450037"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019692865270739340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019598205722456288",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wzc1450037: 我就是那种逼连大脑的人 所以我不会约炮的 约炮守则那条不要爱上炮友我都遵守不了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2019692865270739340",
+        "created_at": "2026-02-06T08:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T09:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019692865270739340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1899265417828249600",
+              "start": 3,
+              "username": "wzc1450037"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019692865270739340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019598205722456288",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wzc1450037: 我就是那种逼连大脑的人 所以我不会约炮的 约炮守则那条不要爱上炮友我都遵守不了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899265417828249600",
+        "conversation_id": "2019598205722456288",
+        "created_at": "2026-02-06T02:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T03:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019598205722456288"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019598205722456288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4536,
+          "like_count": 81,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我就是那种逼连大脑的人 所以我不会约炮的 约炮守则那条不要爱上炮友我都遵守不了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨神秘账号@Rotte2t00丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "Rotte2t00"
+              },
+              {
+                "end": 80,
+                "start": 65,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 95,
+                "start": 87,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3299,
+          "following_count": 190,
+          "like_count": 3265,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 1458
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-11T01:05:52.000Z",
+        "description": "可以叫我棉花(｡ì _ í｡)｜04｜m｜0.6？｜想讲话可以来私信我 ｜宝贝 你可能在dy刷到过我 我们就当不知道 拉勾^-^｜我真的不约｜https://t.co/1MxnKnkO4k",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cotton58084",
+                "end": 94,
+                "expanded_url": "https://ngl.link/cotton58084",
+                "start": 71,
+                "url": "https://t.co/1MxnKnkO4k"
+              }
+            ]
+          }
+        },
+        "id": "1899265417828249600",
+        "name": "cotton",
+        "pinned_tweet_id": "2018699222493602067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899882091497570305/0P3QCMWY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 28,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 203
+        },
+        "username": "wzc1450037",
+        "verified": false
+      }
+    ]
+  }
+}

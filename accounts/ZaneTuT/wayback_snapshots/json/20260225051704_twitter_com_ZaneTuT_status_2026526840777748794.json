@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026526830405308416"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2026312563831750999",
+    "created_at": "2026-02-25T05:17:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T06:17:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026526840777748794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1525172701366693888",
+          "start": 0,
+          "username": "wook29880826"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2Afh48gLbc",
+          "end": 50,
+          "expanded_url": "https://x.com/ZaneTuT/status/2026526840777748794/photo/1",
+          "media_key": "3_2026526830405308416",
+          "start": 27,
+          "url": "https://t.co/2Afh48gLbc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026526840777748794",
+    "in_reply_to_user_id": "1525172701366693888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026312563831750999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wook29880826 断中指不解释。很难解释。 https://t.co/2Afh48gLbc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026526830405308416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB-rak4bUAAtGNj.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2026312516532600833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB7of3fagAEOBSz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026526830405308416"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2026312563831750999",
+        "created_at": "2026-02-25T05:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T06:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026526840777748794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1525172701366693888",
+              "start": 0,
+              "username": "wook29880826"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Afh48gLbc",
+              "end": 50,
+              "expanded_url": "https://x.com/ZaneTuT/status/2026526840777748794/photo/1",
+              "media_key": "3_2026526830405308416",
+              "start": 27,
+              "url": "https://t.co/2Afh48gLbc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026526840777748794",
+        "in_reply_to_user_id": "1525172701366693888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026312563831750999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wook29880826 断中指不解释。很难解释。 https://t.co/2Afh48gLbc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026312516532600833"
+          ]
+        },
+        "author_id": "1525172701366693888",
+        "conversation_id": "2026312563831750999",
+        "created_at": "2026-02-24T15:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T16:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026312563831750999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kZYbujG7O0",
+              "end": 63,
+              "expanded_url": "https://x.com/wook29880826/status/2026312563831750999/photo/1",
+              "media_key": "3_2026312516532600833",
+              "start": 40,
+              "url": "https://t.co/kZYbujG7O0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026312563831750999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7662,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次美甲断成这样我都无力解释….我真的不是为了扣逼呀🚬🚬🚬🚬科技改变生活好吧！ https://t.co/kZYbujG7O0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5009,
+          "following_count": 229,
+          "like_count": 3888,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 1790
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-13T17:54:49.000Z",
+        "description": "为什么我的眼睛下小鱼 🚪520/1314过门后👉@aiya32300  纯绿🚪288👉👈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "aiya32300"
+              }
+            ]
+          }
+        },
+        "id": "1525172701366693888",
+        "name": "jshzjsk-.-",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729217681029828608/BIbcX17g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117026,
+          "following_count": 508,
+          "like_count": 4826,
+          "listed_count": 276,
+          "media_count": 529,
+          "tweet_count": 4565
+        },
+        "username": "wook29880826",
+        "verified": false
+      }
+    ]
+  }
+}

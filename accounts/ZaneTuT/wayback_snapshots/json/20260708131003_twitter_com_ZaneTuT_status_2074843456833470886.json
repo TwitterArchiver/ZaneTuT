@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2074544659142250813",
+    "created_at": "2026-07-08T13:10:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T14:10:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074843456833470886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1985353024244793345",
+          "start": 0,
+          "username": "Bitterpearlbird"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074843456833470886",
+    "in_reply_to_user_id": "1985353024244793345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074544659142250813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Bitterpearlbird 对的对的。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1454,
+        "media_key": "3_2074544648476106752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMpDXcsbIAA-y4E.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2074544659142250813",
+        "created_at": "2026-07-08T13:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074843456833470886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1985353024244793345",
+              "start": 0,
+              "username": "Bitterpearlbird"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074843456833470886",
+        "in_reply_to_user_id": "1985353024244793345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074544659142250813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Bitterpearlbird 对的对的。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074544648476106752"
+          ]
+        },
+        "author_id": "1985353024244793345",
+        "conversation_id": "2074544659142250813",
+        "created_at": "2026-07-07T17:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T18:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074544659142250813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MDVPh8W793",
+              "end": 31,
+              "expanded_url": "https://x.com/Bitterpearlbird/status/2074544659142250813/photo/1",
+              "media_key": "3_2074544648476106752",
+              "start": 8,
+              "url": "https://t.co/MDVPh8W793"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074544659142250813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 12576,
+          "like_count": 323,
+          "quote_count": 0,
+          "reply_count": 52,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "哦不对不对不对 https://t.co/MDVPh8W793"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨互fo免🚪丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 37,
+                "start": 27,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2044362275218489629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7763,
+          "following_count": 273,
+          "like_count": 5881,
+          "listed_count": 4,
+          "media_count": 48,
+          "tweet_count": 2581
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-03T14:27:54.000Z",
+        "description": "Komm,süsser Tod\n这个世界好坏但是姐姐会带我走@StarryLove_1005",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "StarryLove_1005"
+              }
+            ]
+          }
+        },
+        "id": "1985353024244793345",
+        "location": "好友位88",
+        "name": "珍珠鸟",
+        "pinned_tweet_id": "2017848011024675046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020454920315654145/-RaDH-dC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3608,
+          "following_count": 448,
+          "like_count": 31906,
+          "listed_count": 3,
+          "media_count": 350,
+          "tweet_count": 2946
+        },
+        "url": "",
+        "username": "Bitterpearlbird",
+        "verified": false
+      }
+    ]
+  }
+}

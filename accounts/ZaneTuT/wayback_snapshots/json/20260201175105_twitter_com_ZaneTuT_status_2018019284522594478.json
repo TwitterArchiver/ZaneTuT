@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018019265421701120",
+        "3_2018019265669218304"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2018019284522594478",
+    "created_at": "2026-02-01T17:51:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T18:51:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018019284522594478"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2AFfegLIGv",
+          "end": 68,
+          "expanded_url": "https://x.com/ZaneTuT/status/2018019284522594478/photo/1",
+          "media_key": "3_2018019265421701120",
+          "start": 45,
+          "url": "https://t.co/2AFfegLIGv"
+        },
+        {
+          "display_url": "pic.x.com/2AFfegLIGv",
+          "end": 68,
+          "expanded_url": "https://x.com/ZaneTuT/status/2018019284522594478/photo/1",
+          "media_key": "3_2018019265669218304",
+          "start": 45,
+          "url": "https://t.co/2AFfegLIGv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018019284522594478",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1️⃣在一起od？如果是那种在一起 我可以和身材好的帅哥接触一下\n2️⃣晚上好 我睡觉了 https://t.co/2AFfegLIGv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1027,
+        "media_key": "3_2018019265421701120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAFx1Hla8AAMrP5.jpg",
+        "width": 1206
+      },
+      {
+        "height": 772,
+        "media_key": "3_2018019265669218304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAFx1IgbwAAH1hX.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018019265421701120",
+            "3_2018019265669218304"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2018019284522594478",
+        "created_at": "2026-02-01T17:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T18:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018019284522594478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2AFfegLIGv",
+              "end": 68,
+              "expanded_url": "https://x.com/ZaneTuT/status/2018019284522594478/photo/1",
+              "media_key": "3_2018019265421701120",
+              "start": 45,
+              "url": "https://t.co/2AFfegLIGv"
+            },
+            {
+              "display_url": "pic.x.com/2AFfegLIGv",
+              "end": 68,
+              "expanded_url": "https://x.com/ZaneTuT/status/2018019284522594478/photo/1",
+              "media_key": "3_2018019265669218304",
+              "start": 45,
+              "url": "https://t.co/2AFfegLIGv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018019284522594478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1️⃣在一起od？如果是那种在一起 我可以和身材好的帅哥接触一下\n2️⃣晚上好 我睡觉了 https://t.co/2AFfegLIGv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨神秘账号@Rotte2t00丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "Rotte2t00"
+              },
+              {
+                "end": 80,
+                "start": 65,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 95,
+                "start": 87,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2963,
+          "following_count": 187,
+          "like_count": 3045,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1388
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

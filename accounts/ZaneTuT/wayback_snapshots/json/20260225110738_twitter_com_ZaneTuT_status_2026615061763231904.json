@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2026615061763231904",
+    "created_at": "2026-02-25T11:07:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T12:07:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026615061763231904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1995222810159882240",
+          "start": 3,
+          "username": "Ameowxiaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026615061763231904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026480122321109066",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ameowxiaaa: 能不能在我无理取闹的时候说一句你是不是想我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2026615061763231904",
+        "created_at": "2026-02-25T11:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T12:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026615061763231904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1995222810159882240",
+              "start": 3,
+              "username": "Ameowxiaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026615061763231904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026480122321109066",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ameowxiaaa: 能不能在我无理取闹的时候说一句你是不是想我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995222810159882240",
+        "conversation_id": "2026480122321109066",
+        "created_at": "2026-02-25T02:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T03:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026480122321109066"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026480122321109066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "能不能在我无理取闹的时候说一句你是不是想我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5017,
+          "following_count": 230,
+          "like_count": 3895,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 1788
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T20:06:53.000Z",
+        "description": "一个被性压抑折磨的无聊的人…老公@Keepreal_小宝宝@ZaneTuT 可以提问！ https://t.co/PqJRR0UQif",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "Keepreal_"
+              },
+              {
+                "end": 37,
+                "start": 29,
+                "username": "ZaneTuT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/amow_xiaaaa",
+                "end": 67,
+                "expanded_url": "https://ngl.link/amow_xiaaaa",
+                "start": 44,
+                "url": "https://t.co/PqJRR0UQif"
+              }
+            ]
+          }
+        },
+        "id": "1995222810159882240",
+        "name": "Tearsvow^",
+        "pinned_tweet_id": "2024562349311451635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021906736211456000/m7bUsUaK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 145,
+          "like_count": 1001,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 610
+        },
+        "username": "Ameowxiaaa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2032001065454092794",
+    "created_at": "2026-03-13T02:45:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T03:45:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032286781429956916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1354667236057706499",
+          "start": 0,
+          "username": "Zoeby_220"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032286781429956916",
+    "in_reply_to_user_id": "1354667236057706499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032281282080882748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zoeby_220 我现在就这样 小兔子这把我真没辙。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2032001065454092794",
+        "created_at": "2026-03-13T02:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T03:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032286781429956916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1354667236057706499",
+              "start": 0,
+              "username": "Zoeby_220"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032286781429956916",
+        "in_reply_to_user_id": "1354667236057706499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032281282080882748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zoeby_220 我现在就这样 小兔子这把我真没辙。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1354667236057706499",
+        "conversation_id": "2032001065454092794",
+        "created_at": "2026-03-13T02:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T03:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032281282080882748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032281282080882748",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032001065454092794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 救救我吧😭 你说他不喜欢我吧 他会暗戳戳让我留在他身边 会喂我蛋糕吃 听到别人对我好也会吃醋😭  可是他说他不想谈恋爱了 他算是回避型吧 他说他一谈恋爱就害怕吵架争执 不想面对不想再开始😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5465,
+          "following_count": 282,
+          "like_count": 4657,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 2016
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-28T05:47:04.000Z",
+        "description": "——欢迎找我聊天（）",
+        "id": "1354667236057706499",
+        "location": "0.12km",
+        "name": "小兔子乖乖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979059720116707328/ixAEtTkw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 3956,
+          "like_count": 7677,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 794
+        },
+        "username": "Zoeby_220",
+        "verified": false
+      }
+    ]
+  }
+}

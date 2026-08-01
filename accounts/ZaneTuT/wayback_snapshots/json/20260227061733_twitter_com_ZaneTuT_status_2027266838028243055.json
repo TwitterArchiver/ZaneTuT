@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2027266838028243055",
+    "created_at": "2026-02-27T06:17:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T07:17:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027266838028243055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1902234624153284610",
+          "start": 3,
+          "username": "mustikka1007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027266838028243055",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 104
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021873211584196669",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mustikka1007: 找男人类似于挑狗，要手掌大而有力，体温高，毛发茂盛，对人热情，情绪稳定。我悟了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2027266838028243055",
+        "created_at": "2026-02-27T06:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T07:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027266838028243055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1902234624153284610",
+              "start": 3,
+              "username": "mustikka1007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027266838028243055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021873211584196669",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mustikka1007: 找男人类似于挑狗，要手掌大而有力，体温高，毛发茂盛，对人热情，情绪稳定。我悟了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902234624153284610",
+        "conversation_id": "2021873211584196669",
+        "created_at": "2026-02-12T09:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T10:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021873211584196669"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021873211584196669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 138,
+          "impression_count": 156479,
+          "like_count": 1739,
+          "quote_count": 38,
+          "reply_count": 28,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "找男人类似于挑狗，要手掌大而有力，体温高，毛发茂盛，对人热情，情绪稳定。我悟了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5065,
+          "following_count": 231,
+          "like_count": 3941,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 1822
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T05:44:41.000Z",
+        "description": "不闲聊不闲聊不闲聊，不加联系方式不加联系方式不加联系方式",
+        "id": "1902234624153284610",
+        "name": "死眠少女",
+        "pinned_tweet_id": "1962771125295030532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012000843101585410/iYFGBMZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 128,
+          "like_count": 11208,
+          "listed_count": 7,
+          "media_count": 605,
+          "tweet_count": 5776
+        },
+        "username": "mustikka1007",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2027374197530619904"
+      ],
+      "media_source_tweet_id": [
+        "2027374238571929720"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2028146264697970714",
+    "created_at": "2026-03-01T16:32:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T17:32:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028146264697970714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1981638054688501760",
+          "start": 3,
+          "username": "ashasw114514"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QGquvcyZ9y",
+          "end": 41,
+          "expanded_url": "https://x.com/ashasw114514/status/2027374238571929720/video/1",
+          "media_key": "7_2027374197530619904",
+          "start": 18,
+          "url": "https://t.co/QGquvcyZ9y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028146264697970714",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 555
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027374238571929720",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ashasw114514: https://t.co/QGquvcyZ9y"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15212,
+        "height": 1280,
+        "media_key": "7_2027374197530619904",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2027374197530619904/pu/img/dXvXXUNPACrfNxBj.jpg",
+        "public_metrics": {
+          "view_count": 284364
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027374197530619904/pu/vid/avc1/320x710/8_c7UsBuAMQ9_3o0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027374197530619904/pu/vid/avc1/480x1066/dRywWKPZ1SWyx4Sm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027374197530619904/pu/vid/avc1/576x1280/a6EU1yPjh-ReuCWg.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2027374197530619904/pu/pl/CXel5mcdLs5afoCY.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2027374197530619904"
+          ],
+          "media_source_tweet_id": [
+            "2027374238571929720"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2028146264697970714",
+        "created_at": "2026-03-01T16:32:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T17:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028146264697970714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1981638054688501760",
+              "start": 3,
+              "username": "ashasw114514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QGquvcyZ9y",
+              "end": 41,
+              "expanded_url": "https://x.com/ashasw114514/status/2027374238571929720/video/1",
+              "media_key": "7_2027374197530619904",
+              "start": 18,
+              "url": "https://t.co/QGquvcyZ9y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028146264697970714",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 555
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027374238571929720",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ashasw114514: https://t.co/QGquvcyZ9y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2027374197530619904"
+          ]
+        },
+        "author_id": "1981638054688501760",
+        "conversation_id": "2027374238571929720",
+        "created_at": "2026-02-27T13:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T14:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027374238571929720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QGquvcyZ9y",
+              "end": 23,
+              "expanded_url": "https://x.com/ashasw114514/status/2027374238571929720/video/1",
+              "media_key": "7_2027374197530619904",
+              "start": 0,
+              "url": "https://t.co/QGquvcyZ9y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027374238571929720",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 797,
+          "impression_count": 978101,
+          "like_count": 3805,
+          "quote_count": 295,
+          "reply_count": 310,
+          "retweet_count": 555
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QGquvcyZ9y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5127,
+          "following_count": 243,
+          "like_count": 4102,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 1880
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "enby，amab，him/they，后现代黑话定型文享受者，此账号一切仇恨言论都是troll，查成分互fo",
+        "id": "1981638054688501760",
+        "name": "雄臭野爹",
+        "pinned_tweet_id": "2028035579955560611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027740703552667648/jQsRWjPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 355,
+          "like_count": 929,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 942
+        },
+        "username": "ashasw114514",
+        "verified": false
+      }
+    ]
+  }
+}

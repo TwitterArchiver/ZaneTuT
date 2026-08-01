@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2019959007637827867",
+    "created_at": "2026-02-07T03:56:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T04:56:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019983707071992178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2011788447359598592",
+          "start": 0,
+          "username": "bear22uiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019983707071992178",
+    "in_reply_to_user_id": "2011788447359598592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019959007637827867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bear22uiko 光荣内圈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2019959003271557120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAhWAuLacAA2Jz0.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2019959007637827867",
+        "created_at": "2026-02-07T03:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T04:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019983707071992178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2011788447359598592",
+              "start": 0,
+              "username": "bear22uiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019983707071992178",
+        "in_reply_to_user_id": "2011788447359598592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019959007637827867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bear22uiko 光荣内圈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019959003271557120"
+          ]
+        },
+        "author_id": "2011788447359598592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2019959007637827867",
+        "created_at": "2026-02-07T02:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T03:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019959007637827867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/dothExkEZY"
+            },
+            {
+              "display_url": "pic.x.com/VkIia8nNWS",
+              "end": 64,
+              "expanded_url": "https://x.com/bear22uiko/status/2019959007637827867/photo/1",
+              "media_key": "3_2019959003271557120",
+              "start": 41,
+              "url": "https://t.co/VkIia8nNWS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019959007637827867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 161,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/dothExkEZY https://t.co/VkIia8nNWS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3385,
+          "following_count": 198,
+          "like_count": 3313,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1484
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T13:12:06.000Z",
+        "description": "ddlg/爱我给我打钱谢谢/算卦算塔罗找@xyzzzzzaab不准可以骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "xyzzzzzaab"
+              }
+            ]
+          }
+        },
+        "id": "2011788447359598592",
+        "name": "小汉堡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017860370938126336/BuPVISun_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 35,
+          "like_count": 958,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 299
+        },
+        "username": "bear22uiko",
+        "verified": false
+      }
+    ]
+  }
+}

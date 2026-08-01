@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2012105864073933068",
+    "created_at": "2026-01-16T10:48:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T11:48:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012114690575651148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1940006342833700864",
+          "start": 0,
+          "username": "Y177854593566"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012114690575651148",
+    "in_reply_to_user_id": "1940006342833700864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012105864073933068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y177854593566 小音我知豆了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1288,
+        "media_key": "3_2012105858440957953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-xvnh7bEAEZ90Q.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2012105864073933068",
+        "created_at": "2026-01-16T10:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T11:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012114690575651148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1940006342833700864",
+              "start": 0,
+              "username": "Y177854593566"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012114690575651148",
+        "in_reply_to_user_id": "1940006342833700864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012105864073933068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y177854593566 小音我知豆了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012105858440957953"
+          ]
+        },
+        "author_id": "1940006342833700864",
+        "conversation_id": "2012105864073933068",
+        "created_at": "2026-01-16T10:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T11:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012105864073933068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OLnajQfRL9",
+              "end": 31,
+              "expanded_url": "https://x.com/Y177854593566/status/2012105864073933068/photo/1",
+              "media_key": "3_2012105858440957953",
+              "start": 8,
+              "url": "https://t.co/OLnajQfRL9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012105864073933068",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "՞˶･֊･˶՞ https://t.co/OLnajQfRL9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪88/128 纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨回fo眼熟的 可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010591438627897389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 125,
+          "like_count": 1471,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 645
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-01T11:15:38.000Z",
+        "description": "這裏小音ovo！分享日常 啥都發 當朋友圈發 純分享生活 實在喜歡我可以給我打錢😋喜歡聊天 大家都可以找我聊ᗜ𖥦ᗜ",
+        "id": "1940006342833700864",
+        "location": "🚪288/520",
+        "name": "小音雨天",
+        "pinned_tweet_id": "2012105864073933068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001981596262686720/qIhFj5ge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1641,
+          "following_count": 35,
+          "like_count": 444,
+          "listed_count": 11,
+          "media_count": 42,
+          "tweet_count": 154
+        },
+        "username": "Y177854593566",
+        "verified": false
+      }
+    ]
+  }
+}

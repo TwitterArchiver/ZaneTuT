@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2023267457792909568",
+    "created_at": "2026-02-16T05:39:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T06:39:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023270952898101614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1722909239016882176",
+          "start": 0,
+          "username": "seeuyu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023270952898101614",
+    "in_reply_to_user_id": "1722909239016882176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023267457792909568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seeuyu8964 你他妈这么萌！不早说！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023267449001701376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBQXBm9bcAAXOxD.jpg",
+        "width": 1590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2023267457792909568",
+        "created_at": "2026-02-16T05:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T06:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023270952898101614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1722909239016882176",
+              "start": 0,
+              "username": "seeuyu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023270952898101614",
+        "in_reply_to_user_id": "1722909239016882176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023267457792909568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeuyu8964 你他妈这么萌！不早说！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023267449001701376"
+          ]
+        },
+        "author_id": "1722909239016882176",
+        "conversation_id": "2023267457792909568",
+        "created_at": "2026-02-16T05:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T06:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023267457792909568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Jdty2Mx7g",
+              "end": 51,
+              "expanded_url": "https://x.com/seeuyu8964/status/2023267457792909568/photo/1",
+              "media_key": "3_2023267449001701376",
+              "start": 28,
+              "url": "https://t.co/8Jdty2Mx7g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023267457792909568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新的一年能不能让我当数钱的女孩 我不想数小药药了😮‍💨 https://t.co/8Jdty2Mx7g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4056,
+          "following_count": 214,
+          "like_count": 3632,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 1668
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T09:29:19.000Z",
+        "description": "🕯️可以叫我小郁/想发什么就发什么电子垃圾桶让我在这里吐一下🗑️……                                     不接线下无福利不聊骚/互联网冲浪眼缘交友骚扰私信不回☠️私は生き延びる曙光が必要です",
+        "id": "1722909239016882176",
+        "location": "能够背对着世界的地方",
+        "name": "魚們在沼澤遊蕩",
+        "pinned_tweet_id": "1803485863575429411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859618557618782208/tAGmZqWQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 246,
+          "like_count": 2970,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 546
+        },
+        "username": "seeuyu8964",
+        "verified": false
+      }
+    ]
+  }
+}

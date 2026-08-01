@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2026309206010388946",
+    "created_at": "2026-02-25T01:03:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T02:03:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026463055731896363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1679766519503282176",
+          "start": 0,
+          "username": "yyxiaopa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026463055731896363",
+    "in_reply_to_user_id": "1679766519503282176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026309206010388946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyxiaopa 别吓我，之前有个男的给我口令，我一直领不到，我操"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2026309196782968832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB7leodbIAAr6fn.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2026309206010388946",
+        "created_at": "2026-02-25T01:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T02:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026463055731896363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1679766519503282176",
+              "start": 0,
+              "username": "yyxiaopa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026463055731896363",
+        "in_reply_to_user_id": "1679766519503282176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026309206010388946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyxiaopa 别吓我，之前有个男的给我口令，我一直领不到，我操"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026309196782968832"
+          ]
+        },
+        "author_id": "1679766519503282176",
+        "conversation_id": "2026309206010388946",
+        "created_at": "2026-02-24T14:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T15:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026309206010388946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P0gfRbWl0J",
+              "end": 40,
+              "expanded_url": "https://x.com/yyxiaopa/status/2026309206010388946/photo/1",
+              "media_key": "3_2026309196782968832",
+              "start": 17,
+              "url": "https://t.co/P0gfRbWl0J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026309206010388946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 67919,
+          "like_count": 91,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我居然也遇到过中推圈盒武器曹志伟 https://t.co/P0gfRbWl0J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4994,
+          "following_count": 228,
+          "like_count": 3866,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 1777
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T08:15:35.000Z",
+        "description": "没有电报 🚪520方式口令带姓氏｜过🚪不退别惹我！！！这个是我麻麻👉@xiaopamama1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 34,
+                "username": "xiaopamama1"
+              }
+            ]
+          }
+        },
+        "id": "1679766519503282176",
+        "location": "深圳",
+        "name": "@小pa",
+        "pinned_tweet_id": "1867563429332127893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998442364864733184/edAq1rnk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37549,
+          "following_count": 14,
+          "like_count": 312,
+          "listed_count": 128,
+          "media_count": 255,
+          "tweet_count": 1813
+        },
+        "username": "yyxiaopa",
+        "verified": false
+      }
+    ]
+  }
+}

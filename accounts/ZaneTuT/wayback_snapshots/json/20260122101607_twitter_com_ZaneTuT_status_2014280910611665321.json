@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2013761042283720868",
+    "created_at": "2026-01-22T10:16:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T11:16:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014280910611665321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "810538739604725760",
+          "start": 0,
+          "username": "Xiaoquan_Su"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014280910611665321",
+    "in_reply_to_user_id": "810538739604725760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014277157590032672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaoquan_Su 情哥哥！我今天还发朋友圈说幸亏我没亲哥哥 不然肯定天天吵架…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2013761042283720868",
+        "created_at": "2026-01-22T10:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T11:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014280910611665321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "810538739604725760",
+              "start": 0,
+              "username": "Xiaoquan_Su"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014280910611665321",
+        "in_reply_to_user_id": "810538739604725760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014277157590032672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoquan_Su 情哥哥！我今天还发朋友圈说幸亏我没亲哥哥 不然肯定天天吵架…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "810538739604725760",
+        "conversation_id": "2013761042283720868",
+        "created_at": "2026-01-22T10:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T11:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014277157590032672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014277157590032672",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013761042283720868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 你说的这是什么哥哥，亲哥哥的话只会干架，情哥哥的话不清楚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心丨08丨od丨私信看心情回丨高频率发帖丨互fo可以直接➕V丨我听点udg sasi很多很多丨我皮下非常没有素质别惹我了行吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2191,
+          "following_count": 159,
+          "like_count": 2410,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 1128
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-18T17:34:29.000Z",
+        "description": "但愿烂漫盖过了孤单",
+        "id": "810538739604725760",
+        "name": "小黄鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993463254639853568/uOkR9TaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 40,
+          "like_count": 4678,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 672
+        },
+        "username": "Xiaoquan_Su",
+        "verified": false
+      }
+    ]
+  }
+}

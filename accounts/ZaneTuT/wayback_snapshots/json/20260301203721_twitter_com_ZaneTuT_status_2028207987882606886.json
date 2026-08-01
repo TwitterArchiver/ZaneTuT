@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2027581149586067460"
+      ],
+      "media_source_tweet_id": [
+        "2027581222449537194"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2028207987882606886",
+    "created_at": "2026-03-01T20:37:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T21:37:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028207987882606886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "855565460464652288",
+          "start": 3,
+          "username": "CarlosZeLuis"
+        },
+        {
+          "end": 27,
+          "id": "1447499448649601025",
+          "start": 18,
+          "username": "LVTGW666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/STwlJUJGLk",
+          "end": 56,
+          "expanded_url": "https://x.com/CarlosZeLuis/status/2027581222449537194/video/1",
+          "media_key": "13_2027581149586067460",
+          "start": 33,
+          "url": "https://t.co/STwlJUJGLk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028207987882606886",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027581222449537194",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CarlosZeLuis: @LVTGW666 是这种么 https://t.co/STwlJUJGLk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12510,
+        "height": 798,
+        "media_key": "13_2027581149586067460",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027581149586067460/img/Jzbca7rV1B4fC59q.jpg",
+        "public_metrics": {
+          "view_count": 56720
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027581149586067460/vid/avc1/798x720/7D74catSAMRwbzgR.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027581149586067460/vid/avc1/886x798/aXd4V7r8WmFI6UM7.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027581149586067460/vid/avc1/298x270/FtirRw2vTyws7u7r.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027581149586067460/vid/avc1/398x360/xU9ae77jOjCDH8FC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027581149586067460/pl/ENFgqiNSi8fCgaaa.m3u8"
+          }
+        ],
+        "width": 886
+      },
+      {
+        "duration_ms": 12510,
+        "height": 798,
+        "media_key": "13_2027581149586067460",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027581149586067460/img/Jzbca7rV1B4fC59q.jpg",
+        "public_metrics": {
+          "view_count": 56723
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027581149586067460/vid/avc1/798x720/7D74catSAMRwbzgR.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027581149586067460/vid/avc1/886x798/aXd4V7r8WmFI6UM7.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027581149586067460/vid/avc1/298x270/FtirRw2vTyws7u7r.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027581149586067460/vid/avc1/398x360/xU9ae77jOjCDH8FC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027581149586067460/pl/ENFgqiNSi8fCgaaa.m3u8"
+          }
+        ],
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027581149586067460"
+          ],
+          "media_source_tweet_id": [
+            "2027581222449537194"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2028207987882606886",
+        "created_at": "2026-03-01T20:37:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T21:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028207987882606886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "855565460464652288",
+              "start": 3,
+              "username": "CarlosZeLuis"
+            },
+            {
+              "end": 27,
+              "id": "1447499448649601025",
+              "start": 18,
+              "username": "LVTGW666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/STwlJUJGLk",
+              "end": 56,
+              "expanded_url": "https://x.com/CarlosZeLuis/status/2027581222449537194/video/1",
+              "media_key": "13_2027581149586067460",
+              "start": 33,
+              "url": "https://t.co/STwlJUJGLk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028207987882606886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027581222449537194",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CarlosZeLuis: @LVTGW666 是这种么 https://t.co/STwlJUJGLk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027581149586067460"
+          ]
+        },
+        "author_id": "855565460464652288",
+        "conversation_id": "2027394144222769296",
+        "created_at": "2026-02-28T03:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T04:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027581222449537194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1447499448649601025",
+              "start": 0,
+              "username": "LVTGW666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/STwlJUJGLk",
+              "end": 38,
+              "expanded_url": "https://x.com/CarlosZeLuis/status/2027581222449537194/video/1",
+              "media_key": "13_2027581149586067460",
+              "start": 15,
+              "url": "https://t.co/STwlJUJGLk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027581222449537194",
+        "in_reply_to_user_id": "1447499448649601025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 249,
+          "impression_count": 81412,
+          "like_count": 1031,
+          "quote_count": 8,
+          "reply_count": 42,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027394144222769296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LVTGW666 是这种么 https://t.co/STwlJUJGLk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5127,
+          "following_count": 243,
+          "like_count": 4141,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 1872
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-21T23:34:36.000Z",
+        "description": "不忠于任何政治倾向和宗教信仰，也试图不沉溺于任何信息茧房。喜欢琢磨世间一切的本质，努力扒掉所有皇帝的新装。There’s no such a thing as absolute certainty.",
+        "id": "855565460464652288",
+        "name": "小蓝鸟归来",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954767913573101568/pwvaDtXg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 1001,
+          "like_count": 249920,
+          "listed_count": 5,
+          "media_count": 324,
+          "tweet_count": 15944
+        },
+        "username": "CarlosZeLuis",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-11T09:49:03.000Z",
+        "description": "我是一直都是啥b啊 分析哲学倒数第6324人 重铸正统施特劳斯荣光，我辈义不容辞 想投稿直接私信 求求腊畜别来恶心我 备用小号@lvtgw8964 YouTube：https://t.co/wPvV77lTAw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 63,
+                "username": "lvtgw8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 105,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 82,
+                "url": "https://t.co/wPvV77lTAw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 0,
+                "url": "https://t.co/wPvV77lTAw"
+              }
+            ]
+          }
+        },
+        "id": "1447499448649601025",
+        "location": "Yokohama-shi Kanagawa",
+        "name": "利维坦冲浪里",
+        "pinned_tweet_id": "2009674666114461914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1496193678477787137/gt41UKj__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66553,
+          "following_count": 896,
+          "like_count": 13981,
+          "listed_count": 284,
+          "media_count": 3748,
+          "tweet_count": 10868
+        },
+        "url": "https://t.co/wPvV77lTAw",
+        "username": "LVTGW666",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2039459505394561445",
+    "created_at": "2026-04-02T01:41:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T02:41:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039518470833090625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1795809659237879808",
+          "start": 0,
+          "username": "x1aoyu_TvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039518470833090625",
+    "in_reply_to_user_id": "1795809659237879808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039459505394561445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x1aoyu_TvT 我他妈笑的逼痛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1796,
+        "media_key": "3_2039459500365844480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE2dnC0aEAALRfX.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2039459505394561445",
+        "created_at": "2026-04-02T01:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T02:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039518470833090625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1795809659237879808",
+              "start": 0,
+              "username": "x1aoyu_TvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039518470833090625",
+        "in_reply_to_user_id": "1795809659237879808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039459505394561445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x1aoyu_TvT 我他妈笑的逼痛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039459500365844480"
+          ]
+        },
+        "author_id": "1795809659237879808",
+        "conversation_id": "2039459505394561445",
+        "created_at": "2026-04-01T21:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T22:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039459505394561445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ig6O3zBjsW",
+              "end": 28,
+              "expanded_url": "https://x.com/x1aoyu_TvT/status/2039459505394561445/photo/1",
+              "media_key": "3_2039459500365844480",
+              "start": 5,
+              "url": "https://t.co/ig6O3zBjsW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039459505394561445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 16801,
+          "like_count": 200,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这波急了 https://t.co/ig6O3zBjsW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨08丨od丨中抑中焦丨互fo免🚪丨我听点udg sasi很多很多丨两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 45,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6155,
+          "following_count": 290,
+          "like_count": 5832,
+          "listed_count": 3,
+          "media_count": 66,
+          "tweet_count": 2482
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-29T13:35:46.000Z",
+        "description": "EN/DE/FR/CN｜📍德國 ｜叫我xiaoyu｜台獨精日支黑｜pink网左激女男权出门左拐｜随缘接盒｜歡迎互fo^^",
+        "id": "1795809659237879808",
+        "location": "下北沢",
+        "name": "你抱著我掉眼淚說這世界太複雜",
+        "pinned_tweet_id": "2030418351139209420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952848575194353664/t7Ku58Fz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1285,
+          "following_count": 199,
+          "like_count": 1533,
+          "listed_count": 4,
+          "media_count": 144,
+          "tweet_count": 981
+        },
+        "username": "x1aoyu_TvT",
+        "verified": false
+      }
+    ]
+  }
+}

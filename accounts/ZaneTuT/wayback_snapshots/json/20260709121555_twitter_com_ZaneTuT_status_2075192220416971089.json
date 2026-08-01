@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2075192117727752192"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2075192220416971089",
+    "created_at": "2026-07-09T12:15:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T13:15:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075192220416971089"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/v7KLPA86JF",
+          "end": 62,
+          "expanded_url": "https://x.com/ZaneTuT/status/2075192220416971089/video/1",
+          "media_key": "13_2075192117727752192",
+          "start": 39,
+          "url": "https://t.co/v7KLPA86JF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075192220416971089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "事态已经发展到如此地步？算了！你们爱码不码吧哎哟…下面还有好多 太夸张了吧！ https://t.co/v7KLPA86JF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15053,
+        "height": 2622,
+        "media_key": "13_2075192117727752192",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075192117727752192/img/ATzoKYVNgDn51nnG.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075192117727752192/vid/avc1/320x694/cFWEHeGC0HiNpRjG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075192117727752192/vid/avc1/720x1564/q4GeT8nHPvnzpSVK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075192117727752192/pl/wYPFWtXMRWTCG_mm.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075192117727752192/vid/avc1/480x1042/M1dF9jUgtkgpqGvZ.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075192117727752192/vid/avc1/1206x2622/ED3OThSIRyj5n89c.mp4"
+          }
+        ],
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075192117727752192"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2075192220416971089",
+        "created_at": "2026-07-09T12:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075192220416971089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v7KLPA86JF",
+              "end": 62,
+              "expanded_url": "https://x.com/ZaneTuT/status/2075192220416971089/video/1",
+              "media_key": "13_2075192117727752192",
+              "start": 39,
+              "url": "https://t.co/v7KLPA86JF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075192220416971089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "事态已经发展到如此地步？算了！你们爱码不码吧哎哟…下面还有好多 太夸张了吧！ https://t.co/v7KLPA86JF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨互fo免🚪丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 37,
+                "start": 27,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2044362275218489629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7774,
+          "following_count": 275,
+          "like_count": 5895,
+          "listed_count": 4,
+          "media_count": 41,
+          "tweet_count": 2585
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": true
+      }
+    ]
+  }
+}

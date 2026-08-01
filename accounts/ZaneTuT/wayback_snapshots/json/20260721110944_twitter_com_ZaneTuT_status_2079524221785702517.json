@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2079036048861245480",
+    "created_at": "2026-07-21T11:09:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T12:09:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079524221785702517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2043853866886934531",
+          "start": 0,
+          "username": "IvyShenC"
+        },
+        {
+          "end": 26,
+          "id": "1787864835814047744",
+          "start": 10,
+          "username": "IIlllIllIlIllII"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079524221785702517",
+    "in_reply_to_user_id": "2043853866886934531",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079135624293191793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IvyShenC @IIlllIllIlIllII 太好笑了吧哎哟喂。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2079036048861245480",
+        "created_at": "2026-07-21T11:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079524221785702517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2043853866886934531",
+              "start": 0,
+              "username": "IvyShenC"
+            },
+            {
+              "end": 26,
+              "id": "1787864835814047744",
+              "start": 10,
+              "username": "IIlllIllIlIllII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079524221785702517",
+        "in_reply_to_user_id": "2043853866886934531",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079135624293191793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IvyShenC @IIlllIllIlIllII 太好笑了吧哎哟喂。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043853866886934531",
+        "conversation_id": "2079036048861245480",
+        "created_at": "2026-07-20T09:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T10:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079135624293191793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            },
+            {
+              "end": 25,
+              "id": "1787864835814047744",
+              "start": 9,
+              "username": "IIlllIllIlIllII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079135624293191793",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 377,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079098626027249855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT @IIlllIllIlIllII 战吼起手就问你怎么防"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "互fo免🚪丨💗算卦找@kill_this_hate 不准你打我丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。❗️陌生链接不要点❗️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 57,
+                "start": 47,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2079103710270292225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8129,
+          "following_count": 273,
+          "like_count": 6121,
+          "listed_count": 5,
+          "media_count": 37,
+          "tweet_count": 2644
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-14T00:49:44.000Z",
+        "description": "",
+        "id": "2043853866886934531",
+        "name": "Ivy Mike",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043854302171803649/0UclLFCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 131,
+          "like_count": 7265,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 469
+        },
+        "url": "",
+        "username": "IvyShenC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-07T15:19:36.000Z",
+        "description": "ㅤ",
+        "id": "1787864835814047744",
+        "name": "ᅠ ᅠ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067475935587446785/FMf8rPvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 124,
+          "like_count": 13160,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 1181
+        },
+        "url": "",
+        "username": "IIlllIllIlIllII",
+        "verified": false
+      }
+    ]
+  }
+}

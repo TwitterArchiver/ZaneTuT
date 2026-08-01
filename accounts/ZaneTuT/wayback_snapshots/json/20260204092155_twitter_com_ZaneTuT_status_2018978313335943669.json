@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1993487891595763712"
+      ],
+      "media_source_tweet_id": [
+        "1993487949414187408"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2018978313335943669",
+    "created_at": "2026-02-04T09:21:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T10:21:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018978313335943669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1577848566818648064",
+          "start": 3,
+          "username": "Nikifannizi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NozH8MMhgQ",
+          "end": 46,
+          "expanded_url": "https://x.com/Nikifannizi/status/1993487949414187408/video/1",
+          "media_key": "13_1993487891595763712",
+          "start": 23,
+          "url": "https://t.co/NozH8MMhgQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018978313335943669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993487949414187408",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nikifannizi: 谁想要的： https://t.co/NozH8MMhgQ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2018978313335943669].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2018978313335943669",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2018978313335943669"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15000,
+        "height": 720,
+        "media_key": "13_1993487891595763712",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1993487891595763712/img/4i-UxNtvCBHJt53d.jpg",
+        "public_metrics": {
+          "view_count": 7756
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993487891595763712/vid/avc1/480x270/N2a7gUuDYrFrhFPi.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993487891595763712/vid/avc1/640x360/ss1P5iI4kxY5GEXc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993487891595763712/vid/avc1/1280x720/IP05SuGdfo8fUs83.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1993487891595763712/pl/Xt7IBwBXIwAh1Dd6.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1993487891595763712"
+          ]
+        },
+        "author_id": "1577848566818648064",
+        "conversation_id": "1993487949414187408",
+        "created_at": "2025-11-26T01:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T02:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993487949414187408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NozH8MMhgQ",
+              "end": 29,
+              "expanded_url": "https://x.com/Nikifannizi/status/1993487949414187408/video/1",
+              "media_key": "13_1993487891595763712",
+              "start": 6,
+              "url": "https://t.co/NozH8MMhgQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993487949414187408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 12487,
+          "like_count": 63,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁想要的： https://t.co/NozH8MMhgQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨神秘账号@Rotte2t00丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "Rotte2t00"
+              },
+              {
+                "end": 80,
+                "start": 65,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 95,
+                "start": 87,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3169,
+          "following_count": 198,
+          "like_count": 3154,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 1405
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-06T02:30:00.000Z",
+        "description": "一个两性情感博主！！主营内容：坐标交友 || 两性知识 || 群聊交友 || 情感咨询 || 圈圈玩法 || 所有的两性知识vx🚪58分享所有！🚪888成为我的vvvvvip！🚪33擦边交友聊天群。置顶的是我🛰️小号，欢迎来玩！优先口令🧧和🧧这是我的小号：@DangLaoShiA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 128,
+                "username": "DangLaoShiA"
+              }
+            ]
+          }
+        },
+        "id": "1577848566818648064",
+        "location": "你心里",
+        "name": "当老师的两性杂货铺",
+        "pinned_tweet_id": "2016064626602213476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931511892020977664/oanYUNqL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16663,
+          "following_count": 231,
+          "like_count": 447,
+          "listed_count": 19,
+          "media_count": 1441,
+          "tweet_count": 2195
+        },
+        "username": "Nikifannizi",
+        "verified": false
+      }
+    ]
+  }
+}

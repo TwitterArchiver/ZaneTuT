@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2026737964730982903",
+    "created_at": "2026-02-26T13:51:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T14:51:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027018721622212801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1913854882886676480",
+          "start": 0,
+          "username": "YxngBomb_3"
+        },
+        {
+          "end": 23,
+          "id": "1984971479210229760",
+          "start": 12,
+          "username": "Kallen0720"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027018721622212801",
+    "in_reply_to_user_id": "1913854882886676480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026875301893140865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YxngBomb_3 @Kallen0720 大哥我两天没看你的回复栏你又被骂了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2026737964730982903",
+        "created_at": "2026-02-26T13:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T14:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027018721622212801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1913854882886676480",
+              "start": 0,
+              "username": "YxngBomb_3"
+            },
+            {
+              "end": 23,
+              "id": "1984971479210229760",
+              "start": 12,
+              "username": "Kallen0720"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027018721622212801",
+        "in_reply_to_user_id": "1913854882886676480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026875301893140865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YxngBomb_3 @Kallen0720 大哥我两天没看你的回复栏你又被骂了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913854882886676480",
+        "conversation_id": "2026737964730982903",
+        "created_at": "2026-02-26T04:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T05:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026875301893140865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1984971479210229760",
+              "start": 0,
+              "username": "Kallen0720"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026875301893140865",
+        "in_reply_to_user_id": "1984971479210229760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2224,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026737964730982903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kallen0720 你爹妈初中时候认识的 你爸也是恋童癖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5063,
+          "following_count": 231,
+          "like_count": 3919,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 1811
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T07:19:02.000Z",
+        "description": "那好吧",
+        "id": "1913854882886676480",
+        "location": "Hong Kong",
+        "name": "汉堡包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914202316598849536/qksL5fnG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 17,
+          "like_count": 325,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 123
+        },
+        "username": "YxngBomb_3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-02T13:11:14.000Z",
+        "description": "✞鏡よ鏡 正直割れたいか? ✞ * 重音テト擁護同盟",
+        "id": "1984971479210229760",
+        "location": "Earth",
+        "name": "ァмē寔初喑鮇麳Оㄩ#AXIS",
+        "pinned_tweet_id": "2026469791704158297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017319965242589184/njqFGk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 418,
+          "like_count": 27862,
+          "listed_count": 0,
+          "media_count": 330,
+          "tweet_count": 8557
+        },
+        "username": "Kallen0720",
+        "verified": false
+      }
+    ]
+  }
+}

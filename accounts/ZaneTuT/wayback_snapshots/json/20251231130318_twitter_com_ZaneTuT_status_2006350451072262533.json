@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2005856563261587544",
+    "created_at": "2025-12-31T13:03:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T14:03:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006350451072262533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "702629569",
+          "start": 0,
+          "username": "badmadxsad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006350451072262533",
+    "in_reply_to_user_id": "702629569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005856563261587544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@badmadxsad 所以谁有好看的sm推号。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2005856563261587544",
+        "created_at": "2025-12-31T13:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T14:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006350451072262533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "702629569",
+              "start": 0,
+              "username": "badmadxsad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006350451072262533",
+        "in_reply_to_user_id": "702629569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005856563261587544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@badmadxsad 所以谁有好看的sm推号。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "702629569",
+        "conversation_id": "2005856563261587544",
+        "created_at": "2025-12-30T04:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T05:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005856563261587544"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005856563261587544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 159781,
+          "like_count": 1139,
+          "quote_count": 8,
+          "reply_count": 89,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "我有时候刷到推上一些所谓的SM视频，我真的觉得男的是在单纯发泄暴力罢了…拿女的当肉盾往死里暴揍…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "对我好疏远是怎么啦",
+        "id": "1997985969958699008",
+        "name": "到底怎样才有人爱我",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 54,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 39
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-18T08:10:12.000Z",
+        "description": "泛性恋",
+        "id": "702629569",
+        "location": "New York, NY",
+        "name": "xxxxxxxx",
+        "pinned_tweet_id": "1942704273260765384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922697668981096448/gum9M-GM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6026,
+          "following_count": 511,
+          "like_count": 10590,
+          "listed_count": 15,
+          "media_count": 61,
+          "tweet_count": 293
+        },
+        "username": "badmadxsad",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2026351269611212894",
+    "created_at": "2026-02-26T00:11:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T01:11:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026812288074920125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1916958202903547904",
+          "start": 0,
+          "username": "JennCorbet15217"
+        },
+        {
+          "end": 28,
+          "id": "1995222810159882240",
+          "start": 17,
+          "username": "Ameowxiaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026812288074920125",
+    "in_reply_to_user_id": "1916958202903547904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026807741415936030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JennCorbet15217 @Ameowxiaaa 我求你了但是的确如此。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2026351269611212894",
+        "created_at": "2026-02-26T00:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T01:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026812288074920125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1916958202903547904",
+              "start": 0,
+              "username": "JennCorbet15217"
+            },
+            {
+              "end": 28,
+              "id": "1995222810159882240",
+              "start": 17,
+              "username": "Ameowxiaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026812288074920125",
+        "in_reply_to_user_id": "1916958202903547904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026807741415936030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JennCorbet15217 @Ameowxiaaa 我求你了但是的确如此。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916958202903547904",
+        "conversation_id": "2026351269611212894",
+        "created_at": "2026-02-25T23:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T00:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026807741415936030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            },
+            {
+              "end": 20,
+              "id": "1995222810159882240",
+              "start": 9,
+              "username": "Ameowxiaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026807741415936030",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026615163907129587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT @Ameowxiaaa 小溃疡这么厉害卧槽。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5044,
+          "following_count": 231,
+          "like_count": 3904,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 1798
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T20:50:35.000Z",
+        "description": "生活对我太狠了",
+        "id": "1916958202903547904",
+        "name": "我向天发誓我这辈子只想赚钞票",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026059508938854400/LGBtY-br_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 12,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 22
+        },
+        "username": "JennCorbet15217",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T20:06:53.000Z",
+        "description": "一个被性压抑折磨的无聊的人…老公@Keepreal_小宝宝@ZaneTuT 可以提问！ https://t.co/PqJRR0UQif",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "Keepreal_"
+              },
+              {
+                "end": 37,
+                "start": 29,
+                "username": "ZaneTuT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/amow_xiaaaa",
+                "end": 67,
+                "expanded_url": "https://ngl.link/amow_xiaaaa",
+                "start": 44,
+                "url": "https://t.co/PqJRR0UQif"
+              }
+            ]
+          }
+        },
+        "id": "1995222810159882240",
+        "name": "Tearsvow^",
+        "pinned_tweet_id": "2024562349311451635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021906736211456000/m7bUsUaK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 145,
+          "like_count": 1020,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 620
+        },
+        "username": "Ameowxiaaa",
+        "verified": false
+      }
+    ]
+  }
+}

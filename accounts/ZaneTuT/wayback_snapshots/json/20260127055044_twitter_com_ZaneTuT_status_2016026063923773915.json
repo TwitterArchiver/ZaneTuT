@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2015733515640524965",
+    "created_at": "2026-01-27T05:50:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T06:50:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016026063923773915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1867907473421848576",
+          "start": 0,
+          "username": "wnglinxini79837"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016026063923773915",
+    "in_reply_to_user_id": "1867907473421848576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015733515640524965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wnglinxini79837 哼哼 我一直流口水我处理不好！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2015733507436449792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_lS8fiaEAADBJ7.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2015733515640524965",
+        "created_at": "2026-01-27T05:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T06:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016026063923773915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1867907473421848576",
+              "start": 0,
+              "username": "wnglinxini79837"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016026063923773915",
+        "in_reply_to_user_id": "1867907473421848576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015733515640524965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wnglinxini79837 哼哼 我一直流口水我处理不好！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015733507436449792"
+          ]
+        },
+        "author_id": "1867907473421848576",
+        "conversation_id": "2015733515640524965",
+        "created_at": "2026-01-26T10:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T11:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015733515640524965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cLHb4LVt2y",
+              "end": 31,
+              "expanded_url": "https://x.com/wnglinxini79837/status/2015733515640524965/photo/1",
+              "media_key": "3_2015733507436449792",
+              "start": 8,
+              "url": "https://t.co/cLHb4LVt2y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015733515640524965",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3255,
+          "like_count": 137,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我只要待我如初 https://t.co/cLHb4LVt2y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心丨08丨od丨私信看心情回丨高频率发帖丨互fo可以直接➕V丨我听点udg sasi很多很多丨我皮下非常没有素质别惹我了行吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2700,
+          "following_count": 170,
+          "like_count": 2765,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 1279
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-14T12:20:31.000Z",
+        "description": "愿得一人心 04",
+        "id": "1867907473421848576",
+        "name": "下次要多睡觉",
+        "pinned_tweet_id": "2007794239317635242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867907700266602496/nMu1Zkdp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6271,
+          "following_count": 88,
+          "like_count": 1164,
+          "listed_count": 19,
+          "media_count": 57,
+          "tweet_count": 186
+        },
+        "username": "wnglinxini79837",
+        "verified": false
+      }
+    ]
+  }
+}

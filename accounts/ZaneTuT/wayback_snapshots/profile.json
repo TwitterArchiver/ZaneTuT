@@ -1,0 +1,30 @@
+{
+  "name": "你说我的爱像溃疡",
+  "username": "@ZaneTuT",
+  "bio": "互fo免🚪丨💗算卦找@kill_this_hate 不准你打我丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。",
+  "location": "🚪",
+  "link": "https://ngl.link/zane66050",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 25,
+        "start": 10,
+        "username": "kill_this_hate"
+      },
+      {
+        "end": 46,
+        "start": 38,
+        "username": "Ri0trix"
+      },
+      {
+        "end": 57,
+        "start": 47,
+        "username": "Zoeeef2l1"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg"
+}

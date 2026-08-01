@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2081185892925112483",
+    "created_at": "2026-07-26T11:05:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T12:05:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081335159958425941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1940006342833700864",
+          "start": 0,
+          "username": "Y177854593566"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081335159958425941",
+    "in_reply_to_user_id": "1940006342833700864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081280128148283811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y177854593566 讨厌！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2081185892925112483",
+        "created_at": "2026-07-26T11:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T12:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081335159958425941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1940006342833700864",
+              "start": 0,
+              "username": "Y177854593566"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081335159958425941",
+        "in_reply_to_user_id": "1940006342833700864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081280128148283811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y177854593566 讨厌！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940006342833700864",
+        "conversation_id": "2081185892925112483",
+        "created_at": "2026-07-26T07:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T08:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081280128148283811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081280128148283811",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081186224786813194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 有的人就只會帶著年邁的年齡對你無盡的騷擾或者說教。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "互fo免🚪丨💗算卦找@kill_this_hate 不准你打我丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。❗️陌生链接不要点❗️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 57,
+                "start": 47,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2079103710270292225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8228,
+          "following_count": 274,
+          "like_count": 6135,
+          "listed_count": 5,
+          "media_count": 40,
+          "tweet_count": 2664
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-01T11:15:38.000Z",
+        "description": "這裏小音ovo！07的176cm小女孩˃ 𖥦 ˂ 戀哥癖 分享日常 啥都發 當朋友圈發 純分享生活 發自己覺得好看的^ω^ 喜歡我可以給我打錢😋最近養身體中只發碎碎念",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%9F%B3%E9%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%9F%B3%E9%9B%A8%E5%A4%A9",
+                "start": 0,
+                "url": "https://t.co/6rWut8SbCS"
+              }
+            ]
+          }
+        },
+        "id": "1940006342833700864",
+        "location": "距离你5.2km",
+        "name": "小音雨天",
+        "pinned_tweet_id": "2065693085242454495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001981596262686720/qIhFj5ge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5252,
+          "following_count": 28,
+          "like_count": 1237,
+          "listed_count": 30,
+          "media_count": 160,
+          "tweet_count": 636
+        },
+        "url": "https://t.co/6rWut8SbCS",
+        "username": "Y177854593566",
+        "verified": false
+      }
+    ]
+  }
+}

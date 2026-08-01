@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2013945843628261504",
+    "created_at": "2026-01-21T15:22:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T16:22:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013995691283042437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1431286243556425733",
+          "start": 0,
+          "username": "xingxiangzi345"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013995691283042437",
+    "in_reply_to_user_id": "1431286243556425733",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013995149454385560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingxiangzi345 我去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2013945843628261504",
+        "created_at": "2026-01-21T15:22:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T16:22:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013995691283042437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1431286243556425733",
+              "start": 0,
+              "username": "xingxiangzi345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013995691283042437",
+        "in_reply_to_user_id": "1431286243556425733",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013995149454385560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingxiangzi345 我去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431286243556425733",
+        "conversation_id": "2013945843628261504",
+        "created_at": "2026-01-21T15:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T16:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013995149454385560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013995149454385560",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013945843628261504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT p2的抖网红就叫景天William，但是我记得他好像是个双（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪128 纯绿丨有的文案不是原创别攻击我TuT丨极度玻璃心 骂我的我会直接转贴丨08丨od丨私信看心情回丨高频率发帖丨互fo可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "一说话就扯溃疡",
+        "pinned_tweet_id": "2013559742573224427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1995,
+          "following_count": 147,
+          "like_count": 2325,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 1073
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-27T16:03:34.000Z",
+        "description": "行香子の日记本",
+        "id": "1431286243556425733",
+        "name": "2002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942969257853325312/8klloF-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 18,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 84
+        },
+        "username": "xingxiangzi345",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2010041080537075935",
+    "created_at": "2026-01-10T17:38:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T18:38:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010043597455040779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2005290453219033088",
+          "start": 0,
+          "username": "zzzlovezhen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010043597455040779",
+    "in_reply_to_user_id": "2005290453219033088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010043236891668952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzzlovezhen 对！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2010041080537075935",
+        "created_at": "2026-01-10T17:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T18:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010043597455040779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2005290453219033088",
+              "start": 0,
+              "username": "zzzlovezhen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010043597455040779",
+        "in_reply_to_user_id": "2005290453219033088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010043236891668952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzzlovezhen 对！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005290453219033088",
+        "conversation_id": "2010041080537075935",
+        "created_at": "2026-01-10T17:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T18:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010043236891668952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010043236891668952",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010041080537075935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 对.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "骂我的人是gay 我是萌脸骚 可以和我一起听歌…",
+        "id": "1997985969958699008",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2009195553230606621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 76,
+          "like_count": 560,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 119
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-28T14:51:27.000Z",
+        "description": "對我來說妳也只是",
+        "id": "2005290453219033088",
+        "name": "我想我會變成這樣都是你害的",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009981046746689543/22Z3tca2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 45,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 351
+        },
+        "username": "zzzlovezhen",
+        "verified": false
+      }
+    ]
+  }
+}

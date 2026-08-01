@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2009501204175560799",
+    "created_at": "2026-01-18T09:16:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T10:16:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012816344706609512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1658125884283289603",
+          "start": 0,
+          "username": "dongdong4628294"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012816344706609512",
+    "in_reply_to_user_id": "1658125884283289603",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009501204175560799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dongdong4628294 离开你我在模仿开心。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2009501204175560799",
+        "created_at": "2026-01-18T09:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T10:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012816344706609512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1658125884283289603",
+              "start": 0,
+              "username": "dongdong4628294"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012816344706609512",
+        "in_reply_to_user_id": "1658125884283289603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009501204175560799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dongdong4628294 离开你我在模仿开心。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658125884283289603",
+        "conversation_id": "2009501204175560799",
+        "created_at": "2026-01-09T05:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T06:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009501204175560799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《偷心》，由 SASIOVERLXRD、连麻Swimming 演唱，收录于《偷心》专辑中，《偷心》下载，《偷心》在线试听，更多偷心相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/ZkiSvnh",
+              "end": 55,
+              "expanded_url": "https://163cn.tv/ZkiSvnh",
+              "start": 32,
+              "status": 200,
+              "title": "偷心 - SASIOVERLXRD/连麻Swimming - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&id=554322674&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&userid=564903819&playerUIModeId=76001&app_version=9.4.30&dlt=0846",
+              "url": "https://t.co/zv9z4Ep86f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009501204175560799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享SASIOVERLXRD/连麻Swimming的单曲《偷心》https://t.co/zv9z4Ep86f (@网易云音乐)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪88/128 纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨回fo眼熟的 可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010591438627897389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1030,
+          "following_count": 130,
+          "like_count": 1707,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 758
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-15T15:03:21.000Z",
+        "description": "我和她是世界唯一契合灵魂",
+        "id": "1658125884283289603",
+        "location": "Seoul, Republic of Korea",
+        "name": "textluv",
+        "pinned_tweet_id": "1996613130374570489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005678369745375232/JBm-oUp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 46,
+          "like_count": 33,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 845
+        },
+        "username": "dongdong4628294",
+        "verified": false
+      }
+    ]
+  }
+}

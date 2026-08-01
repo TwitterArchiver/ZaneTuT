@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2077693365517426786",
+    "created_at": "2026-07-16T14:46:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T15:46:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077766909479780832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1965352240023289856",
+          "start": 0,
+          "username": "XInNn_0730"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077766909479780832",
+    "in_reply_to_user_id": "1965352240023289856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077737523519099164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XInNn_0730 嘿嘿谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2077693365517426786",
+        "created_at": "2026-07-16T14:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T15:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077766909479780832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1965352240023289856",
+              "start": 0,
+              "username": "XInNn_0730"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077766909479780832",
+        "in_reply_to_user_id": "1965352240023289856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077737523519099164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XInNn_0730 嘿嘿谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965352240023289856",
+        "conversation_id": "2077693365517426786",
+        "created_at": "2026-07-16T12:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T13:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077737523519099164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077737523519099164",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077693365517426786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 好漂亮呀好厉害！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨互fo免🚪丨💗算卦找@kill_this_hate 不准你打我丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 52,
+                "start": 44,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2075472000680911094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8050,
+          "following_count": 275,
+          "like_count": 6144,
+          "listed_count": 4,
+          "media_count": 38,
+          "tweet_count": 2634
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-09T09:51:15.000Z",
+        "description": "世界剥破仍如新橙蘸新雪\n06｜♌️｜enfp 喜欢美乐蒂和鲸1\n私信纯绿只回礼貌的和女孩子们的 没有门不线下不约\n第二人格在@toX0507",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 62,
+                "username": "toX0507"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/x87464",
+                "end": 23,
+                "expanded_url": "https://ngl.link/x87464",
+                "start": 0,
+                "url": "https://t.co/VUpPoIpbIj"
+              }
+            ]
+          }
+        },
+        "id": "1965352240023289856",
+        "name": "可以送我一朵花吗",
+        "pinned_tweet_id": "2058095264968437771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073758628495159296/YFQZsgN1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 62,
+          "like_count": 1877,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1112
+        },
+        "url": "https://t.co/VUpPoIpbIj",
+        "username": "XInNn_0730",
+        "verified": false
+      }
+    ]
+  }
+}

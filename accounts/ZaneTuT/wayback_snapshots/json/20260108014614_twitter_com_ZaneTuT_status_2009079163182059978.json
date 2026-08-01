@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009079153426153472"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2009079163182059978",
+    "created_at": "2026-01-08T01:46:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T02:46:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009079163182059978"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TMDhhy0vbp",
+          "end": 37,
+          "expanded_url": "https://x.com/ZaneTuT/status/2009079163182059978/photo/1",
+          "media_key": "3_2009079153426153472",
+          "start": 14,
+          "url": "https://t.co/TMDhhy0vbp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009079163182059978",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "牵手是一件特别色情的事。。 https://t.co/TMDhhy0vbp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1136,
+        "media_key": "3_2009079153426153472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Gu2HGbwAAhTTe.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009079153426153472"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2009079163182059978",
+        "created_at": "2026-01-08T01:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T02:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009079163182059978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TMDhhy0vbp",
+              "end": 37,
+              "expanded_url": "https://x.com/ZaneTuT/status/2009079163182059978/photo/1",
+              "media_key": "3_2009079153426153472",
+              "start": 14,
+              "url": "https://t.co/TMDhhy0vbp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009079163182059978",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "牵手是一件特别色情的事。。 https://t.co/TMDhhy0vbp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "对我好疏远是怎么啦",
+        "id": "1997985969958699008",
+        "name": "到底怎样才有人爱我",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 55,
+          "like_count": 329,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 47
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

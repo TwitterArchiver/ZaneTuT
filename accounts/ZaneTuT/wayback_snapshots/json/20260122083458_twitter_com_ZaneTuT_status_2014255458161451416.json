@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014255449885782016"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2014255226791026810",
+    "created_at": "2026-01-22T08:34:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T09:34:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014255458161451416"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yMWOa0CPD7",
+          "end": 35,
+          "expanded_url": "https://x.com/ZaneTuT/status/2014255458161451416/photo/1",
+          "media_key": "3_2014255449885782016",
+          "start": 12,
+          "url": "https://t.co/yMWOa0CPD7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014255458161451416",
+    "in_reply_to_user_id": "1997985969958699008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014255226791026810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你到底要干啥操你死妈妈 https://t.co/yMWOa0CPD7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2014255449885782016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_QSqOFWMAAhs5C.jpg",
+        "width": 942
+      },
+      {
+        "height": 757,
+        "media_key": "3_2014255209392824320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_QScOLW4AApRMq.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2014255209271435264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_QScNuaoAAJLEx.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2014255209007206400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_QScMva0AAgheq.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014255449885782016"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2014255226791026810",
+        "created_at": "2026-01-22T08:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T09:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014255458161451416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yMWOa0CPD7",
+              "end": 35,
+              "expanded_url": "https://x.com/ZaneTuT/status/2014255458161451416/photo/1",
+              "media_key": "3_2014255449885782016",
+              "start": 12,
+              "url": "https://t.co/yMWOa0CPD7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014255458161451416",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014255226791026810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你到底要干啥操你死妈妈 https://t.co/yMWOa0CPD7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014255209392824320",
+            "3_2014255209271435264",
+            "3_2014255209007206400"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2014255226791026810",
+        "created_at": "2026-01-22T08:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T09:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014255226791026810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YUYNNGyX7J",
+              "end": 46,
+              "expanded_url": "https://x.com/ZaneTuT/status/2014255226791026810/photo/1",
+              "media_key": "3_2014255209392824320",
+              "start": 23,
+              "url": "https://t.co/YUYNNGyX7J"
+            },
+            {
+              "display_url": "pic.x.com/YUYNNGyX7J",
+              "end": 46,
+              "expanded_url": "https://x.com/ZaneTuT/status/2014255226791026810/photo/1",
+              "media_key": "3_2014255209271435264",
+              "start": 23,
+              "url": "https://t.co/YUYNNGyX7J"
+            },
+            {
+              "display_url": "pic.x.com/YUYNNGyX7J",
+              "end": 46,
+              "expanded_url": "https://x.com/ZaneTuT/status/2014255226791026810/photo/1",
+              "media_key": "3_2014255209007206400",
+              "start": 23,
+              "url": "https://t.co/YUYNNGyX7J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014255226791026810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来 你妈是不是死了来 告诉你我你妈是不是死了 https://t.co/YUYNNGyX7J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心丨08丨od丨私信看心情回丨高频率发帖丨互fo可以直接➕V丨我听点udg sasi很多很多丨我皮下非常没有素质别惹我了行吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014245336039199204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2184,
+          "following_count": 159,
+          "like_count": 2404,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 1116
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2022700988436455656",
+    "created_at": "2026-02-15T10:52:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T11:52:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022987379108356422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1831671299057623040",
+          "start": 0,
+          "username": "afuai377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022987379108356422",
+    "in_reply_to_user_id": "1831671299057623040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022700988436455656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@afuai377 宝宝你萌！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2022700982527033344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBIT065bgAAr9h2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2022700988436455656",
+        "created_at": "2026-02-15T10:52:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T11:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022987379108356422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1831671299057623040",
+              "start": 0,
+              "username": "afuai377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022987379108356422",
+        "in_reply_to_user_id": "1831671299057623040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022700988436455656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@afuai377 宝宝你萌！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022700982527033344"
+          ]
+        },
+        "author_id": "1831671299057623040",
+        "conversation_id": "2022700988436455656",
+        "created_at": "2026-02-14T15:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T16:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022700988436455656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/37QNmkYkfO",
+              "end": 25,
+              "expanded_url": "https://x.com/afuai377/status/2022700988436455656/photo/1",
+              "media_key": "3_2022700982527033344",
+              "start": 2,
+              "url": "https://t.co/37QNmkYkfO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022700988436455656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 17463,
+          "like_count": 1873,
+          "quote_count": 6,
+          "reply_count": 40,
+          "retweet_count": 161
+        },
+        "reply_settings": "everyone",
+        "text": "噢 https://t.co/37QNmkYkfO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4005,
+          "following_count": 214,
+          "like_count": 3615,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 1654
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-05T12:30:55.000Z",
+        "description": "殺不死的roAch ✮彼女 @kurabakei",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "kurabakei"
+              }
+            ]
+          }
+        },
+        "id": "1831671299057623040",
+        "location": "地獄",
+        "name": "ふ愛",
+        "pinned_tweet_id": "2021592209452056847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018557135509229568/J6jInxji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 114,
+          "like_count": 1792,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 175
+        },
+        "username": "afuai377",
+        "verified": false
+      }
+    ]
+  }
+}

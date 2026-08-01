@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2039287102383575156",
+    "created_at": "2026-04-01T14:44:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T15:44:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039353330347164151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1660300361050243073",
+          "start": 0,
+          "username": "ori08068537594"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039353330347164151",
+    "in_reply_to_user_id": "1660300361050243073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039318682867040499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ori08068537594 宝贝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2039287102383575156",
+        "created_at": "2026-04-01T14:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T15:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039353330347164151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1660300361050243073",
+              "start": 0,
+              "username": "ori08068537594"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039353330347164151",
+        "in_reply_to_user_id": "1660300361050243073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039318682867040499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ori08068537594 宝贝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660300361050243073",
+        "conversation_id": "2039287102383575156",
+        "created_at": "2026-04-01T12:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T13:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039318682867040499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039318682867040499",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039287102383575156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 妈咪…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨08丨od丨中抑中焦丨互fo免🚪丨我听点udg sasi很多很多丨两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 45,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6127,
+          "following_count": 291,
+          "like_count": 5802,
+          "listed_count": 3,
+          "media_count": 67,
+          "tweet_count": 2476
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-21T15:03:57.000Z",
+        "description": "不聊骚不聊骚不聊骚……\n祝大家天天开心！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ori36400",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ori36400",
+                "start": 0,
+                "url": "https://t.co/FE6gVwBxZ7"
+              }
+            ]
+          }
+        },
+        "id": "1660300361050243073",
+        "location": "STAR7011",
+        "name": "o ri",
+        "pinned_tweet_id": "2039254318575194274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025233684786544641/2eFyAF1Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 168,
+          "like_count": 751,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 424
+        },
+        "url": "https://t.co/FE6gVwBxZ7",
+        "username": "ori08068537594",
+        "verified": false
+      }
+    ]
+  }
+}

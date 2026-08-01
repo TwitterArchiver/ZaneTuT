@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027803298221408256"
+      ],
+      "media_source_tweet_id": [
+        "2027803304248676439"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2028143605484020033",
+    "created_at": "2026-03-01T16:21:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T17:21:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028143605484020033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1764232461439897600",
+          "start": 3,
+          "username": "baobao_7777"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UqPVezgykr",
+          "end": 42,
+          "expanded_url": "https://x.com/baobao_7777/status/2027803304248676439/photo/1",
+          "media_key": "3_2027803298221408256",
+          "start": 19,
+          "url": "https://t.co/UqPVezgykr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028143605484020033",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027803304248676439",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baobao_7777: 我 https://t.co/UqPVezgykr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 258,
+        "media_key": "3_2027803298221408256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCQ0WyDaQAAp2U0.jpg",
+        "width": 302
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027803298221408256"
+          ],
+          "media_source_tweet_id": [
+            "2027803304248676439"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2028143605484020033",
+        "created_at": "2026-03-01T16:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T17:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028143605484020033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1764232461439897600",
+              "start": 3,
+              "username": "baobao_7777"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UqPVezgykr",
+              "end": 42,
+              "expanded_url": "https://x.com/baobao_7777/status/2027803304248676439/photo/1",
+              "media_key": "3_2027803298221408256",
+              "start": 19,
+              "url": "https://t.co/UqPVezgykr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028143605484020033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027803304248676439",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baobao_7777: 我 https://t.co/UqPVezgykr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027803298221408256"
+          ]
+        },
+        "author_id": "1764232461439897600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027803304248676439",
+        "created_at": "2026-02-28T17:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T18:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027803304248676439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UqPVezgykr",
+              "end": 25,
+              "expanded_url": "https://x.com/baobao_7777/status/2027803304248676439/photo/1",
+              "media_key": "3_2027803298221408256",
+              "start": 2,
+              "url": "https://t.co/UqPVezgykr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027803304248676439",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 776,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/UqPVezgykr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5127,
+          "following_count": 242,
+          "like_count": 4096,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 1878
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T10:13:08.000Z",
+        "description": "一个苦命忧郁更年期男人的碎碎念 万人格共号 随机掉落前夫文学恶俗文学 爆率1:4 自恋人格@baobao_772778 纯高p线下是老鼠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "baobao_772778"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/burger7777",
+                "end": 23,
+                "expanded_url": "https://ngl.link/burger7777",
+                "start": 0,
+                "url": "https://t.co/GIQCODGHiA"
+              }
+            ]
+          }
+        },
+        "id": "1764232461439897600",
+        "location": "站街中",
+        "name": "雌香家母",
+        "pinned_tweet_id": "2027453558887788974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027935875498405888/tFv6ULKn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1896,
+          "following_count": 130,
+          "like_count": 24426,
+          "listed_count": 3,
+          "media_count": 240,
+          "tweet_count": 9784
+        },
+        "url": "https://t.co/GIQCODGHiA",
+        "username": "baobao_7777",
+        "verified": false
+      }
+    ]
+  }
+}

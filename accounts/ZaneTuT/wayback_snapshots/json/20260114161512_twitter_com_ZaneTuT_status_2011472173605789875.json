@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2010952555489345639",
+    "created_at": "2026-01-14T16:15:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T17:15:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011472173605789875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1894001231347245056",
+          "start": 0,
+          "username": "HE_9winter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011472173605789875",
+    "in_reply_to_user_id": "1894001231347245056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011471614743879851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HE_9winter 哎呀啊啊啊啊不———"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2010952555489345639",
+        "created_at": "2026-01-14T16:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T17:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011472173605789875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1894001231347245056",
+              "start": 0,
+              "username": "HE_9winter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011472173605789875",
+        "in_reply_to_user_id": "1894001231347245056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011471614743879851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HE_9winter 哎呀啊啊啊啊不———"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894001231347245056",
+        "conversation_id": "2010952555489345639",
+        "created_at": "2026-01-14T16:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T17:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011471614743879851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011471614743879851",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010952555489345639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 谢谢老师最近那个百草枯好像很火准备买瓶尝尝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪88/128 纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨互关可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010591438627897389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 133,
+          "like_count": 1271,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 566
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-24T12:29:21.000Z",
+        "description": "顺顺利利 开开心心",
+        "id": "1894001231347245056",
+        "location": "🐈‍⬛",
+        "name": "和",
+        "pinned_tweet_id": "2004506775886999789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005686541327159296/JfXlg9SJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 39,
+          "like_count": 562,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 854
+        },
+        "username": "HE_9winter",
+        "verified": false
+      }
+    ]
+  }
+}

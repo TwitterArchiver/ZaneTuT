@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2074922942761443756",
+    "created_at": "2026-07-09T03:59:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T04:59:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075067178966282350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1646598919806423040",
+          "start": 0,
+          "username": "xiaoUuTwT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075067178966282350",
+    "in_reply_to_user_id": "1646598919806423040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074922942761443756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoUuTwT 我要娶你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2074922936277045248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMubaskakAAr8Ny.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2074922942761443756",
+        "created_at": "2026-07-09T03:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T04:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075067178966282350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1646598919806423040",
+              "start": 0,
+              "username": "xiaoUuTwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075067178966282350",
+        "in_reply_to_user_id": "1646598919806423040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074922942761443756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoUuTwT 我要娶你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074922936277045248"
+          ]
+        },
+        "author_id": "1646598919806423040",
+        "conversation_id": "2074922942761443756",
+        "created_at": "2026-07-08T18:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T19:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074922942761443756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zy5U9gRagt",
+              "end": 28,
+              "expanded_url": "https://x.com/xiaoUuTwT/status/2074922942761443756/photo/1",
+              "media_key": "3_2074922936277045248",
+              "start": 5,
+              "url": "https://t.co/zy5U9gRagt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074922942761443756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "來爆照了 https://t.co/zy5U9gRagt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨互fo免🚪丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 18,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 37,
+                "start": 27,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2044362275218489629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7760,
+          "following_count": 273,
+          "like_count": 5881,
+          "listed_count": 4,
+          "media_count": 47,
+          "tweet_count": 2586
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-13T19:39:32.000Z",
+        "description": "路邊一條",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaou53216",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaou53216",
+                "start": 0,
+                "url": "https://t.co/QCcRsU4yEx"
+              }
+            ]
+          }
+        },
+        "id": "1646598919806423040",
+        "location": "距離您0.1km",
+        "name": "小u",
+        "pinned_tweet_id": "1977027188470980657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015820341915049985/h_h37-hf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 200,
+          "like_count": 1820,
+          "listed_count": 0,
+          "media_count": 1116,
+          "tweet_count": 3276
+        },
+        "url": "https://t.co/QCcRsU4yEx",
+        "username": "xiaoUuTwT",
+        "verified": false
+      }
+    ]
+  }
+}

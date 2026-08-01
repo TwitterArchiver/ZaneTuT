@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2030206097265696922",
+    "created_at": "2026-03-07T08:57:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T09:57:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030206097265696922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1840467585583988736",
+          "start": 3,
+          "username": "JJJQQQ33913"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030206097265696922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030002868368068884",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JJJQQQ33913: 我这么重欲的一个人 今年一次爱也没做…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2030206097265696922",
+        "created_at": "2026-03-07T08:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T09:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030206097265696922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1840467585583988736",
+              "start": 3,
+              "username": "JJJQQQ33913"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030206097265696922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030002868368068884",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JJJQQQ33913: 我这么重欲的一个人 今年一次爱也没做…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840467585583988736",
+        "conversation_id": "2030002868368068884",
+        "created_at": "2026-03-06T19:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T20:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030002868368068884"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030002868368068884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1532,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我这么重欲的一个人 今年一次爱也没做…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5249,
+          "following_count": 258,
+          "like_count": 4260,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 1924
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-29T19:04:12.000Z",
+        "description": "ㅍ_ㅍ 168 125 INTP  喜欢男妈妈",
+        "id": "1840467585583988736",
+        "location": "ฅ՞••՞ฅ",
+        "name": "83岁麻辣后妈",
+        "pinned_tweet_id": "2022025910980112661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873055943325605888/XX15h7Mw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 230,
+          "like_count": 1846,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 319
+        },
+        "username": "JJJQQQ33913",
+        "verified": false
+      }
+    ]
+  }
+}

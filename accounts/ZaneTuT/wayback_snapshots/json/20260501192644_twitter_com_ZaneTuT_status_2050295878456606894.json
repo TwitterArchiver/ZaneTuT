@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2050277367839592779",
+    "created_at": "2026-05-01T19:26:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T20:26:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050295878456606894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1900706496121602048",
+          "start": 0,
+          "username": "JIAN100222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050295878456606894",
+    "in_reply_to_user_id": "1900706496121602048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050277367839592779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JIAN100222 丽丽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050277357634945024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHQMZNjbgAAOMKa.jpg",
+        "width": 1602
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2050277367839592779",
+        "created_at": "2026-05-01T19:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T20:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050295878456606894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1900706496121602048",
+              "start": 0,
+              "username": "JIAN100222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050295878456606894",
+        "in_reply_to_user_id": "1900706496121602048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050277367839592779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JIAN100222 丽丽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050277357634945024"
+          ]
+        },
+        "author_id": "1900706496121602048",
+        "conversation_id": "2050277367839592779",
+        "created_at": "2026-05-01T18:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T19:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050277367839592779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fBQYEKhA1D",
+              "end": 41,
+              "expanded_url": "https://x.com/JIAN100222/status/2050277367839592779/photo/1",
+              "media_key": "3_2050277357634945024",
+              "start": 18,
+              "url": "https://t.co/fBQYEKhA1D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050277367839592779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 712,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "像不像那种在路边捡垃圾吃的那种感觉 https://t.co/fBQYEKhA1D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨互fo免🚪丨我听点udg sasi很多很多丨算挂找@kill_this_hate💗不准你打我丨两个天使女孩@Ri0trix @Zoeeef2l1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 31,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 67,
+                "start": 59,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 78,
+                "start": 68,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7023,
+          "following_count": 287,
+          "like_count": 6268,
+          "listed_count": 4,
+          "media_count": 57,
+          "tweet_count": 2555
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T00:32:09.000Z",
+        "description": "我是一个龙丽。文案来源网络侵权私信必删🙏\n看我笑话就好\n@JIAN222100（过熟人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "JIAN222100"
+              }
+            ]
+          }
+        },
+        "id": "1900706496121602048",
+        "name": "龙丽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049059699233017856/xxGUB1hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 175,
+          "like_count": 8831,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 2881
+        },
+        "username": "JIAN100222",
+        "verified": false
+      }
+    ]
+  }
+}

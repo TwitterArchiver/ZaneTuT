@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2039648107319722241",
+    "created_at": "2026-04-02T10:58:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T11:58:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039658744183771528"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2039658744183771528",
+    "in_reply_to_user_id": "1997985969958699008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039648107319722241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我知道你 你的爱好是出轨聊骚 美其名曰在推特聊骚圈钱是为了养这个怀孕的女孩 可是呢 你每一任女朋友 都因为出轨这件事分手 无缝衔接 这些你怎么解释？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039648097559535616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE5JI2HWYAAqjYY.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2039648107319722241",
+        "created_at": "2026-04-02T10:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T11:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039658744183771528"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039658744183771528",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039648107319722241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我知道你 你的爱好是出轨聊骚 美其名曰在推特聊骚圈钱是为了养这个怀孕的女孩 可是呢 你每一任女朋友 都因为出轨这件事分手 无缝衔接 这些你怎么解释？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039648097559535616"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2039648107319722241",
+        "created_at": "2026-04-02T10:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T11:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039648107319722241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zOawq0fRKm",
+              "end": 149,
+              "expanded_url": "https://x.com/ZaneTuT/status/2039648107319722241/photo/1",
+              "media_key": "3_2039648097559535616",
+              "start": 126,
+              "url": "https://t.co/zOawq0fRKm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039648107319722241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4090,
+          "like_count": 55,
+          "quote_count": 3,
+          "reply_count": 22,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我告诉你 你做的那些事 骗过的女孩 我这里包括小璐手里全都有证据 你出轨聊骚 和她在一起多久就绿了她多久 她怀孕了你在外面聊骚 一直到今年三月初你们还见过面 期间你一直说想我 同时和她一直说你爱她 你真的有良心吗 不止这些事情 我会一件一件全部发出来 https://t.co/zOawq0fRKm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨08丨od丨中抑中焦丨互fo免🚪丨我听点udg sasi很多很多丨两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 45,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6167,
+          "following_count": 290,
+          "like_count": 5912,
+          "listed_count": 3,
+          "media_count": 69,
+          "tweet_count": 2503
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

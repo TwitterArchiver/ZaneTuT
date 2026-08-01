@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2010927611539832886",
+    "created_at": "2026-01-14T08:54:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T09:54:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011361365743808891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1707589508802502656",
+          "start": 0,
+          "username": "yu06080921"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011361365743808891",
+    "in_reply_to_user_id": "1707589508802502656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011360389611794550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu06080921 亡圆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2010927611539832886",
+        "created_at": "2026-01-14T08:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T09:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011361365743808891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1707589508802502656",
+              "start": 0,
+              "username": "yu06080921"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011361365743808891",
+        "in_reply_to_user_id": "1707589508802502656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011360389611794550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu06080921 亡圆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707589508802502656",
+        "conversation_id": "2010927611539832886",
+        "created_at": "2026-01-14T08:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T09:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011360389611794550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011360389611794550",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "ca",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010927611539832886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT die π"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪88/128 纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010591438627897389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 121,
+          "like_count": 1172,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 500
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-29T02:54:12.000Z",
+        "description": "没什么特色 就是人特色\n黄色垃圾堆放处谨慎观看\n喜欢被坏女人调😍",
+        "id": "1707589508802502656",
+        "name": "东南亚手冲王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707589797488029696/Qlqs7s9r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 27,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 183
+        },
+        "username": "yu06080921",
+        "verified": false
+      }
+    ]
+  }
+}

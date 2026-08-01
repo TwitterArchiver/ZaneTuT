@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2038518077932134879",
+    "created_at": "2026-03-30T11:18:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T12:18:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038576470491275728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1860515779705495552",
+          "start": 0,
+          "username": "sikthone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038576470491275728",
+    "in_reply_to_user_id": "1860515779705495552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038518077932134879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sikthone 那应该还挺难受的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038518071175098368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEpFYpybMAAtBmZ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038518071208591360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEpFYp6aQAA1Upz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2038518077932134879",
+        "created_at": "2026-03-30T11:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T12:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038576470491275728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1860515779705495552",
+              "start": 0,
+              "username": "sikthone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038576470491275728",
+        "in_reply_to_user_id": "1860515779705495552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038518077932134879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sikthone 那应该还挺难受的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038518071175098368",
+            "3_2038518071208591360"
+          ]
+        },
+        "author_id": "1860515779705495552",
+        "conversation_id": "2038518077932134879",
+        "created_at": "2026-03-30T07:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T08:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038518077932134879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/72qkDGp9N2",
+              "end": 39,
+              "expanded_url": "https://x.com/sikthone/status/2038518077932134879/photo/1",
+              "media_key": "3_2038518071175098368",
+              "start": 16,
+              "url": "https://t.co/72qkDGp9N2"
+            },
+            {
+              "display_url": "pic.x.com/72qkDGp9N2",
+              "end": 39,
+              "expanded_url": "https://x.com/sikthone/status/2038518077932134879/photo/1",
+              "media_key": "3_2038518071208591360",
+              "start": 16,
+              "url": "https://t.co/72qkDGp9N2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038518077932134879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你说我的爱就像溃疡长在牙床里面 https://t.co/72qkDGp9N2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5954,
+          "following_count": 292,
+          "like_count": 5541,
+          "listed_count": 3,
+          "media_count": 65,
+          "tweet_count": 2322
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T02:48:36.000Z",
+        "description": "Diary｜Memorandum｜Aesthetic Accumulation",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sikthone",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sikthone",
+                "start": 0,
+                "url": "https://t.co/JRvM6MDmEe"
+              }
+            ]
+          }
+        },
+        "id": "1860515779705495552",
+        "location": "東京 新宿区",
+        "name": "小哑巴",
+        "pinned_tweet_id": "2024167158268244388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035219021466148865/I-BEqVfP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 76,
+          "like_count": 362,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 470
+        },
+        "url": "https://t.co/JRvM6MDmEe",
+        "username": "sikthone",
+        "verified": false
+      }
+    ]
+  }
+}

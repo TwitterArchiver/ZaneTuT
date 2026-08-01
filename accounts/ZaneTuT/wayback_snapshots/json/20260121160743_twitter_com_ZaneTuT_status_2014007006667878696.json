@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2013535705696461245",
+    "created_at": "2026-01-21T16:07:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T17:07:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014007006667878696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1758622444213125120",
+          "start": 0,
+          "username": "Lotus_0129"
+        },
+        {
+          "end": 20,
+          "id": "1824702086308560896",
+          "start": 12,
+          "username": "Choyufe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014007006667878696",
+    "in_reply_to_user_id": "1758622444213125120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013884179013161256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lotus_0129 @Choyufe 他截图出去就算了 打码也没打好 已经有人跳到我脸上了这哪里正常？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2013535705696461245",
+        "created_at": "2026-01-21T16:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T17:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014007006667878696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1758622444213125120",
+              "start": 0,
+              "username": "Lotus_0129"
+            },
+            {
+              "end": 20,
+              "id": "1824702086308560896",
+              "start": 12,
+              "username": "Choyufe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014007006667878696",
+        "in_reply_to_user_id": "1758622444213125120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013884179013161256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lotus_0129 @Choyufe 他截图出去就算了 打码也没打好 已经有人跳到我脸上了这哪里正常？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758622444213125120",
+        "conversation_id": "2013535705696461245",
+        "created_at": "2026-01-21T07:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T08:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013884179013161256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1824702086308560896",
+              "start": 0,
+              "username": "Choyufe"
+            },
+            {
+              "end": 17,
+              "id": "1997985969958699008",
+              "start": 9,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013884179013161256",
+        "in_reply_to_user_id": "1824702086308560896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013637555053264929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Choyufe @ZaneTuT 其实这不就是转发吗或者单纯喜欢文案 这有啥的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪128 纯绿丨有的文案不是原创别攻击我TuT丨极度玻璃心 骂我的我会直接转贴丨08丨od丨私信看心情回丨高频率发帖丨互fo可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "一说话就扯溃疡",
+        "pinned_tweet_id": "2013559742573224427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2016,
+          "following_count": 151,
+          "like_count": 2334,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1090
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T22:40:51.000Z",
+        "description": "",
+        "id": "1758622444213125120",
+        "name": "魚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994635032544382976/CHFeHxTe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 17,
+          "like_count": 504,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 29
+        },
+        "username": "Lotus_0129",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T06:57:44.000Z",
+        "description": "看腹肌男专用号",
+        "id": "1824702086308560896",
+        "name": "小贝",
+        "pinned_tweet_id": "1935020582401360082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878097127571607552/6yFSngxo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 178,
+          "like_count": 4340,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 2199
+        },
+        "username": "Choyufe",
+        "verified": false
+      }
+    ]
+  }
+}

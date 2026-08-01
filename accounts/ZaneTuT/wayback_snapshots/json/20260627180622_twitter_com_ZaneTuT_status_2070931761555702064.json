@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2070840895361171680",
+    "created_at": "2026-06-27T18:06:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T19:06:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070931761555702064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1940006342833700864",
+          "start": 0,
+          "username": "Y177854593566"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070931761555702064",
+    "in_reply_to_user_id": "1940006342833700864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070840895361171680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y177854593566 OMG恭喜你呀小音！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070840890307043328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0a0WUa4AAfQVL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2070840895361171680",
+        "created_at": "2026-06-27T18:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T19:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070931761555702064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1940006342833700864",
+              "start": 0,
+              "username": "Y177854593566"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070931761555702064",
+        "in_reply_to_user_id": "1940006342833700864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070840895361171680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y177854593566 OMG恭喜你呀小音！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070840890307043328"
+          ]
+        },
+        "author_id": "1940006342833700864",
+        "conversation_id": "2070840895361171680",
+        "created_at": "2026-06-27T12:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070840895361171680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WE8iOHJqPv",
+              "end": 59,
+              "expanded_url": "https://x.com/Y177854593566/status/2070840895361171680/photo/1",
+              "media_key": "3_2070840890307043328",
+              "start": 36,
+              "url": "https://t.co/WE8iOHJqPv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070840895361171680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 403,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小音已嚴肅畢業！\n前往下一個副本：大學\n(,,&gt;᎑&lt;,,) https://t.co/WE8iOHJqPv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨互fo免🚪丨算挂找@kill_this_hate💗不准你打我丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2044362275218489629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7601,
+          "following_count": 273,
+          "like_count": 5809,
+          "listed_count": 4,
+          "media_count": 42,
+          "tweet_count": 2555
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-01T11:15:38.000Z",
+        "description": "這裏小音ovo！07的176cm小女孩˃ 𖥦 ˂ 戀哥癖 分享日常 啥都發 當朋友圈發 純分享生活 發自己覺得好看的^ω^ 喜歡我可以給我打錢😋最近養身體中只發碎碎念",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%9F%B3%E9%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%9F%B3%E9%9B%A8%E5%A4%A9",
+                "start": 0,
+                "url": "https://t.co/6rWut8SbCS"
+              }
+            ]
+          }
+        },
+        "id": "1940006342833700864",
+        "location": "距离你5.2km",
+        "name": "小音雨天",
+        "pinned_tweet_id": "2065693085242454495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001981596262686720/qIhFj5ge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4819,
+          "following_count": 46,
+          "like_count": 1163,
+          "listed_count": 29,
+          "media_count": 149,
+          "tweet_count": 585
+        },
+        "url": "https://t.co/6rWut8SbCS",
+        "username": "Y177854593566",
+        "verified": false
+      }
+    ]
+  }
+}

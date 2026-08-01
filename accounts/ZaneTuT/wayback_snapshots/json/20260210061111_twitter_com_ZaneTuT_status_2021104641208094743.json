@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2021104641208094743",
+    "created_at": "2026-02-10T06:11:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T07:11:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021104641208094743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1612365673006788609",
+          "start": 3,
+          "username": "aszer530"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021104641208094743",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020885488056381734",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aszer530: 不是，你听我解释，我真没想杀你全家，我就是想杀你妈，然后连锁采集忘关了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2021104641208094743",
+        "created_at": "2026-02-10T06:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T07:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021104641208094743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1612365673006788609",
+              "start": 3,
+              "username": "aszer530"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021104641208094743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020885488056381734",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aszer530: 不是，你听我解释，我真没想杀你全家，我就是想杀你妈，然后连锁采集忘关了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1612365673006788609",
+        "conversation_id": "2020885488056381734",
+        "created_at": "2026-02-09T15:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T16:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020885488056381734"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020885488056381734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 16520,
+          "like_count": 450,
+          "quote_count": 3,
+          "reply_count": 18,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "不是，你听我解释，我真没想杀你全家，我就是想杀你妈，然后连锁采集忘关了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3619,
+          "following_count": 206,
+          "like_count": 3516,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 1596
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-09T08:29:00.000Z",
+        "description": "ESFJ \n正经煮啵 不搞抽象",
+        "id": "1612365673006788609",
+        "location": "十万八千里",
+        "name": "面条馅柿子",
+        "pinned_tweet_id": "1956380600107245854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004405082553745408/PiiUFTkn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 233,
+          "like_count": 36368,
+          "listed_count": 2,
+          "media_count": 273,
+          "tweet_count": 8460
+        },
+        "username": "aszer530",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2010027077970604530",
+    "created_at": "2026-01-14T09:00:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T10:00:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011362773398356123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1857129266791493632",
+          "start": 0,
+          "username": "sakura18664641"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011362773398356123",
+    "in_reply_to_user_id": "1857129266791493632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010348445790601248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakura18664641 嘿嘿我才看到 你太宠我啦！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2010027077970604530",
+        "created_at": "2026-01-14T09:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T10:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011362773398356123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1857129266791493632",
+              "start": 0,
+              "username": "sakura18664641"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011362773398356123",
+        "in_reply_to_user_id": "1857129266791493632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010348445790601248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura18664641 嘿嘿我才看到 你太宠我啦！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857129266791493632",
+        "conversation_id": "2010027077970604530",
+        "created_at": "2026-01-11T13:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T14:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010348445790601248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010348445790601248",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010027077970604530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 我投溃疡一票"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪88/128 纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010591438627897389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 121,
+          "like_count": 1174,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 484
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T18:31:44.000Z",
+        "description": "每一个我",
+        "id": "1857129266791493632",
+        "name": "sakura",
+        "pinned_tweet_id": "1945072015217438778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005669455314247680/LP3US3Jv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 54,
+          "like_count": 1482,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1194
+        },
+        "username": "sakura18664641",
+        "verified": false
+      }
+    ]
+  }
+}

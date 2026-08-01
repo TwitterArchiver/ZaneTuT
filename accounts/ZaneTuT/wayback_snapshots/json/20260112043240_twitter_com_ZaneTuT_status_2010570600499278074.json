@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010570188950024192"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2010570600499278074",
+    "created_at": "2026-01-12T04:32:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T05:32:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010570600499278074"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/h1GJtxmIcm",
+          "end": 28,
+          "expanded_url": "https://x.com/ZaneTuT/status/2010570600499278074/photo/1",
+          "media_key": "3_2010570188950024192",
+          "start": 5,
+          "url": "https://t.co/h1GJtxmIcm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010570600499278074",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想咋滴… https://t.co/h1GJtxmIcm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 959,
+        "media_key": "3_2010570188950024192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-b67zRbMAA4dh0.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010570188950024192"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2010570600499278074",
+        "created_at": "2026-01-12T04:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T05:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010570600499278074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h1GJtxmIcm",
+              "end": 28,
+              "expanded_url": "https://x.com/ZaneTuT/status/2010570600499278074/photo/1",
+              "media_key": "3_2010570188950024192",
+              "start": 5,
+              "url": "https://t.co/h1GJtxmIcm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010570600499278074",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想咋滴… https://t.co/h1GJtxmIcm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨我听点udg 可以和我一起听歌…",
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010215499150585985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 91,
+          "like_count": 738,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 205
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

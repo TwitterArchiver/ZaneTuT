@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2012451321392386540",
+    "created_at": "2026-01-17T09:05:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T10:05:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012451321392386540"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 123,
+          "start": 120,
+          "tag": "小圈"
+        },
+        {
+          "end": 129,
+          "start": 124,
+          "tag": "小圈实践"
+        },
+        {
+          "end": 135,
+          "start": 130,
+          "tag": "小圈sp"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2524979190",
+          "start": 3,
+          "username": "LingyeMeowMeow"
+        },
+        {
+          "end": 118,
+          "id": "2524979190",
+          "start": 103,
+          "username": "LingyeMeowMeow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012451321392386540",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012193831882744275",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LingyeMeowMeow: 满级brat被动 vs 恼羞成怒的主动 谁能笑到最后 让我们拭目以待😂\n有人打着打着突然耍流氓！😂😂😂\n\nSomeone has grabby hands😂\n\n🍑: @Lingyemeowmeow\n\n#小圈 #小圈实践 #小圈sp #br…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2012451321392386540].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2012451321392386540",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2012451321392386540"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 353433,
+        "height": 720,
+        "media_key": "13_2012193408144781312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2012193408144781312/img/wnsM4bXELX5d0Tss.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012193408144781312/vid/avc1/360x270/OGG7Hgra6-N0tll9.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012193408144781312/vid/avc1/480x360/DUVdMyIrn8KsdQs_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012193408144781312/vid/avc1/960x720/CW5dP7LyIgsGioNE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2012193408144781312/pl/2F18HFku6YpKpCcy.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2012193408144781312"
+          ]
+        },
+        "author_id": "2524979190",
+        "conversation_id": "2012193831882744275",
+        "created_at": "2026-01-16T16:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T17:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012193831882744275"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "小圈"
+            },
+            {
+              "end": 109,
+              "start": 104,
+              "tag": "小圈实践"
+            },
+            {
+              "end": 115,
+              "start": 110,
+              "tag": "小圈sp"
+            },
+            {
+              "end": 121,
+              "start": 116,
+              "tag": "brat"
+            },
+            {
+              "end": 131,
+              "start": 122,
+              "tag": "spanking"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "SP"
+            },
+            {
+              "end": 140,
+              "start": 136,
+              "tag": "打屁股"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 98,
+              "id": "2524979190",
+              "start": 83,
+              "username": "LingyeMeowMeow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KOeLCBNjcI",
+              "end": 164,
+              "expanded_url": "https://x.com/LingyeMeowMeow/status/2012193831882744275/video/1",
+              "media_key": "13_2012193408144781312",
+              "start": 141,
+              "url": "https://t.co/KOeLCBNjcI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012193831882744275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 2435,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "满级brat被动 vs 恼羞成怒的主动 谁能笑到最后 让我们拭目以待😂\n有人打着打着突然耍流氓！😂😂😂\n\nSomeone has grabby hands😂\n\n🍑: @Lingyemeowmeow\n\n#小圈 #小圈实践 #小圈sp #brat #spanking #SP #打屁股 https://t.co/KOeLCBNjcI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪88/128 纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨回fo眼熟的 可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010591438627897389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 132,
+          "like_count": 1546,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 667
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-26T13:01:39.000Z",
+        "description": "性癖广泛 性格(过于)开朗 擅长搞抽象 不卖片 不收门槛 发约实践私信前请阅读置顶贴文 未成年请勿关注🔞",
+        "id": "2524979190",
+        "location": "Adelaide, South Australia",
+        "name": "法外狂徒·凌野喵喵·Laurea🌈🦄🇦🇺",
+        "pinned_tweet_id": "1994454594722947284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914339270145474560/EhxzUwqS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7591,
+          "following_count": 88,
+          "like_count": 131812,
+          "listed_count": 22,
+          "media_count": 144,
+          "tweet_count": 1112
+        },
+        "username": "LingyeMeowMeow",
+        "verified": false
+      }
+    ]
+  }
+}

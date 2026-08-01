@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010003973458276355",
+        "3_2010003973454082051",
+        "3_2010003973462462464"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2010003986888446026",
+    "created_at": "2026-01-10T15:01:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T16:01:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010003986888446026"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/r07kFsJkow",
+          "end": 38,
+          "expanded_url": "https://x.com/ZaneTuT/status/2010003986888446026/photo/1",
+          "media_key": "3_2010003973458276355",
+          "start": 15,
+          "url": "https://t.co/r07kFsJkow"
+        },
+        {
+          "display_url": "pic.x.com/r07kFsJkow",
+          "end": 38,
+          "expanded_url": "https://x.com/ZaneTuT/status/2010003986888446026/photo/1",
+          "media_key": "3_2010003973454082051",
+          "start": 15,
+          "url": "https://t.co/r07kFsJkow"
+        },
+        {
+          "display_url": "pic.x.com/r07kFsJkow",
+          "end": 38,
+          "expanded_url": "https://x.com/ZaneTuT/status/2010003986888446026/photo/1",
+          "media_key": "3_2010003973462462464",
+          "start": 15,
+          "url": "https://t.co/r07kFsJkow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010003986888446026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "丢了药 我们一直在一起好不好 https://t.co/r07kFsJkow"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2010003973458276355",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-T39uMasAMPt4p.jpg",
+        "width": 1536
+      },
+      {
+        "height": 960,
+        "media_key": "3_2010003973454082051",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-T39uLasAMoSG0.jpg",
+        "width": 720
+      },
+      {
+        "height": 149,
+        "media_key": "3_2010003973462462464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-T39uNakAACZKj.jpg",
+        "width": 302
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010003973458276355",
+            "3_2010003973454082051",
+            "3_2010003973462462464"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2010003986888446026",
+        "created_at": "2026-01-10T15:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T16:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010003986888446026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r07kFsJkow",
+              "end": 38,
+              "expanded_url": "https://x.com/ZaneTuT/status/2010003986888446026/photo/1",
+              "media_key": "3_2010003973458276355",
+              "start": 15,
+              "url": "https://t.co/r07kFsJkow"
+            },
+            {
+              "display_url": "pic.x.com/r07kFsJkow",
+              "end": 38,
+              "expanded_url": "https://x.com/ZaneTuT/status/2010003986888446026/photo/1",
+              "media_key": "3_2010003973454082051",
+              "start": 15,
+              "url": "https://t.co/r07kFsJkow"
+            },
+            {
+              "display_url": "pic.x.com/r07kFsJkow",
+              "end": 38,
+              "expanded_url": "https://x.com/ZaneTuT/status/2010003986888446026/photo/1",
+              "media_key": "3_2010003973462462464",
+              "start": 15,
+              "url": "https://t.co/r07kFsJkow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010003986888446026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "丢了药 我们一直在一起好不好 https://t.co/r07kFsJkow"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "骂我的人是gay 我是萌脸骚",
+        "id": "1997985969958699008",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2009195553230606621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 68,
+          "like_count": 522,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 97
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2022901983712284862",
+    "created_at": "2026-02-15T09:05:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T10:05:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022960550209372494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1881178883246129152",
+          "start": 0,
+          "username": "lllill123321"
+        },
+        {
+          "end": 23,
+          "id": "1872994118294773760",
+          "start": 14,
+          "username": "cyroy777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022960550209372494",
+    "in_reply_to_user_id": "1881178883246129152",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022920868868083723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lllill123321 @cyroy777 🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2022901983712284862",
+        "created_at": "2026-02-15T09:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T10:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022960550209372494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1881178883246129152",
+              "start": 0,
+              "username": "lllill123321"
+            },
+            {
+              "end": 23,
+              "id": "1872994118294773760",
+              "start": 14,
+              "username": "cyroy777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022960550209372494",
+        "in_reply_to_user_id": "1881178883246129152",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022920868868083723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lllill123321 @cyroy777 🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881178883246129152",
+        "conversation_id": "2022901983712284862",
+        "created_at": "2026-02-15T06:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T07:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022920868868083723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1872994118294773760",
+              "start": 0,
+              "username": "cyroy777"
+            },
+            {
+              "end": 18,
+              "id": "1997985969958699008",
+              "start": 10,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022920868868083723",
+        "in_reply_to_user_id": "1872994118294773760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022912495195951584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cyroy777 @ZaneTuT 好暖心的宝宝 希望小溃疡不苦苦 日子都甜甜的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4005,
+          "following_count": 214,
+          "like_count": 3611,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 1654
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-20T03:16:27.000Z",
+        "description": "耀文酱我可为你全球飞  私信发牛子图片的都变1cm",
+        "id": "1881178883246129152",
+        "name": "骂我皆为调情",
+        "pinned_tweet_id": "2009280390280757275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020052362103328768/2oUYUCAe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 102,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 669
+        },
+        "username": "lllill123321",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-28T13:13:14.000Z",
+        "description": "INTP｜随便记录｜祝大家平安 健康 快乐 幸福",
+        "id": "1872994118294773760",
+        "name": "uu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021661804464844801/nYWisk6S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 34,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 45
+        },
+        "username": "cyroy777",
+        "verified": true
+      }
+    ]
+  }
+}

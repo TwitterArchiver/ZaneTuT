@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2032004713131229210",
+    "created_at": "2026-03-12T08:04:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T09:04:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032004713131229210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1311048095334101003",
+          "start": 3,
+          "username": "cE6dWDa36zrqR4U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032004713131229210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031681874184335721",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cE6dWDa36zrqR4U: 我求你们了 别白天发骚照晚上割腕搞网抑了 我已经不知道是干你还是安慰你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2032004713131229210",
+        "created_at": "2026-03-12T08:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T09:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032004713131229210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1311048095334101003",
+              "start": 3,
+              "username": "cE6dWDa36zrqR4U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032004713131229210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031681874184335721",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cE6dWDa36zrqR4U: 我求你们了 别白天发骚照晚上割腕搞网抑了 我已经不知道是干你还是安慰你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1311048095334101003",
+        "conversation_id": "2031681874184335721",
+        "created_at": "2026-03-11T10:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T11:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031681874184335721"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031681874184335721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 18091,
+          "like_count": 298,
+          "quote_count": 3,
+          "reply_count": 28,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "我求你们了 别白天发骚照晚上割腕搞网抑了 我已经不知道是干你还是安慰你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5429,
+          "following_count": 277,
+          "like_count": 4584,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 1995
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-29T21:00:13.000Z",
+        "description": "奈何身为雀 于此借寒山",
+        "id": "1311048095334101003",
+        "location": "成都",
+        "name": "臣(算卦版",
+        "pinned_tweet_id": "1785726513855238599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031770000625913856/oNeA71sw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 169,
+          "like_count": 4418,
+          "listed_count": 7,
+          "media_count": 119,
+          "tweet_count": 1282
+        },
+        "username": "cE6dWDa36zrqR4U",
+        "verified": true
+      }
+    ]
+  }
+}

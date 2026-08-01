@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2011379916580016438",
+    "created_at": "2026-01-14T10:25:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T11:25:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011384080580145241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1366110368347557890",
+          "start": 0,
+          "username": "N60_YY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011384080580145241",
+    "in_reply_to_user_id": "1366110368347557890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011382802181431659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N60_YY 我已知晓！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2011379916580016438",
+        "created_at": "2026-01-14T10:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T11:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011384080580145241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1366110368347557890",
+              "start": 0,
+              "username": "N60_YY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011384080580145241",
+        "in_reply_to_user_id": "1366110368347557890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011382802181431659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N60_YY 我已知晓！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1366110368347557890",
+        "conversation_id": "2011379916580016438",
+        "created_at": "2026-01-14T10:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T11:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011382802181431659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011382802181431659",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011379916580016438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 我现在要去吃一包泡面"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪88/128 纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010591438627897389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 124,
+          "like_count": 1197,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 518
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-28T19:37:57.000Z",
+        "description": "阿宅",
+        "id": "1366110368347557890",
+        "name": "R",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1381171505719963650/f0Z2w6h7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 88,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "username": "N60_YY",
+        "verified": false
+      }
+    ]
+  }
+}

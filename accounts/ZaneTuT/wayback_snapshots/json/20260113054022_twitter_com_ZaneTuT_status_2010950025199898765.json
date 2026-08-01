@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2010943068371927413",
+    "created_at": "2026-01-13T05:40:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T06:40:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010950025199898765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1727749336048783360",
+          "start": 0,
+          "username": "NSNKXBG7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010950025199898765",
+    "in_reply_to_user_id": "1727749336048783360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010943068371927413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NSNKXBG7 哎呀太不小心了一下喝成杨枝甘露了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2010943068371927413",
+        "created_at": "2026-01-13T05:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T06:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010950025199898765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1727749336048783360",
+              "start": 0,
+              "username": "NSNKXBG7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010950025199898765",
+        "in_reply_to_user_id": "1727749336048783360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010943068371927413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NSNKXBG7 哎呀太不小心了一下喝成杨枝甘露了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727749336048783360",
+        "conversation_id": "2010943068371927413",
+        "created_at": "2026-01-13T05:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T06:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010943068371927413"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010943068371927413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有互关听我的命令，现在立刻马上去喝一杯水"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "🚪66纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨我听点udg 可以和我一起听歌…",
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010215499150585985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 81,
+          "like_count": 874,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 312
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-23T18:02:20.000Z",
+        "description": "不定时上线，欢迎女宝和我我互关聊天，可以叫我饼干",
+        "id": "1727749336048783360",
+        "name": "Cookiekk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009722350623981568/AaziyoY0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 511,
+          "like_count": 260,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 145
+        },
+        "username": "NSNKXBG7",
+        "verified": false
+      }
+    ]
+  }
+}

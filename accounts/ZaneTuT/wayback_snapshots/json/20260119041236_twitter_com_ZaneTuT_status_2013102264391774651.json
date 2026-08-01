@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2013102264391774651",
+    "created_at": "2026-01-19T04:12:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T05:12:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013102264391774651"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/linovo33/statu…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/linovo33/status/2013079683131203910",
+          "start": 30,
+          "url": "https://t.co/Ji6RRm07pV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013102264391774651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013079683131203910",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真这样 所以我很抵触和人建立亲密关系 但是我又想被爱。。 https://t.co/Ji6RRm07pV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2013102264391774651",
+        "created_at": "2026-01-19T04:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T05:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013102264391774651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/linovo33/statu…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/linovo33/status/2013079683131203910",
+              "start": 30,
+              "url": "https://t.co/Ji6RRm07pV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013102264391774651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013079683131203910",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真这样 所以我很抵触和人建立亲密关系 但是我又想被爱。。 https://t.co/Ji6RRm07pV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980682684985921536",
+        "conversation_id": "2013079683131203910",
+        "created_at": "2026-01-19T02:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T03:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013079683131203910"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013079683131203910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 325,
+          "like_count": 11,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我这个人敏感到什么地步了，之前我老公放学很喜欢吃五毛钱的冰激凌，他每天都吃，有一天他跟我说他买了一块钱的可乐冰，我感觉他不要我了，要换口味了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪128 纯绿丨有的文案不是原创别攻击我TuT丨08丨od丨私信看心情回丨高频率发帖我好无聊丨互fo可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2011423750164725893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1216,
+          "following_count": 137,
+          "like_count": 1849,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 844
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T17:09:11.000Z",
+        "description": "不收门不加任何联系方式不下海不线下别私信我｜防走丢小号@linovo332 ｜我很敏感请不要对我有恶意不喜欢我拉黑就好",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "linovo332"
+              }
+            ]
+          }
+        },
+        "id": "1980682684985921536",
+        "location": "Amoy",
+        "name": "檩",
+        "pinned_tweet_id": "2012461133769105826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010005579511803909/rdE55MHV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 58,
+          "like_count": 1987,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1043
+        },
+        "username": "linovo33",
+        "verified": false
+      }
+    ]
+  }
+}

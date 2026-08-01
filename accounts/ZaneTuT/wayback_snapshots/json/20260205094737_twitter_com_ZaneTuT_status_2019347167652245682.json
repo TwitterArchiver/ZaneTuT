@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2019347099226443878",
+    "created_at": "2026-02-05T09:47:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T10:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019347167652245682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1906360034725961728",
+          "start": 0,
+          "username": "Xiaoyou_329"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019347167652245682",
+    "in_reply_to_user_id": "1906360034725961728",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019347099226443878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaoyou_329 🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2019347099226443878",
+        "created_at": "2026-02-05T09:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T10:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019347167652245682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019347167652245682",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019347099226443878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2019347099226443878",
+        "created_at": "2026-02-05T09:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T10:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019347099226443878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zanetut/status…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/zanetut/status/2019311142611591665",
+              "start": 56,
+              "url": "https://t.co/U1gMhPNy2D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019347099226443878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019311142611591665",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎哟我操我想哭 每次这样我就会忽略很多东西 直到痛苦结束 再去回看 再去视奸 才发现 “你他妈怎么对谁都这样” https://t.co/U1gMhPNy2D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨神秘账号@Rotte2t00丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "Rotte2t00"
+              },
+              {
+                "end": 80,
+                "start": 65,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 95,
+                "start": 87,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3212,
+          "following_count": 202,
+          "like_count": 3202,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1437
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001953849108750336/7R7bSmfx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12062,
+          "following_count": 158,
+          "like_count": 6315,
+          "listed_count": 18,
+          "media_count": 634,
+          "tweet_count": 5222
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

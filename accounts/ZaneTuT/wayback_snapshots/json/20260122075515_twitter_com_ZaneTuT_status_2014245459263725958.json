@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2014245336039199204",
+    "created_at": "2026-01-22T07:55:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T08:55:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014245459263725958"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2014245459263725958",
+    "in_reply_to_user_id": "1997985969958699008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014245336039199204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "发什么都会被开盒就证明什么都可以发。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1008,
+        "media_key": "3_2014245325851217921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_QJc7HaUAE5Cof.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2014245336039199204",
+        "created_at": "2026-01-22T07:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T08:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014245459263725958"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014245459263725958",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014245336039199204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发什么都会被开盒就证明什么都可以发。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014245325851217921"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2014245336039199204",
+        "created_at": "2026-01-22T07:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T08:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014245336039199204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1U82Gb5Ugg",
+              "end": 186,
+              "expanded_url": "https://x.com/ZaneTuT/status/2014245336039199204/photo/1",
+              "media_key": "3_2014245325851217921",
+              "start": 163,
+              "url": "https://t.co/1U82Gb5Ugg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014245336039199204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小溃疡来辣 每天都在许愿小蛋糕^o^\n码不好用就口令吧！\n本号号主就是一个很萌很萌的妹宝呀\n我每天都在想哥哥呀…！\n这个号基本不骂人\n可以去简介里的小号看看溃疡最近又被什么神人攻击了 我会转帖到小号\n互fo看眼缘 可爱的妹宝可以私信我呀\n搬运到其他软件记得打厚码🥺\n溃疡爱你萌(ˆ⸝⸝&gt;ꇴ&lt;ˆ)ε&lt;⸝⸝ˆ) https://t.co/1U82Gb5Ugg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心丨08丨od丨私信看心情回丨高频率发帖丨互fo可以直接➕V丨我听点udg sasi很多很多丨我皮下非常没有素质别惹我了行吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014245336039199204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2174,
+          "following_count": 159,
+          "like_count": 2400,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1111
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

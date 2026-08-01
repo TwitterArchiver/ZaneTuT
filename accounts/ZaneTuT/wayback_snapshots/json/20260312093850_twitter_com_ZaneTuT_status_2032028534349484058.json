@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031921068815106052",
+        "3_2031921068827688963",
+        "3_2031921068815110144",
+        "3_2031921068831883266"
+      ],
+      "media_source_tweet_id": [
+        "2031921077522420144",
+        "2031921077522420144",
+        "2031921077522420144",
+        "2031921077522420144"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2032028534349484058",
+    "created_at": "2026-03-12T09:38:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T10:38:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032028534349484058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1577848566818648064",
+          "start": 3,
+          "username": "Nikifannizi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HH5BMG6v1j",
+          "end": 62,
+          "expanded_url": "https://x.com/Nikifannizi/status/2031921077522420144/photo/1",
+          "media_key": "3_2031921068815106052",
+          "start": 39,
+          "url": "https://t.co/HH5BMG6v1j"
+        },
+        {
+          "display_url": "pic.x.com/HH5BMG6v1j",
+          "end": 62,
+          "expanded_url": "https://x.com/Nikifannizi/status/2031921077522420144/photo/1",
+          "media_key": "3_2031921068827688963",
+          "start": 39,
+          "url": "https://t.co/HH5BMG6v1j"
+        },
+        {
+          "display_url": "pic.x.com/HH5BMG6v1j",
+          "end": 62,
+          "expanded_url": "https://x.com/Nikifannizi/status/2031921077522420144/photo/1",
+          "media_key": "3_2031921068815110144",
+          "start": 39,
+          "url": "https://t.co/HH5BMG6v1j"
+        },
+        {
+          "display_url": "pic.x.com/HH5BMG6v1j",
+          "end": 62,
+          "expanded_url": "https://x.com/Nikifannizi/status/2031921077522420144/photo/1",
+          "media_key": "3_2031921068831883266",
+          "start": 39,
+          "url": "https://t.co/HH5BMG6v1j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032028534349484058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031921077522420144",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nikifannizi: brat的作死指南\n被打了别找当子，不负责 https://t.co/HH5BMG6v1j"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2032028534349484058].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2032028534349484058",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2032028534349484058"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031921068815106052",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDLVck5bQAQw062.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031921068827688963",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDLVck8bQAMCvRp.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031921068815110144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDLVck5bUAARw_k.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031921068831883266",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDLVck9bQAI6VI4.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031921068815106052",
+            "3_2031921068827688963",
+            "3_2031921068815110144",
+            "3_2031921068831883266"
+          ]
+        },
+        "author_id": "1577848566818648064",
+        "conversation_id": "2031921077522420144",
+        "created_at": "2026-03-12T02:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T03:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031921077522420144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HH5BMG6v1j",
+              "end": 45,
+              "expanded_url": "https://x.com/Nikifannizi/status/2031921077522420144/photo/1",
+              "media_key": "3_2031921068815106052",
+              "start": 22,
+              "url": "https://t.co/HH5BMG6v1j"
+            },
+            {
+              "display_url": "pic.x.com/HH5BMG6v1j",
+              "end": 45,
+              "expanded_url": "https://x.com/Nikifannizi/status/2031921077522420144/photo/1",
+              "media_key": "3_2031921068827688963",
+              "start": 22,
+              "url": "https://t.co/HH5BMG6v1j"
+            },
+            {
+              "display_url": "pic.x.com/HH5BMG6v1j",
+              "end": 45,
+              "expanded_url": "https://x.com/Nikifannizi/status/2031921077522420144/photo/1",
+              "media_key": "3_2031921068815110144",
+              "start": 22,
+              "url": "https://t.co/HH5BMG6v1j"
+            },
+            {
+              "display_url": "pic.x.com/HH5BMG6v1j",
+              "end": 45,
+              "expanded_url": "https://x.com/Nikifannizi/status/2031921077522420144/photo/1",
+              "media_key": "3_2031921068831883266",
+              "start": 22,
+              "url": "https://t.co/HH5BMG6v1j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031921077522420144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1198,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "brat的作死指南\n被打了别找当子，不负责 https://t.co/HH5BMG6v1j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5434,
+          "following_count": 277,
+          "like_count": 4603,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 2001
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-06T02:30:00.000Z",
+        "description": "一个两性情感博主！！主营内容：坐标交友 || 两性知识 || 群聊交友 || 情感咨询 || 圈圈玩法 || 所有的两性知识vx🚪58分享所有！🚪888成为我的vvvvvip！🚪33擦边交友聊天群。置顶的是我🛰️小号，欢迎来玩！优先口令🧧和🧧这是我的小号：@DangLaoShiA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 128,
+                "username": "DangLaoShiA"
+              }
+            ]
+          }
+        },
+        "id": "1577848566818648064",
+        "location": "你心里",
+        "name": "当老师的两性杂货铺",
+        "pinned_tweet_id": "2016064626602213476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931511892020977664/oanYUNqL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18736,
+          "following_count": 225,
+          "like_count": 512,
+          "listed_count": 32,
+          "media_count": 1595,
+          "tweet_count": 2457
+        },
+        "username": "Nikifannizi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2017993850036560192",
+    "created_at": "2026-02-01T16:10:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T17:10:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017993850036560192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1604154566206926848",
+          "start": 3,
+          "username": "OoRe02086112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017993850036560192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017615435638964530",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OoRe02086112: 我一直觉得那种因为你年纪小不舍得碰你的老男人梗特别好吃😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2017993850036560192",
+        "created_at": "2026-02-01T16:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T17:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017993850036560192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1604154566206926848",
+              "start": 3,
+              "username": "OoRe02086112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017993850036560192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017615435638964530",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OoRe02086112: 我一直觉得那种因为你年纪小不舍得碰你的老男人梗特别好吃😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604154566206926848",
+        "conversation_id": "2017615435638964530",
+        "created_at": "2026-01-31T15:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T16:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017615435638964530"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017615435638964530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 168229,
+          "like_count": 1281,
+          "quote_count": 13,
+          "reply_count": 68,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "我一直觉得那种因为你年纪小不舍得碰你的老男人梗特别好吃😋😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨神秘账号@Rotte2t00丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "Rotte2t00"
+              },
+              {
+                "end": 80,
+                "start": 65,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 95,
+                "start": 87,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2953,
+          "following_count": 185,
+          "like_count": 3037,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1383
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T16:40:47.000Z",
+        "description": "叫我小o就好了☺️｜随便写写✍️不喜欢直接屏蔽，骂我会爽🖕🏻｜偶尔写点抽象奖励自己｜录制前请先授权！发布请@ ｜接定制！！｜看置顶🔝",
+        "id": "1604154566206926848",
+        "name": "OO",
+        "pinned_tweet_id": "1917263464080498744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004584541370134528/SWX7TSmK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99751,
+          "following_count": 270,
+          "like_count": 5537,
+          "listed_count": 134,
+          "media_count": 323,
+          "tweet_count": 2197
+        },
+        "username": "OoRe02086112",
+        "verified": false
+      }
+    ]
+  }
+}

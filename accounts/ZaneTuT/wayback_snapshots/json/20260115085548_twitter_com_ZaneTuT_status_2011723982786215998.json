@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2011723982786215998",
+    "created_at": "2026-01-15T08:55:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T09:55:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2011723982786215998"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xihuanni030/st…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/xihuanni030/status/2011467694214959506",
+          "start": 26,
+          "url": "https://t.co/0nGjKAEBcY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011723982786215998",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011467694214959506",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我未来哥哥必须这样不让我离家出走我跳楼我自挂东南枝 https://t.co/0nGjKAEBcY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2011723982786215998",
+        "created_at": "2026-01-15T08:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T09:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011723982786215998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xihuanni030/st…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/xihuanni030/status/2011467694214959506",
+              "start": 26,
+              "url": "https://t.co/0nGjKAEBcY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011723982786215998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011467694214959506",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我未来哥哥必须这样不让我离家出走我跳楼我自挂东南枝 https://t.co/0nGjKAEBcY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1534187424678498304",
+        "conversation_id": "2011467694214959506",
+        "created_at": "2026-01-14T15:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T16:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011467694214959506"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2011467694214959506",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2984,
+          "like_count": 42,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "扇脸好爽、掐脖子好爽、深喉好爽、玩舌头好爽、按着头操好爽、扇屁股好爽、把头埋进脖颈圈住身子操好爽、好爽好爽、、、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪88/128 纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨回fo眼熟的 可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010591438627897389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 138,
+          "like_count": 1351,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 596
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-07T14:56:14.000Z",
+        "description": "有对象｜记录我以及情侣日常的小号@SS12OW｜关评置顶宝宝们请自行辨别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 16,
+                "username": "SS12OW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=Qtnpi4fi",
+                "start": 0,
+                "url": "https://t.co/yExu57oEnK"
+              }
+            ]
+          }
+        },
+        "id": "1534187424678498304",
+        "location": "自用蜂鸟vpn，海量节点任你选",
+        "name": "糯米侠",
+        "pinned_tweet_id": "2010620549970506012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997734554225070080/oVNXLd5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16134,
+          "following_count": 116,
+          "like_count": 4833,
+          "listed_count": 24,
+          "media_count": 131,
+          "tweet_count": 5394
+        },
+        "url": "https://t.co/yExu57oEnK",
+        "username": "xihuanni030",
+        "verified": false
+      }
+    ]
+  }
+}

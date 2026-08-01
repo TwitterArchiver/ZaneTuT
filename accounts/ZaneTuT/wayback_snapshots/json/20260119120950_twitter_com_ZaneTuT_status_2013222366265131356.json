@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2013191111783895133",
+    "created_at": "2026-01-19T12:09:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T13:09:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013222366265131356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2001292665271558144",
+          "start": 0,
+          "username": "TvT_Yuiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013222366265131356",
+    "in_reply_to_user_id": "2001292665271558144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013221601106383286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TvT_Yuiii 哎呀宝贝…！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2013191111783895133",
+        "created_at": "2026-01-19T12:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T13:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013222366265131356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2001292665271558144",
+              "start": 0,
+              "username": "TvT_Yuiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013222366265131356",
+        "in_reply_to_user_id": "2001292665271558144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013221601106383286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TvT_Yuiii 哎呀宝贝…！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001292665271558144",
+        "conversation_id": "2013191111783895133",
+        "created_at": "2026-01-19T12:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T13:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013221601106383286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013221601106383286",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013191111783895133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 妹就是萌！🥺🥺🥺💕💕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪128 纯绿丨有的文案不是原创别攻击我TuT丨08丨od丨私信看心情回丨高频率发帖我好无聊丨互fo可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2011423750164725893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 141,
+          "like_count": 1958,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 885
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-17T14:05:40.000Z",
+        "description": "小唯小唯，你怎么这么萌哇，唉？！我只是一个单纯的小女孩…( ^ω^ )～不聊不约！",
+        "id": "2001292665271558144",
+        "location": "日本 京都",
+        "name": "花澤唯Yui",
+        "pinned_tweet_id": "2008611731623592401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001292806527365120/X5F-YWmw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 21,
+          "like_count": 248,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 109
+        },
+        "username": "TvT_Yuiii",
+        "verified": false
+      }
+    ]
+  }
+}

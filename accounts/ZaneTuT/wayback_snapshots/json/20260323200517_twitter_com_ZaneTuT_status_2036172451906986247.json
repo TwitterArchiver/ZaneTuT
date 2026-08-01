@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2036133759825657972",
+    "created_at": "2026-03-23T20:05:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T21:05:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036172451906986247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1926589725189476352",
+          "start": 0,
+          "username": "sandyyyy0922"
+        },
+        {
+          "end": 24,
+          "id": "1959253557645021184",
+          "start": 14,
+          "username": "PeuTuT_ki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036172451906986247",
+    "in_reply_to_user_id": "1926589725189476352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036136056622366830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sandyyyy0922 @PeuTuT_ki 卧槽我烦死600了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2036133759825657972",
+        "created_at": "2026-03-23T20:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T21:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036172451906986247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1926589725189476352",
+              "start": 0,
+              "username": "sandyyyy0922"
+            },
+            {
+              "end": 24,
+              "id": "1959253557645021184",
+              "start": 14,
+              "username": "PeuTuT_ki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036172451906986247",
+        "in_reply_to_user_id": "1926589725189476352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036136056622366830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sandyyyy0922 @PeuTuT_ki 卧槽我烦死600了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926589725189476352",
+        "conversation_id": "2036133759825657972",
+        "created_at": "2026-03-23T17:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T18:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036136056622366830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1959253557645021184",
+              "start": 0,
+              "username": "PeuTuT_ki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036136056622366830",
+        "in_reply_to_user_id": "1959253557645021184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036135916809462041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PeuTuT_ki 你别说还真有点像。不过我很早就把600拉黑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5833,
+          "following_count": 301,
+          "like_count": 5198,
+          "listed_count": 3,
+          "media_count": 62,
+          "tweet_count": 2120
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T10:42:55.000Z",
+        "description": "M豆在🇨🇦闭关修炼中… 叫我M豆或者豆就好～Bisexual 有老公/哥哥/宝宝（同一个人）不聊骚不看屌不卖不约不私信露出…发骚男勿扰贱男勿扰皮下男勿扰…其余的小宝宝们请都来找我玩吧✌️👁️👅👁️✌️另一个豆@woxihuandaMdou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 104,
+                "username": "woxihuandaMdou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%BB%84%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%BB%84%E8%89%B2%E5%A4%A7m%E8%B1%86",
+                "start": 0,
+                "url": "https://t.co/AcyHhjdaY4"
+              }
+            ]
+          }
+        },
+        "id": "1926589725189476352",
+        "location": "Ontario, Canada",
+        "name": "黄色大M🫘",
+        "pinned_tweet_id": "2027836784147583410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926595280301875202/aWTzMjuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 300,
+          "like_count": 1783,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 1614
+        },
+        "url": "https://t.co/AcyHhjdaY4",
+        "username": "sandyyyy0922",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-23T13:57:14.000Z",
+        "description": "喜欢一切美好的事物｜我的最爱@cortis_bighit",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "cortis_bighit"
+              }
+            ]
+          }
+        },
+        "id": "1959253557645021184",
+        "location": "喜欢礼貌的人",
+        "name": "装鱿鱼被烤",
+        "pinned_tweet_id": "2034142320778691064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033535579951116288/aCDSqRuF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 29,
+          "like_count": 429,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 437
+        },
+        "username": "PeuTuT_ki",
+        "verified": false
+      }
+    ]
+  }
+}

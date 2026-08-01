@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2020398664003527129",
+    "created_at": "2026-02-08T07:31:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T08:31:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020400106751820015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1914383370790035457",
+          "start": 0,
+          "username": "bagelcrycryTuT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020400106751820015",
+    "in_reply_to_user_id": "1914383370790035457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020399051297136849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bagelcrycryTuT 太久没吃上次吃了一盒直接大了 大半夜昏的起不来还呼吸抑制 偏偏这时候有人敲门说我和我朋友扰民了 我吓的以为是警察结果是小区保安 当时快吓尿了都"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2020398664003527129",
+        "created_at": "2026-02-08T07:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T08:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020400106751820015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1914383370790035457",
+              "start": 0,
+              "username": "bagelcrycryTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020400106751820015",
+        "in_reply_to_user_id": "1914383370790035457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020399051297136849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bagelcrycryTuT 太久没吃上次吃了一盒直接大了 大半夜昏的起不来还呼吸抑制 偏偏这时候有人敲门说我和我朋友扰民了 我吓的以为是警察结果是小区保安 当时快吓尿了都"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914383370790035457",
+        "conversation_id": "2020398664003527129",
+        "created_at": "2026-02-08T07:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T08:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020399051297136849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020399051297136849",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020398664003527129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 自从普瑞列管以后我每次都只敢o一点点😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3450,
+          "following_count": 200,
+          "like_count": 3409,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 1528
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-21T18:19:06.000Z",
+        "description": "我是一条臭掉的鱼",
+        "id": "1914383370790035457",
+        "name": "吵死了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016187542714904576/cJ7sVieR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 7,
+          "like_count": 212,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 216
+        },
+        "username": "bagelcrycryTuT",
+        "verified": false
+      }
+    ]
+  }
+}

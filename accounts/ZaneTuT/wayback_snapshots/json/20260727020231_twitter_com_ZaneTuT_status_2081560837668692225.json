@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2081548791480786987",
+    "created_at": "2026-07-27T02:02:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T03:02:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081560837668692225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1913854882886676480",
+          "start": 0,
+          "username": "YxngBomb_3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081560837668692225",
+    "in_reply_to_user_id": "1913854882886676480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081548791480786987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YxngBomb_3 五分钟看不到你妈死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2081548791480786987",
+        "created_at": "2026-07-27T02:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T03:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081560837668692225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1913854882886676480",
+              "start": 0,
+              "username": "YxngBomb_3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081560837668692225",
+        "in_reply_to_user_id": "1913854882886676480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081548791480786987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YxngBomb_3 五分钟看不到你妈死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913854882886676480",
+        "conversation_id": "2081548791480786987",
+        "created_at": "2026-07-27T01:14:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T02:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081548791480786987"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081548791480786987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的不知道为什么我一点开x这个软件戾气就这么重，主页随时都能蹦出来一个惊天大傻逼，触发我的厌蠢，我一直在幸福者退让。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "互fo免🚪丨💗算卦找@kill_this_hate 不准你打我丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。❗️陌生链接不要点❗️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 57,
+                "start": 47,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2079103710270292225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8269,
+          "following_count": 274,
+          "like_count": 6138,
+          "listed_count": 5,
+          "media_count": 38,
+          "tweet_count": 2664
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T07:19:02.000Z",
+        "description": "那好吧",
+        "id": "1913854882886676480",
+        "location": "Hong Kong",
+        "name": "汉堡包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914202316598849536/qksL5fnG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 15,
+          "like_count": 509,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 213
+        },
+        "url": "",
+        "username": "YxngBomb_3",
+        "verified": false
+      }
+    ]
+  }
+}

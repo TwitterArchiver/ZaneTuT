@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2037874812643926179",
+    "created_at": "2026-03-28T12:54:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T13:54:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037875943977656651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1936091086470193152",
+          "start": 0,
+          "username": "yui1225love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037875943977656651",
+    "in_reply_to_user_id": "1936091086470193152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037874812643926179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yui1225love 我操我天天在家也这样 我都不知道该怎么和别人解释我在家其实不是完美的黑长直。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2037874803651342336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEf8VjhbcAAuZzQ.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2037874812643926179",
+        "created_at": "2026-03-28T12:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T13:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037875943977656651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1936091086470193152",
+              "start": 0,
+              "username": "yui1225love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037875943977656651",
+        "in_reply_to_user_id": "1936091086470193152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037874812643926179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yui1225love 我操我天天在家也这样 我都不知道该怎么和别人解释我在家其实不是完美的黑长直。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037874803651342336"
+          ]
+        },
+        "author_id": "1936091086470193152",
+        "conversation_id": "2037874812643926179",
+        "created_at": "2026-03-28T12:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T13:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037874812643926179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xVYPFdE7R9",
+              "end": 32,
+              "expanded_url": "https://x.com/yui1225love/status/2037874812643926179/photo/1",
+              "media_key": "3_2037874803651342336",
+              "start": 9,
+              "url": "https://t.co/xVYPFdE7R9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037874812643926179",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "全推特最忧郁之人 https://t.co/xVYPFdE7R9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5922,
+          "following_count": 286,
+          "like_count": 5471,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 2287
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-20T15:58:54.000Z",
+        "description": "清水推，泛，抽象乐子人一枚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/yui1225love?ig…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/yui1225love?igsh=MWZmYmttbml4Nm40aA==",
+                "start": 0,
+                "url": "https://t.co/5R7R0p3v6t"
+              }
+            ]
+          }
+        },
+        "id": "1936091086470193152",
+        "location": "🚪52开放朋友圈，88开放私信",
+        "name": "这里没有你要找的好小兔",
+        "pinned_tweet_id": "2037039457703256438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035762959352549376/9CemZR-w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 155,
+          "like_count": 1420,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1423
+        },
+        "url": "https://t.co/5R7R0p3v6t",
+        "username": "yui1225love",
+        "verified": false
+      }
+    ]
+  }
+}

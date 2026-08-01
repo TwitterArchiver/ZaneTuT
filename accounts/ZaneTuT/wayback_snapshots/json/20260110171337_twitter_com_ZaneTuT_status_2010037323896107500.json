@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2010037323896107500",
+    "created_at": "2026-01-10T17:13:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T18:13:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010037323896107500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1980682684985921536",
+          "start": 3,
+          "username": "linovo33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010037323896107500",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010003162284077119",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @linovo33: 我为了被夸漂亮早就疯了，我好想有人猥亵我，这样就能证明我是漂亮的，做爱只为了听那句你好漂亮，发大尺度的也是想被说好漂亮，我真的好想要一句漂亮，我想要的是漂亮，不是可爱，是漂亮，我再也不想被人夸可爱了，我想要漂亮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2010037323896107500",
+        "created_at": "2026-01-10T17:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T18:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010037323896107500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1980682684985921536",
+              "start": 3,
+              "username": "linovo33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010037323896107500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010003162284077119",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @linovo33: 我为了被夸漂亮早就疯了，我好想有人猥亵我，这样就能证明我是漂亮的，做爱只为了听那句你好漂亮，发大尺度的也是想被说好漂亮，我真的好想要一句漂亮，我想要的是漂亮，不是可爱，是漂亮，我再也不想被人夸可爱了，我想要漂亮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980682684985921536",
+        "conversation_id": "2010003162284077119",
+        "created_at": "2026-01-10T14:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T15:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010003162284077119"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010003162284077119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 506,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我为了被夸漂亮早就疯了，我好想有人猥亵我，这样就能证明我是漂亮的，做爱只为了听那句你好漂亮，发大尺度的也是想被说好漂亮，我真的好想要一句漂亮，我想要的是漂亮，不是可爱，是漂亮，我再也不想被人夸可爱了，我想要漂亮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "骂我的人是gay 我是萌脸骚 可以和我一起听歌…",
+        "id": "1997985969958699008",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2009195553230606621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 76,
+          "like_count": 550,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 116
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T17:09:11.000Z",
+        "description": "碎碎念不下海｜08｜od｜家里蹲｜会发黄文和裸照介意屏蔽就好｜我很敏感请不要对我有恶意｜欢迎女孩子互fo",
+        "id": "1980682684985921536",
+        "location": "Amoy",
+        "name": "檩",
+        "pinned_tweet_id": "2010004795894165769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010005579511803909/rdE55MHV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 29,
+          "like_count": 756,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 359
+        },
+        "username": "linovo33",
+        "verified": false
+      }
+    ]
+  }
+}

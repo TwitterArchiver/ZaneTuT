@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2015672159558082765",
+    "created_at": "2026-01-26T08:02:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T09:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015696811839930605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1970810447365586944",
+          "start": 0,
+          "username": "wan_fan962"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015696811839930605",
+    "in_reply_to_user_id": "1970810447365586944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015672159558082765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wan_fan962 好那个！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2015672156479516672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_kbJZabcAAmJPQ.jpg",
+        "width": 1348
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2015672159558082765",
+        "created_at": "2026-01-26T08:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T09:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015696811839930605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1970810447365586944",
+              "start": 0,
+              "username": "wan_fan962"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015696811839930605",
+        "in_reply_to_user_id": "1970810447365586944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015672159558082765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wan_fan962 好那个！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015672156479516672"
+          ]
+        },
+        "author_id": "1970810447365586944",
+        "conversation_id": "2015672159558082765",
+        "created_at": "2026-01-26T06:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T07:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015672159558082765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8MN1JvjgIJ",
+              "end": 30,
+              "expanded_url": "https://x.com/wan_fan962/status/2015672159558082765/photo/1",
+              "media_key": "3_2015672156479516672",
+              "start": 7,
+              "url": "https://t.co/8MN1JvjgIJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015672159558082765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2399,
+          "like_count": 164,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "谁想找我举牌 https://t.co/8MN1JvjgIJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心丨08丨od丨私信看心情回丨高频率发帖丨互fo可以直接➕V丨我听点udg sasi很多很多丨我皮下非常没有素质别惹我了行吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2569,
+          "following_count": 162,
+          "like_count": 2695,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 1263
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T11:20:15.000Z",
+        "description": "我是小学生，家长不让我在十一点以后玩手机，所以十一点以后我就不回消息了，但是可爱的人可以发，我会和家长求情的",
+        "id": "1970810447365586944",
+        "location": "有🚪||推广自辩||多喜乐 长安宁o(*^_^*",
+        "name": "火鸡面大王11",
+        "pinned_tweet_id": "2006625156345770188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011670598376964098/No6QDoX8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15349,
+          "following_count": 48,
+          "like_count": 1408,
+          "listed_count": 33,
+          "media_count": 64,
+          "tweet_count": 999
+        },
+        "username": "wan_fan962",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2027426551479091200"
+      ],
+      "media_source_tweet_id": [
+        "2027426605816250368"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2027434652420731129",
+    "created_at": "2026-02-27T17:24:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T18:24:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027434652420731129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "797439291752378368",
+          "start": 3,
+          "username": "lover_ning"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5k6TpDjKjY",
+          "end": 52,
+          "expanded_url": "https://x.com/lover_ning/status/2027426605816250368/video/1",
+          "media_key": "13_2027426551479091200",
+          "start": 29,
+          "url": "https://t.co/5k6TpDjKjY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027434652420731129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027426605816250368",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lover_ning: 找不到事干了..笑死我了 https://t.co/5k6TpDjKjY"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2027434652420731129].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2027434652420731129",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2027434652420731129"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34300,
+        "height": 640,
+        "media_key": "13_2027426551479091200",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027426551479091200/img/Ng3dFO377_jtRc16.jpg",
+        "public_metrics": {
+          "view_count": 1824
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027426551479091200/vid/avc1/320x640/bggCnZNSgZYAGR2V.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027426551479091200/pl/84o3X4ZKo8vUI9H_.m3u8"
+          }
+        ],
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027426551479091200"
+          ]
+        },
+        "author_id": "797439291752378368",
+        "conversation_id": "2027426605816250368",
+        "created_at": "2026-02-27T16:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T17:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027426605816250368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5k6TpDjKjY",
+              "end": 36,
+              "expanded_url": "https://x.com/lover_ning/status/2027426605816250368/video/1",
+              "media_key": "13_2027426551479091200",
+              "start": 13,
+              "url": "https://t.co/5k6TpDjKjY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027426605816250368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 4398,
+          "like_count": 95,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "找不到事干了..笑死我了 https://t.co/5k6TpDjKjY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5086,
+          "following_count": 234,
+          "like_count": 4020,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 1849
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-12T14:01:57.000Z",
+        "description": "本号偏猎奇向，谨慎关注 / 头像是本人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "onion03.vip/?channelid=145…",
+                "end": 23,
+                "expanded_url": "https://onion03.vip?channelid=14532&tid=562324&type=7&system=1",
+                "start": 0,
+                "url": "https://t.co/V6J2FWCXht"
+              }
+            ]
+          }
+        },
+        "id": "797439291752378368",
+        "location": "自用VPN👉🏼",
+        "name": "SUZU",
+        "pinned_tweet_id": "1970317413502853194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746648879364501505/tSGXif8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273220,
+          "following_count": 104,
+          "like_count": 32852,
+          "listed_count": 472,
+          "media_count": 3459,
+          "tweet_count": 28475
+        },
+        "url": "https://t.co/V6J2FWCXht",
+        "username": "lover_ning",
+        "verified": false
+      }
+    ]
+  }
+}

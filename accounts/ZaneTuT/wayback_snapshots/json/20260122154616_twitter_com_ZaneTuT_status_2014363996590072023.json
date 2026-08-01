@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2014354997165830503",
+    "created_at": "2026-01-22T15:46:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T16:46:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014363996590072023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2006363735238299648",
+          "start": 0,
+          "username": "hua_lang32626"
+        },
+        {
+          "end": 30,
+          "id": "1832308955852500995",
+          "start": 15,
+          "username": "ming_akira0423"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014363996590072023",
+    "in_reply_to_user_id": "2006363735238299648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014357721068552251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hua_lang32626 @ming_akira0423 那你不给你死妈行不行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2014354997165830503",
+        "created_at": "2026-01-22T15:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T16:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014363996590072023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2006363735238299648",
+              "start": 0,
+              "username": "hua_lang32626"
+            },
+            {
+              "end": 30,
+              "id": "1832308955852500995",
+              "start": 15,
+              "username": "ming_akira0423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014363996590072023",
+        "in_reply_to_user_id": "2006363735238299648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014357721068552251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hua_lang32626 @ming_akira0423 那你不给你死妈行不行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006363735238299648",
+        "conversation_id": "2014354997165830503",
+        "created_at": "2026-01-22T15:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T16:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014357721068552251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1832308955852500995",
+              "start": 0,
+              "username": "ming_akira0423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014357721068552251",
+        "in_reply_to_user_id": "1832308955852500995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014354997165830503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ming_akira0423 我给你500块钱，你能跟我磕头认错吗？你必须录视频承认我比你帅，还要承认我研究女生研究的非常明白"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心丨08丨od丨私信看心情回丨高频率发帖丨互fo可以直接➕V丨我听点udg sasi很多很多丨我皮下非常没有素质别惹我了行吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2242,
+          "following_count": 161,
+          "like_count": 2460,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 1155
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-31T13:56:28.000Z",
+        "description": "🚪170,000,000,000$，我是坚定不移的男权头子，来推上就是来骂人的，我的风流情债由我妈买单，专注于后端平台的搭建，JavaScript后端工程师",
+        "id": "2006363735238299648",
+        "name": "华浪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006703896149024768/X8kCeulF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 149,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 232
+        },
+        "username": "hua_lang32626",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-07T06:44:41.000Z",
+        "description": "北京 男 之后可能很少出cos了…如果想入我门直接私信我就好了 想和我聊天也可以私信和我聊 私信都会回的 我话真的特别多 谢谢你们！ 这个是我的提问箱https://t.co/WWRcHh4ytv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akira19923",
+                "end": 98,
+                "expanded_url": "https://ngl.link/akira19923",
+                "start": 75,
+                "url": "https://t.co/WWRcHh4ytv"
+              }
+            ]
+          }
+        },
+        "id": "1832308955852500995",
+        "name": "明",
+        "pinned_tweet_id": "2006753409937060028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009957760268648448/PFnjP22P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 140,
+          "like_count": 1487,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 919
+        },
+        "username": "ming_akira0423",
+        "verified": false
+      }
+    ]
+  }
+}

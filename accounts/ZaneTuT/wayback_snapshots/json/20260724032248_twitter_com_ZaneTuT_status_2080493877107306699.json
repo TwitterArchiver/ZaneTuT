@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2080445758550282510",
+    "created_at": "2026-07-24T03:22:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T04:22:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080493877107306699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1997141885589377026",
+          "start": 0,
+          "username": "syokora755476"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080493877107306699",
+    "in_reply_to_user_id": "1997141885589377026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080474773000507801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@syokora755476 尼玛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2080445758550282510",
+        "created_at": "2026-07-24T03:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T04:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080493877107306699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1997141885589377026",
+              "start": 0,
+              "username": "syokora755476"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080493877107306699",
+        "in_reply_to_user_id": "1997141885589377026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080474773000507801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@syokora755476 尼玛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997141885589377026",
+        "conversation_id": "2080445758550282510",
+        "created_at": "2026-07-24T02:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T03:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080474773000507801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080474773000507801",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080445758550282510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 掉后室里了😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "互fo免🚪丨💗算卦找@kill_this_hate 不准你打我丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。❗️陌生链接不要点❗️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 57,
+                "start": 47,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2079103710270292225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8172,
+          "following_count": 272,
+          "like_count": 6120,
+          "listed_count": 5,
+          "media_count": 39,
+          "tweet_count": 2647
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-06T03:12:08.000Z",
+        "description": "| 低精力老鼠人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus11903",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus11903",
+                "start": 0,
+                "url": "https://t.co/JVxlntnviM"
+              }
+            ]
+          }
+        },
+        "id": "1997141885589377026",
+        "location": "0.1km",
+        "name": "呆耄",
+        "pinned_tweet_id": "2055874123075834189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076736784554409985/v8ybNFUb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 180,
+          "like_count": 2087,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 952
+        },
+        "url": "https://t.co/JVxlntnviM",
+        "username": "syokora755476",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2046854984537661836",
+    "created_at": "2026-04-22T07:35:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T08:35:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046855515310060010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1898499345374171136",
+          "start": 0,
+          "username": "Christi_eeee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046855515310060010",
+    "in_reply_to_user_id": "1898499345374171136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046855450998824983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Christi_eeee 妈的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2046855450998824983].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2046855450998824983",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2046855450998824983"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2046854984537661836",
+        "created_at": "2026-04-22T07:35:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T08:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046855515310060010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1898499345374171136",
+              "start": 0,
+              "username": "Christi_eeee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046855515310060010",
+        "in_reply_to_user_id": "1898499345374171136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046855450998824983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Christi_eeee 妈的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨互fo免🚪丨我听点udg sasi很多很多丨算挂找@kill_this_hate💗不准你打我丨两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 31,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 67,
+                "start": 59,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6663,
+          "following_count": 295,
+          "like_count": 6349,
+          "listed_count": 3,
+          "media_count": 63,
+          "tweet_count": 2586
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T22:21:40.000Z",
+        "description": "别管那么多",
+        "id": "1898499345374171136",
+        "name": "芋泥泪先流",
+        "pinned_tweet_id": "2030188148807098538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966345475021496320/YBb3ZgCK_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 75,
+          "like_count": 1239,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 922
+        },
+        "username": "Christi_eeee",
+        "verified": false
+      }
+    ]
+  }
+}

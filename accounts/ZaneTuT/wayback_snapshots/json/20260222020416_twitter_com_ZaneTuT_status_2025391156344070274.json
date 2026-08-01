@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2025391156344070274",
+    "created_at": "2026-02-22T02:04:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T03:04:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025391156344070274"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wodanggangqian…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/wodanggangqiang/status/2024851567195955490",
+          "start": 5,
+          "url": "https://t.co/vEt0YE7pWS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025391156344070274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024851567195955490",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我好难受 https://t.co/vEt0YE7pWS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 994,
+        "media_key": "3_2024851398123466752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBm3nlQaMAAVCqw.jpg",
+        "width": 710
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2025391156344070274",
+        "created_at": "2026-02-22T02:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T03:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025391156344070274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wodanggangqian…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/wodanggangqiang/status/2024851567195955490",
+              "start": 5,
+              "url": "https://t.co/vEt0YE7pWS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025391156344070274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024851567195955490",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我好难受 https://t.co/vEt0YE7pWS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024851398123466752"
+          ]
+        },
+        "author_id": "1575765089030139905",
+        "conversation_id": "2024851567195955490",
+        "created_at": "2026-02-20T14:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T15:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024851567195955490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X5gUBX0HnO",
+              "end": 36,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2024851567195955490/photo/1",
+              "media_key": "3_2024851398123466752",
+              "start": 13,
+              "url": "https://t.co/X5gUBX0HnO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024851567195955490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 343809,
+          "like_count": 2165,
+          "quote_count": 8,
+          "reply_count": 89,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "Y染色体里面到底有什么？ https://t.co/X5gUBX0HnO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4572,
+          "following_count": 220,
+          "like_count": 3804,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 1729
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T08:31:04.000Z",
+        "description": "独立而自由的灵魂，才是幸福之源。做自己，比任何事情都重要。",
+        "id": "1575765089030139905",
+        "location": "Japan",
+        "name": "我当刚强壮胆",
+        "pinned_tweet_id": "1824841439647515059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961052065981194240/mj8Sddub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27147,
+          "following_count": 555,
+          "like_count": 32748,
+          "listed_count": 90,
+          "media_count": 9479,
+          "tweet_count": 25747
+        },
+        "username": "wodanggangqiang",
+        "verified": true
+      }
+    ]
+  }
+}

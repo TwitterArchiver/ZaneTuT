@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009898632242401280"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2009898640597537057",
+    "created_at": "2026-01-10T08:02:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T09:02:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009898640597537057"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VGuNQXuzu5",
+          "end": 53,
+          "expanded_url": "https://x.com/ZaneTuT/status/2009898640597537057/photo/1",
+          "media_key": "3_2009898632242401280",
+          "start": 30,
+          "url": "https://t.co/VGuNQXuzu5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009898640597537057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好生气呀 画质修复之后脸变得怪怪的 不过谁喜欢我？^o^ https://t.co/VGuNQXuzu5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009898632242401280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-SYKDlaEAAhpxG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009898632242401280"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2009898640597537057",
+        "created_at": "2026-01-10T08:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T09:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009898640597537057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VGuNQXuzu5",
+              "end": 53,
+              "expanded_url": "https://x.com/ZaneTuT/status/2009898640597537057/photo/1",
+              "media_key": "3_2009898632242401280",
+              "start": 30,
+              "url": "https://t.co/VGuNQXuzu5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009898640597537057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好生气呀 画质修复之后脸变得怪怪的 不过谁喜欢我？^o^ https://t.co/VGuNQXuzu5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "🚪128/188 骂我的人是gay 我是萌脸骚",
+        "id": "1997985969958699008",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2009195553230606621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 64,
+          "like_count": 508,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 82
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

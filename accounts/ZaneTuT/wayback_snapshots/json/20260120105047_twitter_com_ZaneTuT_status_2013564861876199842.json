@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2013535705696461245",
+    "created_at": "2026-01-20T10:50:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T11:50:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013564861876199842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1574694513968238592",
+          "start": 0,
+          "username": "chnnsh7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013564861876199842",
+    "in_reply_to_user_id": "1574694513968238592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013563041485595078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chnnsh7 他删掉了宝宝 谢谢你🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2013535705696461245",
+        "created_at": "2026-01-20T10:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T11:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013564861876199842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1574694513968238592",
+              "start": 0,
+              "username": "chnnsh7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013564861876199842",
+        "in_reply_to_user_id": "1574694513968238592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013563041485595078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chnnsh7 他删掉了宝宝 谢谢你🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1574694513968238592",
+        "conversation_id": "2013535705696461245",
+        "created_at": "2026-01-20T10:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T11:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013563041485595078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013563041485595078",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013535705696461245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 找得到是哪个抖音吗？我去帮你评论一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪128 纯绿丨有的文案不是原创别攻击我TuT丨08丨od丨私信看心情回丨高频率发帖我好无聊丨互fo可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "一说话就扯溃疡",
+        "pinned_tweet_id": "2013559742573224427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1580,
+          "following_count": 146,
+          "like_count": 2081,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 946
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-27T09:37:53.000Z",
+        "description": "风都有形状 爱为什么无声呢",
+        "id": "1574694513968238592",
+        "name": "婺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1599279304432443392/2TDF3lQn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 74,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 64
+        },
+        "username": "chnnsh7",
+        "verified": false
+      }
+    ]
+  }
+}

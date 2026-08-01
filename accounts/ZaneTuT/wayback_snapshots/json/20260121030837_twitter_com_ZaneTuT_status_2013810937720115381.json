@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2013810937720115381",
+    "created_at": "2026-01-21T03:08:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T04:08:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013810937720115381"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hhzqwq/status/…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/hhzqwq/status/2013589516985213152",
+          "start": 23,
+          "url": "https://t.co/bHzAbSfIpB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013810937720115381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013589516985213152",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "什么意思不要惹我了我一直哭 好男人都去哪了。 https://t.co/bHzAbSfIpB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2013810937720115381",
+        "created_at": "2026-01-21T03:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T04:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013810937720115381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hhzqwq/status/…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/hhzqwq/status/2013589516985213152",
+              "start": 23,
+              "url": "https://t.co/bHzAbSfIpB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013810937720115381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013589516985213152",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么意思不要惹我了我一直哭 好男人都去哪了。 https://t.co/bHzAbSfIpB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "952486783920627714",
+        "conversation_id": "2013589516985213152",
+        "created_at": "2026-01-20T12:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T13:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013589516985213152"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013589516985213152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 629,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一点都不得劲知道吗 在一起没干过正常情侣一起做的事 见面次数两只手数得过来\n除了操逼就是想办法要光我的钱 没有拍过一张合照 我不敢拍 唯一两张照片还是他躺在我腿上睡觉偷拍的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪128 纯绿丨有的文案不是原创别攻击我TuT丨08丨od丨私信看心情回丨高频率发帖我好无聊丨互fo可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "一说话就扯溃疡",
+        "pinned_tweet_id": "2013559742573224427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1827,
+          "following_count": 145,
+          "like_count": 2188,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 985
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-14T10:25:20.000Z",
+        "description": "",
+        "id": "952486783920627714",
+        "location": "🚪88无上限",
+        "name": "偶尔乖",
+        "pinned_tweet_id": "2013182779903877228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013670942925357056/NxWuMPop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 7,
+          "like_count": 1143,
+          "listed_count": 3,
+          "media_count": 27,
+          "tweet_count": 188
+        },
+        "username": "HHZqwq",
+        "verified": false
+      }
+    ]
+  }
+}

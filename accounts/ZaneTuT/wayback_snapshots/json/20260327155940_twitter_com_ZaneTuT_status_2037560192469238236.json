@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2037560192469238236",
+    "created_at": "2026-03-27T15:59:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T16:59:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037560192469238236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1983486301346381824",
+          "start": 3,
+          "username": "Listensean"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037560192469238236",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037448353563148526",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Listensean: 年上转账我就收 年下色诱我就从"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2037560192469238236",
+        "created_at": "2026-03-27T15:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T16:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037560192469238236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983486301346381824",
+              "start": 3,
+              "username": "Listensean"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037560192469238236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037448353563148526",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Listensean: 年上转账我就收 年下色诱我就从"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983486301346381824",
+        "conversation_id": "2037448353563148526",
+        "created_at": "2026-03-27T08:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T09:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037448353563148526"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037448353563148526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5350,
+          "like_count": 120,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "年上转账我就收 年下色诱我就从"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5904,
+          "following_count": 284,
+          "like_count": 5445,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 2254
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-29T10:49:28.000Z",
+        "description": "其实是很纯爱的小女生 只是没有钱爱不起来",
+        "id": "1983486301346381824",
+        "location": "距离你1㎞",
+        "name": "Zero",
+        "pinned_tweet_id": "2037526703413555699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000267071532290054/PCBt3-UA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 21,
+          "like_count": 137,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 713
+        },
+        "username": "Listensean",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081185006538588160"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2081185011773120974",
+    "created_at": "2026-07-26T01:09:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T02:09:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081185011773120974"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7IBKbGZqzJ",
+          "end": 38,
+          "expanded_url": "https://x.com/ZaneTuT/status/2081185011773120974/photo/1",
+          "media_key": "3_2081185006538588160",
+          "start": 15,
+          "url": "https://t.co/7IBKbGZqzJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081185011773120974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "雾草我睡醒了呃啊啊啊啊爱你… https://t.co/7IBKbGZqzJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2081185006538588160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOHavKKaAAAzxT_.jpg",
+        "width": 842
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081185006538588160"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2081185011773120974",
+        "created_at": "2026-07-26T01:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T02:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081185011773120974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7IBKbGZqzJ",
+              "end": 38,
+              "expanded_url": "https://x.com/ZaneTuT/status/2081185011773120974/photo/1",
+              "media_key": "3_2081185006538588160",
+              "start": 15,
+              "url": "https://t.co/7IBKbGZqzJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081185011773120974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雾草我睡醒了呃啊啊啊啊爱你… https://t.co/7IBKbGZqzJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "互fo免🚪丨💗算卦找@kill_this_hate 不准你打我丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。❗️陌生链接不要点❗️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 57,
+                "start": 47,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2079103710270292225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8209,
+          "following_count": 274,
+          "like_count": 6135,
+          "listed_count": 5,
+          "media_count": 40,
+          "tweet_count": 2657
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": true
+      }
+    ]
+  }
+}

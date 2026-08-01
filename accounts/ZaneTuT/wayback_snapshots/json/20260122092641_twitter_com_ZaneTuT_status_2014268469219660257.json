@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2014268469219660257",
+    "created_at": "2026-01-22T09:26:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T10:26:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014268469219660257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1845304648313323522",
+          "start": 3,
+          "username": "55juzi55_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014268469219660257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013069149870637529",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @55juzi55_: 我决定以后就主要更碎碎念了，偶尔看看🐔发发好看的照片（会不定时删），然后🚪纯属为了⭕钱，就只能加个微信平时聊聊天能看朋友圈什么的，要是有打游戏的可以一起打打游戏，你们想要的色图和语视什么的全都随缘，看心情来吧🌚昨天好几个来我这说“入🚪”然后试图要照…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2014268469219660257].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2014268469219660257",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2014268469219660257"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1382,
+        "media_key": "3_2013069147278614528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-_buUfXIAAbocp.jpg",
+        "width": 1382
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013069147278614528"
+          ]
+        },
+        "author_id": "1845304648313323522",
+        "conversation_id": "2013069149870637529",
+        "created_at": "2026-01-19T02:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T03:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013069149870637529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v2Tic2FTTp",
+              "end": 164,
+              "expanded_url": "https://x.com/55juzi55_/status/2013069149870637529/photo/1",
+              "media_key": "3_2013069147278614528",
+              "start": 141,
+              "url": "https://t.co/v2Tic2FTTp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013069149870637529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3246,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我决定以后就主要更碎碎念了，偶尔看看🐔发发好看的照片（会不定时删），然后🚪纯属为了⭕钱，就只能加个微信平时聊聊天能看朋友圈什么的，要是有打游戏的可以一起打打游戏，你们想要的色图和语视什么的全都随缘，看心情来吧🌚昨天好几个来我这说“入🚪”然后试图要照片聊骚什么的，真有点烦了，就这样 https://t.co/v2Tic2FTTp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心丨08丨od丨私信看心情回丨高频率发帖丨互fo可以直接➕V丨我听点udg sasi很多很多丨我皮下非常没有素质别惹我了行吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2190,
+          "following_count": 159,
+          "like_count": 2408,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 1130
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T03:25:04.000Z",
+        "description": "只回粉丝丨欢迎找我聊天丨当朋友圈发丨非著名鉴🐔家丨🚪可加联系方式丨常驻010丨欢迎美女宝宝互关丨接陪玩丨喜欢帅哥美女丨礼貌一点互相尊重谢谢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aqa.link/xxin22139",
+                "end": 23,
+                "expanded_url": "https://aqa.link/xxin22139",
+                "start": 0,
+                "url": "https://t.co/puLJY6VgnI"
+              }
+            ]
+          }
+        },
+        "id": "1845304648313323522",
+        "location": "🚪188/520没什么实际区别 无任何抵扣",
+        "name": "欣欣",
+        "pinned_tweet_id": "2013069149870637529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924989316138467328/bwN8esp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 50,
+          "like_count": 861,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 752
+        },
+        "url": "https://t.co/puLJY6VgnI",
+        "username": "55juzi55_",
+        "verified": false
+      }
+    ]
+  }
+}

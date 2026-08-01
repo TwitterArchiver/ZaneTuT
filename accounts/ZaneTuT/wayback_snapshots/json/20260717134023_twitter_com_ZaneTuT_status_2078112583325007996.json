@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2078056900395241836",
+    "created_at": "2026-07-17T13:40:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T14:40:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078112583325007996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1913854882886676480",
+          "start": 0,
+          "username": "YxngBomb_3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078112583325007996",
+    "in_reply_to_user_id": "1913854882886676480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078056900395241836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YxngBomb_3 你妈死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 871,
+        "media_key": "3_2078056889947213825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNa9uzxbUAED5Bt.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2078056900395241836",
+        "created_at": "2026-07-17T13:40:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078112583325007996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1913854882886676480",
+              "start": 0,
+              "username": "YxngBomb_3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078112583325007996",
+        "in_reply_to_user_id": "1913854882886676480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078056900395241836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YxngBomb_3 你妈死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078056889947213825"
+          ]
+        },
+        "author_id": "1913854882886676480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078056900395241836",
+        "created_at": "2026-07-17T09:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T10:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078056900395241836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997985969958699008",
+              "start": 4,
+              "username": "ZaneTuT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DliRVbn1nh",
+              "end": 36,
+              "expanded_url": "https://x.com/YxngBomb_3/status/2078056900395241836/photo/1",
+              "media_key": "3_2078056889947213825",
+              "start": 13,
+              "url": "https://t.co/DliRVbn1nh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078056900395241836",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你咋了？@ZaneTuT https://t.co/DliRVbn1nh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨互fo免🚪丨💗算卦找@kill_this_hate 不准你打我丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 52,
+                "start": 44,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2075472000680911094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8061,
+          "following_count": 274,
+          "like_count": 6149,
+          "listed_count": 4,
+          "media_count": 37,
+          "tweet_count": 2634
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-20T07:19:02.000Z",
+        "description": "那好吧",
+        "id": "1913854882886676480",
+        "location": "Hong Kong",
+        "name": "汉堡包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914202316598849536/qksL5fnG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 22,
+          "like_count": 439,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 180
+        },
+        "url": "",
+        "username": "YxngBomb_3",
+        "verified": false
+      }
+    ]
+  }
+}

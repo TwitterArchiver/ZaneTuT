@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004399618268831744",
+        "3_2004399618251993088",
+        "3_2004399618486906880",
+        "3_2004399618256236544"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2004399634958241856",
+    "created_at": "2025-12-26T03:51:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T04:51:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004399634958241856"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/71Vs9sowtw",
+          "end": 38,
+          "expanded_url": "https://x.com/ZaneTuT/status/2004399634958241856/photo/1",
+          "media_key": "3_2004399618268831744",
+          "start": 15,
+          "url": "https://t.co/71Vs9sowtw"
+        },
+        {
+          "display_url": "pic.x.com/71Vs9sowtw",
+          "end": 38,
+          "expanded_url": "https://x.com/ZaneTuT/status/2004399634958241856/photo/1",
+          "media_key": "3_2004399618251993088",
+          "start": 15,
+          "url": "https://t.co/71Vs9sowtw"
+        },
+        {
+          "display_url": "pic.x.com/71Vs9sowtw",
+          "end": 38,
+          "expanded_url": "https://x.com/ZaneTuT/status/2004399634958241856/photo/1",
+          "media_key": "3_2004399618486906880",
+          "start": 15,
+          "url": "https://t.co/71Vs9sowtw"
+        },
+        {
+          "display_url": "pic.x.com/71Vs9sowtw",
+          "end": 38,
+          "expanded_url": "https://x.com/ZaneTuT/status/2004399634958241856/photo/1",
+          "media_key": "3_2004399618256236544",
+          "start": 15,
+          "url": "https://t.co/71Vs9sowtw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004399634958241856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我素颜上学和出门在外就这样。 https://t.co/71Vs9sowtw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2004399618268831744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9EO1ULXoAA-3gB.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1535,
+        "media_key": "3_2004399618251993088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9EO1UHWsAA2YTy.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1507,
+        "media_key": "3_2004399618486906880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9EO1U_XMAAx7MV.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2004399618256236544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9EO1UIXcAAqQa7.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004399618268831744",
+            "3_2004399618251993088",
+            "3_2004399618486906880",
+            "3_2004399618256236544"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2004399634958241856",
+        "created_at": "2025-12-26T03:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T04:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004399634958241856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/71Vs9sowtw",
+              "end": 38,
+              "expanded_url": "https://x.com/ZaneTuT/status/2004399634958241856/photo/1",
+              "media_key": "3_2004399618268831744",
+              "start": 15,
+              "url": "https://t.co/71Vs9sowtw"
+            },
+            {
+              "display_url": "pic.x.com/71Vs9sowtw",
+              "end": 38,
+              "expanded_url": "https://x.com/ZaneTuT/status/2004399634958241856/photo/1",
+              "media_key": "3_2004399618251993088",
+              "start": 15,
+              "url": "https://t.co/71Vs9sowtw"
+            },
+            {
+              "display_url": "pic.x.com/71Vs9sowtw",
+              "end": 38,
+              "expanded_url": "https://x.com/ZaneTuT/status/2004399634958241856/photo/1",
+              "media_key": "3_2004399618486906880",
+              "start": 15,
+              "url": "https://t.co/71Vs9sowtw"
+            },
+            {
+              "display_url": "pic.x.com/71Vs9sowtw",
+              "end": 38,
+              "expanded_url": "https://x.com/ZaneTuT/status/2004399634958241856/photo/1",
+              "media_key": "3_2004399618256236544",
+              "start": 15,
+              "url": "https://t.co/71Vs9sowtw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004399634958241856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我素颜上学和出门在外就这样。 https://t.co/71Vs9sowtw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "",
+        "id": "1997985969958699008",
+        "name": "骨骨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 20,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 12
+        },
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

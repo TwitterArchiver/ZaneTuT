@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2010591438627897389",
+    "created_at": "2026-01-13T15:08:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T16:08:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011092983001825502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2904148098",
+          "start": 0,
+          "username": "ffffff__00"
+        },
+        {
+          "end": 24,
+          "id": "1241396481757564928",
+          "start": 12,
+          "username": "catboy_qian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011092983001825502",
+    "in_reply_to_user_id": "2904148098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011092711248662533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ffffff__00 @catboy_qian 我笑的难受这什么鬼啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2010591438627897389",
+        "created_at": "2026-01-13T15:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T16:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011092983001825502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2904148098",
+              "start": 0,
+              "username": "ffffff__00"
+            },
+            {
+              "end": 24,
+              "id": "1241396481757564928",
+              "start": 12,
+              "username": "catboy_qian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011092983001825502",
+        "in_reply_to_user_id": "2904148098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011092711248662533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ffffff__00 @catboy_qian 我笑的难受这什么鬼啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2904148098",
+        "conversation_id": "2010591438627897389",
+        "created_at": "2026-01-13T15:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T16:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011092711248662533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1241396481757564928",
+              "start": 0,
+              "username": "catboy_qian"
+            },
+            {
+              "end": 21,
+              "id": "1997985969958699008",
+              "start": 13,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011092711248662533",
+        "in_reply_to_user_id": "1241396481757564928",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011084430853669352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catboy_qian @ZaneTuT ？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪66纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010591438627897389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 105,
+          "like_count": 1004,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 398
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-19T05:38:55.000Z",
+        "description": "家長黨/天殘黨\n24/5/29持證🍥\n我的推特只有小動物",
+        "id": "2904148098",
+        "name": "盒子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780528104559243264/IMrMSo85_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 71,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 672
+        },
+        "username": "ffffff__00",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-21T16:09:27.000Z",
+        "description": "沒把的男娘🏳️‍⚧️🌈 he/his｜dom/s top｜負面@do_not_cry_OAO｜幹話多｜不定時開台聊廢話｜#BDSM #ABDL",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 60,
+                "tag": "BDSM"
+              },
+              {
+                "end": 71,
+                "start": 66,
+                "tag": "ABDL"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 46,
+                "start": 31,
+                "username": "do_not_cry_OAO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shireyishunjian.com/main/home.php?…",
+                "end": 23,
+                "expanded_url": "https://www.shireyishunjian.com/main/home.php?mod=space&uid=378990",
+                "start": 0,
+                "url": "https://t.co/LYvbco9WDL"
+              }
+            ]
+          }
+        },
+        "id": "1241396481757564928",
+        "location": "Antarctica",
+        "name": "茜",
+        "pinned_tweet_id": "2009971785052340713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934668307208282112/sGfxciDR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1607,
+          "following_count": 46,
+          "like_count": 63038,
+          "listed_count": 10,
+          "media_count": 1484,
+          "tweet_count": 17762
+        },
+        "url": "https://t.co/LYvbco9WDL",
+        "username": "catboy_qian",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2014168651897668010",
+    "created_at": "2026-01-22T02:58:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T03:58:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014170890771001801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1822593988026892288",
+          "start": 0,
+          "username": "AlsuB0719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014170890771001801",
+    "in_reply_to_user_id": "1822593988026892288",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014170381918367915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlsuB0719 🥲🥲🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2014168651897668010",
+        "created_at": "2026-01-22T02:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T03:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014170890771001801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1822593988026892288",
+              "start": 0,
+              "username": "AlsuB0719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014170890771001801",
+        "in_reply_to_user_id": "1822593988026892288",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014170381918367915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlsuB0719 🥲🥲🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822593988026892288",
+        "conversation_id": "2014168651897668010",
+        "created_at": "2026-01-22T02:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T03:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014170381918367915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014170381918367915",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014169407095001383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 这人才傻逼呢，随意攻击别人喜好的人才是傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心 骂我的我会直接转贴丨08丨od丨私信看心情回丨高频率发帖丨互fo可以直接➕V丨我听点udg sasi很多很多…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2013559742573224427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2116,
+          "following_count": 153,
+          "like_count": 2358,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1099
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-11T11:20:54.000Z",
+        "description": "🐶你好我是狗🐶/\n🐱写一些合自己变态XP的小段子😾/\n🐭和主人的日常🐕/\n🎦还有小片推荐👍🏻",
+        "id": "1822593988026892288",
+        "name": "alsu🐕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971862106816552960/UfNcQ8Sw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 99,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 71
+        },
+        "username": "AlsuB0719",
+        "verified": false
+      }
+    ]
+  }
+}

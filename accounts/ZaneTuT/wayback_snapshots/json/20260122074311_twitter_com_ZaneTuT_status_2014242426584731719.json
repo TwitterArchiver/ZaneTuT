@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2014229005231415632",
+    "created_at": "2026-01-22T07:43:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T08:43:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014242426584731719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1782990236836089856",
+          "start": 0,
+          "username": "lilllllli1i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014242426584731719",
+    "in_reply_to_user_id": "1782990236836089856",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014229005231415632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lilllllli1i ？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2014229005231415632",
+        "created_at": "2026-01-22T07:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T08:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014242426584731719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1782990236836089856",
+              "start": 0,
+              "username": "lilllllli1i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014242426584731719",
+        "in_reply_to_user_id": "1782990236836089856",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014229005231415632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lilllllli1i ？！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782990236836089856",
+        "conversation_id": "2014229005231415632",
+        "created_at": "2026-01-22T06:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T07:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014229005231415632"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014229005231415632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "少发了四千块工资我真的要哭给所有人看🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心丨08丨od丨私信看心情回丨高频率发帖丨互fo可以直接➕V丨我听点udg sasi很多很多丨我皮下非常没有素质别惹我了行吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014210788588990765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2172,
+          "following_count": 158,
+          "like_count": 2397,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 1113
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T04:29:44.000Z",
+        "description": "不及时回复消息｜讨厌自我意识过剩的人",
+        "id": "1782990236836089856",
+        "name": "雨季不再来",
+        "pinned_tweet_id": "1911308461285216583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011014924986957825/0Gcw3g_D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3901,
+          "following_count": 465,
+          "like_count": 9305,
+          "listed_count": 24,
+          "media_count": 272,
+          "tweet_count": 3219
+        },
+        "username": "lilllllli1i",
+        "verified": false
+      }
+    ]
+  }
+}

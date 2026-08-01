@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2019126891601682591",
+    "created_at": "2026-02-04T19:12:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T20:12:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019126891601682591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1772653166850662400",
+          "start": 3,
+          "username": "ame_lwwen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019126891601682591",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019040448447414371",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ame_lwwen: 健康的恋爱是什么，谁谈过。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2019126891601682591",
+        "created_at": "2026-02-04T19:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T20:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019126891601682591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1772653166850662400",
+              "start": 3,
+              "username": "ame_lwwen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019126891601682591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019040448447414371",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ame_lwwen: 健康的恋爱是什么，谁谈过。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772653166850662400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2019040448447414371",
+        "created_at": "2026-02-04T13:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T14:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019040448447414371"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019040448447414371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5141,
+          "like_count": 67,
+          "quote_count": 4,
+          "reply_count": 13,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "健康的恋爱是什么，谁谈过。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨神秘账号@Rotte2t00丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "Rotte2t00"
+              },
+              {
+                "end": 80,
+                "start": 65,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 95,
+                "start": 87,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3199,
+          "following_count": 199,
+          "like_count": 3169,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 1414
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-26T15:53:55.000Z",
+        "description": "喜欢草坪、阳光，阅读和睡眠。 https://t.co/lsVmfne3gq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/88sensei",
+                "end": 38,
+                "expanded_url": "https://ngl.link/88sensei",
+                "start": 15,
+                "url": "https://t.co/lsVmfne3gq"
+              }
+            ]
+          }
+        },
+        "id": "1772653166850662400",
+        "location": "Somewhere we could stay",
+        "name": "荔文",
+        "pinned_tweet_id": "1818197670655099164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772658895015784448/tkQ9SLa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1316,
+          "following_count": 199,
+          "like_count": 13001,
+          "listed_count": 4,
+          "media_count": 591,
+          "tweet_count": 4573
+        },
+        "username": "ame_lwwen",
+        "verified": false
+      }
+    ]
+  }
+}

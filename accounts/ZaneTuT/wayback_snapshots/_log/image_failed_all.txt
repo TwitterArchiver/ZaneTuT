@@ -216,7 +216,6 @@ https://pbs.twimg.com/media/G-9NFjSXcAA6NuO.jpg
 https://pbs.twimg.com/media/G-_mUPHXIAAJK9G.jpg
 https://pbs.twimg.com/media/G-_pLBeXIAAdcI6.jpg
 https://pbs.twimg.com/media/G-xNxLibQAE6QDr.jpg
-https://pbs.twimg.com/media/G-8mNGoXQAA1BAZ.jpg
 https://pbs.twimg.com/media/G-7aEUlWcAAPySC.jpg
 https://pbs.twimg.com/media/G_BPT2SXUAESnw7.jpg
 https://pbs.twimg.com/media/G_BYcKFWAAA4Dng.jpg
@@ -382,7 +381,6 @@ https://pbs.twimg.com/media/HAFjKH3a8AAYrG7.jpg
 https://pbs.twimg.com/media/G_nTQ7_boAADbkO.jpg
 https://pbs.twimg.com/media/HAKLR78bMAAqxSz.jpg
 https://pbs.twimg.com/media/HAPXWt1akAApALt.jpg
-https://pbs.twimg.com/media/HAQKaR0aQAELFYC.jpg
 https://pbs.twimg.com/media/HATEZZbaUAAYNH2.jpg
 https://pbs.twimg.com/media/HAUjZ3ubAAAjilw.jpg
 https://pbs.twimg.com/media/HAJjghlakAAAOF1.jpg
@@ -479,7 +477,6 @@ https://pbs.twimg.com/media/HBXSi4pbcAQeLSi.jpg
 https://pbs.twimg.com/media/HBXjitqbcAIKciV.jpg
 https://pbs.twimg.com/media/HA7-SsnbQAAZtKf.jpg
 https://pbs.twimg.com/media/HBMpbnbbkAAOqL7.jpg
-https://pbs.twimg.com/media/HBfWz5yXkAAbkRw.jpg
 https://pbs.twimg.com/media/HBZ_C9-bcAEWWJx.jpg
 https://pbs.twimg.com/media/HBe5RVFaIAANsq1.jpg
 https://pbs.twimg.com/media/HAkVghpakAAh1uv.jpg
@@ -494,7 +491,6 @@ https://pbs.twimg.com/media/HBtkMx-bgAAcvDw.jpg
 https://pbs.twimg.com/media/HBricBbbgA0O_Tj.jpg
 https://pbs.twimg.com/media/HBuNzzwbgAMEFNe.jpg
 https://pbs.twimg.com/media/HBnIEvNaEAA19ve.jpg
-https://pbs.twimg.com/media/HBqrph6W0AAgc1T.jpg
 https://pbs.twimg.com/media/HBwUXBXaMAAu15W.jpg
 https://pbs.twimg.com/media/HBvHULUa4AAamY9.jpg
 https://pbs.twimg.com/media/HBorvkJXAAEUQn2.jpg
@@ -535,7 +531,6 @@ https://pbs.twimg.com/media/HCFNh8wbgAA6JKR.jpg
 https://pbs.twimg.com/media/HB-xujDbwAA9wMd.jpg
 https://pbs.twimg.com/media/HCLIXF6bkAAhWHb.jpg
 https://pbs.twimg.com/media/HCKRTaKW0AAQGyv.jpg
-https://pbs.twimg.com/media/HCKitAAbkAAnbDb.jpg
 https://pbs.twimg.com/media/HCBEvuPbAAAEfPE.jpg
 https://pbs.twimg.com/media/HCLN4kQaUAAEJON.jpg
 https://pbs.twimg.com/media/HCTjzgwacAAhzms.jpg
@@ -918,3 +913,8 @@ https://pbs.twimg.com/media/HMxrT4zbUAAIFgT.jpg
 https://pbs.twimg.com/media/HGVF6BdbEAAhxfi.jpg
 https://pbs.twimg.com/media/HM_hQCsbcAAuJmp.jpg
 https://pbs.twimg.com/media/HM_hQErasAA0iK8.jpg
+https://pbs.twimg.com/media/HOjuUyMasAA84Pj.jpg
+https://pbs.twimg.com/media/HPARxXfbwAA7maW.jpg
+https://pbs.twimg.com/media/HPAgZ0LasAA4Weq.jpg
+https://pbs.twimg.com/media/HO_2d_WbUAAe-60.jpg
+https://pbs.twimg.com/media/HQJxv3sboAAeBjH.jpg

@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2082903597004861440"
+      ],
+      "media_source_tweet_id": [
+        "2083514618530721935"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2084503051625545888",
+    "created_at": "2026-08-04T04:53:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T05:53:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084503051625545888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1754069930260172800",
+          "start": 3,
+          "username": "bebekhermes"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8uo87SQWTp",
+          "end": 94,
+          "expanded_url": "https://x.com/2joo_E_89/status/2083514618530721935/video/1",
+          "media_key": "13_2082903597004861440",
+          "start": 71,
+          "url": "https://t.co/8uo87SQWTp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084503051625545888",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3060
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083803472634458613",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bebekhermes: WKWKWOWKWO seru banget ngerjain orang sagapung begini https://t.co/8uo87SQWTp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24933,
+        "height": 1280,
+        "media_key": "13_2082903597004861440",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082903597004861440/img/qOkfjbpbz9tHJNeW.jpg",
+        "public_metrics": {
+          "view_count": 11081721
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082903597004861440/vid/avc1/320x568/vLe9Jy-1l-bBf7ot.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082903597004861440/vid/avc1/480x852/OE2r9ItzSzYIkHNF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082903597004861440/vid/avc1/720x1280/dmnp22YJghqKce7H.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082903597004861440/pl/gFKYq8Pg5zF4g0E4.m3u8?v=1f0"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082903597004861440"
+          ]
+        },
+        "author_id": "2045755936191778816",
+        "conversation_id": "2083514618530721935",
+        "created_at": "2026-08-01T11:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083514618530721935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zuTtpQ4HGo",
+              "end": 31,
+              "expanded_url": "https://x.com/2joo_E_89/status/2083514618530721935/video/1",
+              "media_key": "13_2082903597004861440",
+              "start": 8,
+              "url": "https://t.co/zuTtpQ4HGo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083514618530721935",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 48455,
+          "impression_count": 19816358,
+          "like_count": 148818,
+          "quote_count": 8208,
+          "reply_count": 22,
+          "retweet_count": 16765
+        },
+        "reply_settings": "following",
+        "text": "집에보내줘시발 https://t.co/zuTtpQ4HGo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082903597004861440"
+          ],
+          "media_source_tweet_id": [
+            "2083514618530721935"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084503051625545888",
+        "created_at": "2026-08-04T04:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T05:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084503051625545888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1754069930260172800",
+              "start": 3,
+              "username": "bebekhermes"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8uo87SQWTp",
+              "end": 94,
+              "expanded_url": "https://x.com/2joo_E_89/status/2083514618530721935/video/1",
+              "media_key": "13_2082903597004861440",
+              "start": 71,
+              "url": "https://t.co/8uo87SQWTp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084503051625545888",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3060
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083803472634458613",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bebekhermes: WKWKWOWKWO seru banget ngerjain orang sagapung begini https://t.co/8uo87SQWTp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082903597004861440"
+          ],
+          "media_source_tweet_id": [
+            "2083514618530721935"
+          ]
+        },
+        "author_id": "1754069930260172800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083803472634458613",
+        "created_at": "2026-08-02T06:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083803472634458613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8uo87SQWTp",
+              "end": 77,
+              "expanded_url": "https://x.com/2joo_E_89/status/2083514618530721935/video/1",
+              "media_key": "13_2082903597004861440",
+              "start": 54,
+              "url": "https://t.co/8uo87SQWTp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083803472634458613",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16864,
+          "impression_count": 3312379,
+          "like_count": 55097,
+          "quote_count": 1081,
+          "reply_count": 758,
+          "retweet_count": 3060
+        },
+        "reply_settings": "everyone",
+        "text": "WKWKWOWKWO seru banget ngerjain orang sagapung begini https://t.co/8uo87SQWTp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "互fo免🚪丨💗算卦找@kill_this_hate 不准你打我丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 57,
+                "start": 47,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2082733912485499321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8408,
+          "following_count": 265,
+          "like_count": 6162,
+          "listed_count": 5,
+          "media_count": 35,
+          "tweet_count": 2679
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-04T09:10:42.000Z",
+        "description": "Tuhan permudah.",
+        "id": "1754069930260172800",
+        "name": "annie 𓅮",
+        "pinned_tweet_id": "2075495263373074446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061412707593805824/-CwLGZ6z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8335,
+          "following_count": 2948,
+          "like_count": 13264,
+          "listed_count": 7,
+          "media_count": 720,
+          "tweet_count": 27430
+        },
+        "url": "",
+        "username": "bebekhermes",
+        "verified": true
+      }
+    ]
+  }
+}

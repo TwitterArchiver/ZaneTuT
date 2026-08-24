@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2090359489367310547",
+    "created_at": "2026-08-20T08:45:13.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T09:45:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090359489367310547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1997985969958699008",
+          "start": 3,
+          "username": "ZaneTuT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "deti.love/?invite=FLQXH",
+          "end": 129,
+          "expanded_url": "https://deti.love/?invite=FLQXH",
+          "start": 106,
+          "status": 200,
+          "unwound_url": "https://deti.love/?invite=FLQXH",
+          "url": "https://t.co/4gKBsEMp7X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090359489367310547",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090359149070823729",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZaneTuT: 一个忠告：现实里的男人，他的话听七分就好；DirtyAI里的男人可以多听三分。毕竟年上、年下、温柔的、疯的，喜欢哪种就捏哪种。身份、关系和XP都是我亲手设的，真要发疯，也得按我的选项疯👉https://t.co/4gKBsEMp7X 这个女性向AI互动…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 219,
+        "media_key": "3_2090359129483403264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJyjZXaYAAkdSD.jpg",
+        "width": 477
+      },
+      {
+        "height": 1271,
+        "media_key": "3_2090359129487605760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJyjZYagAAMW46.jpg",
+        "width": 473
+      },
+      {
+        "height": 232,
+        "media_key": "3_2090359129491853313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJyjZZbUAE7jFE.jpg",
+        "width": 472
+      },
+      {
+        "height": 1147,
+        "media_key": "3_2090359129542197248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJyjZlbgAAC6r4.jpg",
+        "width": 875
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2090359489367310547",
+        "created_at": "2026-08-20T08:45:13.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T09:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090359489367310547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1997985969958699008",
+              "start": 3,
+              "username": "ZaneTuT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "deti.love/?invite=FLQXH",
+              "end": 129,
+              "expanded_url": "https://deti.love/?invite=FLQXH",
+              "start": 106,
+              "status": 200,
+              "unwound_url": "https://deti.love/?invite=FLQXH",
+              "url": "https://t.co/4gKBsEMp7X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090359489367310547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090359149070823729",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZaneTuT: 一个忠告：现实里的男人，他的话听七分就好；DirtyAI里的男人可以多听三分。毕竟年上、年下、温柔的、疯的，喜欢哪种就捏哪种。身份、关系和XP都是我亲手设的，真要发疯，也得按我的选项疯👉https://t.co/4gKBsEMp7X 这个女性向AI互动…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090359129483403264",
+            "3_2090359129487605760",
+            "3_2090359129491853313",
+            "3_2090359129542197248"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090359149070823729",
+        "created_at": "2026-08-20T08:43:52.000Z",
+        "display_text_range": [
+          0,
+          154
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T09:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090359149070823729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "deti.love/?invite=FLQXH",
+              "end": 116,
+              "expanded_url": "https://deti.love/?invite=FLQXH",
+              "start": 93,
+              "status": 200,
+              "unwound_url": "https://deti.love/?invite=FLQXH",
+              "url": "https://t.co/4gKBsEMp7X"
+            },
+            {
+              "display_url": "pic.x.com/DcpHj9fTLB",
+              "end": 178,
+              "expanded_url": "https://x.com/ZaneTuT/status/2090359149070823729/photo/1",
+              "media_key": "3_2090359129483403264",
+              "start": 155,
+              "url": "https://t.co/DcpHj9fTLB"
+            },
+            {
+              "display_url": "pic.x.com/DcpHj9fTLB",
+              "end": 178,
+              "expanded_url": "https://x.com/ZaneTuT/status/2090359149070823729/photo/1",
+              "media_key": "3_2090359129487605760",
+              "start": 155,
+              "url": "https://t.co/DcpHj9fTLB"
+            },
+            {
+              "display_url": "pic.x.com/DcpHj9fTLB",
+              "end": 178,
+              "expanded_url": "https://x.com/ZaneTuT/status/2090359149070823729/photo/1",
+              "media_key": "3_2090359129491853313",
+              "start": 155,
+              "url": "https://t.co/DcpHj9fTLB"
+            },
+            {
+              "display_url": "pic.x.com/DcpHj9fTLB",
+              "end": 178,
+              "expanded_url": "https://x.com/ZaneTuT/status/2090359149070823729/photo/1",
+              "media_key": "3_2090359129542197248",
+              "start": 155,
+              "url": "https://t.co/DcpHj9fTLB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090359149070823729",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090359129483403264"
+          },
+          {
+            "media_key": "3_2090359129487605760"
+          },
+          {
+            "media_key": "3_2090359129491853313"
+          },
+          {
+            "media_key": "3_2090359129542197248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "一个忠告：现实里的男人，他的话听七分就好；DirtyAI里的男人可以多听三分。毕竟年上、年下、温柔的、疯的，喜欢哪种就捏哪种。身份、关系和XP都是我亲手设的，真要发疯，也得按我的选项疯👉https://t.co/4gKBsEMp7X 这个女性向AI互动小说网现在已经变成我们的XP菜单了，想玩什么先进去点菜～ https://t.co/DcpHj9fTLB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "互fo免🚪丨💗算卦找@kill_this_hate 不准你打我丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 57,
+                "start": 47,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "is_identity_verified": false,
+        "location": "🚪绿",
+        "most_recent_tweet_id": "2090359489367310547",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2082733912485499321",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1997985969958699008/1768111720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8347,
+          "following_count": 260,
+          "like_count": 6230,
+          "listed_count": 5,
+          "media_count": 28,
+          "tweet_count": 2687
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

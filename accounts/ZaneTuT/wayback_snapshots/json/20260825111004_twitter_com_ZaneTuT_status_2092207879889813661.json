@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2091264907199361024"
+      ],
+      "media_source_tweet_id": [
+        "2091264974513643748"
+      ]
+    },
+    "author_id": "1997985969958699008",
+    "conversation_id": "2092207879889813661",
+    "created_at": "2026-08-25T11:10:04.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T12:10:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092207879889813661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1817959860249706497",
+          "start": 3,
+          "username": "jnchn115125"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TxMMHqypYE",
+          "end": 51,
+          "expanded_url": "https://x.com/jnchn115125/status/2091264974513643748/video/1",
+          "media_key": "13_2091264907199361024",
+          "start": 28,
+          "url": "https://t.co/TxMMHqypYE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092207879889813661",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2091264907199361024"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 780
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091264974513643748",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jnchn115125: 往后五十年没人能绷住 https://t.co/TxMMHqypYE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 55867,
+        "height": 640,
+        "media_key": "13_2091264907199361024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091264907199361024/img/nF-vQQNIgx295zFi.jpg",
+        "public_metrics": {
+          "view_count": 786580
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091264907199361024/vid/avc1/320x552/UZ7q1TP1uanKmU5D.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091264907199361024/vid/avc1/370x640/HZUX1ZAjHTSttgGN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091264907199361024/pl/6UiRS2ooV7YAjyDR.m3u8?v=567"
+          }
+        ],
+        "width": 370
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091264907199361024"
+          ],
+          "media_source_tweet_id": [
+            "2091264974513643748"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2092207879889813661",
+        "created_at": "2026-08-25T11:10:04.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T12:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092207879889813661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1817959860249706497",
+              "start": 3,
+              "username": "jnchn115125"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TxMMHqypYE",
+              "end": 51,
+              "expanded_url": "https://x.com/jnchn115125/status/2091264974513643748/video/1",
+              "media_key": "13_2091264907199361024",
+              "start": 28,
+              "url": "https://t.co/TxMMHqypYE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092207879889813661",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2091264907199361024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 780
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091264974513643748",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jnchn115125: 往后五十年没人能绷住 https://t.co/TxMMHqypYE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091264907199361024"
+          ]
+        },
+        "author_id": "1817959860249706497",
+        "conversation_id": "2091264974513643748",
+        "created_at": "2026-08-22T20:43:18.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T21:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091264974513643748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TxMMHqypYE",
+              "end": 34,
+              "expanded_url": "https://x.com/jnchn115125/status/2091264974513643748/video/1",
+              "media_key": "13_2091264907199361024",
+              "start": 11,
+              "url": "https://t.co/TxMMHqypYE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091264974513643748",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2091264907199361024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3781,
+          "impression_count": 1143122,
+          "like_count": 11246,
+          "quote_count": 136,
+          "reply_count": 1089,
+          "retweet_count": 780
+        },
+        "reply_settings": "everyone",
+        "text": "往后五十年没人能绷住 https://t.co/TxMMHqypYE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "互fo免🚪丨💗算卦找@kill_this_hate 不准你打我丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 57,
+                "start": 47,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "is_identity_verified": false,
+        "location": "🚪绿",
+        "most_recent_tweet_id": "2092207879889813661",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2082733912485499321",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1997985969958699008/1768111720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8420,
+          "following_count": 262,
+          "like_count": 6235,
+          "listed_count": 5,
+          "media_count": 29,
+          "tweet_count": 2692
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-29T16:26:38.000Z",
+        "description": "特此声明：此账号在网络上所有的攻击性和冒犯性语言文字均非本人发布，是我家猫发的，它四个爪子，打字比我快 \n邪恶二号机：@VanillaArana",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "VanillaArana"
+              }
+            ]
+          }
+        },
+        "id": "1817959860249706497",
+        "is_identity_verified": false,
+        "location": "赫尔·沙雷姆兹罗特",
+        "most_recent_tweet_id": "2092167192100122748",
+        "name": "Ayanami",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1817959860249706497/1742279575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073593811109040128/RMK1J6zC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 607,
+          "like_count": 987,
+          "listed_count": 2,
+          "media_count": 474,
+          "tweet_count": 2825
+        },
+        "url": "",
+        "username": "jnchn115125",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

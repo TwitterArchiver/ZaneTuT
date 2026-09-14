@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2092534179078795683",
+    "created_at": "2026-08-28T00:52:49.000Z",
+    "display_text_range": [
+      14,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T01:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093139707379245312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1898499345374171136",
+          "start": 0,
+          "username": "Christi_eeee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093139707379245312",
+    "in_reply_to_user_id": "1898499345374171136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092534179078795683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Christi_eeee 我有南京病。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2092534179078795683",
+        "created_at": "2026-08-28T00:52:49.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T01:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093139707379245312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1898499345374171136",
+              "start": 0,
+              "username": "Christi_eeee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093139707379245312",
+        "in_reply_to_user_id": "1898499345374171136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092534179078795683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Christi_eeee 我有南京病。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898499345374171136",
+        "conversation_id": "2092534179078795683",
+        "created_at": "2026-08-26T08:46:40.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T09:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092534179078795683"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092534179078795683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "国庆旅游又要去江浙沪那边 本人完全江浙沪病吧。。。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "互fo免🚪丨💗算卦找@kill_this_hate 不准你打我丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 57,
+                "start": 47,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "is_identity_verified": false,
+        "location": "🚪绿",
+        "most_recent_tweet_id": "2093139707379245312",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2082733912485499321",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1997985969958699008/1768111720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8403,
+          "following_count": 260,
+          "like_count": 6242,
+          "listed_count": 5,
+          "media_count": 28,
+          "tweet_count": 2692
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-08T22:21:40.000Z",
+        "description": "别管那么多",
+        "id": "1898499345374171136",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093000824695968080",
+        "name": "芋泥泪先流",
+        "pinned_tweet_id": "2030188148807098538",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898499345374171136/1759551053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966345475021496320/YBb3ZgCK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 71,
+          "like_count": 1642,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1144
+        },
+        "url": "",
+        "username": "Christi_eeee",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997985969958699008",
+    "conversation_id": "2102324916083175749",
+    "created_at": "2026-09-22T10:28:07.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T11:28:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102344182862110897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1986054801864744960",
+          "start": 0,
+          "username": "LZ_NAZ397"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102344182862110897",
+    "in_reply_to_user_id": "1986054801864744960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102324916083175749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LZ_NAZ397 叔叔您？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10063,
+        "height": 1280,
+        "media_key": "13_2102324842800263168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102324842800263168/img/8s764bLLnDx-9U1-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102324842800263168/vid/avc1/320x568/cG6mgN6zoyldLasI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102324842800263168/vid/avc1/480x852/FvVfEtsiANdSTzxw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102324842800263168/vid/avc1/720x1280/rlcS2Red3cZxbptT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2102324842800263168/pl/crJFQxvoiyfA1Qf6.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2102324916083175749",
+        "created_at": "2026-09-22T10:28:07.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T11:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102344182862110897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1986054801864744960",
+              "start": 0,
+              "username": "LZ_NAZ397"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102344182862110897",
+        "in_reply_to_user_id": "1986054801864744960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102324916083175749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LZ_NAZ397 叔叔您？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102324842800263168"
+          ]
+        },
+        "author_id": "1986054801864744960",
+        "conversation_id": "2102324916083175749",
+        "created_at": "2026-09-22T09:11:33.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T10:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102324916083175749"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "红毛"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "染吊"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G9a9IwmSQ5",
+              "end": 36,
+              "expanded_url": "https://x.com/LZ_NAZ397/status/2102324916083175749/video/1",
+              "media_key": "13_2102324842800263168",
+              "start": 13,
+              "url": "https://t.co/G9a9IwmSQ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102324916083175749",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2102324842800263168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#红毛 #染吊 这期神了 https://t.co/G9a9IwmSQ5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "互fo免🚪丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 12,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 31,
+                "start": 21,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "is_identity_verified": false,
+        "location": "🚪绿",
+        "most_recent_tweet_id": "2102344182862110897",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2082733912485499321",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1997985969958699008/1768111720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8584,
+          "following_count": 258,
+          "like_count": 6211,
+          "listed_count": 5,
+          "media_count": 28,
+          "tweet_count": 2700
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-05T12:56:05.000Z",
+        "description": "我是纳兹啊。叔叔啊。啊。\n已复活 IP成都 ✌️",
+        "id": "1986054801864744960",
+        "is_identity_verified": false,
+        "location": "刷漆者酥服",
+        "most_recent_tweet_id": "2102324916083175749",
+        "name": "纳兹叔叔",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986054801864744960/1774957674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042459725585903616/YFcrhwCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 35,
+          "like_count": 3286,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 956
+        },
+        "url": "",
+        "username": "LZ_NAZ397",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
